@@ -1,0 +1,53 @@
+file_name	collection_name	collection_id	selectable	custom_coverage	open_access	collection_url	record_count
+degruyter_global_CJP21_2021-07-09.txt	Complete Journal Package 2021	CJP21	yes	no	no		347
+degruyter_global_CJPE21_2021-07-09.txt	Complete Journal Package 2021 in English	CJPE21	yes	no	no		213
+degruyter_global_CJPHSS21_2021-07-09.txt	Complete Journal Package HSS 2021	CJPHSS21	yes	no	no		263
+degruyter_global_CJPHSSE21_2021-07-09.txt	Complete Journal Package HSS 2021 in English	CJPHSSE21	yes	no	no		135
+degruyter_global_CJPSTM21_2021-07-09.txt	Complete Journal Package STM 2021	CJPSTM21	yes	no	no		84
+degruyter_global_CJPSTME21_2021-07-09.txt	Complete Journal Package STM 2021 in English	CJPSTME21	yes	no	no		78
+degruyter_global_JABCG14_2021-07-09.txt	Journal Archive Package Biology, Chemistry, Geosciences 1826-2014	JABCG14	yes	no	no		30
+degruyter_global_JABCG19_2021-07-09.txt	Journal Archive Package Biology, Chemistry, Geosciences 1826-2019	JABCG19	yes	no	no		19
+degruyter_global_JACH14_2021-07-09.txt	Journal Archive Package Classical Studies 1826-2014	JACH14	yes	no	no		28
+degruyter_global_JACH19_2021-07-09.txt	Journal Archive Package Classical Studies, History 1826-2019	JACH19	yes	no	no		29
+degruyter_global_JACP19_2021-07-09.txt	Journal Archive Complete Package 1826-2019	JACP19	yes	no	no		323
+degruyter_global_JACPE19_2021-07-09.txt	Journal Archive Complete Package English 1826-2019	JACPE19	yes	no	no		186
+degruyter_global_JALAW14_2021-07-09.txt	Journal Archive Package Law 1826-2014	JALAW14	yes	no	no		41
+degruyter_global_JALAW19_2021-07-09.txt	Journal Archive Package Law 1826-2019	JALAW19	yes	no	no		43
+degruyter_global_JALIS14_2021-07-09.txt	Journal Archive Package Library and Information Science, Library Reference 1826-2014	JALIS14	yes	no	no		11
+degruyter_global_JALIS19_2021-07-09.txt	Journal Archive Package Library and Information Science, Library Reference 1826-2019	JALIS19	yes	no	no		8
+degruyter_global_JALL14_2021-07-09.txt	Journal Archive Package Linguistics, Literature 1826-2014	JALL14	yes	no	no		83
+degruyter_global_JALL19_2021-07-09.txt	Journal Archive Package Linguistics, Literature 1826-2019	JALL19	yes	no	no		82
+degruyter_global_JAMED14_2021-07-09.txt	Journal Archive Package Medicine 1826-2014	JAMED14	yes	no	no		23
+degruyter_global_JAMED19_2021-07-09.txt	Journal Archive Package Medicine 1826-2019	JAMED19	yes	no	no		20
+degruyter_global_JAMPE14_2021-07-09.txt	Journal Archive Package Mathematics, Physics, Engineering 1826-2014	JAMPE14	yes	no	no		49
+degruyter_global_JAMPE19_2021-07-09.txt	Journal Archive Package Mathematics, Physics, Engineering 1826-2019	JAMPE19	yes	no	no		36
+degruyter_global_JAPCL14_2021-07-09.txt	Complete Journal Archive Package 1826-2014	JAPCL14	yes	no	no		339
+degruyter_global_JAPCLE14_2021-07-09.txt	Complete Journal Archive Package in English 1826-2014	JAPCLE14	yes	no	no		215
+degruyter_global_JAPES14_2021-07-09.txt	Journal Archive Package Politics, Economics, Sociology 1826-2014	JAPES14	yes	no	no		38
+degruyter_global_JAPES19_2021-07-09.txt	Journal Archive Package Politics, Economics, Sociology 1826-2019	JAPES19	yes	no	no		47
+degruyter_global_JAPTJ14_2021-07-09.txt	Journal Archive Package Philosophy, Theology, Judaism, Religion 1826-2014	JAPTJ14	yes	no	no		36
+degruyter_global_JAPTJ19_2021-07-09.txt	Journal Archive Package Philosophy, Theology, Judaism, Religion 1826-2019	JAPTJ19	yes	no	no		39
+degruyter_global_JASSH14_2021-07-09.txt	Complete Journal Archive SSH 1826-2014	JASSH14	yes	no	no		237
+degruyter_global_JASSH19_2021-07-09.txt	Complete Journal Archive SSH 1826-2019	JASSH19	yes	no	no		250
+degruyter_global_JASSHE14_2021-07-09.txt	Journal Archive Package SSH in English 1826-2014	JASSHE14	yes	no	no		123
+degruyter_global_JASSHE19_2021-07-09.txt	Journal Archive Package SSH in English 1826-2019	JASSHE19	yes	no	no		121
+degruyter_global_JASTM14_2021-07-09.txt	Complete Journal Archive STM 1826-2014	JASTM14	yes	no	no		102
+degruyter_global_JASTM19_2021-07-09.txt	Complete Journal Archive STM 1826-2019	JASTM19	yes	no	no		74
+degruyter_global_JASTME14_2021-07-09.txt	Journal Archive Package STM in English 1826-2014	JASTME14	yes	no	no		92
+degruyter_global_JASTME19_2021-07-09.txt	Journal Archive Package STM in English 1826-2019	JASTME19	yes	no	no		65
+degruyter_global_JPBCG21_2021-07-09.txt	Journal Package Biology, Chemistry, Geosciences 2021	JPBCG21	yes	no	no		24
+degruyter_global_JPCH21_2021-07-09.txt	Journal Package Classical Studies, History 2021	JPCH21	yes	no	no		33
+degruyter_global_JPLAW21_2021-07-09.txt	Journal Package Law 2021	JPLAW21	yes	no	no		45
+degruyter_global_JPLIS21_2021-07-09.txt	Journal Package Library and Information Science, Book Studies 2021	JPLIS21	yes	no	no		9
+degruyter_global_JPLL21_2021-07-09.txt	Journal Package Linguistics, Literature 2021	JPLL21	yes	no	no		84
+degruyter_global_JPMED21_2021-07-09.txt	Journal Package Medicine 2021	JPMED21	yes	no	no		21
+degruyter_global_JPMPE21_2021-07-09.txt	Journal Package Mathematics, Physics, Engineering 2021	JPMPE21	yes	no	no		39
+degruyter_global_JPPES21_2021-07-09.txt	Journal Package Politics, Economics, Sociology 2021	JPPES21	yes	no	no		50
+degruyter_global_JPPTJ21_2021-07-09.txt	Journal Package Philosophy, Theology, Judaism, Religion 2021	JPPTJ21	yes	no	no		42
+degruyter_global_OCUL2021_2021-07-09.txt	OCUL2021	OCUL2021	yes	no	no		146
+degruyter_global_RN2021_2021-07-09.txt	Research Now 2021	RN2021	yes	no	no		58
+degruyter_global_RNBDG2021_2021-07-09.txt	Research Now by De Gruyter 2021	RNBDG2021	yes	no	no		302
+degruyter_global_RNBDGLAW2021_2021-07-09.txt	Research Now by De Gruyter Law 2021	RNBDGLAW2021	yes	no	no		20
+degruyter_global_RNBDGMLS2021_2021-07-09.txt	Research Now by De Gruyter Medical & Life Sciences 2021	RNBDGMLS2021	yes	no	no		34
+degruyter_global_journals_2021-07-09.txt	De Gruyter journals	journals	yes	no	no		1045
+degruyter_global_oaejournals_2021-07-09.txt	De Gruyter Open Access journals	oaejournals	yes	no	yes		621

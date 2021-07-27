@@ -1,0 +1,238 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE
+ABI Technik	0720-6763	2191-4664	1996-03-01	16	März	2014-12-20	34	3-4	https://www.degruyter.com/openurl?genre=journal&issn=2191-4664		2191-4664		fulltext		De Gruyter	serial								P
+Accounting, Economics, and Law: A Convivium	2194-6051	2152-2820	2011-06-20	1	1	2014-11-10	4	3	https://www.degruyter.com/openurl?genre=journal&issn=2152-2820		2152-2820		fulltext		De Gruyter	serial								P
+Altorientalische Forschungen	0232-8461	2196-6761	1975-06-20		3	2014-12-15	41	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-6761		2196-6761		fulltext		De Gruyter (A)	serial								P
+Analyse & Kritik	0171-5860	2365-9858	1979-05-20	1	1	2014-11-20	36	2	https://www.degruyter.com/openurl?genre=journal&issn=2365-9858		2365-9858		fulltext		De Gruyter Oldenbourg	serial								P
+Angermion 	1438-2091	1868-9426	2010-11-19	3	1	2014-11-15		7	https://www.degruyter.com/openurl?genre=journal&issn=1868-9426		1868-9426		fulltext		De Gruyter	serial								P
+Anglia	0340-5222	1865-8938	1878-01-01	1	1	2014-12-20	132	4	https://www.degruyter.com/openurl?genre=journal&issn=1865-8938		1865-8938		fulltext		De Gruyter	serial								P
+Antike und Abendland	0003-5696	1613-0421	1944-01-01		1	2014-11-15		60	https://www.degruyter.com/openurl?genre=journal&issn=1613-0421		1613-0421		fulltext		De Gruyter	serial								P
+Apeiron	0003-6390	2156-7093	1967-03-01	1	März	2014-12-15	47	4	https://www.degruyter.com/openurl?genre=journal&issn=2156-7093		2156-7093		fulltext		De Gruyter	serial								P
+Applied Linguistics Review	1868-6303	1868-6311	2010-05-26	1	1	2014-10-26	5	2	https://www.degruyter.com/openurl?genre=journal&issn=1868-6311		1868-6311		fulltext		De Gruyter Mouton	serial								P
+Arbitrium	0723-2977	1865-8849	1985-01-01	3	1	2014-09-20	32	3	https://www.degruyter.com/openurl?genre=journal&issn=1865-8849		1865-8849		fulltext		De Gruyter	serial								P
+arcadia	0003-7982	1613-0642	1966-01-01	1	1	2014-11-28	49	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-0642		1613-0642		fulltext		De Gruyter	serial								P
+Archiv für Geschichte der Philosophie	0003-9101	1613-0650	1888-01-01	1	1	2014-12-15	96	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-0650		1613-0650		fulltext		De Gruyter	serial								P
+Archiv für Papyrusforschung und verwandte Gebiete	0066-6459	1867-1551	1901-01-01	1	1	2014-12-20	60	2	https://www.degruyter.com/openurl?genre=journal&issn=1867-1551		1867-1551		fulltext		De Gruyter	serial								P
+Archiv für Reformationsgeschichte - Archive for Reformation History	0003-9381	2198-0489	1904-06-15	1	1	2014-06-15	105	1	https://www.degruyter.com/openurl?genre=journal&issn=2198-0489		2198-0489		fulltext		Gütersloher Verlagshaus	serial								P
+Archiv für Religionsgeschichte	1436-3038	1868-8888	1999-01-01		1	2014-11-15		16	https://www.degruyter.com/openurl?genre=journal&issn=1868-8888		1868-8888		fulltext		De Gruyter	serial								P
+Aschkenas	1016-4987	1865-9438	1992-12-20	2	1	2014-12-20	24	2	https://www.degruyter.com/openurl?genre=journal&issn=1865-9438		1865-9438		fulltext		De Gruyter	serial								P
+Asian Journal of Law and Economics	2194-6086	2154-4611	2010-06-20	1	1	2014-06-20	5	1-2	https://www.degruyter.com/openurl?genre=journal&issn=2154-4611		2154-4611		fulltext		De Gruyter	serial								P
+Asia-Pacific Journal of Risk and Insurance	1793-2157	2153-3792	2005-06-20	1	1	2014-07-31	8	2	https://www.degruyter.com/openurl?genre=journal&issn=2153-3792		2153-3792		fulltext		De Gruyter	serial								P
+Asiatische Studien - Études Asiatiques	0004-4717	2235-5871	2014-02-28	68	1	2014-11-28	68	4	https://www.degruyter.com/openurl?genre=journal&issn=2235-5871		2235-5871		fulltext		De Gruyter	serial								P
+Basic Income Studies	2194-6094	1932-0183	2006-06-20	1	1	2014-06-30	9	1-2	https://www.degruyter.com/openurl?genre=journal&issn=1932-0183		1932-0183		fulltext		De Gruyter	serial								P
+Beiträge zur Geschichte der deutschen Sprache und Literatur	0005-8076	1865-9373	1874-01-01	1	Jahresband	2014-12-20	136	4	https://www.degruyter.com/openurl?genre=journal&issn=1865-9373		1865-9373		fulltext		De Gruyter	serial								P
+Bibliothek Forschung und Praxis	0341-4183	1865-7648	1977-01-01	1	1	2014-12-15	38	3	https://www.degruyter.com/openurl?genre=journal&issn=1865-7648		1865-7648		fulltext		De Gruyter	serial								P
+Bibliotheksdienst	0006-1972	2194-9646	1697-09-01	1	6	2014-11-26	48	12	https://www.degruyter.com/openurl?genre=journal&issn=2194-9646		2194-9646		fulltext		De Gruyter Saur	serial								P
+Byzantinische Zeitschrift	0007-7704	1868-9027	1892-01-01	1	1	2014-12-20	107	2	https://www.degruyter.com/openurl?genre=journal&issn=1868-9027		1868-9027		fulltext		De Gruyter	serial								P
+Chinese Archaeology	2160-5025	2160-5068	2001-10-10		1	2014-11-20		14	https://www.degruyter.com/openurl?genre=journal&issn=2160-5068		2160-5068		fulltext		De Gruyter	serial								P
+Chinese as a Second Language Research	2193-2263	2193-2271	2012-06-25	1	1	2014-10-15	3	2	https://www.degruyter.com/openurl?genre=journal&issn=2193-2271		2193-2271		fulltext		De Gruyter Mouton	serial								P
+Chinese Journal of Applied Linguistics	2192-9505	2192-9513	2011-06-15	34	1	2014-11-28	37	4	https://www.degruyter.com/openurl?genre=journal&issn=2192-9513		2192-9513		fulltext		De Gruyter Mouton	serial								P
+Chinese Semiotic Studies	2198-9605	2198-9613	2009-06-20		1-1	2014-12-20	10	4	https://www.degruyter.com/openurl?genre=journal&issn=2198-9613		2198-9613		fulltext		De Gruyter Mouton	serial								P
+Cognitive Linguistics	0936-5907	1613-3641	1990-03-10	1	1	2014-12-12	25	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-3641		1613-3641		fulltext		De Gruyter Mouton	serial								P
+Cognitive Semiotics	1662-1425	2235-2066	2007-09-10	1	1	2014-09-27	7	2	https://www.degruyter.com/openurl?genre=journal&issn=2235-2066		2235-2066		fulltext		De Gruyter Mouton	serial								P
+Communications	0341-2059	1613-4087	1976-01-01	2	1	2014-11-21	39	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-4087		1613-4087		fulltext		De Gruyter Mouton	serial								P
+Computer Law Review International	1610-7608	2194-4164	2005-02-15	6	1	2014-12-15	15	6	https://www.degruyter.com/openurl?genre=journal&issn=2194-4164		2194-4164		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Computer und Recht	0179-1990	2194-4172	2005-01-15	21	1	2014-12-15	30	12	https://www.degruyter.com/openurl?genre=journal&issn=2194-4172		2194-4172		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Conceptus	0010-5155	2196-9523	2008-06-27	37	92	2014-12-31	43	103-104	https://www.degruyter.com/openurl?genre=journal&issn=2196-9523		2196-9523		fulltext		De Gruyter	serial								P
+Corpus Linguistics and Linguistic Theory	1613-7027	1613-7035	2005-05-20	1	1	2014-10-30	10	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-7035		1613-7035		fulltext		De Gruyter Mouton	serial								P
+Das Mittelalter	0949-0345	2196-6869	1996-06-15	1	1	2014-12-15	19	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-6869		2196-6869		fulltext		Akademie Verlag	serial								P
+Der Islam	0021-1818	1613-0928	1910-01-01	1	1	2014-10-20	91	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-0928		1613-0928		fulltext		De Gruyter	serial								P
+Deutsche Zeitschrift für Philosophie	0012-1045	2192-1482	1953-02-15	1	1	2014-12-15	62	6	https://www.degruyter.com/openurl?genre=journal&issn=2192-1482		2192-1482		fulltext		De Gruyter (A)	serial								P
+Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht	1439-1589	1612-7056	1991-01-01	1	1	2014-11-28	24	12	https://www.degruyter.com/openurl?genre=journal&issn=1612-7056		1612-7056		fulltext		De Gruyter	serial								P
+Deutsches Dante-Jahrbuch	0070-444X	2194-4059	1867-06-15		1	2014-10-30		89	https://www.degruyter.com/openurl?genre=journal&issn=2194-4059		2194-4059		fulltext		De Gruyter	serial								P
+Dialectologia et Geolinguistica	0942-4040	1867-0903	1993-01-01	1993	Jan	2014-11-21	22	1	https://www.degruyter.com/openurl?genre=journal&issn=1867-0903		1867-0903		fulltext		De Gruyter Mouton	serial								P
+editio	0931-3079	1865-9446	1988-01-01	2	2	2014-11-15		28	https://www.degruyter.com/openurl?genre=journal&issn=1865-9446		1865-9446		fulltext		De Gruyter	serial								P
+English and American Studies in German	0071-0490	1865-8946	1969-01-01		1969	2014-11-15		2014	https://www.degruyter.com/openurl?genre=journal&issn=1865-8946		1865-8946		fulltext		De Gruyter	serial								P
+Entrepreneurship Research Journal	2194-6175	2157-5665	2011-01-01	1	1	2014-10-20	4	4	https://www.degruyter.com/openurl?genre=journal&issn=2157-5665		2157-5665		fulltext		De Gruyter	serial								P
+Etruscan and Italic Studies	2566-9095	2566-9109	1994-06-20		1	2014-12-15	17	2	https://www.degruyter.com/openurl?genre=journal&issn=2566-9109		2566-9109		fulltext		De Gruyter	serial								P
+European Company and Financial Law Review	1613-2548	1613-2556	2004-03-01	1	1	2014-12-19	11	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-2556		1613-2556		fulltext		De Gruyter	serial								P
+European Journal of Applied Linguistics	2192-9521	2192-953X	2013-06-15	1	1	2014-11-15	2	2	https://www.degruyter.com/openurl?genre=journal&issn=2192-953X		2192-953X		fulltext		De Gruyter Mouton	serial								P
+European Journal of Scandinavian Studies	2191-9399	2191-9402	2010-10-20		2008/2010	2014-10-20	44	1	https://www.degruyter.com/openurl?genre=journal&issn=2191-9402		2191-9402		fulltext		De Gruyter	serial								P
+European Property Law Journal 	2190-8273	2190-8362	2011-11-20	1	1	2014-12-16	3	3	https://www.degruyter.com/openurl?genre=journal&issn=2190-8362		2190-8362		fulltext		De Gruyter	serial								P
+European Review of Contract Law	1614-9920	1614-9939	1967-02-01	1	Jan	2014-12-15	10	4	https://www.degruyter.com/openurl?genre=journal&issn=1614-9939		1614-9939		fulltext		De Gruyter	serial								P
+European Tort Law Yearbook 	2190-7773	2190-7781	2009-10-29		2009	2014-09-15		4	https://www.degruyter.com/openurl?genre=journal&issn=2190-7781		2190-7781		fulltext		De Gruyter	serial								P
+Evangelische Theologie	0014-3502	2198-0470	1934-04-16	1	2	2014-12-17	74	1	https://www.degruyter.com/openurl?genre=journal&issn=2198-0470		2198-0470		fulltext		Gütersloher Verlagshaus	serial								P
+Fabula	0014-6242	1613-0464	1958-01-01	1	1	2014-12-12	55	3-4	https://www.degruyter.com/openurl?genre=journal&issn=1613-0464		1613-0464		fulltext		De Gruyter	serial								P
+Feministische Studien	0723-5186	2365-9920	2001-05-20	19	1	2014-11-20	32	2	https://www.degruyter.com/openurl?genre=journal&issn=2365-9920		2365-9920		fulltext		De Gruyter	serial								P
+FinanzRundschau	2567-4765	2567-4897	2005-01-05	87	1	2014-12-20	96	24	https://www.degruyter.com/openurl?genre=journal&issn=2567-4897		2567-4897		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Folia Linguistica	0165-4004	1614-7308	1967-01-01	1	3-4	2014-12-19	48	2	https://www.degruyter.com/openurl?genre=journal&issn=1614-7308		1614-7308		fulltext		De Gruyter Mouton	serial								P
+Forum for Health Economics & Policy	2194-6191	1558-9544	1998-10-01	1	1	2014-06-30	17	2	https://www.degruyter.com/openurl?genre=journal&issn=1558-9544		1558-9544		fulltext		De Gruyter	serial								P
+Frühmittelalterliche Studien	0071-9706	1613-0812	1967-01-01	1	1967	2014-11-15		48	https://www.degruyter.com/openurl?genre=journal&issn=1613-0812		1613-0812		fulltext		De Gruyter	serial								P
+Germanistik	0016-8912	1865-9187	2007-12-01	48	1/2	2014-08-25	55	1-2	https://www.degruyter.com/openurl?genre=journal&issn=1865-9187		1865-9187		fulltext		De Gruyter	serial								P
+GesundheitsRecht	1610-1197	2194-4229	2005-01-15	2	1	2014-12-15	13	12	https://www.degruyter.com/openurl?genre=journal&issn=2194-4229		2194-4229		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Global Economy Journal	2194-5659	1553-5304	2000-03-01	1	1	2014-12-10	14	3-4	https://www.degruyter.com/openurl?genre=journal&issn=1553-5304		1553-5304		fulltext		De Gruyter	serial								P
+Global Jurist	2194-5675	1934-2640	2001-11-01	1	1	2014-01-01	14	1-3	https://www.degruyter.com/openurl?genre=journal&issn=1934-2640		1934-2640		fulltext		De Gruyter	serial								P
+Glottotheory 	1337-7892	2196-6907	2008-07-20	1	1	2014-12-15	5	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-6907		2196-6907		fulltext		De Gruyter (A)	serial								P
+Hegel-Jahrbuch	0073-1579	2192-5550	1999-06-15		1999	2014-06-15		2014	https://www.degruyter.com/openurl?genre=journal&issn=2192-5550		2192-5550		fulltext		Akademie Verlag	serial								P
+Historische Zeitschrift	0018-2613	2196-680X	1859-06-20	1-2	1	2014-12-15	298-299	299/3	https://www.degruyter.com/openurl?genre=journal&issn=2196-680X		2196-680X		fulltext		De Gruyter Oldenbourg	serial								P
+HUMOR	0933-1719	1613-3722	1988-01-01	1	1	2014-10-19	27	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-3722		1613-3722		fulltext		De Gruyter Mouton	serial								P
+Iberoromania	0019-0993	1865-9039	1969-01-01		1	2014-11-28		80	https://www.degruyter.com/openurl?genre=journal&issn=1865-9039		1865-9039		fulltext		De Gruyter	serial								P
+Indogermanische Forschungen	0019-7262	1613-0405	1892-01-01		1	2014-11-15		119	https://www.degruyter.com/openurl?genre=journal&issn=1613-0405		1613-0405		fulltext		De Gruyter	serial								P
+Information - Wissenschaft & Praxis	1434-4653	1619-4292	2012-02-20	63	1	2014-11-28	65	6	https://www.degruyter.com/openurl?genre=journal&issn=1619-4292		1619-4292		fulltext		De Gruyter Saur	serial								P
+Intercultural Pragmatics	1612-295X	1613-365X	2004-03-01	1	1	2014-11-21	11	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-365X		1613-365X		fulltext		De Gruyter Mouton	serial								P
+International African Bibliography	0020-5877	1865-9640	1971-01-01	1	1	2014-12-30	44	3-4	https://www.degruyter.com/openurl?genre=journal&issn=1865-9640		1865-9640		fulltext		De Gruyter	serial								P
+International Commentary on Evidence	2194-5691	1554-4567	1998-08-01	1	1	2014-11-01	12	1	https://www.degruyter.com/openurl?genre=journal&issn=1554-4567		1554-4567		fulltext		De Gruyter	serial								P
+International Journal of Practical Theology 	1430-6921	1612-9768	1997-01-01	1	1	2014-11-28	18	2	https://www.degruyter.com/openurl?genre=journal&issn=1612-9768		1612-9768		fulltext		De Gruyter	serial								P
+International Journal of the Sociology of Language	0165-2516	1613-3668	1974-01-01		1	2014-12-15		230	https://www.degruyter.com/openurl?genre=journal&issn=1613-3668		1613-3668		fulltext		De Gruyter Mouton	serial								P
+International Review of Applied Linguistics in Language Teaching	0019-042X	1613-4141	1963-01-01	1	Jan/Dez	2014-11-28	52	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-4141		1613-4141		fulltext		De Gruyter Mouton	serial								P
+International Yearbook of Futurism Studies	2192-0281	2192-029X	2011-11-30		1	2013-06-15		3	https://www.degruyter.com/openurl?genre=journal&issn=2192-029X		2192-029X		fulltext		De Gruyter	serial								P
+Internationales Archiv für Sozialgeschichte der deutschen Literatur	0340-4528	1865-9128	1976-01-01	1	1	2014-11-28	39	2	https://www.degruyter.com/openurl?genre=journal&issn=1865-9128		1865-9128		fulltext		De Gruyter	serial								P
+Internationales Handelsrecht	1617-5395	2193-9527	1999-03-24		3	2014-12-15	14	6	https://www.degruyter.com/openurl?genre=journal&issn=2193-9527		2193-9527		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Internationales Jahrbuch für philosophische Anthropologie	2192-4279	2192-4287	2008-12-15		1 (2007/08)	2014-06-15		4( 2013/14)	https://www.degruyter.com/openurl?genre=journal&issn=2192-4287		2192-4287		fulltext		De Gruyter (A)	serial								P
+Issues in Legal Scholarship	2194-5780	1539-8323	2001-06-01	1	1	2014-01-01	12	1	https://www.degruyter.com/openurl?genre=journal&issn=1539-8323		1539-8323		fulltext		De Gruyter	serial								P
+Jahrbuch der Göttinger Akademie der Wissenschaften	0373-9767	1868-9191	2008-10-20		1	2014-08-15		4	https://www.degruyter.com/openurl?genre=journal&issn=1868-9191		1868-9191		fulltext		De Gruyter	serial								P
+Jahrbuch der Juristischen Zeitgeschichte	1869-6899	1869-6902	2010-01-01		11	2014-11-15		15	https://www.degruyter.com/openurl?genre=journal&issn=1869-6902		1869-6902		fulltext		De Gruyter	serial								P
+Jahrbuch der Raabe-Gesellschaft	0075-2371	1865-8857	1960-01-01	1	1	2014-11-15		55	https://www.degruyter.com/openurl?genre=journal&issn=1865-8857		1865-8857		fulltext		De Gruyter	serial								P
+Jahrbuch für die Geschichte Mittel- und Ostdeutschlands	0075-2614	2191-9909	2009-01-01		1	2014-11-15		60	https://www.degruyter.com/openurl?genre=journal&issn=2191-9909		2191-9909		fulltext		De Gruyter	serial								P
+Jahrbuch für Germanistische Sprachgeschichte	1869-7038	1869-7046	2010-12-20		1	2014-11-15		5	https://www.degruyter.com/openurl?genre=journal&issn=1869-7046		1869-7046		fulltext		De Gruyter	serial								P
+Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook	0075-2800	2196-6842	1960-06-15	1	1	2014-12-15	55	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-6842		2196-6842		fulltext		Akademie Verlag	serial								P
+Jahrbuch für Wissenschaft und Ethik	1430-9017	1613-1142	1996-01-01		1	2014-11-15		19	https://www.degruyter.com/openurl?genre=journal&issn=1613-1142		1613-1142		fulltext		De Gruyter	serial								P
+Jahrbücher für Nationalökonomie und Statistik	0021-4027	2366-049X	1863-01-20	1	1	2014-12-20	234	6	https://www.degruyter.com/openurl?genre=journal&issn=2366-049X		2366-049X		fulltext		De Gruyter Oldenbourg	serial								P
+Journal der Juristischen Zeitgeschichte	1863-9984	1868-8810	2010-04-01	4	1	2014-09-20	8	3	https://www.degruyter.com/openurl?genre=journal&issn=1868-8810		1868-8810		fulltext		De Gruyter	serial								P
+Journal des Économistes et des Études Humaines	2194-5799	2153-1552	1990-01-01	1	1	2014-12-20	20	2	https://www.degruyter.com/openurl?genre=journal&issn=2153-1552		2153-1552		fulltext		De Gruyter	serial								P
+Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte	0943-7592	1612-9776	1994-01-01	1	1	2014-06-30	21	1-2	https://www.degruyter.com/openurl?genre=journal&issn=1612-9776		1612-9776		fulltext		De Gruyter	serial								P
+Journal of African Languages and Linguistics	0167-6164	1613-3811	1979-01-01	1	1	2014-12-12	35	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-3811		1613-3811		fulltext		De Gruyter Mouton	serial								P
+Journal of Ancient History	2324-8106	2324-8114	2013-05-20	1	1	2014-09-20	2	2	https://www.degruyter.com/openurl?genre=journal&issn=2324-8114		2324-8114		fulltext		De Gruyter	serial								P
+Journal of Ancient Near Eastern History	2328-9554	2328-9562	2014-02-28	1	1	2014-11-15	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2328-9562		2328-9562		fulltext		De Gruyter	serial								P
+Journal of Biosecurity, Biosafety and Biodefense Law	2194-590X	2154-3186	2011-07-15		1	2014-06-15		5	https://www.degruyter.com/openurl?genre=journal&issn=2154-3186		2154-3186		fulltext		De Gruyter	serial								P
+Journal of Business Valuation and Economic Loss Analysis	2194-5861	1932-9156	2006-01-01	1	1	2014-01-01	9	1	https://www.degruyter.com/openurl?genre=journal&issn=1932-9156		1932-9156		fulltext		De Gruyter	serial								P
+Journal of Contemporary Drama in English	2195-0156	2195-0164	2013-05-20	1	1	2014-11-20	2	2	https://www.degruyter.com/openurl?genre=journal&issn=2195-0164		2195-0164		fulltext		De Gruyter	serial								P
+Journal of Drug Policy Analysis	2194-6337	1941-2851	2008-01-01	1	1	2014-12-20	7	1	https://www.degruyter.com/openurl?genre=journal&issn=1941-2851		1941-2851		fulltext		De Gruyter	serial								P
+Journal of Early Modern Christianity	2196-6648	2196-6656	2014-05-31	1	1	2014-11-28	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-6656		2196-6656		fulltext		De Gruyter	serial								P
+Journal of Econometric Methods	2194-6345	2156-6674	2012-01-01	1	1	2014-07-20	3	1	https://www.degruyter.com/openurl?genre=journal&issn=2156-6674		2156-6674		fulltext		De Gruyter	serial								P
+Journal of English as a Lingua Franca	2191-9216	2191-933X	2012-03-15	1	1	2014-09-15	3	2	https://www.degruyter.com/openurl?genre=journal&issn=2191-933X		2191-933X		fulltext		De Gruyter Mouton	serial								P
+Journal of European Tort Law	1868-9612	1868-9620	1998-01-01	1	1	2014-12-31	5	3	https://www.degruyter.com/openurl?genre=journal&issn=1868-9620		1868-9620		fulltext		De Gruyter	serial								P
+Journal of Globalization and Development 	2194-6353	1948-1837	2010-01-01	1	1	2014-12-30	5	2	https://www.degruyter.com/openurl?genre=journal&issn=1948-1837		1948-1837		fulltext		De Gruyter	serial								P
+Journal of Homeland Security and Emergency Management	2194-6361	1547-7355	2004-01-01	1	1	2014-12-15	11	4	https://www.degruyter.com/openurl?genre=journal&issn=1547-7355		1547-7355		fulltext		De Gruyter	serial								P
+Journal of Latin Linguistics	2194-8739	2194-8747	1980-06-20		1	2014-10-30	13	2	https://www.degruyter.com/openurl?genre=journal&issn=2194-8747		2194-8747		fulltext		De Gruyter Mouton	serial								P
+Journal of Literary Semantics	0341-7638	1613-3838	1972-01-01	1	Jan	2014-09-20	43	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-3838		1613-3838		fulltext		De Gruyter Mouton	serial								P
+Journal of Literary Theory	1862-5290	1862-8990	2007-08-21	1	1	2014-09-30	8	2	https://www.degruyter.com/openurl?genre=journal&issn=1862-8990		1862-8990		fulltext		De Gruyter	serial								P
+Journal of Politeness Research	1612-5681	1613-4877	2005-02-23	1	1	2014-07-21	10	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-4877		1613-4877		fulltext		De Gruyter Mouton	serial								P
+Journal of South Asian Languages and Linguistics	2196-0771	2196-078X	2014-03-25	1	1	2014-09-27	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-078X		2196-078X		fulltext		De Gruyter Mouton	serial								P
+Journal of the Bible and its Reception	2329-440X	2329-4434	2014-04-30	1	1	2014-10-15	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2329-4434		2329-4434		fulltext		De Gruyter	serial								P
+Journal of the International Arthurian Society	2196-9353	2196-9361	2013-10-15	1	1	2014-09-30	2	1	https://www.degruyter.com/openurl?genre=journal&issn=2196-9361		2196-9361		fulltext		Akademie Verlag	serial								P
+Journal of Time Series Econometrics	2194-6507	1941-1928	2009-01-01	1	1	2014-07-30	6	2	https://www.degruyter.com/openurl?genre=journal&issn=1941-1928		1941-1928		fulltext		De Gruyter	serial								P
+Journal of Tort Law	2194-6515	1932-9148	2006-12-01	1	1	2014-01-01	7	1-2	https://www.degruyter.com/openurl?genre=journal&issn=1932-9148		1932-9148		fulltext		De Gruyter	serial								P
+Journal of Transcultural Medieval Studies	2198-0357	2198-0365	2014-09-15	1	1	2014-12-15	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2198-0365		2198-0365		fulltext		De Gruyter	serial								P
+JURA - Juristische Ausbildung	0170-1452	1612-7021	2009-01-01	31	1	2014-12-01	36	12	https://www.degruyter.com/openurl?genre=journal&issn=1612-7021		1612-7021		fulltext		De Gruyter	serial								P
+Juristische Rundschau	0022-6920	1612-7064	1925-01-01		1	2014-12-19		12	https://www.degruyter.com/openurl?genre=journal&issn=1612-7064		1612-7064		fulltext		De Gruyter	serial								P
+Kadmos	0022-7498	1613-0723	1962-01-01	1	1	2014-07-20	53	1-2	https://www.degruyter.com/openurl?genre=journal&issn=1613-0723		1613-0723		fulltext		De Gruyter	serial								P
+Kant Yearbook	1868-4599	1868-4602	2009-06-20		1	2014-08-30		6	https://www.degruyter.com/openurl?genre=journal&issn=1868-4602		1868-4602		fulltext		De Gruyter	serial								P
+Kant-Studien	0022-8877	1613-1134	1897-01-01	1	Jan	2014-12-12	105	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-1134		1613-1134		fulltext		De Gruyter	serial								P
+Kierkegaard Studies Yearbook	1430-5372	1612-9792	1996-01-01	1996	1	2014-06-13		19	https://www.degruyter.com/openurl?genre=journal&issn=1612-9792		1612-9792		fulltext		De Gruyter	serial								P
+Klio	0075-6334	2192-7669	1901-06-20		1	2014-11-28	96	2	https://www.degruyter.com/openurl?genre=journal&issn=2192-7669		2192-7669		fulltext		De Gruyter (A)	serial								P
+Kölner Schrift zum Wirtschaftsrecht	1869-3679	2194-4199	2010-01-15	1	1	2014-10-15	5	4	https://www.degruyter.com/openurl?genre=journal&issn=2194-4199		2194-4199		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Kritikon Litterarum	0340-9767	1865-7249	2007-07-23	34	1/2	2014-11-28	41	3-4	https://www.degruyter.com/openurl?genre=journal&issn=1865-7249		1865-7249		fulltext		De Gruyter	serial								P
+Laboratory Phonology	1868-6346	1868-6354	2010-08-25	1	1	2014-11-28	5	4	https://www.degruyter.com/openurl?genre=journal&issn=1868-6354		1868-6354		fulltext		De Gruyter Mouton	serial								P
+Language and Cognition	1866-9808	1866-9859	2009-05-19	1	1	2013-11-18	5	4	https://www.degruyter.com/openurl?genre=journal&issn=1866-9859		1866-9859		fulltext		De Gruyter Mouton	serial								P
+Language Learning in Higher Education	2191-611X	2191-6128	2011-09-15	1	1	2014-10-30	4	2	https://www.degruyter.com/openurl?genre=journal&issn=2191-6128		2191-6128		fulltext		De Gruyter Mouton	serial								P
+Law & Ethics of Human Rights	2194-6531	1938-2545	2007-01-01	1	1	2014-11-20	8	2	https://www.degruyter.com/openurl?genre=journal&issn=1938-2545		1938-2545		fulltext		De Gruyter	serial								P
+Law and Development Review	2194-6523	1943-3867	2008-01-01	1	1	2014-08-01	7	2	https://www.degruyter.com/openurl?genre=journal&issn=1943-3867		1943-3867		fulltext		De Gruyter	serial								P
+Lebende Sprachen	0023-9909	1868-0267	1956-01-01	1	1	2014-12-15	59	2	https://www.degruyter.com/openurl?genre=journal&issn=1868-0267		1868-0267		fulltext		De Gruyter	serial								P
+Lexicographica	0175-6206	1865-9403	1985-01-01	1	1	2014-11-15		30	https://www.degruyter.com/openurl?genre=journal&issn=1865-9403		1865-9403		fulltext		De Gruyter	serial								P
+L'Homme	1016-362x	2194-5071	1990-01-01	1	1	2014-01-01	25	2	https://www.degruyter.com/openurl?genre=journal&issn=2194-5071		2194-5071		fulltext		Böhlau Verlag	serial								P
+Libri	0024-2667	1865-8423	1950-01-01	1	1	2014-12-20	64	4	https://www.degruyter.com/openurl?genre=journal&issn=1865-8423		1865-8423		fulltext		De Gruyter Saur	serial								P
+Linguistic Typology 	1430-0532	1613-415X	1997-01-01	1	1	2014-10-30	18	3	https://www.degruyter.com/openurl?genre=journal&issn=1613-415X		1613-415X		fulltext		De Gruyter Mouton	serial								P
+Linguistics	0024-3949	1613-396X	1963-01-01	1	1	2014-11-22	52	6	https://www.degruyter.com/openurl?genre=journal&issn=1613-396X		1613-396X		fulltext		De Gruyter Mouton	serial								P
+Lodz Papers in Pragmatics 	1895-6106	1898-4436	2007-06-20	3	1	2014-11-28	10	2	https://www.degruyter.com/openurl?genre=journal&issn=1898-4436		1898-4436		fulltext		De Gruyter Mouton	serial								P
+Man and the Economy	2196-9639	2196-9647	2014-07-30	1	1	2014-11-30	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-9647		2196-9647		fulltext		De Gruyter	serial								P
+Metaphysica	1437-2053	1874-6373	2014-04-15	15	1	2014-09-15	15	2	https://www.degruyter.com/openurl?genre=journal&issn=1874-6373		1874-6373		fulltext		De Gruyter	serial								P
+Militärgeschichtliche Zeitschrift	2193-2336	2196-6850	1967-06-15	1-2	1	2014-12-15	73	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-6850		2196-6850		fulltext		Oldenbourg Wissenschaftsverlag	serial								P
+Millennium	1867-030X	1867-0318	2004-01-01	1	1	2014-11-15		11	https://www.degruyter.com/openurl?genre=journal&issn=1867-0318		1867-0318		fulltext		De Gruyter	serial								P
+Monatsschrift für Deutsches Recht	0340-1812	2194-4202	2005-01-05	59	1	2014-12-20	68	24	https://www.degruyter.com/openurl?genre=journal&issn=2194-4202		2194-4202		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Moral Philosophy and Politics	2194-5616	2194-5624	2014-04-15	1	1	2014-10-15	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2194-5624		2194-5624		fulltext		De Gruyter	serial								P
+Multicultural Learning and Teaching	2194-654X	2161-2412	2006-01-01	1	1	2014-12-01	9	2	https://www.degruyter.com/openurl?genre=journal&issn=2161-2412		2161-2412		fulltext		De Gruyter	serial								P
+Multilingua	0167-8507	1613-3684	1982-01-01	1	1	2014-09-26	33	5-6	https://www.degruyter.com/openurl?genre=journal&issn=1613-3684		1613-3684		fulltext		De Gruyter Mouton	serial								P
+Multimodal Communication	2230-6579	2230-6587	2012-01-20	1	1	2014-05-20	3	1	https://www.degruyter.com/openurl?genre=journal&issn=2230-6587		2230-6587		fulltext		De Gruyter Mouton	serial								P
+Muslim World Journal of Human Rights	2194-6558	1554-4419	2004-01-01	1	1	2014-01-20	11	1	https://www.degruyter.com/openurl?genre=journal&issn=1554-4419		1554-4419		fulltext		De Gruyter	serial								P
+Naharaim	1862-9148	1862-9156	2007-05-20	1	1	2014-12-30	8	2	https://www.degruyter.com/openurl?genre=journal&issn=1862-9156		1862-9156		fulltext		De Gruyter	serial								P
+Neue Zeitschrift für Systematische Theologie und Religionsphilosophie	0028-3517	1612-9520	1959-01-01	1	1	2014-11-22	56	4	https://www.degruyter.com/openurl?genre=journal&issn=1612-9520		1612-9520		fulltext		De Gruyter	serial								P
+New Global Studies	2194-6566	1940-0004	2007-01-01	1	1	2014-12-15	8	3	https://www.degruyter.com/openurl?genre=journal&issn=1940-0004		1940-0004		fulltext		De Gruyter	serial								P
+Nietzscheforschung	1869-5604	2191-9259	1994-06-15		1	2014-06-15		21	https://www.degruyter.com/openurl?genre=journal&issn=2191-9259		2191-9259		fulltext		De Gruyter (A)	serial								P
+Nietzsche-Studien	0342-1422	1613-0790	1972-01-01		1	2014-11-15		43	https://www.degruyter.com/openurl?genre=journal&issn=1613-0790		1613-0790		fulltext		De Gruyter	serial								P
+Nonprofit Policy Forum	2194-6035	2154-3348	2010-01-01	1	1	2014-11-20	5	2	https://www.degruyter.com/openurl?genre=journal&issn=2154-3348		2154-3348		fulltext		De Gruyter	serial								F
+ORDO	0048-2129	2366-0481	1996-01-20		47	2014-01-20		65	https://www.degruyter.com/openurl?genre=journal&issn=2366-0481		2366-0481		fulltext		De Gruyter Oldenbourg	serial								P
+Orientalistische Literaturzeitung	0030-5383	2196-6877	1898-06-20		1	2014-12-15	109	6	https://www.degruyter.com/openurl?genre=journal&issn=2196-6877		2196-6877		fulltext		De Gruyter (A)	serial								P
+Österreichische Musikzeitschrift	0029-9316	2307-2970	1946-01-15	1	1	2014-11-22	69	6	https://www.degruyter.com/openurl?genre=journal&issn=2307-2970		2307-2970		fulltext		Böhlau Verlag	serial								P
+Paragrana	0938-0116	2196-6885	2008-06-15	17	1	2014-12-20	23	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-6885		2196-6885		fulltext		De Gruyter (A)	serial								P
+Peace Economics, Peace Science and Public Policy	1079-2457	1554-8597	1993-01-01	1	1	2014-12-20	20	4	https://www.degruyter.com/openurl?genre=journal&issn=1554-8597		1554-8597		fulltext		De Gruyter	serial								P
+Perspektiven der Wirtschaftspolitik	1465-6493	1468-2516	2000-02-20	1	1	2014-12-20	15	4	https://www.degruyter.com/openurl?genre=journal&issn=1468-2516		1468-2516		fulltext		De Gruyter	serial								P
+Philologus	0031-7985	2196-7008	1846-06-20		1	2014-11-28	158	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-7008		2196-7008		fulltext		De Gruyter (A)	serial								P
+PIK - Praxis der Informationsverarbeitung und Kommunikation	0930-5157	1865-8342	1978-01-01	1	1	2014-12-20	37	4	https://www.degruyter.com/openurl?genre=journal&issn=1865-8342		1865-8342		fulltext		De Gruyter	serial								P
+Pólemos	2035-5262	2036-4601	2012-07-15	6	1	2014-12-15	8	2	https://www.degruyter.com/openurl?genre=journal&issn=2036-4601		2036-4601		fulltext		De Gruyter	serial								P
+POP	2194-6981	2198-0322	2012-09-30	1	1	2014-09-30	3	2	https://www.degruyter.com/openurl?genre=journal&issn=2198-0322		2198-0322		fulltext		transcript Verlag	serial								P
+Poznan Studies in Contemporary Linguistics	0137-2459	1897-7499	2007-06-20	43	1	2014-10-30	50	4	https://www.degruyter.com/openurl?genre=journal&issn=1897-7499		1897-7499		fulltext		De Gruyter Mouton	serial								P
+Praehistorische Zeitschrift 	0079-4848	1613-0804	1909-01-01	1	Jan	2014-12-15	89	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-0804		1613-0804		fulltext		De Gruyter	serial								P
+Praktische Theologie	0946-3518	2198-0462	1966-03-15	1	1	2014-12-15	49	4	https://www.degruyter.com/openurl?genre=journal&issn=2198-0462		2198-0462		fulltext		Gütersloher Verlagshaus	serial								P
+Preservation, Digital Technology & Culture (PDT&C)	2195-2957	2195-2965	2013-03-26	42	1	2014-10-30	43	4	https://www.degruyter.com/openurl?genre=journal&issn=2195-2965		2195-2965		fulltext		De Gruyter Saur	serial								P
+Probus	0921-4771	1613-4079	1989-01-01	1	1	2014-09-30	26	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-4079		1613-4079		fulltext		De Gruyter Mouton	serial								P
+Quellen und Forschungen aus italienischen Archiven und Bibliotheken	0079-9068	1865-8865	2008-01-01	88	1	2014-11-15		94	https://www.degruyter.com/openurl?genre=journal&issn=1865-8865		1865-8865		fulltext		De Gruyter	serial								P
+ReiseRecht aktuell	0944-7490	2193-9535	1993-10-24	1	10	2014-12-15	22	6	https://www.degruyter.com/openurl?genre=journal&issn=2193-9535		2193-9535		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Restaurator. International Journal for the Preservation of Library and Archival Material	0034-5806	1865-8431	1970-01-01	1	1	2014-09-20	35	3-4	https://www.degruyter.com/openurl?genre=journal&issn=1865-8431		1865-8431		fulltext		De Gruyter	serial								P
+Review of Law & Economics	2194-6000	1555-5879	2005-04-01	1	1	2014-11-20	10	3	https://www.degruyter.com/openurl?genre=journal&issn=1555-5879		1555-5879		fulltext		De Gruyter	serial								P
+Review of Marketing Science	2194-5985	1546-5616	2003-01-01	1	1	2014-01-01	12	1	https://www.degruyter.com/openurl?genre=journal&issn=1546-5616		1546-5616		fulltext		De Gruyter	serial								P
+Review of Middle East Economics and Finance	1475-3685	1475-3693	2003-01-01	1	1	2014-12-20	10	3	https://www.degruyter.com/openurl?genre=journal&issn=1475-3693		1475-3693		fulltext		De Gruyter	serial								P
+Review of Network Economics	2194-5993	1446-9022	2002-01-01	1	1	2014-12-20	13	4	https://www.degruyter.com/openurl?genre=journal&issn=1446-9022		1446-9022		fulltext		De Gruyter	serial								P
+Rhetorik	0720-5775	1865-9160	1980-01-01	1	1	2014-11-15		33	https://www.degruyter.com/openurl?genre=journal&issn=1865-9160		1865-9160		fulltext		De Gruyter	serial								P
+Rhizomata	2196-5102	2196-5110	2013-04-20	1	1	2014-09-20	2	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-5110		2196-5110		fulltext		De Gruyter	serial								P
+Romanische Bibliographie	0080-388X	1865-9055	2005-01-01		2005	2014-11-15		130 (2014)	https://www.degruyter.com/openurl?genre=journal&issn=1865-9055		1865-9055		fulltext		De Gruyter	serial								P
+Romanistisches Jahrbuch	0080-3898	1613-0413	1948-01-01		1	2014-11-15		65/66	https://www.degruyter.com/openurl?genre=journal&issn=1613-0413		1613-0413		fulltext		De Gruyter	serial								P
+SATS	1600-1974	1869-7577	2000-05-01	1	1	2014-11-18	15	2	https://www.degruyter.com/openurl?genre=journal&issn=1869-7577		1869-7577		fulltext		De Gruyter	serial								P
+Scientia Poetica	1431-5041	1868-9418	2010-06-20		14	2014-11-15		18	https://www.degruyter.com/openurl?genre=journal&issn=1868-9418		1868-9418		fulltext		De Gruyter	serial								P
+Semiotica	0037-1998	1613-3692	1969-01-01		1	2014-11-15		202	https://www.degruyter.com/openurl?genre=journal&issn=1613-3692		1613-3692		fulltext		De Gruyter Mouton	serial								P
+Sociolinguistica	0933-1883	1865-939X	1987-01-01	1	1	2014-11-15		28	https://www.degruyter.com/openurl?genre=journal&issn=1865-939X		1865-939X		fulltext		De Gruyter	serial								P
+Soziale Systeme	0948-423X	2366-0473	2001-05-20	07	1	2014-12-20	19 (2013/14)	2	https://www.degruyter.com/openurl?genre=journal&issn=2366-0473		2366-0473		fulltext		De Gruyter Oldenbourg	serial								P
+Soziologische Revue	0343-4109	2196-7024	1978-03-20	1	1	2014-10-30	37	4	https://www.degruyter.com/openurl?genre=journal&issn=2196-7024		2196-7024		fulltext		Oldenbourg Wissenschaftsverlag	serial								P
+Statistics, Politics and Policy 	2194-6299	2151-7509	2010-01-01	1	1	2014-12-20	5	1-2	https://www.degruyter.com/openurl?genre=journal&issn=2151-7509		2151-7509		fulltext		De Gruyter	serial								P
+Strategie und Sicherheit	2227-7668	2304-4845	2010-10-31		2010	2014-10-31		2014	https://www.degruyter.com/openurl?genre=journal&issn=2304-4845		2304-4845		fulltext		Böhlau Verlag	serial								P
+Studies in Ethics, Law, and Technology	2194-6280	1941-6008	2007-12-01	1	1	2014-04-01	8	1	https://www.degruyter.com/openurl?genre=journal&issn=1941-6008		1941-6008		fulltext		De Gruyter	serial								P
+Studies in Hispanic and Lusophone Linguistics	1939-0238	2199-3386	2008-04-20	1	1	2014-09-20	7	2	https://www.degruyter.com/openurl?genre=journal&issn=2199-3386		2199-3386		fulltext		De Gruyter Mouton	serial								P
+Studies in Nonlinear Dynamics & Econometrics	1081-1826	1558-3708	1996-04-01	1	1	2014-12-28	18	5	https://www.degruyter.com/openurl?genre=journal&issn=1558-3708		1558-3708		fulltext		De Gruyter	serial								P
+STUF - Language Typology and Universals	1867-8319	2196-7148	1948-06-20		1-2	2014-11-28	67	4	https://www.degruyter.com/openurl?genre=journal&issn=2196-7148		2196-7148		fulltext		De Gruyter (A)	serial								P
+Südost-Forschungen	0081-9077	2364-9321	2014-12-20		73	2014-12-20		73	https://www.degruyter.com/openurl?genre=journal&issn=2364-9321		2364-9321		fulltext		Oldenbourg Wissenschaftsverlag	serial								P
+Text & Talk	1860-7330	1860-7349	1981-01-01	1	1	2014-11-23	34	6	https://www.degruyter.com/openurl?genre=journal&issn=1860-7349		1860-7349		fulltext		De Gruyter Mouton	serial								P
+The African Book Publishing Record	0306-0322	1865-8717	1975-01-01	1	1	2014-12-15	40	4	https://www.degruyter.com/openurl?genre=journal&issn=1865-8717		1865-8717		fulltext		De Gruyter Saur	serial								P
+The B.E. Journal of Economic Analysis & Policy	2194-6108	1935-1682	2001-11-01	1	1	2014-10-20	14	4	https://www.degruyter.com/openurl?genre=journal&issn=1935-1682		1935-1682		fulltext		De Gruyter	serial								P
+The B.E. Journal of Macroeconomics	2194-6116	1935-1690	2001-11-01	1	1	2014-01-01	14	1	https://www.degruyter.com/openurl?genre=journal&issn=1935-1690		1935-1690		fulltext		De Gruyter	serial								P
+The B.E. Journal of Theoretical Economics	2194-6124	1935-1704	2001-01-01	1	1	2014-01-01	14	1	https://www.degruyter.com/openurl?genre=journal&issn=1935-1704		1935-1704		fulltext		De Gruyter	serial								P
+The Economists' Voice	2194-6167	1553-3832	2004-01-01	1	1	2014-03-01	11	1	https://www.degruyter.com/openurl?genre=journal&issn=1553-3832		1553-3832		fulltext		De Gruyter	serial								P
+The Forum	2194-6183	1540-8884	2002-05-21	1 (2002-2003)	1	2014-12-30	12	4	https://www.degruyter.com/openurl?genre=journal&issn=1540-8884		1540-8884		fulltext		De Gruyter	serial								P
+The Linguistic Review	0167-6318	1613-3676	1981-01-01	1	1	2014-09-27	31	3-4	https://www.degruyter.com/openurl?genre=journal&issn=1613-3676		1613-3676		fulltext		De Gruyter Mouton	serial								P
+Theoretical Inquiries in Law	1565-1509	1565-3404	2000-01-01	1	1	2014-07-01	15	2	https://www.degruyter.com/openurl?genre=journal&issn=1565-3404		1565-3404		fulltext		De Gruyter	serial								P
+Theoretical Linguistics	0301-4428	1613-4060	1974-01-01	1	Jan	2014-10-15	40	3-4	https://www.degruyter.com/openurl?genre=journal&issn=1613-4060		1613-4060		fulltext		De Gruyter Mouton	serial								P
+Trends in Classics	1866-7473	1866-7481	2009-05-20	1	1	2014-12-19	6	2	https://www.degruyter.com/openurl?genre=journal&issn=1866-7481		1866-7481		fulltext		De Gruyter	serial								P
+UmsatzsteuerRundschau	0341-8669	2194-4180	2005-01-15	54	1	2014-12-20	63	24	https://www.degruyter.com/openurl?genre=journal&issn=2194-4180		2194-4180		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Verkündigung und Forschung	0342-2410	2198-0454	1940-03-14	1	1	2014-09-10	59	2	https://www.degruyter.com/openurl?genre=journal&issn=2198-0454		2198-0454		fulltext		Gütersloher Verlagshaus	serial								P
+Vierteljahrshefte für Zeitgeschichte	0042-5702	2196-7121	2005-03-15	53	1	2014-10-30	62	4	https://www.degruyter.com/openurl?genre=journal&issn=2196-7121		2196-7121		fulltext		De Gruyter Oldenbourg	serial								P
+Wittgenstein-Studien	1868-7431	1868-7458	2010-01-01	1	1	2014-04-15		5	https://www.degruyter.com/openurl?genre=journal&issn=1868-7458		1868-7458		fulltext		De Gruyter	serial								P
+World Political Science 	2363-4774	2363-4782	2005-03-20	1	1	2014-10-20	10	2	https://www.degruyter.com/openurl?genre=journal&issn=2363-4782		2363-4782		fulltext		De Gruyter	serial								P
+Yearbook for European Jewish Literature Studies	2196-6249	2196-6257	2014-03-15		1	2014-03-15		1	https://www.degruyter.com/openurl?genre=journal&issn=2196-6257		2196-6257		fulltext		De Gruyter	serial								P
+Yearbook of Phraseology	1868-632X	1868-6338	2010-01-01		1	2014-11-15		5	https://www.degruyter.com/openurl?genre=journal&issn=1868-6338		1868-6338		fulltext		De Gruyter	serial								P
+Yearbook of the German Cognitive Linguistics Association	2197-2788	2197-2796	2013-12-20		1	2014-05-20		2	https://www.degruyter.com/openurl?genre=journal&issn=2197-2796		2197-2796		fulltext		De Gruyter Mouton	serial								P
+Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung	0323-4045	2304-4861	1861-08-20	I	1	2014-06-20	131	1	https://www.degruyter.com/openurl?genre=journal&issn=2304-4861		2304-4861		fulltext		De Gruyter	serial								P
+Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung	0323-4142	2304-4896	1911-06-20	1	1	2014-06-20	100	1	https://www.degruyter.com/openurl?genre=journal&issn=2304-4896		2304-4896		fulltext		De Gruyter	serial								P
+Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Romanistische Abteilung	0323-4096	2304-4934	1881-08-20	01	1	2014-08-20	131	1	https://www.degruyter.com/openurl?genre=journal&issn=2304-4934		2304-4934		fulltext		De Gruyter	serial								P
+Zeitschrift für Ägyptische Sprache und Altertumskunde	0044-216X	2196-713X	1863-06-20		1	2014-11-20	141	2	https://www.degruyter.com/openurl?genre=journal&issn=2196-713X		2196-713X		fulltext		De Gruyter (A)	serial								P
+Zeitschrift für Angewandte Linguistik	1433-9889	2190-0191	2010-07-15		52	2014-12-15		61	https://www.degruyter.com/openurl?genre=journal&issn=2190-0191		2190-0191		fulltext		De Gruyter Mouton	serial								P
+Zeitschrift für Anglistik und Amerikanistik	0044-2305	2196-4726	2004-01-15	52	1	2014-12-15	62	4	https://www.degruyter.com/openurl?genre=journal&issn=2196-4726		2196-4726		fulltext		De Gruyter	serial								P
+Zeitschrift für Antikes Christentum / Journal of Ancient Christianity	0949-9571	1612-961X	1997-01-01	1	1	2014-12-30	18	3	https://www.degruyter.com/openurl?genre=journal&issn=1612-961X		1612-961X		fulltext		De Gruyter	serial								P
+Zeitschrift für Assyriologie und Vorderasiatische Archäologie     	0084-5299	1613-1150	1886-01-01	1	Jan	2014-12-12	104	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-1150		1613-1150		fulltext		De Gruyter	serial								P
+Zeitschrift für Bankrecht und Bankwirtschaft	0936-2800	2199-1715	1989-02-15	1	1	2014-12-15	26	6	https://www.degruyter.com/openurl?genre=journal&issn=2199-1715		2199-1715		fulltext		RWS-Verlag	serial								P
+Zeitschrift für celtische Philologie	0084-5302	1865-889X	1897-06-20		1	2014-11-15		61	https://www.degruyter.com/openurl?genre=journal&issn=1865-889X		1865-889X		fulltext		De Gruyter	serial								P
+Zeitschrift für das Privatrecht der Europäischen Union	2364-7205	2364-7213	2003-10-24	1	1	2014-12-15	11	6	https://www.degruyter.com/openurl?genre=journal&issn=2364-7213		2364-7213		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Zeitschrift für die alttestamentliche Wissenschaft	0044-2526	1613-0103	1881-01-01	1	Jan	2014-12-12	126	4	https://www.degruyter.com/openurl?genre=journal&issn=1613-0103		1613-0103		fulltext		De Gruyter	serial								P
+Zeitschrift für die gesamte Strafrechtswissenschaft      	0084-5310	1612-703X	1882-01-01	1	Jan	2014-12-31	126	4	https://www.degruyter.com/openurl?genre=journal&issn=1612-703X		1612-703X		fulltext		De Gruyter	serial								P
+Zeitschrift für die neutestamentliche Wissenschaft 	0044-2615	1613-009X	1900-01-01	1	Jan	2014-07-21	105	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-009X		1613-009X		fulltext		De Gruyter	serial								P
+Zeitschrift für Evangelische Ethik	0044-2674	2197-912X	1957-02-15	1	1	2014-08-15	58	4	https://www.degruyter.com/openurl?genre=journal&issn=2197-912X		2197-912X		fulltext		Gütersloher Verlagshaus	serial								P
+Zeitschrift für germanistische Linguistik	0301-3294	1613-0626	1973-01-01	1	1	2014-12-12	42	3	https://www.degruyter.com/openurl?genre=journal&issn=1613-0626		1613-0626		fulltext		De Gruyter	serial								P
+Zeitschrift für interkulturelle Germanistik	1869-3660	2198-0330	2010-07-31	1	1	2014-12-31	5	2	https://www.degruyter.com/openurl?genre=journal&issn=2198-0330		2198-0330		fulltext		transcript Verlag	serial								F
+Zeitschrift für Konfliktmanagement	1439-2127	2194-4210	2005-02-15	8	1	2014-12-15	17	6	https://www.degruyter.com/openurl?genre=journal&issn=2194-4210		2194-4210		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Zeitschrift für kritische Sozialtheorie und Philosophie	2194-5632	2194-5640	2014-04-15	1	1	2014-10-15	1	2	https://www.degruyter.com/openurl?genre=journal&issn=2194-5640		2194-5640		fulltext		De Gruyter	serial								P
+Zeitschrift für Kulturwissenschaften	2197-9103	2197-9111	2007-09-30	1	1	2014-12-31	8	2	https://www.degruyter.com/openurl?genre=journal&issn=2197-9111		2197-9111		fulltext		transcript Verlag	serial								P
+Zeitschrift für Religionswissenschaft	0943-8610	2194-508X	1993-06-20	1	1	2014-12-15	22	2	https://www.degruyter.com/openurl?genre=journal&issn=2194-508X		2194-508X		fulltext		De Gruyter	serial								P
+Zeitschrift für romanische Philologie	0049-8661	1865-9063	1877-01-01	1	1	2014-12-19	130	4	https://www.degruyter.com/openurl?genre=journal&issn=1865-9063		1865-9063		fulltext		De Gruyter	serial								P
+Zeitschrift für Slawistik	0044-3506	2196-7016	1956-06-20	1	1-4	2014-11-28	59	4	https://www.degruyter.com/openurl?genre=journal&issn=2196-7016		2196-7016		fulltext		De Gruyter (A)	serial								P
+Zeitschrift für Soziologie	0340-1804	2366-0325	1972-02-20	1	1	2014-12-20	43	6	https://www.degruyter.com/openurl?genre=journal&issn=2366-0325		2366-0325		fulltext		De Gruyter Oldenbourg	serial								P
+Zeitschrift für Sprachwissenschaft	0721-9067	1613-3706	1982-01-01	1	1	2014-11-21	33	2	https://www.degruyter.com/openurl?genre=journal&issn=1613-3706		1613-3706		fulltext		De Gruyter	serial								F
+Zeitschrift für Unternehmens- und Gesellschaftsrecht	0340-2479	1612-7048	1972-01-01	1	1	2014-12-20	43	6	https://www.degruyter.com/openurl?genre=journal&issn=1612-7048		1612-7048		fulltext		De Gruyter	serial								P
+Zeitschrift für Wettbewerbsrecht	1611-1982	2199-1723	2003-03-20	1	1	2014-12-15	12	4	https://www.degruyter.com/openurl?genre=journal&issn=2199-1723		2199-1723		fulltext		RWS-Verlag	serial								P
+Zeitschrift für Wirtschaftsgeographie	0044-3751	2365-7693	1982-10-20	26	1	2014-10-20	58	1	https://www.degruyter.com/openurl?genre=journal&issn=2365-7693		2365-7693		fulltext		De Gruyter	serial								P

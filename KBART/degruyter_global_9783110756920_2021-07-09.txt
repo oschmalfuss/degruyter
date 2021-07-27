@@ -1,0 +1,203 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Phoenix in the Ashes		9780691228204							https://www.degruyter.com/openurl?genre=book&isbn=9780691228204	Mollenkopf	9780691228204		fulltext		Princeton University Press	monograph	1992	2021						P	
+A Writing Guide for Learners of Chinese		9780300258196							https://www.degruyter.com/openurl?genre=book&isbn=9780300258196	Herzberg	9780300258196		fulltext		Yale University Press	monograph	2021	2021						P	
+ʾAggabāb according to the Qəne School Tradition		9781463242077							https://www.degruyter.com/openurl?genre=book&isbn=9781463242077	Ermias	9781463242077		fulltext		Gorgias Press	monograph	2020	2021						P	
+Albert O. Hirschman		9780231553308							https://www.degruyter.com/openurl?genre=book&isbn=9780231553308	Alacevich	9780231553308		fulltext		Columbia University Press	monograph	2020	2021						P	
+Albrecht Dürer and the Embodiment of Genius		9780271087573							https://www.degruyter.com/openurl?genre=book&isbn=9780271087573	Smith	9780271087573		fulltext		Penn State University Press	monograph	2020	2021						P	
+American Legal Education Abroad		9781479803606							https://www.degruyter.com/openurl?genre=book&isbn=9781479803606		9781479803606		fulltext		New York University Press	monograph	2021	2021			Bartie			P	
+An Elusive Common		9781501756146							https://www.degruyter.com/openurl?genre=book&isbn=9781501756146	Rignall	9781501756146		fulltext		Cornell University Press	monograph	2021	2021						P	
+An Introduction to Akkadian Literature		9781646020324							https://www.degruyter.com/openurl?genre=book&isbn=9781646020324	Lenzi	9781646020324		fulltext		Penn State University Press	monograph	2019	2021						P	
+Anonymity		9780691230924							https://www.degruyter.com/openurl?genre=book&isbn=9780691230924	Mullan	9780691230924		fulltext		Princeton University Press	monograph	2008	2021						P	
+Ant Architecture		9780691218496							https://www.degruyter.com/openurl?genre=book&isbn=9780691218496	Tschinkel	9780691218496		fulltext		Princeton University Press	monograph	2021	2021						P	
+Arianism		9781641891011							https://www.degruyter.com/openurl?genre=book&isbn=9781641891011	Dunn	9781641891011		fulltext		ARC, Amsterdam University Press	monograph	2021	2021						P	
+Association and Enlightenment		9781684482702							https://www.degruyter.com/openurl?genre=book&isbn=9781684482702		9781684482702		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Asteroids		9780300258387							https://www.degruyter.com/openurl?genre=book&isbn=9780300258387	Elvis	9780300258387		fulltext		Yale University Press	monograph	2021	2021						P	
+Ballots and Barricades		9780691228105							https://www.degruyter.com/openurl?genre=book&isbn=9780691228105	Aminzade	9780691228105		fulltext		Princeton University Press	monograph	1994	2021						P	
+Border Optics		9781479807062							https://www.degruyter.com/openurl?genre=book&isbn=9781479807062	Fojas	9781479807062		fulltext		New York University Press	monograph	2021	2021						P	
+Boundaries and Justice		9780691230931							https://www.degruyter.com/openurl?genre=book&isbn=9780691230931		9780691230931		fulltext		Princeton University Press	monograph	2002	2021			Hashmi			P	
+Brand New China		9780674044821							https://www.degruyter.com/openurl?genre=book&isbn=9780674044821	Wang	9780674044821		fulltext		Harvard University Press	monograph	2010	2009						P	984653159
+Bread and Freedom		9781503628168							https://www.degruyter.com/openurl?genre=book&isbn=9781503628168	El-Ghobashy	9781503628168		fulltext		Stanford University Press	monograph	2021	2021						P	
+Changing Their Minds?		9780226775647							https://www.degruyter.com/openurl?genre=book&isbn=9780226775647	Edwards III	9780226775647		fulltext		University of Chicago Press	monograph	2020	2021						P	
+Children Solving Problems		9780674044340							https://www.degruyter.com/openurl?genre=book&isbn=9780674044340	THORNTON	9780674044340		fulltext		Harvard University Press	monograph	1995	2021						P	
+Chinese Film Classics, 1922–1949		9780231547673							https://www.degruyter.com/openurl?genre=book&isbn=9780231547673	Rea	9780231547673		fulltext		Columbia University Press	monograph	2021	2021						P	
+Christians in Caesar’s Household		9780271084091							https://www.degruyter.com/openurl?genre=book&isbn=9780271084091	Flexsenhar III	9780271084091		fulltext		Penn State University Press	monograph	2019	2021						P	
+Color and Culture		9780674042339							https://www.degruyter.com/openurl?genre=book&isbn=9780674042339	POSNOCK	9780674042339		fulltext		Harvard University Press	monograph	1998	2021						P	
+Comentarios de erudición, libros XVII y XVIII		9783968691763							https://www.degruyter.com/openurl?genre=book&isbn=9783968691763	Jiménez Patón	9783968691763		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021						P	
+Condemned		9780300256222							https://www.degruyter.com/openurl?genre=book&isbn=9780300256222	Seal	9780300256222		fulltext		Yale University Press	monograph	2021	2021						P	
+Consuming Painting		9780271089959							https://www.degruyter.com/openurl?genre=book&isbn=9780271089959	Deutsch	9780271089959		fulltext		Penn State University Press	monograph	2021	2021						P	
+Conviction		9781503627901							https://www.degruyter.com/openurl?genre=book&isbn=9781503627901	Rollins	9781503627901		fulltext		Stanford University Press	monograph	2021	2021						P	
+Cosmic Understanding		9780691228143							https://www.degruyter.com/openurl?genre=book&isbn=9780691228143	Munitz	9780691228143		fulltext		Princeton University Press	monograph	1987	2021						P	
+Creating German Communism, 1890-1990		9780691228129							https://www.degruyter.com/openurl?genre=book&isbn=9780691228129	Weitz	9780691228129		fulltext		Princeton University Press	monograph	1997	2021						P	
+Culture and Demography in Organizations		9780691233192							https://www.degruyter.com/openurl?genre=book&isbn=9780691233192	Harrison	9780691233192		fulltext		Princeton University Press	monograph	2006	2021						P	
+Culture/Power/History		9780691228006							https://www.degruyter.com/openurl?genre=book&isbn=9780691228006		9780691228006		fulltext		Princeton University Press	monograph	1994	2021			Dirks			P	
+Democracy and International Trade		9780691228181							https://www.degruyter.com/openurl?genre=book&isbn=9780691228181	Verdier	9780691228181		fulltext		Princeton University Press	monograph	1995	2021						P	
+Democracy's Think Tank		9780812299601							https://www.degruyter.com/openurl?genre=book&isbn=9780812299601	Mueller	9780812299601		fulltext		University of Pennsylvania Press	monograph	2021	2021						P	
+Diversity and Its Discontents		9780691228334							https://www.degruyter.com/openurl?genre=book&isbn=9780691228334		9780691228334		fulltext		Princeton University Press	monograph	1999	2021			Alexander			P	
+Divided Mastery		9780674040700							https://www.degruyter.com/openurl?genre=book&isbn=9780674040700	Martin	9780674040700		fulltext		Harvard University Press	monograph	2004	2021						P	
+Divine Accounting		9780300258165							https://www.degruyter.com/openurl?genre=book&isbn=9780300258165	Quigley	9780300258165		fulltext		Yale University Press	monograph	2021	2021						P	
+Dying to Learn		9781501758478							https://www.degruyter.com/openurl?genre=book&isbn=9781501758478	Hunzeker	9781501758478		fulltext		Cornell University Press	monograph	2021	2021						P	
+Early Christian Books in Egypt		9781400833788							https://www.degruyter.com/openurl?genre=book&isbn=9781400833788	Bagnall	9781400833788		fulltext		Princeton University Press	monograph	2009	2021						P	
+Ecological Solidarities		9780271085593							https://www.degruyter.com/openurl?genre=book&isbn=9780271085593		9780271085593		fulltext		Penn State University Press	monograph	2019	2021			Hughes			P	
+Economic Modeling and Inference		9781400833108							https://www.degruyter.com/openurl?genre=book&isbn=9781400833108	Kiefer	9781400833108		fulltext		Princeton University Press	monograph	2009	2021						P	
+El pintor de su deshonra		9783968691466							https://www.degruyter.com/openurl?genre=book&isbn=9783968691466	 Calderón de la Barca	9783968691466		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021						P	
+En compañía de salvajes		9783968691800							https://www.degruyter.com/openurl?genre=book&isbn=9783968691800		9783968691800		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021			Baena Zapatero			P	
+En torno al Lope sacro		9783968691787							https://www.degruyter.com/openurl?genre=book&isbn=9783968691787		9783968691787		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021			Ponce Cárdenas			P	
+Encounters with Euclid		9780691219813							https://www.degruyter.com/openurl?genre=book&isbn=9780691219813	Wardhaugh	9780691219813		fulltext		Princeton University Press	monograph	2021	2021						P	
+Ernest Hemingway		9780271079561							https://www.degruyter.com/openurl?genre=book&isbn=9780271079561	Hutchisson	9780271079561		fulltext		Penn State University Press	monograph	2016	2021						P	
+Errand into the Wilderness of Mirrors		9780226767543							https://www.degruyter.com/openurl?genre=book&isbn=9780226767543	Graziano	9780226767543		fulltext		University of Chicago Press	monograph	2021	2021						P	
+Fanny Kemble's Journals		9780674039476							https://www.degruyter.com/openurl?genre=book&isbn=9780674039476	Kemble	9780674039476		fulltext		Harvard University Press	monograph	2000	2021						P	
+Fault, Responsibility, and Administrative Law in Late Babylonian Legal Texts		9781646020263							https://www.degruyter.com/openurl?genre=book&isbn=9781646020263	Magdalene	9781646020263		fulltext		Penn State University Press	monograph	2019	2021						P	
+Fighting the Great War		9780674041394							https://www.degruyter.com/openurl?genre=book&isbn=9780674041394	Neiberg	9780674041394		fulltext		Harvard University Press	monograph	2006	2021						P	
+First Isaiah and the Disappearance of the Gods		9781646021321							https://www.degruyter.com/openurl?genre=book&isbn=9781646021321	Lynch	9781646021321		fulltext		Penn State University Press	monograph	2021	2021						P	
+Flying Blind		9789814881968							https://www.degruyter.com/openurl?genre=book&isbn=9789814881968	Nguyen	9789814881968		fulltext		ISEAS Publishing	monograph	2021	2021						P	
+Forms of Exile in Jewish Literature and Thought		9781644694060							https://www.degruyter.com/openurl?genre=book&isbn=9781644694060	Volková	9781644694060		fulltext		Academic Studies Press	monograph	2021	2021						F	
+Foundations of Hegel’s Social Theory		9780674041455							https://www.degruyter.com/openurl?genre=book&isbn=9780674041455	NEUHOUSER	9780674041455		fulltext		Harvard University Press	monograph	2000	2021						P	
+Fractured Rebellion		9780674054783							https://www.degruyter.com/openurl?genre=book&isbn=9780674054783	Walder	9780674054783		fulltext		Harvard University Press	monograph	2012	2021						P	
+Frederick Watts and the Founding of Penn State		9780271090498							https://www.degruyter.com/openurl?genre=book&isbn=9780271090498	Williams	9780271090498		fulltext		Penn State University Press	monograph	2021	2021						P	
+Freedom Is, Freedom Ain't		9780674043107							https://www.degruyter.com/openurl?genre=book&isbn=9780674043107	Saul	9780674043107		fulltext		Harvard University Press	monograph	2003	2021						P	
+From Stimulus to Science		9780674042476							https://www.degruyter.com/openurl?genre=book&isbn=9780674042476	Quine	9780674042476		fulltext		Harvard University Press	monograph	1995	2021						P	
+GI Jews		9780674041202							https://www.degruyter.com/openurl?genre=book&isbn=9780674041202	MOORE	9780674041202		fulltext		Harvard University Press	monograph	2004	2021						P	
+Globalization		9781400824328							https://www.degruyter.com/openurl?genre=book&isbn=9781400824328	Osterhammel	9781400824328		fulltext		Princeton University Press	monograph	2005	2021						P	
+Graphic Medicine Manifesto		9780271079264							https://www.degruyter.com/openurl?genre=book&isbn=9780271079264	Czerwiec	9780271079264		fulltext		Penn State University Press	monograph	2015	2021						P	
+Harlot or Holy Woman?		9781646020201							https://www.degruyter.com/openurl?genre=book&isbn=9781646020201	Bird	9781646020201		fulltext		Penn State University Press	monograph	2019	2021						P	
+Hitler Youth		9780674039353							https://www.degruyter.com/openurl?genre=book&isbn=9780674039353	Kater	9780674039353		fulltext		Harvard University Press	monograph	2004	2021						P	
+Homecomings		9781400832651							https://www.degruyter.com/openurl?genre=book&isbn=9781400832651	Biess	9781400832651		fulltext		Princeton University Press	monograph	2006	2021						P	
+Ilmatar's Inspirations		9780226704043							https://www.degruyter.com/openurl?genre=book&isbn=9780226704043	Ramnarine	9780226704043		fulltext		University of Chicago Press	monograph	2003	2021						P	
+Imagining the Nation in Nature		9780674040076							https://www.degruyter.com/openurl?genre=book&isbn=9780674040076	Lekan	9780674040076		fulltext		Harvard University Press	monograph	2004	2021						P	
+In Mrs. Tully's Room		9780674041882							https://www.degruyter.com/openurl?genre=book&isbn=9780674041882	PALEY	9780674041882		fulltext		Harvard University Press	monograph	2001	2021						P	
+In Search of Another Country		9781400832712							https://www.degruyter.com/openurl?genre=book&isbn=9781400832712	Crespino	9781400832712		fulltext		Princeton University Press	monograph	2007	2021						P	
+In Search of Self in India and Japan		9780691228167							https://www.degruyter.com/openurl?genre=book&isbn=9780691228167	Roland	9780691228167		fulltext		Princeton University Press	monograph	1988	2021						P	
+In the Land of a Thousand Gods		9780691233659							https://www.degruyter.com/openurl?genre=book&isbn=9780691233659		9780691233659		fulltext		Princeton University Press	monograph	2019	2021						P	
+In the Moment of Greatest Calamity		9781400828845							https://www.degruyter.com/openurl?genre=book&isbn=9781400828845	Hirsch	9781400828845		fulltext		Princeton University Press	monograph	2009	2021						P	
+Infinite Repertoire		9780226781167							https://www.degruyter.com/openurl?genre=book&isbn=9780226781167	Cohen	9780226781167		fulltext		University of Chicago Press	monograph	2021	2021						P	
+Interdisciplinary Research of Magnetic Fields and Life Sciences	9782759824915	9782759825004							https://www.degruyter.com/openurl?genre=book&isbn=9782759825004		9782759825004		fulltext		EDP Sciences	monograph	2020	2021			Zhang			P	
+International Political Economy		9781400828326							https://www.degruyter.com/openurl?genre=book&isbn=9781400828326	Cohen	9781400828326		fulltext		Princeton University Press	monograph	2008	2021						P	
+Islamic Thought in Africa		9780300258202							https://www.degruyter.com/openurl?genre=book&isbn=9780300258202	Ajura	9780300258202		fulltext		Yale University Press	monograph	2021	2021						P	
+Ivan the Terrible in Russian Historical Memory since 1991		9781644695883							https://www.degruyter.com/openurl?genre=book&isbn=9781644695883	Halperin	9781644695883		fulltext		Academic Studies Press	monograph	2021	2021						P	
+J. M. Coetzee and the Ethics of Reading		9780226818771							https://www.degruyter.com/openurl?genre=book&isbn=9780226818771	Attridge	9780226818771		fulltext		University of Chicago Press	monograph	2004	2021						P	
+James Lovelock		9781400832859							https://www.degruyter.com/openurl?genre=book&isbn=9781400832859	Gribbin	9781400832859		fulltext		Princeton University Press	monograph	2009	2021						P	
+Japan, 1972		9780231551380							https://www.degruyter.com/openurl?genre=book&isbn=9780231551380	Igarashi	9780231551380		fulltext		Columbia University Press	monograph	2021	2021						P	
+Jews and the American Soul		9780691227917							https://www.degruyter.com/openurl?genre=book&isbn=9780691227917	Heinze	9780691227917		fulltext		Princeton University Press	monograph	2004	2021						P	
+Judaism, Christianity, and Islam: The Classical Texts and Their Interpretation, Volume II		9780691228358							https://www.degruyter.com/openurl?genre=book&isbn=9780691228358	Peters	9780691228358		fulltext		Princeton University Press	monograph	1990	2021						P	
+Jules Michelet		9780271085326							https://www.degruyter.com/openurl?genre=book&isbn=9780271085326	Hannoosh	9780271085326		fulltext		Penn State University Press	monograph	2019	2021						P	
+Just Like Family		9781479875887							https://www.degruyter.com/openurl?genre=book&isbn=9781479875887	Laurent-Simpson	9781479875887		fulltext		New York University Press	monograph	2021	2021						P	
+Just Work		9780674041271							https://www.degruyter.com/openurl?genre=book&isbn=9780674041271	Muirhead	9780674041271		fulltext		Harvard University Press	monograph	2007	2021						P	
+Kabbalah and Sex Magic		9780271091068							https://www.degruyter.com/openurl?genre=book&isbn=9780271091068	Segol	9780271091068		fulltext		Penn State University Press	monograph	2021	2021						P	
+Kafka		9780691233567							https://www.degruyter.com/openurl?genre=book&isbn=9780691233567	Stach	9780691233567		fulltext		Princeton University Press	monograph	2013	2021						P	
+Kant and the Possibility of Progress		9780812297799							https://www.degruyter.com/openurl?genre=book&isbn=9780812297799		9780812297799		fulltext		University of Pennsylvania Press	monograph	2021	2021			Stoner			P	
+Knotting the Banner		9780824886707							https://www.degruyter.com/openurl?genre=book&isbn=9780824886707		9780824886707		fulltext		University of Hawaii Press	monograph	2021	2021			Bokenkamp			P	
+La comunicación por correo electrónico		9783968691640							https://www.degruyter.com/openurl?genre=book&isbn=9783968691640	 Vela Delfa	9783968691640		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021						P	
+Las academias en el teatro áureo		9783968691442							https://www.degruyter.com/openurl?genre=book&isbn=9783968691442	Casariego Castiñeira	9783968691442		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021						P	
+Literary Information in China		9780231551373							https://www.degruyter.com/openurl?genre=book&isbn=9780231551373		9780231551373		fulltext		Columbia University Press	monograph	2020	2021			Chen			P	
+Local Heroes		9780691228044							https://www.degruyter.com/openurl?genre=book&isbn=9780691228044	Stoner-Weiss	9780691228044		fulltext		Princeton University Press	monograph	1997	2021						P	
+Man and Nature		9780674040632							https://www.degruyter.com/openurl?genre=book&isbn=9780674040632	MARSH	9780674040632		fulltext		Harvard University Press	monograph	1965	2021						P	
+Mathematical Logic		9780674042469							https://www.degruyter.com/openurl?genre=book&isbn=9780674042469	Quine	9780674042469		fulltext		Harvard University Press	monograph	1951	2021						P	
+Max Weber’s Methodology		9780674042773							https://www.degruyter.com/openurl?genre=book&isbn=9780674042773	Ringer	9780674042773		fulltext		Harvard University Press	monograph	1997	2021						P	
+Medicine, Mind, and the Double Brain		9780691228174							https://www.degruyter.com/openurl?genre=book&isbn=9780691228174	Harrington	9780691228174		fulltext		Princeton University Press	monograph	1987	2021						P	
+Memory in the Middle Ages		9781641892636							https://www.degruyter.com/openurl?genre=book&isbn=9781641892636		9781641892636		fulltext		ARC, Amsterdam University Press	monograph	2020	2021			Sabaté			P	
+Metamodernism		9780226786797							https://www.degruyter.com/openurl?genre=book&isbn=9780226786797	Storm	9780226786797		fulltext		University of Chicago Press	monograph	2021	2021						P	
+Meyer Schapiro’s Critical Debates		9780271085562							https://www.degruyter.com/openurl?genre=book&isbn=9780271085562	O’Donnell	9780271085562		fulltext		Penn State University Press	monograph	2019	2021						P	
+Mindsight		9780674040816							https://www.degruyter.com/openurl?genre=book&isbn=9780674040816	McGinn	9780674040816		fulltext		Harvard University Press	monograph	2006	2021						P	
+Mobilizing Invisible Assets		9780674038981							https://www.degruyter.com/openurl?genre=book&isbn=9780674038981	Roehl	9780674038981		fulltext		Harvard University Press	monograph	1987	2021						P	
+Mobilizing Japanese Youth		9781501756337							https://www.degruyter.com/openurl?genre=book&isbn=9781501756337	Gerteis	9781501756337		fulltext		Cornell University Press	monograph	2021	2021						P	
+Moments of Happiness		9781644694985							https://www.degruyter.com/openurl?genre=book&isbn=9781644694985	Dubas	9781644694985		fulltext		Academic Studies Press	monograph	2021	2021						P	
+Mormons in Paris		9781684482405							https://www.degruyter.com/openurl?genre=book&isbn=9781684482405		9781684482405		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Morning Star Rising		9780824888893							https://www.degruyter.com/openurl?genre=book&isbn=9780824888893		9780824888893		fulltext		University of Hawaii Press	monograph	2021	2021			Henderson			P	
+Moscow's Third World Strategy		9780691228037							https://www.degruyter.com/openurl?genre=book&isbn=9780691228037	Rubinstein	9780691228037		fulltext		Princeton University Press	monograph	1990	2021						P	
+Mozart and the Mediation of Childhood		9780226787299							https://www.degruyter.com/openurl?genre=book&isbn=9780226787299	Mueller	9780226787299		fulltext		University of Chicago Press	monograph	2021	2021						P	
+Mujer y sociedad en la literatura del Siglo de Oro		9783968691183							https://www.degruyter.com/openurl?genre=book&isbn=9783968691183		9783968691183		fulltext		Vervuert Verlagsgesellschaft	monograph	2020	2021			Domínguez Matito			P	
+Non-Design		9780226752471							https://www.degruyter.com/openurl?genre=book&isbn=9780226752471	Fontenot	9780226752471		fulltext		University of Chicago Press	monograph	2021	2021						P	
+Oil Money		9781501715747							https://www.degruyter.com/openurl?genre=book&isbn=9781501715747	Wight	9781501715747		fulltext		Cornell University Press	monograph	2021	2021						P	
+Okfuskee		9780674042131							https://www.degruyter.com/openurl?genre=book&isbn=9780674042131	Piker	9780674042131		fulltext		Harvard University Press	monograph	2004	2021						P	
+One Faith No Longer		9781479808694							https://www.degruyter.com/openurl?genre=book&isbn=9781479808694	Quosigk	9781479808694		fulltext		New York University Press	monograph	2021	2021						P	
+Only Paradoxes to Offer		9780674043381							https://www.degruyter.com/openurl?genre=book&isbn=9780674043381	Scott	9780674043381		fulltext		Harvard University Press	monograph	1996	2021						P	
+Oprah Winfrey and the Glamour of Misery		9780231508971							https://www.degruyter.com/openurl?genre=book&isbn=9780231508971	Illouz	9780231508971		fulltext		Columbia University Press	monograph	2003	2021						P	
+Organizing While Undocumented		9781479877812							https://www.degruyter.com/openurl?genre=book&isbn=9781479877812	Escudero	9781479877812		fulltext		New York University Press	monograph	2020	2021						P	
+Oriental Networks		9781684482757							https://www.degruyter.com/openurl?genre=book&isbn=9781684482757		9781684482757		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Parasitoid Population Biology		9780691230894							https://www.degruyter.com/openurl?genre=book&isbn=9780691230894		9780691230894		fulltext		Princeton University Press	monograph	2000	2021			Hochberg			P	
+Peaceful Revolution		9780674270381							https://www.degruyter.com/openurl?genre=book&isbn=9780674270381	Bloomfield	9780674270381		fulltext		Harvard University Press	monograph	2000	2021						P	
+Poéticas y cánones literarios bajo el franquismo		9783968690858							https://www.degruyter.com/openurl?genre=book&isbn=9783968690858		9783968690858		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021			Larraz			P	
+Polynesia, 900–1600		9781641892155							https://www.degruyter.com/openurl?genre=book&isbn=9781641892155	Williams	9781641892155		fulltext		ARC, Amsterdam University Press	monograph	2021	2021						P	
+Possessing the Pacific		9780674020528							https://www.degruyter.com/openurl?genre=book&isbn=9780674020528	Banner	9780674020528		fulltext		Harvard University Press	monograph	2007	2021						P	
+Possessions		9780674042704							https://www.degruyter.com/openurl?genre=book&isbn=9780674042704	Richardson	9780674042704		fulltext		Harvard University Press	monograph	2003	2021						P	
+Postcommunism and the Theory of Democracy		9780691230948							https://www.degruyter.com/openurl?genre=book&isbn=9780691230948	Anderson	9780691230948		fulltext		Princeton University Press	monograph	2002	2021						P	
+Poverty and Progress		9780674044319							https://www.degruyter.com/openurl?genre=book&isbn=9780674044319	Thernstrom	9780674044319		fulltext		Harvard University Press	monograph	1964	2021						P	
+Power and Culture		9780674038974							https://www.degruyter.com/openurl?genre=book&isbn=9780674038974	Iriye	9780674038974		fulltext		Harvard University Press	monograph	1981	2021						P	
+Practical Matter		9780674039032							https://www.degruyter.com/openurl?genre=book&isbn=9780674039032	Jacob	9780674039032		fulltext		Harvard University Press	monograph	2006	2021						P	
+Pulp Empire		9780226350691							https://www.degruyter.com/openurl?genre=book&isbn=9780226350691	Hirsch	9780226350691		fulltext		University of Chicago Press	monograph	2021	2021						P	
+Putin's Labor Dilemma		9781501756306							https://www.degruyter.com/openurl?genre=book&isbn=9781501756306	Crowley	9781501756306		fulltext		Cornell University Press	monograph	2021	2021						P	
+Pygmalion’s Power		9780271085203							https://www.degruyter.com/openurl?genre=book&isbn=9780271085203	Dale	9780271085203		fulltext		Penn State University Press	monograph	2019	2021						P	
+Quiddities		9780674042438							https://www.degruyter.com/openurl?genre=book&isbn=9780674042438	Quine	9780674042438		fulltext		Harvard University Press	monograph	1987	2021						P	
+Raising Keynes		9780674246225							https://www.degruyter.com/openurl?genre=book&isbn=9780674246225	Marglin	9780674246225		fulltext		Harvard University Press	monograph	2020	2021						P	
+Reconstructing Macroeconomics		9780674044234							https://www.degruyter.com/openurl?genre=book&isbn=9780674044234	Taylor	9780674044234		fulltext		Harvard University Press	monograph	2004	2021						P	
+Refusing Death		9781503628182							https://www.degruyter.com/openurl?genre=book&isbn=9781503628182	Kim	9781503628182		fulltext		Stanford University Press	monograph	2021	2021						P	
+Reimagining Social Welfare		9781442603127							https://www.degruyter.com/openurl?genre=book&isbn=9781442603127	Mulvale	9781442603127		fulltext		University of Toronto Press	monograph	2001	2021						P	
+Reinventing Justice		9781400824762							https://www.degruyter.com/openurl?genre=book&isbn=9781400824762	Nolan	9781400824762		fulltext		Princeton University Press	monograph	2001	2021						P	
+Religion Around Virginia Woolf		9780271086262							https://www.degruyter.com/openurl?genre=book&isbn=9780271086262	Paulsell	9780271086262		fulltext		Penn State University Press	monograph	2019	2021						P	
+Remembering Scottsboro		9781400833221							https://www.degruyter.com/openurl?genre=book&isbn=9781400833221	Miller	9781400833221		fulltext		Princeton University Press	monograph	2009	2021						P	
+Renouncing the World yet Leading the Church		9780674044012							https://www.degruyter.com/openurl?genre=book&isbn=9780674044012	Sterk	9780674044012		fulltext		Harvard University Press	monograph	2004	2021						P	
+Reproducing Gender		9780691228013							https://www.degruyter.com/openurl?genre=book&isbn=9780691228013		9780691228013		fulltext		Princeton University Press	monograph	2000	2021			Kligman			P	
+Ruling the Later Roman Empire		9780674039452							https://www.degruyter.com/openurl?genre=book&isbn=9780674039452	Kelly	9780674039452		fulltext		Harvard University Press	monograph	2006	2021						P	
+Sátira y Géneros Menores		9783968691749							https://www.degruyter.com/openurl?genre=book&isbn=9783968691749	Vilahomat	9783968691749		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021						P	
+Schools of Thought		9780691228389							https://www.degruyter.com/openurl?genre=book&isbn=9780691228389		9780691228389		fulltext		Princeton University Press	monograph	2002	2021			Keates			P	
+Seeing Silicon Valley		9780226786513							https://www.degruyter.com/openurl?genre=book&isbn=9780226786513	Meehan	9780226786513		fulltext		University of Chicago Press	monograph	2021	2021						P	
+Set Theory and Its Logic		9780674042421							https://www.degruyter.com/openurl?genre=book&isbn=9780674042421	Quine	9780674042421		fulltext		Harvard University Press	monograph	1963	2021						P	
+Sexual Science		9780674043022							https://www.degruyter.com/openurl?genre=book&isbn=9780674043022	Russett	9780674043022		fulltext		Harvard University Press	monograph	1991	2021						P	
+Shared Beginnings, Divergent Lives		9780674039971							https://www.degruyter.com/openurl?genre=book&isbn=9780674039971	Laub	9780674039971		fulltext		Harvard University Press	monograph	2006	2021						P	
+Snapshots of the Soul		9781501753718							https://www.degruyter.com/openurl?genre=book&isbn=9781501753718	Blasing	9781501753718		fulltext		Cornell University Press	monograph	2021	2021						P	
+Sound and Affect		9780226758152							https://www.degruyter.com/openurl?genre=book&isbn=9780226758152		9780226758152		fulltext		University of Chicago Press	monograph	2022	2021			Mendieta			P	
+Spatial and Discursive Violence in the US Southwest		9781478021292							https://www.degruyter.com/openurl?genre=book&isbn=9781478021292	Sánchez	9781478021292		fulltext		Duke University Press	monograph	2020	2021						P	
+Spoken Like a Woman		9781400832446							https://www.degruyter.com/openurl?genre=book&isbn=9781400832446	McClure	9781400832446		fulltext		Princeton University Press	monograph	1999	2021						P	
+Standards Deviation		9780674043923							https://www.degruyter.com/openurl?genre=book&isbn=9780674043923	Spillane	9780674043923		fulltext		Harvard University Press	monograph	2004	2021						P	
+Stellar Spectral Classification		9781400833368							https://www.degruyter.com/openurl?genre=book&isbn=9781400833368	Gray	9781400833368		fulltext		Princeton University Press	monograph	2009	2021						P	
+Street Stories		9780674039018							https://www.degruyter.com/openurl?genre=book&isbn=9780674039018	Jackall	9780674039018		fulltext		Harvard University Press	monograph	2009	2021						P	
+Streetwalking on a Ruined Map		9781400843985							https://www.degruyter.com/openurl?genre=book&isbn=9781400843985	Bruno	9781400843985		fulltext		Princeton University Press	monograph	1993	2021						P	
+Surprise Attack		9780674039292							https://www.degruyter.com/openurl?genre=book&isbn=9780674039292	Kam	9780674039292		fulltext		Harvard University Press	monograph	2004	2021						P	
+Tales of Idolized Boys		9780824888930							https://www.degruyter.com/openurl?genre=book&isbn=9780824888930	Schmidt-Hori	9780824888930		fulltext		University of Hawaii Press	monograph	2021	2021						P	
+The Ambiguity of Play		9780674044180							https://www.degruyter.com/openurl?genre=book&isbn=9780674044180	Sutton-Smith	9780674044180		fulltext		Harvard University Press	monograph	2009	2021						P	
+The Art of Appreciation		9780520975897							https://www.degruyter.com/openurl?genre=book&isbn=9780520975897	Guthrie	9780520975897		fulltext		University of California Press	monograph	2021	2021						P	
+The Basic Writings of C.G. Jung		9780691229782							https://www.degruyter.com/openurl?genre=book&isbn=9780691229782		9780691229782		fulltext		Princeton University Press	monograph	1991	2021						P	
+The Behavior of Communicating		9780674043794							https://www.degruyter.com/openurl?genre=book&isbn=9780674043794	Smith	9780674043794		fulltext		Harvard University Press	monograph	1977	2021						P	
+The Best Laid Schemes		9781400831746							https://www.degruyter.com/openurl?genre=book&isbn=9781400831746		9781400831746		fulltext		Princeton University Press	monograph	2009	2021			MacLachlan			P	
+The Bolsheviks		9780674044531							https://www.degruyter.com/openurl?genre=book&isbn=9780674044531	Ulam	9780674044531		fulltext		Harvard University Press	monograph	1998	2021						P	
+The Cinema of Rithy Panh		9781978809833							https://www.degruyter.com/openurl?genre=book&isbn=9781978809833		9781978809833		fulltext		Rutgers University Press	monograph	2022	2021						P	
+The Consequences of Humiliation		9781501748691							https://www.degruyter.com/openurl?genre=book&isbn=9781501748691	Barnhart	9781501748691		fulltext		Cornell University Press	monograph	2020	2021						P	
+The Deepest Dye		9780674259300							https://www.degruyter.com/openurl?genre=book&isbn=9780674259300	Khan	9780674259300		fulltext		Harvard University Press	monograph	2021	2021						P	
+The Diplomats, 1919–1939		9780691229829							https://www.degruyter.com/openurl?genre=book&isbn=9780691229829	Gilbert	9780691229829		fulltext		Princeton University Press	monograph	1994	2021						P	
+The Economic Integration of Europe		9780674259454							https://www.degruyter.com/openurl?genre=book&isbn=9780674259454	Pomfret	9780674259454		fulltext		Harvard University Press	monograph	2021	2021						P	
+The Founding Fathers and the Politics of Character		9780691233536							https://www.degruyter.com/openurl?genre=book&isbn=9780691233536	Trees	9780691233536		fulltext		Princeton University Press	monograph	2003	2021						P	
+The Francis Daniel Pastorius Reader		9780271083889							https://www.degruyter.com/openurl?genre=book&isbn=9780271083889		9780271083889		fulltext		Penn State University Press	monograph	2019	2021			Erben			P	
+The Grace and the Severity of the Ideal		9780226818009							https://www.degruyter.com/openurl?genre=book&isbn=9780226818009	Kestenbaum	9780226818009		fulltext		University of Chicago Press	monograph	2002	2021						P	
+The Grand Contraption		9780691233185							https://www.degruyter.com/openurl?genre=book&isbn=9780691233185	Park	9780691233185		fulltext		Princeton University Press	monograph	2005	2021						P	
+The Knights Templar		9781641891691							https://www.degruyter.com/openurl?genre=book&isbn=9781641891691	Nicholson	9781641891691		fulltext		ARC, Amsterdam University Press	monograph	2021	2021						P	
+The Long Life of Magical Objects		9780271085357							https://www.degruyter.com/openurl?genre=book&isbn=9780271085357	Iafrate	9780271085357		fulltext		Penn State University Press	monograph	2019	2021						P	
+The Mystery of Courage		9780674041059							https://www.degruyter.com/openurl?genre=book&isbn=9780674041059	Miller	9780674041059		fulltext		Harvard University Press	monograph	2002	2021						P	
+The New World Written		9780300258127							https://www.degruyter.com/openurl?genre=book&isbn=9780300258127	Baranda	9780300258127		fulltext		Yale University Press	monograph	2021	2021						P	
+The Paranoid Style in American Diplomacy		9781503627925							https://www.degruyter.com/openurl?genre=book&isbn=9781503627925	Wolfe-Hunnicutt	9781503627925		fulltext		Stanford University Press	monograph	2021	2021						P	
+The Practice of Justice		9780674043664							https://www.degruyter.com/openurl?genre=book&isbn=9780674043664	Simon	9780674043664		fulltext		Harvard University Press	monograph	1998	2021						P	
+The Reader's Bible, A Narrative		9780691229836							https://www.degruyter.com/openurl?genre=book&isbn=9780691229836	Frye	9780691229836		fulltext		Princeton University Press	monograph	1978	2021						P	
+The Reformation of the Keys		9780674042797							https://www.degruyter.com/openurl?genre=book&isbn=9780674042797	Rittgers	9780674042797		fulltext		Harvard University Press	monograph	2004	2021						P	
+The Rhetorical Sense of Philosophy		9781501756368							https://www.degruyter.com/openurl?genre=book&isbn=9781501756368	Verene	9781501756368		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Shape of Sex		9780231551366							https://www.degruyter.com/openurl?genre=book&isbn=9780231551366	DeVun	9780231551366		fulltext		Columbia University Press	monograph	2020	2021						P	
+The Socialist System		9780691228020							https://www.degruyter.com/openurl?genre=book&isbn=9780691228020	Kornai	9780691228020		fulltext		Princeton University Press	monograph	1992	2021						P	
+The Student Aid Game		9780691230917							https://www.degruyter.com/openurl?genre=book&isbn=9780691230917	Schapiro	9780691230917		fulltext		Princeton University Press	monograph	1997	2021						P	
+The Suicide of Miss Xi		9780674259140							https://www.degruyter.com/openurl?genre=book&isbn=9780674259140	Goodman	9780674259140		fulltext		Harvard University Press	monograph	2021	2021						P	
+The Sustainable City		9780231551700							https://www.degruyter.com/openurl?genre=book&isbn=9780231551700	Cohen	9780231551700		fulltext		Columbia University Press	monograph	2021	2021						P	
+The Tenacity of Ethnicity		9780691228112							https://www.degruyter.com/openurl?genre=book&isbn=9780691228112	Balzer	9780691228112		fulltext		Princeton University Press	monograph	2000	2021						P	
+The Time Divide		9780674039049							https://www.degruyter.com/openurl?genre=book&isbn=9780674039049	Gerson	9780674039049		fulltext		Harvard University Press	monograph	2005	2021						P	
+To the Shores of Chile		9780271085388							https://www.degruyter.com/openurl?genre=book&isbn=9780271085388	Meuwese	9780271085388		fulltext		Penn State University Press	monograph	2019	2021						P	
+Top Graduate Zhang Xie		9780231552417							https://www.degruyter.com/openurl?genre=book&isbn=9780231552417		9780231552417		fulltext		Columbia University Press	monograph	2020	2021						P	
+Toward a Contextual Realism		9780674258723							https://www.degruyter.com/openurl?genre=book&isbn=9780674258723	Benoist	9780674258723		fulltext		Harvard University Press	monograph	2021	2021						P	
+Trading with the Enemy		9780300258837							https://www.degruyter.com/openurl?genre=book&isbn=9780300258837	Shovlin	9780300258837		fulltext		Yale University Press	monograph	2021	2021						P	
+Trauma and Dreams		9780674270534							https://www.degruyter.com/openurl?genre=book&isbn=9780674270534		9780674270534		fulltext		Harvard University Press	monograph	1996	2021			Barrett			P	
+True Blues		9780812297966							https://www.degruyter.com/openurl?genre=book&isbn=9780812297966	Hilton	9780812297966		fulltext		University of Pennsylvania Press	monograph	2021	2021						P	
+Tuscany in the Age of Empire		9780674258761							https://www.degruyter.com/openurl?genre=book&isbn=9780674258761	Brege	9780674258761		fulltext		Harvard University Press	monograph	2021	2021						P	
+Urban Rivalries in the French Revolution		9780691230887							https://www.degruyter.com/openurl?genre=book&isbn=9780691230887	Margadant	9780691230887		fulltext		Princeton University Press	monograph	1993	2021						P	
+Visual Differential Geometry and Forms		9780691219899							https://www.degruyter.com/openurl?genre=book&isbn=9780691219899	Needham	9780691219899		fulltext		Princeton University Press	monograph	2021	2021						P	
+War of No Pity		9781400832767							https://www.degruyter.com/openurl?genre=book&isbn=9781400832767	Herbert	9781400832767		fulltext		Princeton University Press	monograph	2007	2021						P	
+We Are Not Alone		9781644696149							https://www.degruyter.com/openurl?genre=book&isbn=9781644696149	Kellner	9781644696149		fulltext		Academic Studies Press	monograph	2021	2021						P	
+Whose View of Life?		9780674040434							https://www.degruyter.com/openurl?genre=book&isbn=9780674040434	Maienschein	9780674040434		fulltext		Harvard University Press	monograph	2003	2021						P	
+William James on Consciousness beyond the Margin		9781400822195							https://www.degruyter.com/openurl?genre=book&isbn=9781400822195	Taylor	9781400822195		fulltext		Princeton University Press	monograph	1996	2021						P	
+Writing Lives in the Eighteenth Century		9781684482306							https://www.degruyter.com/openurl?genre=book&isbn=9781684482306		9781684482306		fulltext		Bucknell University Press	monograph	2020	2021			Caldwell			P	
+Yankee No!		9780674040885							https://www.degruyter.com/openurl?genre=book&isbn=9780674040885	McPherson	9780674040885		fulltext		Harvard University Press	monograph	2003	2021						P	
+2021 : la odisea del 23-F 		9783968691145							https://www.degruyter.com/openurl?genre=book&isbn=9783968691145		9783968691145		fulltext		Vervuert Verlagsgesellschaft	monograph	2021	2021			 Benson			P	

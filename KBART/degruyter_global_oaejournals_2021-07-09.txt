@@ -1,0 +1,622 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE
+Acrocephalus		2199-6067	2009-10-21	30	140				https://sciendo.com/journal/ACRO		2199-6067		fulltext		Sciendo	serial								F
+Acta Biologica Marisiensis		2668-5124	2019-09-30	2	1				https://sciendo.com/journal/ABMJ		2668-5124		fulltext		Sciendo	serial								F
+Acta Chemica Iasi		2067-2446	2013-04-16	21	1				https://sciendo.com/journal/ACHI		2067-2446		fulltext		Sciendo	serial								F
+Acta Chemica Malaysia		2576-6732	2019-04-30	3	1				https://sciendo.com/journal/ACMY		2576-6732		fulltext		Sciendo	serial								F
+Acta Chimica Slovaca		1339-3065	2012-12-10	5	1				https://sciendo.com/journal/ACS		1339-3065		fulltext		Sciendo	serial								F
+Acta Chirurgica Latviensis		2199-5737	2010-08-18	2009	9				https://sciendo.com/journal/CHILAT		2199-5737		fulltext		Sciendo	serial								F
+Acta Economica Et Turistica		1849-921X	2016-06-16	1	1				https://sciendo.com/journal/AET		1849-921X		fulltext		Sciendo	serial								F
+Acta Educationis Generalis		2585-7444	2015-04-16	5	1				https://sciendo.com/journal/ATD		2585-7444		fulltext		Sciendo	serial								F
+Acta Environmentalica Universitatis Comenianae		1339-9802	2016-04-16	24	1				https://sciendo.com/journal/AEUC		1339-9802		fulltext		Sciendo	serial								F
+Acta Facultatis Educationis Physicae Universitatis Comenianae		2585-8777	2015-04-16	55	1				https://sciendo.com/journal/AFEPUC		2585-8777		fulltext		Sciendo	serial								F
+Acta Geoturistica		1338-2292	2017-04-16	8	1				https://sciendo.com/journal/AGTA		1338-2292		fulltext		Sciendo	serial								F
+Acta Haematologica Polonica		2300-7117	2018-03-30	49	1				https://sciendo.com/journal/AHP		2300-7117		fulltext		Sciendo	serial								F
+Acta Horticulturae et Regiotecturae		1338-5259	2013-04-16	16	1				https://sciendo.com/journal/AHR		1338-5259		fulltext		Sciendo	serial								F
+Acta Marisiensis - Seria Medica		2668-7763	2013-03-17	59	1				https://sciendo.com/journal/AMMA		2668-7763		fulltext		Sciendo	serial								F
+Acta Marisiensis. Philologia		2668-9596	2020-07-20	1	1				https://sciendo.com/journal/AMPH		2668-9596		fulltext		Sciendo	serial								F
+Acta Marisiensis. Seria Historia		2668-9715	2019-12-20	19	1				https://sciendo.com/journal/AMSH		2668-9715		fulltext		Sciendo	serial								F
+Acta Marisiensis. Seria Oeconomica		2668-3989	2019-09-30	13	1				https://sciendo.com/journal/AMSO		2668-3989		fulltext		Sciendo	serial								F
+Acta Marisiensis. Seria Technologica		2668-4217	2019-07-30	16	1				https://sciendo.com/journal/AMSET		2668-4217		fulltext		Sciendo	serial								F
+Acta Materialia Transylvanica		2601-8799	2018-12-30	8	1				https://sciendo.com/journal/AMT		2601-8799		fulltext		Sciendo	serial								F
+Acta Mechanica et Automatica		2300-5319	2013-03-30	7	1				https://sciendo.com/journal/AMA		2300-5319		fulltext		Sciendo	serial								F
+Acta Medica Bulgarica		2719-5384	2014-09-08	41	1				https://sciendo.com/journal/AMB		2719-5384		fulltext		Sciendo	serial								F
+Acta Medica Martiniana		1338-4139	2011-06-03	11	1				https://sciendo.com/journal/ACM		1338-4139		fulltext		Sciendo	serial								F
+Acta Medica Transilvanica		2285-7079	2019-06-30	24	1				https://sciendo.com/journal/AMTSB		2285-7079		fulltext		Sciendo	serial								F
+Acta Musei Silesiae, Scientiae Naturales		2336-3207	2011-07-14	60	1				https://sciendo.com/journal/CSZMA		2336-3207		fulltext		Sciendo	serial								F
+Acta Pharmaceutica		1846-9558	2007-02-28	57	1				https://sciendo.com/journal/ACPH		1846-9558		fulltext		Sciendo	serial								F
+Acta Regionalia et Environmentalica		1336-9253	2013-09-08	10	1				https://sciendo.com/journal/AREE		1336-9253		fulltext		Sciendo	serial								F
+Acta Scientiarum Polonorum Architectura		2544-1760	2020-04-20	19	1				https://sciendo.com/journal/ASPA		2544-1760		fulltext		Sciendo	serial								F
+Acta Scientifica Naturalis		2603-347X	2015-12-15	3	1				https://sciendo.com/journal/ASN		2603-347X		fulltext		Sciendo	serial								F
+Acta Stomatologica Marisiensis Journal		2601-6877	2019-12-20	2	1				https://sciendo.com/journal/ASMJ		2601-6877		fulltext		Sciendo	serial								F
+Acta Technologica Agriculturae		1338-5267	2013-04-15	16	1				https://sciendo.com/journal/ATA		1338-5267		fulltext		Sciendo	serial								F
+Acta Terrae Septemcastrensis		2392-6163	2019-12-31	19	1				https://sciendo.com/journal/ACTATR		2392-6163		fulltext		Sciendo	serial								F
+Acta Universitatis Bohemiae Meridionalis		2336-4297	2016-04-16	2	1				https://sciendo.com/journal/ACTA		2336-4297		fulltext		Sciendo	serial								F
+Acta Universitatis Cibiniensis. Series E: Food Technology		2344-150X	2013-04-16	17	1				https://sciendo.com/journal/AUCFT		2344-150X		fulltext		Sciendo	serial								F
+Acta Universitatis Cibiniensis. Technical Series		2668-6449	2014-01-03	64	1				https://sciendo.com/journal/AUCTS		2668-6449		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Agriculture and Environment		2068-2964	2013-12-15	5	1				https://sciendo.com/journal/AUSAE		2068-2964		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Alimentaria		2066-7744	2015-12-12	8	1				https://sciendo.com/journal/AUSAL		2066-7744		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Communicatio		2537-2793	2017-12-15	4	1				https://sciendo.com/journal/AUSCOM		2537-2793		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Economics and Business		2360-0047	2013-12-15	1	1				https://sciendo.com/journal/AUSEB		2360-0047		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Electrical and Mechanical Engineering		2066-8910	2017-12-15	8	1				https://sciendo.com/journal/AUSEME		2066-8910		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, European and Regional Studies		2068-7583	2015-04-16	6	1				https://sciendo.com/journal/AUSEUR		2068-7583		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Film and Media Studies		2066-7779	2013-09-08	7	1				https://sciendo.com/journal/AUSFM		2066-7779		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Informatica		2066-7760	2013-09-08	5	1				https://sciendo.com/journal/AUSI		2066-7760		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Mathematica		2066-7752	2013-09-08	5	1				https://sciendo.com/journal/AUSM		2066-7752		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Philologica		2068-2956	2013-09-08	4	1				https://sciendo.com/journal/AUSP		2068-2956		fulltext		Sciendo	serial								F
+Acta Universitatis Sapientiae, Social Analysis		2248-0854	2017-12-15	7	1				https://sciendo.com/journal/AUSSOC		2248-0854		fulltext		Sciendo	serial								F
+Acta Veterinaria		1820-7448	2014-06-09	64	1				https://sciendo.com/journal/ACVE		1820-7448		fulltext		Sciendo	serial								F
+Addiction Genetics		2084-7688	2012-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2084-7688		2084-7688		fulltext		De Gruyter Open Access	serial								F
+Administory		2519-1187	2018-10-30	3	1				https://sciendo.com/journal/ADHI		2519-1187		fulltext		Sciendo	serial								F
+Administration		2449-9471	2015-04-15	1	1				https://sciendo.com/journal/ADMIN		2449-9471		fulltext		Sciendo	serial								F
+Advanced Research in Life Sciences		2543-8050	2017-12-15	1	1				https://sciendo.com/journal/ARLS		2543-8050		fulltext		Sciendo	serial								F
+Advances in Laboratory Medicine / Avances en Medicina de Laboratorio 		2628-491X	2020-03-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2628-491X		2628-491X		fulltext		De Gruyter	serial								F
+Advances in Manufacturing Science and Technology		2300-2565	2012-03-01	36	1				https://sciendo.com/journal/AMST		2300-2565		fulltext		Sciendo	serial								F
+Advances in Materials Science		2083-4799	2008-09-23	8	1				https://sciendo.com/journal/ADMS		2083-4799		fulltext		Sciendo	serial								F
+Advances in Nonlinear Analysis	2191-9496	2191-950X	2012-03-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-950X		2191-950X		fulltext		De Gruyter	serial								F
+Aging Care		2544-7289	2018-03-30	1	1				https://sciendo.com/journal/AGCA		2544-7289		fulltext		Sciendo	serial								F
+Agricultura Tropica et Subtropica		1801-0571	2012-03-15	45	1				https://sciendo.com/journal/ATS		1801-0571		fulltext		Sciendo	serial								F
+Agricultural Engineering		2449-5999	2016-03-12	20	1				https://sciendo.com/journal/AGRICENG		2449-5999		fulltext		Sciendo	serial								F
+“Agriculture for Life, Life for Agriculture” Conference Proceedings		2601-6222	2018-06-30	1	1				https://sciendo.com/journal/ALIFE		2601-6222		fulltext		Sciendo	serial								F
+Agriculture (Pol'nohospodárstvo) 		1338-4376	2011-06-06	57	1				https://sciendo.com/journal/AGRI		1338-4376		fulltext		Sciendo	serial								F
+American, British and Canadian Studies		1841-964X	2012-12-30	19	1				https://sciendo.com/journal/ABCSJ		1841-964X		fulltext		Sciendo	serial								F
+Amylase		2450-9728	2016-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2450-9728		2450-9728		fulltext		De Gruyter Open Access	serial								F
+Analele Universitatii "Ovidius" Constanta - Seria Matematica		1844-0835	2012-04-15	20	1				https://sciendo.com/journal/AUOM		1844-0835		fulltext		Sciendo	serial								F
+Analysis and Geometry in Metric Spaces		2299-3274	2013-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-3274		2299-3274		fulltext		De Gruyter Open Access	serial								F
+Analysis of Current Trends in Antisemitism - ACTA		2568-9347	2018-03-20	39	1				https://www.degruyter.com/openurl?genre=journal&issn=2568-9347		2568-9347		fulltext		De Gruyter Oldenbourg	serial								F
+Animal Migration		2084-8838	2012-08-08	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2084-8838		2084-8838		fulltext		De Gruyter Open Access	serial								F
+Annales Mathematicae Silesianae		2391-4238	2015-12-12	29	1				https://sciendo.com/journal/AMSIL		2391-4238		fulltext		Sciendo	serial								F
+Annales Universitatis Paedagogicae Cracoviensis. Studia Mathematica		2300-133X	2013-11-30	12	1				https://sciendo.com/journal/AUPCSM		2300-133X		fulltext		Sciendo	serial								F
+Annals of Animal Science		2300-8733	2011-11-25	11	4				https://sciendo.com/journal/AOAS		2300-8733		fulltext		Sciendo	serial								F
+Annals of Science and Technology		2544-6320	2017-04-16	2	1				https://sciendo.com/journal/AST		2544-6320		fulltext		Sciendo	serial								F
+Annals of the Alexandru Ioan Cuza University - Economics		2068-8717	2012-04-16	59	1				https://sciendo.com/journal/AICUE		2068-8717		fulltext		Sciendo	serial								F
+Annals of Valahia University of Targoviste, Geographical Series		2393-1493	2016-04-16	16	1				https://sciendo.com/journal/AVUTGS		2393-1493		fulltext		Sciendo	serial								F
+Annals of West University of Timisoara - Mathematics and Computer Science		1841-3307	2012-06-10	50	1				https://sciendo.com/journal/AWUTM		1841-3307		fulltext		Sciendo	serial								F
+Annals of West University of Timisoara - Physics		2784-1057	2012-12-15	1	1				https://sciendo.com/journal/AWUTP		2784-1057		fulltext		Sciendo	serial								F
+Annals ”Valahia” University of Targoviste - Agriculture		2537-3137	2016-04-16	10	1				https://sciendo.com/journal/AGR		2537-3137		fulltext		Sciendo	serial								F
+Anthropological Review		2083-4594	2008-01-24	70	1				https://sciendo.com/journal/ANRE		2083-4594		fulltext		Sciendo	serial								F
+Applied Computer Systems		2255-8691	2012-11-08	13	1				https://sciendo.com/journal/ACSS		2255-8691		fulltext		Sciendo	serial								F
+Applied Mathematics and Nonlinear Sciences		2444-8656	2018-06-30	1	1				https://sciendo.com/journal/AMNS		2444-8656		fulltext		Sciendo	serial								F
+Applied Rheology		1617-8106	2018-08-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1617-8106		1617-8106		fulltext		De Gruyter Open Access	serial								F
+ARCHITECTURAE ET ARTIBUS		2719-793X	2021-05-20	13	1				https://sciendo.com/journal/AEA		2719-793X		fulltext		Sciendo	serial								F
+Architecture and Urban Planning		2255-8764	2015-04-16	10	1				https://sciendo.com/journal/AUP		2255-8764		fulltext		Sciendo	serial								F
+Architecture Papers of the Faculty of Architecture and Design STU		2729-7640	2020-06-20	26	1				https://sciendo.com/journal/ALFA		2729-7640		fulltext		Sciendo	serial								F
+Archiva Zootechnica		2344-4592	2020-12-20	15	1				https://sciendo.com/journal/AZIBNA		2344-4592		fulltext		Sciendo	serial								F
+Archives of Hydro-Engineering and Environmental Mechanics		2300-8687	2012-06-20	59	1-2				https://sciendo.com/journal/HEEM		2300-8687		fulltext		Sciendo	serial								F
+Archives of Industrial Hygiene and Toxicology		1848-6312	2007-03-26	58	1				https://sciendo.com/journal/AIHT		1848-6312		fulltext		Sciendo	serial								F
+Archives of Mechanical Technology and Materials		2450-9469	2016-12-15	34	1				https://sciendo.com/journal/AMTM		2450-9469		fulltext		Sciendo	serial								F
+Archives of Photogrammetry, Cartography and Remote Sensing		2391-9477	2019-12-31	31	1				https://sciendo.com/journal/APCRS		2391-9477		fulltext		Sciendo	serial								F
+Ars Aeterna		2450-8497	2014-09-08	6	1				https://sciendo.com/journal/AA		2450-8497		fulltext		Sciendo	serial								F
+ARS Medica Tomitana		1841-4036	2012-03-15	18	1				https://sciendo.com/journal/ARSM		1841-4036		fulltext		Sciendo	serial								F
+Art History & Criticism		1822-4547	2017-12-15	13	1				https://sciendo.com/journal/MIK		1822-4547		fulltext		Sciendo	serial								F
+Artes. Journal of Musicology		2558-8532	2018-06-30	17	1				https://sciendo.com/journal/AJM		2558-8532		fulltext		Sciendo	serial								F
+Artificial Satellites		2083-6104	2007-05-03	41	1				https://sciendo.com/journal/ARSA		2083-6104		fulltext		Sciendo	serial								F
+Asian Biomedicine		1875-855X	2015-02-22	9	1				https://sciendo.com/journal/ABM		1875-855X		fulltext		Sciendo	serial								F
+Austrian Journal of Earth Sciences		2072-7151	2018-06-30	111	1				https://sciendo.com/journal/AJES		2072-7151		fulltext		Sciendo	serial								F
+Autex Research Journal		2300-0929	2012-03-15	12	1				https://sciendo.com/journal/AUT		2300-0929		fulltext		Sciendo	serial								F
+Balkan Journal of Dental Medicine		2335-0245	2014-03-06	18	1				https://sciendo.com/journal/BJDM		2335-0245		fulltext		Sciendo	serial								F
+Balkan Journal of Medical Genetics 		2199-5761	2007-10-10	10	1				https://sciendo.com/journal/BJMG		2199-5761		fulltext		Sciendo	serial								F
+Balkan Region Conference on Engineering and Business Education		2391-8160	2012-12-15	33	1				https://sciendo.com/journal/CPLBU		2391-8160		fulltext		Sciendo	serial								F
+Baltic Journal of Law & Politics		2029-0454	2009-02-05	1	1				https://sciendo.com/journal/BJLP		2029-0454		fulltext		Sciendo	serial								F
+Baltic Journal of Political Science		2424-5488	2012-03-30	1	1				https://sciendo.com/journal/BJPS		2424-5488		fulltext		Sciendo	serial								F
+Baltic Journal of Real Estate Economics and Construction Management		2255-9671	2015-12-15	3	1				https://sciendo.com/journal/BJREECM		2255-9671		fulltext		Sciendo	serial								F
+Baltic Screen Media Review		2346-5522	2013-12-15	1	1				https://sciendo.com/journal/BSMR		2346-5522		fulltext		Sciendo	serial								F
+Baltic-Pontic Studies		2719-5422	2013-12-15	34	1				https://sciendo.com/journal/BPS		2719-5422		fulltext		Sciendo	serial								F
+BANTAO Journal		2451-3105	2014-09-08	12	1				https://sciendo.com/journal/BJ		2451-3105		fulltext		Sciendo	serial								F
+BioCosmos		2719-8634	2021-06-20	1	1				https://sciendo.com/journal/BIOCOSMOS		2719-8634		fulltext		Sciendo	serial								F
+Biodiversity Research and Conservation 		2080-945X	2010-05-17	13	13				https://sciendo.com/journal/BIORC		2080-945X		fulltext		Sciendo	serial								F
+Biological Letters 		1734-7467	2010-07-12	46	1				https://sciendo.com/journal/BIOLET		1734-7467		fulltext		Sciendo	serial								F
+Biomedical Glasses		2299-3932	2015-12-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-3932		2299-3932		fulltext		De Gruyter Open Access	serial								F
+Biomedical Human Kinetics		2080-2234	2009-04-06	1	1				https://sciendo.com/journal/BHK		2080-2234		fulltext		Sciendo	serial								F
+Biometrical Letters		2199-577X	2012-04-10	49	1				https://sciendo.com/journal/BILE		2199-577X		fulltext		Sciendo	serial								F
+Biomolecular Concepts	1868-5021	1868-503X	2010-05-26	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1868-503X		1868-503X		fulltext		De Gruyter	serial								F
+BioNanoMaterials	2193-0651	2193-066X	2000-06-10	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2193-066X		2193-066X		fulltext		De Gruyter	serial								F
+Biuletyn Historii Wychowania		2657-9286	2018-09-20	1	1				https://sciendo.com/journal/BHE		2657-9286		fulltext		Sciendo	serial								F
+Board Game Studies Journal		2183-3311	2016-12-15	9	1				https://sciendo.com/journal/BGS		2183-3311		fulltext		Sciendo	serial								F
+Botanica		2538-8657	2012-06-01	18	1				https://sciendo.com/journal/BOTLIT		2538-8657		fulltext		Sciendo	serial								F
+British Journal of American Legal Studies		2719-5864	2016-04-16	5	1				https://sciendo.com/journal/BJALS		2719-5864		fulltext		Sciendo	serial								F
+Bulletin of Geography. Physical Geography Series		2300-8490	2012-12-28	5	1				https://sciendo.com/journal/BGEO		2300-8490		fulltext		Sciendo	serial								F
+Bulletin of Geography. Socio-economic Series		2083-8298	2008-12-22	9	9				https://sciendo.com/journal/BOG		2083-8298		fulltext		Sciendo	serial								F
+Bulletin of Medical Sciences		2537-5059	2018-06-30	91	1				https://sciendo.com/journal/ORVTUDERT		2537-5059		fulltext		Sciendo	serial								F
+Bulletin of the Veterinary Institute in Pulawy		2300-3235	2013-01-17	56	1				https://sciendo.com/journal/BVIP		2300-3235		fulltext		Sciendo	serial								F
+Business Systems Research Journal		1847-9375	2010-06-10	1	1-2				https://sciendo.com/journal/BSRJ		1847-9375		fulltext		Sciendo	serial								F
+Carpathian Journal of Electronic and Computer Engineering		2343-8908	2018-09-30	11	1				https://sciendo.com/journal/CJECE		2343-8908		fulltext		Sciendo	serial								F
+Catalysis for Sustainable Energy		2084-6819	2012-08-09	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2084-6819		2084-6819		fulltext		De Gruyter Open Access	serial								F
+Cell Pathology		2300-4266	2014-08-07	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-4266		2300-4266		fulltext		De Gruyter Open Access	serial								F
+Central and Eastern European Review		1752-7503	2014-12-15	8	1				https://sciendo.com/journal/CAEER		1752-7503		fulltext		Sciendo	serial								F
+Central European Economic Journal		2543-6821	2015-03-30	48	1				https://sciendo.com/journal/CEEJ		2543-6821		fulltext		Sciendo	serial								F
+Central European Forestry Journal		2454-0358	2009-12-14	55	1				https://sciendo.com/journal/FORJ		2454-0358		fulltext		Sciendo	serial								F
+Central European Journal of Clinical Research		2601-9388	2018-09-30	1	1				https://sciendo.com/journal/CEJCR		2601-9388		fulltext		Sciendo	serial								F
+Central European Journal of Public Policy		1802-4866	2015-04-16	9	1				https://sciendo.com/journal/CEJPP		1802-4866		fulltext		Sciendo	serial								F
+Central European Management Journal		2658-2430	2015-03-30	23	1				https://sciendo.com/journal/JMBACE		2658-2430		fulltext		Sciendo	serial								F
+Cercetari Agronomice in Moldova		2067-1865	2011-10-15	45	1				https://sciendo.com/journal/CERCE		2067-1865		fulltext		Sciendo	serial								F
+Change and Adaptation in Socio-Ecological Systems		2300-3669	2014-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-3669		2300-3669		fulltext		De Gruyter Open Access	serial								F
+Chemistry Teacher International 		2569-3263	2019-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2569-3263		2569-3263		fulltext		De Gruyter	serial								F
+Chemistry-Didactics-Ecology-Metrology		2084-4506	2012-06-15	17	1				https://sciendo.com/journal/CDEM		2084-4506		fulltext		Sciendo	serial								F
+China Finance and Economic Review	2095-4638	2196-5633	2013-06-20	2	2				https://www.degruyter.com/openurl?genre=journal&issn=2196-5633		2196-5633		fulltext		De Gruyter	serial								F
+Chinese and Arab Studies 		2747-7460	2021-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2747-7460		2747-7460		fulltext		De Gruyter	serial								F
+Chinese Journal of Slavic Studies		2747-7487	2021-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2747-7487		2747-7487		fulltext		De Gruyter	serial								F
+Civil and Environmental Engineering		2199-6512	2014-04-16	10	1				https://sciendo.com/journal/CEE		2199-6512		fulltext		Sciendo	serial								F
+Civil and Environmental Engineering Reports		2450-8594	2014-03-30	12	1				https://sciendo.com/journal/CEER		2450-8594		fulltext		Sciendo	serial								F
+Communications in Applied and Industrial Mathematics		2038-0909	2014-12-15	7	1				https://sciendo.com/journal/CAIM		2038-0909		fulltext		Sciendo	serial								F
+Communications in Mathematics		2336-1298	2016-04-16	23	1				https://sciendo.com/journal/CM		2336-1298		fulltext		Sciendo	serial								F
+Comparative Legilinguistics 		2391-4491	2019-12-20	37	1				https://sciendo.com/journal/CL		2391-4491		fulltext		Sciendo	serial								F
+Comparative Southeast European Studies	2701-8199	2701-8202	2016-03-15	64	1				https://www.degruyter.com/openurl?genre=journal&issn=2701-8202		2701-8202		fulltext		De Gruyter Oldenbourg	serial								F
+Complex Manifolds		2300-7443	2014-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-7443		2300-7443		fulltext		De Gruyter Open Access	serial								F
+Computational and Mathematical Biophysics		2544-7297	2013-03-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2544-7297		2544-7297		fulltext		De Gruyter Open Access	serial								F
+Concrete Operators		2299-3282	2013-10-23	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-3282		2299-3282		fulltext		De Gruyter Open Access	serial								F
+Conference Quality Production Improvement – CQPI		2657-8603	2019-08-30	1	1				https://sciendo.com/journal/CQPI		2657-8603		fulltext		Sciendo	serial								F
+Confrontation and Cooperation: 1000 Years of Polish-German-Russian Relations		2391-5536	2014-02-15	1	1				https://sciendo.com/journal/CONC		2391-5536		fulltext		Sciendo	serial								F
+Conjunctions		2246-3755	2021-04-20	8	1				https://sciendo.com/journal/TJCP		2246-3755		fulltext		Sciendo	serial								F
+Contemporary Agriculture		2466-4774	2016-04-16	65	1				https://sciendo.com/journal/CONTAGRI		2466-4774		fulltext		Sciendo	serial								F
+Contemporary Japan	1869-2729	1869-2737	2010-10-20	22	1/2				https://www.degruyter.com/openurl?genre=journal&issn=1869-2737		1869-2737		fulltext		De Gruyter Mouton	serial								F
+Contributions to Tobacco & Nicotine Research		2719-9509	1961-03-14	1	1				https://sciendo.com/journal/CTTR		2719-9509		fulltext		Sciendo	serial								F
+Creativity. Theories – Research - Applications		2354-0036	2015-04-16	20	1				https://sciendo.com/journal/CTRA		2354-0036		fulltext		Sciendo	serial								F
+Croatian Journal of Fisheries		1848-0586	2016-03-30	76	1				https://sciendo.com/journal/CJF		1848-0586		fulltext		Sciendo	serial								F
+Croatian Regional Development Journal		2718-4978	2020-06-20	1	1				https://sciendo.com/journal/CRDJ		2718-4978		fulltext		Sciendo	serial								F
+Croatian Review of Economic, Business and Social Statistics		2459-5616	2016-04-16	2	1				https://sciendo.com/journal/CREBSS		2459-5616		fulltext		Sciendo	serial								F
+Cultural Diversity in China	2353-995X	2353-7795	2015-08-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2353-7795		2353-7795		fulltext		De Gruyter	serial								F
+Cultural Science Journal		1836-0416	2021-12-20	14	1				https://sciendo.com/journal/CSJ		1836-0416		fulltext		Sciendo	serial								F
+Culture - Society - Education		2719-2717	2018-11-20	1	13				https://sciendo.com/journal/KSE		2719-2717		fulltext		Sciendo	serial								F
+Current Directions in Biomedical Engineering		2364-5504	2015-09-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2364-5504		2364-5504		fulltext		De Gruyter	serial								F
+Current Issues in Pharmacy and Medical Sciences		2300-6676	2014-03-30	27	1				https://sciendo.com/journal/CIPMS		2300-6676		fulltext		Sciendo	serial								F
+Current Problems of Psychiatry		2353-8627	2016-03-30	17	1				https://sciendo.com/journal/CPP		2353-8627		fulltext		Sciendo	serial								F
+Current Topics in Biophysics		2084-1892	2012-07-20	34	1				https://sciendo.com/journal/CTB		2084-1892		fulltext		Sciendo	serial								F
+Curved and Layered Structures		2353-7396	2014-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2353-7396		2353-7396		fulltext		De Gruyter Open Access	serial								F
+Cybernetics and Information Technologies		1314-4081	2012-03-13	12	1				https://sciendo.com/journal/CAIT		1314-4081		fulltext		Sciendo	serial								F
+Czech Journal of Tourism		1805-9767	2013-09-08	2	1				https://sciendo.com/journal/CJOT		1805-9767		fulltext		Sciendo	serial								F
+DANUBE		1804-8285	2013-03-06	4	1				https://sciendo.com/journal/DANB		1804-8285		fulltext		Sciendo	serial								F
+Data and Information Management		2543-9251	2017-03-30	1	1				https://sciendo.com/journal/DIM		2543-9251		fulltext		Sciendo	serial								F
+Demonstratio Mathematica		2391-4661	2014-04-15	47	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-4661		2391-4661		fulltext		De Gruyter Open Access	serial								F
+Dependence Modeling		2300-2298	2013-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-2298		2300-2298		fulltext		De Gruyter Open Access	serial								F
+Diabetic Nephropathy		2719-3500	2020-06-20	1	1				https://sciendo.com/journal/DINE		2719-3500		fulltext		Sciendo	serial								F
+Die Bodenkultur: Journal of Land Management, Food and Environment 		2719-5430	2016-03-30	67	1				https://sciendo.com/journal/BOKU		2719-5430		fulltext		Sciendo	serial								F
+Dimensions		2747-5093	2021-04-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2747-5093		2747-5093		fulltext		transcript Verlag	serial								F
+Discourse and Communication for Sustainable Education		2255-7547	2010-06-15	1	1				https://sciendo.com/journal/DCSE		2255-7547		fulltext		Sciendo	serial								F
+Discussiones  Mathematicae - General Algebra and Applications		2084-0373	2017-04-16	37	1				https://sciendo.com/journal/DMGAA		2084-0373		fulltext		Sciendo	serial								F
+Discussiones Mathematicae Graph Theory		2083-5892	2013-04-16	33	1				https://sciendo.com/journal/DMGT		2083-5892		fulltext		Sciendo	serial								F
+Disputatio		2182-2875	2017-04-16	9	1				https://sciendo.com/journal/DISP		2182-2875		fulltext		Sciendo	serial								F
+Documenta Haematologica		1582-196X	2015-04-16	33	1				https://sciendo.com/journal/DCH		1582-196X		fulltext		Sciendo	serial								F
+Eastern European Countryside		2300-8717	2010-01-25	15	15				https://sciendo.com/journal/EEC		2300-8717		fulltext		Sciendo	serial								F
+East-West Cultural Passage		2067-5712	2019-08-30	19	1				https://sciendo.com/journal/EWCP		2067-5712		fulltext		Sciendo	serial								F
+Ecological Chemistry and Engineering S		2084-4549	2011-11-08	19	1				https://sciendo.com/journal/ECES		2084-4549		fulltext		Sciendo	serial								F
+Econometric Research in Finance		2451-2370	2020-12-20	1	1				https://sciendo.com/journal/ERFIN		2451-2370		fulltext		Sciendo	serial								F
+Econometrics		2449-9994	2018-03-30	54	1				https://sciendo.com/journal/EADA		2449-9994		fulltext		Sciendo	serial								F
+Economic and Regional Studies / Studia Ekonomiczne i Regionalne		2451-182X	2017-03-30	10	1				https://sciendo.com/journal/ERS		2451-182X		fulltext		Sciendo	serial								F
+Economic Themes		2217-3668	2014-04-15	52	1				https://sciendo.com/journal/ETHEMES		2217-3668		fulltext		Sciendo	serial								F
+Economics		1864-6042	2020-12-20	14	1				https://www.degruyter.com/openurl?genre=journal&issn=1864-6042		1864-6042		fulltext		De Gruyter Open Access	serial								F
+ECONOMICS		2303-5013	2015-09-08	3	1				https://sciendo.com/journal/EOIK		2303-5013		fulltext		Sciendo	serial								F
+Economics and Business		2256-0394	2015-04-16	27	1				https://sciendo.com/journal/EB		2256-0394		fulltext		Sciendo	serial								F
+Economics and Business Review		2450-0097	2018-03-30	1	1				https://sciendo.com/journal/EBRPL		2450-0097		fulltext		Sciendo	serial								F
+Economics and Culture		2256-0173	2016-06-16	13	1				https://sciendo.com/journal/JEC		2256-0173		fulltext		Sciendo	serial								F
+e-Journal of Analysis and Applied Mathematics		2544-9990	2018-05-30	1	1				https://sciendo.com/journal/EJAAM		2544-9990		fulltext		Sciendo	serial								F
+Ekológia (Bratislava)		1337-947X	2013-03-06	32	1				https://sciendo.com/journal/EKO		1337-947X		fulltext		Sciendo	serial								F
+Ekonomika (Economics)		2424-6166	2016-06-30	95	1				https://sciendo.com/journal/EKON		2424-6166		fulltext		Sciendo	serial								F
+Electrical, Control and Communication Engineering 		2255-9159	2012-12-15	4	1				https://sciendo.com/journal/ECCE		2255-9159		fulltext		Sciendo	serial								F
+Electrochemical Energy Technology		2300-3545	2014-12-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-3545		2300-3545		fulltext		De Gruyter Open Access	serial								F
+Endocrine Regulations		1336-0329	2016-03-30	50	1				https://sciendo.com/journal/ENR		1336-0329		fulltext		Sciendo	serial								F
+Energy Today		2509-6532	2017-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2509-6532		2509-6532		fulltext		De Gruyter	serial								F
+Engineering Management in Production and Services		2543-912X	2016-03-30	8	1				https://sciendo.com/journal/EMJ		2543-912X		fulltext		Sciendo	serial								F
+Englishes in Practice		2049-7156	2014-03-15	1	1				https://sciendo.com/journal/EIP		2049-7156		fulltext		Sciendo	serial								F
+Environmental & Socio-economic Studies		2354-0079	2013-04-15	1	1				https://sciendo.com/journal/ENVIRON		2354-0079		fulltext		Sciendo	serial								F
+Environmental and Climate Technologies		2255-8837	2010-03-26	3	3				https://sciendo.com/journal/RTUECT		2255-8837		fulltext		Sciendo	serial								F
+Environmental Protection and Natural Resources 		2353-8589	2013-02-07	24	1				https://sciendo.com/journal/OSZN		2353-8589		fulltext		Sciendo	serial								F
+e-Polymers 	2197-4586	1618-7229	2001-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1618-7229		1618-7229		fulltext		De Gruyter	serial								F
+e-TEALS		1647-712X	2014-12-12	5	1				https://sciendo.com/journal/ETEALS		1647-712X		fulltext		Sciendo	serial								F
+Ethics & Bioethics		2453-7829	2016-04-16	6	1				https://sciendo.com/journal/EBCE		2453-7829		fulltext		Sciendo	serial								F
+Ethnologia Actualis		1339-7877	2014-06-15	14	1				https://sciendo.com/journal/EAS		1339-7877		fulltext		Sciendo	serial								F
+EU agrarian Law		1339-9276	2013-06-20	2	1				https://sciendo.com/journal/EUAL		1339-9276		fulltext		Sciendo	serial								F
+European Countryside		1803-8417	2009-02-24	1	1				https://sciendo.com/journal/EUCO		1803-8417		fulltext		Sciendo	serial								F
+European Journal for the Study of Thomas Aquinas		2657-3555	2018-12-30	37	1				https://sciendo.com/journal/EJSTA		2657-3555		fulltext		Sciendo	serial								F
+European Journal of Open, Distance and E-Learning		1027-5207	2014-09-08	17	1				https://sciendo.com/journal/EURODL		1027-5207		fulltext		Sciendo	serial								F
+European Journal of Tourism, Hospitality and Recreation		2182-4924	2016-04-30	6	1				https://sciendo.com/journal/EJTHR		2182-4924		fulltext		Sciendo	serial								F
+European Pharmaceutical Journal		2453-6725	2011-11-25	58	1				https://sciendo.com/journal/AFPUC		2453-6725		fulltext		Sciendo	serial								F
+European Polygraph		2380-0550	2014-03-30	8	1				https://sciendo.com/journal/EP		2380-0550		fulltext		Sciendo	serial								F
+European Review Of Applied Sociology		2286-2552	2015-04-16	8	1				https://sciendo.com/journal/ERAS		2286-2552		fulltext		Sciendo	serial								F
+ExELL		2303-4858	2014-09-08	2	1				https://sciendo.com/journal/EXELL		2303-4858		fulltext		Sciendo	serial								F
+Fatigue of Aircraft Structures		2300-7591	2010-09-23	1	1				https://sciendo.com/journal/FAS		2300-7591		fulltext		Sciendo	serial								F
+Financial Internet Quarterly		2719-3454	2015-03-30	11	1				https://sciendo.com/journal/FIQF		2719-3454		fulltext		Sciendo	serial								F
+Financial Sciences. Nauki o Finansach		2449-9811	2018-03-30	34	1				https://sciendo.com/journal/FINS		2449-9811		fulltext		Sciendo	serial								F
+Fisheries & Aquatic Life		2545-059X	2008-12-30	16	1				https://sciendo.com/journal/AOPF		2545-059X		fulltext		Sciendo	serial								F
+Flame Retardancy and Thermal Stability of Materials		2391-5404	2015-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5404		2391-5404		fulltext		De Gruyter Open Access	serial								F
+Folia Forestalia Polonica		2199-5907	2013-03-15	55	1				https://sciendo.com/journal/FFP		2199-5907		fulltext		Sciendo	serial								F
+Folia Horticulturae		2083-5965	2008-06-20	20	1				https://sciendo.com/journal/FHORT		2083-5965		fulltext		Sciendo	serial								F
+Folia Musei rerum naturalium Bohemiae occidentalis. Geologica et Paleobiologica		1805-286X	2013-04-16	47	1				https://sciendo.com/journal/FBGP		1805-286X		fulltext		Sciendo	serial								F
+Folia Oecologica		1338-7014	2017-04-16	44	1				https://sciendo.com/journal/FOECOL		1338-7014		fulltext		Sciendo	serial								F
+Folia Oeconomica Stetinensia		1898-0198	2008-05-06	6	1				https://sciendo.com/journal/FOLI		1898-0198		fulltext		Sciendo	serial								F
+Folia Scandinavica Posnaniensia		2299-6885	2012-12-28	14	1				https://sciendo.com/journal/FSP		2299-6885		fulltext		Sciendo	serial								F
+Folia Veterinaria		2453-7837	2016-03-30	60	1				https://sciendo.com/journal/FV		2453-7837		fulltext		Sciendo	serial								F
+Forest Research Papers		2082-8926	2009-07-20	70	1				https://sciendo.com/journal/FRP		2082-8926		fulltext		Sciendo	serial								F
+Forestry Studies		1736-8723	2011-03-24	48	48				https://sciendo.com/journal/FSMU		1736-8723		fulltext		Sciendo	serial								F
+Formalized Mathematics		1898-9934	2008-06-09	14	2				https://sciendo.com/journal/FORMA		1898-9934		fulltext		Sciendo	serial								F
+Forum of Clinical Oncology		1792-362X	2014-03-30	5	1				https://sciendo.com/journal/FCO		1792-362X		fulltext		Sciendo	serial								F
+Foundations of Computing and Decision Sciences		2300-3405	2012-03-15	37	1				https://sciendo.com/journal/FCDS		2300-3405		fulltext		Sciendo	serial								F
+Foundations of Management		2300-5661	2012-03-19	1	1				https://sciendo.com/journal/FMAN		2300-5661		fulltext		Sciendo	serial								F
+Frigid Zone Medicine		2719-8073	2021-03-20	1	1				https://sciendo.com/journal/FZM		2719-8073		fulltext		Sciendo	serial								F
+Frontiers of Nursing		2544-8994	2018-03-30	 5	1				https://sciendo.com/journal/FON		2544-8994		fulltext		Sciendo	serial								F
+Gardens and Landscapes of Portugal		2182-942X	2016-12-15	4	1				https://sciendo.com/journal/GLP		2182-942X		fulltext		Sciendo	serial								F
+Gender Studies		2286-0134	2012-12-15	11	1				https://sciendo.com/journal/GENST		2286-0134		fulltext		Sciendo	serial								F
+General Mathematics		1584-3289	2019-07-30	27	1				https://sciendo.com/journal/GM		1584-3289		fulltext		Sciendo	serial								F
+Geochronometria		1897-1695	2007-07-04	27	27				https://sciendo.com/journal/GEOCHR		1897-1695		fulltext		Sciendo	serial								F
+Geologos 		2080-6574	2009-12-24	15	3-4				https://sciendo.com/journal/LOGOS		2080-6574		fulltext		Sciendo	serial								F
+Geometric Flows		2353-3382	2014-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2353-3382		2353-3382		fulltext		De Gruyter Open Access	serial								F
+Geopolitical, Social Security and Freedom Journal		2587-3326	2018-09-30	1	1				https://sciendo.com/journal/GSSFJ		2587-3326		fulltext		Sciendo	serial								F
+GeoScape		1802-1115	2014-06-15	8	1				https://sciendo.com/journal/GEOSC		1802-1115		fulltext		Sciendo	serial								F
+Geoscience Records		2299-6923	2015-04-16	1	1				https://sciendo.com/journal/GEOREC		2299-6923		fulltext		Sciendo	serial								F
+Germanistische Beiträge		2247-4633	2019-06-30	44	1				https://sciendo.com/journal/GB		2247-4633		fulltext		Sciendo	serial								F
+Gestalt Theory		2519-5808	2017-04-12	39	1				https://sciendo.com/journal/GTH		2519-5808		fulltext		Sciendo	serial								F
+Global Psychiatry		2451-4950	2017-04-16	1	1				https://sciendo.com/journal/GP		2451-4950		fulltext		Sciendo	serial								F
+Gravitational and Space Research		2332-7774	2019-01-30	7	1				https://sciendo.com/journal/GSR		2332-7774		fulltext		Sciendo	serial								F
+Green Processing and Synthesis	2191-9542	2191-9550	2012-02-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-9550		2191-9550		fulltext		De Gruyter	serial								F
+Hacquetia		1854-9829	2007-07-10	6	1				https://sciendo.com/journal/HACQ		1854-9829		fulltext		Sciendo	serial								F
+Hellenic Plant Protection Journal		2732-656X	2015-04-16	8	1				https://sciendo.com/journal/HPPJ		2732-656X		fulltext		Sciendo	serial								F
+Helminthologia		1336-9083	2006-03-24	43	1				https://sciendo.com/journal/HELM		1336-9083		fulltext		Sciendo	serial								F
+Herba Polonica		2449-8343	2013-04-15	59	1				https://sciendo.com/journal/HEPO		2449-8343		fulltext		Sciendo	serial								F
+Heterocyclic Communications	0793-0283	2191-0197	1994-01-01	1	Febr				https://www.degruyter.com/openurl?genre=journal&issn=2191-0197		2191-0197		fulltext		De Gruyter	serial								F
+High Temperature Materials and Processes	0334-6455	2191-0324	1984-01-01	6	1/2				https://www.degruyter.com/openurl?genre=journal&issn=2191-0324		2191-0324		fulltext		De Gruyter	serial								F
+Holiness		2058-5969	2020-09-20	6	1				https://sciendo.com/journal/HOLINESS		2058-5969		fulltext		Sciendo	serial								F
+HOLISTICA – Journal of Business and Public Administration		2067-9785	2017-03-06	8	1				https://sciendo.com/journal/HJBPA		2067-9785		fulltext		Sciendo	serial								F
+Hong Kong Bulletin on Rheumatic Diseases		2415-153X	2016-04-16	16	1				https://sciendo.com/journal/HKBRD		2415-153X		fulltext		Sciendo	serial								F
+HoST - Journal  of History of Science and Technology		1646-7752	2016-06-16	10	1				https://sciendo.com/journal/HOST		1646-7752		fulltext		Sciendo	serial								F
+Hugoye: Journal of Syriac Studies 		1097-3702	1998-12-30		1				https://www.degruyter.com/openurl?genre=journal&issn=1097-3702		1097-3702		fulltext		Gorgias Press	serial								F
+Hungarian Studies Yearbook		2668-7542	2019-06-20	1	1				https://sciendo.com/journal/HSY		2668-7542		fulltext		Sciendo	serial								F
+ICAME Journal		1502-5462	2014-12-15	38	1				https://sciendo.com/journal/ICAME		1502-5462		fulltext		Sciendo	serial								F
+Innovative Surgical Sciences		2364-7485	2016-09-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2364-7485		2364-7485		fulltext		De Gruyter	serial								F
+Interacción sino-iberoamericana/Sino-Ibero American Interaction		2747-7479	2021-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2747-7479		2747-7479		fulltext		De Gruyter	serial								F
+Interdisciplinary Context of Special Pedagogy		2658-283X	2019-12-31	1	1				https://sciendo.com/journal/ICSP		2658-283X		fulltext		Sciendo	serial								F
+Interdisciplinary Toxicology		1337-9569	2009-06-19	2	1				https://sciendo.com/journal/INTOX		1337-9569		fulltext		Sciendo	serial								F
+Internal Medicine		1220-5818	2018-02-28	15	1				https://sciendo.com/journal/INMED		1220-5818		fulltext		Sciendo	serial								F
+International and Comparative Law Review		2464-6601	2011-06-08	11	1				https://sciendo.com/journal/ICLR		2464-6601		fulltext		Sciendo	serial								F
+International conference KNOWLEDGE-BASED ORGANIZATION		2451-3113	2015-12-15	21	1				https://sciendo.com/journal/KBO		2451-3113		fulltext		Sciendo	serial								F
+International Journal for Transformative Research		2353-5415	2014-09-08	1	1				https://sciendo.com/journal/IJTR		2353-5415		fulltext		Sciendo	serial								F
+International Journal of Advanced Statistics and IT&C for Economics and Life Sciences		2067-354X	2019-07-30	9	1				https://sciendo.com/journal/IJASITELS		2067-354X		fulltext		Sciendo	serial								F
+International Journal of Advances in Applied Mathematics and Modeling		2544-8536	2018-06-30	1	1				https://sciendo.com/journal/IJAAMM		2544-8536		fulltext		Sciendo	serial								F
+International Journal of Applied Mathematics and Computer Science		2083-8492	2007-04-05	17	1				https://sciendo.com/journal/AMCS		2083-8492		fulltext		Sciendo	serial								F
+International Journal of Applied Mechanics and Engineering		2353-9003	2013-04-20	18	1				https://sciendo.com/journal/IJAME		2353-9003		fulltext		Sciendo	serial								F
+International Journal of Bioelectromagnetism		1456-7865	2018-09-30	20	1				https://sciendo.com/journal/IJBEM		1456-7865		fulltext		Sciendo	serial								F
+International Journal of Computer Science in Sport		1684-4769	2016-04-16	15	1				https://sciendo.com/journal/IJCSS		1684-4769		fulltext		Sciendo	serial								F
+International Journal of Contemporary Management		2449-8939	2021-09-20	21	1				https://sciendo.com/journal/IJCM		2449-8939		fulltext		Sciendo	serial								F
+International Journal of Health Professions		2296-990X	2014-12-12	1	1				https://sciendo.com/journal/IJHP		2296-990X		fulltext		Sciendo	serial								F
+International Journal of Information and Communication Technologies in Education		1805-3726	2013-04-16	20	1				https://sciendo.com/journal/IJICTE		1805-3726		fulltext		Sciendo	serial								F
+International Journal of Management and Economics		2543-5361	2013-03-30	37	1				https://sciendo.com/journal/IJME		2543-5361		fulltext		Sciendo	serial								F
+International Journal of Music Business Research		2227-5789	2021-04-20	10	1				https://sciendo.com/journal/IJMBR		2227-5789		fulltext		Sciendo	serial								F
+International Neuroscience Journal		2451-8387	2016-12-15	1	1				https://sciendo.com/journal/INJ		2451-8387		fulltext		Sciendo	serial								F
+IZA Journal of Development and Migration		2520-1786	2019-04-30	1	1				https://sciendo.com/journal/IZAJODM		2520-1786		fulltext		Sciendo	serial								F
+IZA Journal of Labor Economics		2193-8997	2019-04-30	1	1				https://sciendo.com/journal/IZAJOLE		2193-8997		fulltext		Sciendo	serial								F
+IZA Journal of Labor Policy		2193-9004	2019-04-30	1	1				https://sciendo.com/journal/IZAJOLP		2193-9004		fulltext		Sciendo	serial								F
+Journal for Markets and Ethics		2198-6800	2017-04-16	5	1				https://sciendo.com/journal/JOME		2198-6800		fulltext		Sciendo	serial								F
+Journal of Apicultural Science		2299-4831	2012-06-15	56	1				https://sciendo.com/journal/JAS		2299-4831		fulltext		Sciendo	serial								F
+Journal of Applied Engineering Sciences		2284-7197	2015-06-30	5	1				https://sciendo.com/journal/JAES		2284-7197		fulltext		Sciendo	serial								F
+Journal of Applied Mathematics, Statistics and Informatics		1339-0015	2012-06-15	8	1				https://sciendo.com/journal/JAMSI		1339-0015		fulltext		Sciendo	serial								F
+Journal of Artificial General Intelligence		1946-0163	2011-11-23	1	1				https://sciendo.com/journal/JAGI		1946-0163		fulltext		Sciendo	serial								F
+Journal of Artificial Intelligence and Soft Computing Research		2449-6499	2013-03-30	3	1				https://sciendo.com/journal/JAISCR		2449-6499		fulltext		Sciendo	serial								F
+Journal of Biomedical and Clinical Research		1313-9053	2014-09-08	7	1				https://sciendo.com/journal/JBCR		1313-9053		fulltext		Sciendo	serial								F
+Journal Of Cardiovascular Emergencies		2457-5518	2015-04-15	1	1				https://sciendo.com/journal/JCE		2457-5518		fulltext		Sciendo	serial								F
+Journal of Catalan Intellectual History		2014-1564	2016-12-15	6	1				https://sciendo.com/journal/JOCIH		2014-1564		fulltext		Sciendo	serial								F
+Journal of Causal Inference 	2193-3677	2193-3685	2013-06-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2193-3685		2193-3685		fulltext		De Gruyter	serial								F
+Journal of Central Banking Theory and Practice		2336-9205	2014-03-06	3	1				https://sciendo.com/journal/JCBTP		2336-9205		fulltext		Sciendo	serial								F
+Journal of China Computer-Assisted Language Learning		2748-3479	2021-08-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2748-3479		2748-3479		fulltext		De Gruyter Mouton	serial								F
+Journal of Citizenship and Globalisation Studies		2450-8632	2016-04-16	1	1				https://sciendo.com/journal/JCGS		2450-8632		fulltext		Sciendo	serial								F
+Journal of Cultural Interaction in East Asia		2747-7576	2010-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2747-7576		2747-7576		fulltext		De Gruyter	serial								F
+Journal of Data and Information Science		2543-683X	2017-03-30	1	1				https://sciendo.com/journal/JDIS		2543-683X		fulltext		Sciendo	serial								F
+Journal of Digital History		2747-5271	2021-10-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2747-5271		2747-5271		fulltext		De Gruyter Oldenbourg	serial								F
+Journal of Economics and Management		2719-9975	2021-06-20	43	1				https://sciendo.com/journal/JEMUEKAT		2719-9975		fulltext		Sciendo	serial								F
+Journal of Economy and its Applications		2217-7973	2015-03-30	5	1				https://sciendo.com/journal/JEA		2217-7973		fulltext		Sciendo	serial								F
+Journal of Electrical Bioimpedance		1891-5469	2018-01-30	2	2				https://sciendo.com/journal/JOEB		1891-5469		fulltext		Sciendo	serial								F
+Journal of Electrical Engineering		1339-309X	2011-06-07	61	1				https://sciendo.com/journal/JEE		1339-309X		fulltext		Sciendo	serial								F
+Journal of Engineering, Project, and Production Management		2223-8379	2019-02-20	9	1				https://sciendo.com/journal/JEPPM		2223-8379		fulltext		Sciendo	serial								F
+Journal of Environmental Geography		2060-467X	2012-06-10	5	1				https://sciendo.com/journal/JENGEO		2060-467X		fulltext		Sciendo	serial								F
+Journal of Environmental Protection, Safety, Education and Management		2453-9813	2016-04-16	4	1				https://sciendo.com/journal/JEPSEM		2453-9813		fulltext		Sciendo	serial								F
+Journal of Ethnology and Folkloristics		2228-0987	2016-04-16	10	1				https://sciendo.com/journal/JEF		2228-0987		fulltext		Sciendo	serial								F
+Journal of Forensic Accounting Profession		2744-1687	2021-12-20	1	1				https://sciendo.com/journal/JFAP		2744-1687		fulltext		Sciendo	serial								F
+Journal of Fruit and Ornamental Plant Research		1231-0948	2012-06-15	20	1				https://sciendo.com/journal/JFORP		1231-0948		fulltext		Sciendo	serial								F
+Journal of Gender and Power		2657-9170	2019-12-20	9	1				https://sciendo.com/journal/JGP		2657-9170		fulltext		Sciendo	serial								F
+Journal of Geodetic Science		2081-9943	2011-01-24	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2081-9943		2081-9943		fulltext		De Gruyter Open Access	serial								F
+Journal of Heterodox Economics		2344-4150	2014-03-30	1	1				https://sciendo.com/journal/JHEEC		2344-4150		fulltext		Sciendo	serial								F
+Journal of Horticultural Research		2353-3978	2013-09-08	21	1				https://sciendo.com/journal/JOHR		2353-3978		fulltext		Sciendo	serial								F
+Journal of Human Kinetics		1899-7562	2008-10-01		19				https://sciendo.com/journal/HUKIN		1899-7562		fulltext		Sciendo	serial								F
+Journal of Hydrology and Hydromechanics		1338-4333	2009-03-28	57	1				https://sciendo.com/journal/JOHH		1338-4333		fulltext		Sciendo	serial								F
+Journal of Industrial Organization Education	2194-9255	1935-5041	2006-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1935-5041		1935-5041		fulltext		De Gruyter	serial								F
+Journal of Integrative Bioinformatics		1613-4516	2004-12-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1613-4516		1613-4516		fulltext		De Gruyter	serial								F
+Journal of Intelligent Systems	0334-1860	2191-026X	1991-09-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-026X		2191-026X		fulltext		De Gruyter	serial								F
+Journal of Intercultural Management		2543-831X	2013-03-30	5	1				https://sciendo.com/journal/JOIM		2543-831X		fulltext		Sciendo	serial								F
+Journal of Interdisciplinary Medicine		2501-8132	2016-03-30	1	1				https://sciendo.com/journal/JIM		2501-8132		fulltext		Sciendo	serial								F
+Journal of KONBiN 		2083-4608	2008-02-26	3	3				https://sciendo.com/journal/JOK		2083-4608		fulltext		Sciendo	serial								F
+Journal of KONES		2354-0133	2019-12-20	26	1				https://sciendo.com/journal/KONES		2354-0133		fulltext		Sciendo	serial								F
+Journal of Laboratory Medicine	2567-9430	2567-9449	1977-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2567-9449		2567-9449		fulltext		De Gruyter	serial								F
+Journal of Landscape Ecology		1805-4196	2008-06-20	1	1				https://sciendo.com/journal/JLECOL		1805-4196		fulltext		Sciendo	serial								F
+Journal of Language and Cultural Education		1339-4584	2015-03-06	3	1				https://sciendo.com/journal/JOLACE		1339-4584		fulltext		Sciendo	serial								F
+Journal of Language Relationship 		2219-4029	2011-01-01		6				https://www.degruyter.com/openurl?genre=journal&issn=2219-4029		2219-4029		fulltext		Gorgias Press	serial								F
+Journal of Legal Studies		2457-9017	2015-04-16	14	1				https://sciendo.com/journal/JLES		2457-9017		fulltext		Sciendo	serial								F
+Journal of Linguistics/Jazykovedný casopis 		1338-4287	2010-03-05	60	1				https://sciendo.com/journal/JAZCAS		1338-4287		fulltext		Sciendo	serial								F
+Journal of Mathematical Cryptology	1862-2976	1862-2984	2007-01-25	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1862-2984		1862-2984		fulltext		De Gruyter	serial								F
+Journal of Military Studies		1799-3350	2016-12-15	51	1				https://sciendo.com/journal/JMS		1799-3350		fulltext		Sciendo	serial								F
+Journal of Modeling in Mechanics and Materials		2512-353X	2017-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2512-353X		2512-353X		fulltext		De Gruyter	serial								F
+Journal of Mother and Child		2719-535X	2020-06-20	24	1				https://sciendo.com/journal/JMOTHERANDCHILD		2719-535X		fulltext		Sciendo	serial								F
+Journal of Nationalism, Memory & Language Politics		2570-5857	2017-04-16	11	1				https://sciendo.com/journal/JNMLP		2570-5857		fulltext		Sciendo	serial								F
+Journal of Official Statistics		2001-7367	2013-04-15	29	1				https://sciendo.com/journal/JOS		2001-7367		fulltext		Sciendo	serial								F
+Journal of Osteopathic Medicine		2702-3648	2021-01-01	121	1				https://www.degruyter.com/openurl?genre=journal&issn=2702-3648		2702-3648		fulltext		De Gruyter	serial								F
+Journal of Pedagogy		2719-5651	2010-09-16	1	1				https://sciendo.com/journal/JPED		2719-5651		fulltext		Sciendo	serial								F
+Journal of Social and Economic Statistics 		2285-388X	2019-12-05	1	1				https://sciendo.com/journal/JSES		2285-388X		fulltext		Sciendo	serial								F
+Journal of Social Ontology	2196-9655	2196-9663	2015-01-25	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2196-9663		2196-9663		fulltext		De Gruyter	serial								F
+Journal of Sustainable Energy Engineering		2164-6295	2019-03-30	7	1				https://www.degruyter.com/openurl?genre=journal&issn=2164-6295		2164-6295		fulltext		De Gruyter Open Access	serial								F
+Journal of Systems Science and Information		2512-6660	2013-02-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2512-6660		2512-6660		fulltext		De Gruyter	serial								F
+Journal of Teacher Education for Sustainability		1691-5534	2009-05-04	7	7				https://sciendo.com/journal/JTES		1691-5534		fulltext		Sciendo	serial								F
+Journal of the Mechanical Behavior of Materials	0334-8938	2191-0243	1989-06-01	2	1/2				https://www.degruyter.com/openurl?genre=journal&issn=2191-0243		2191-0243		fulltext		De Gruyter	serial								F
+Journal of Transcendental Philosophy	2626-8310	2626-8329	2020-04-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2626-8329		2626-8329		fulltext		De Gruyter	serial								F
+Journal of Transition Medicine		2568-2407	2019-03-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2568-2407		2568-2407		fulltext		De Gruyter	serial								F
+Journal of Translational Internal Medicine		2224-4018	2013-04-15	1	1				https://sciendo.com/journal/JTIM		2224-4018		fulltext		Sciendo	serial								F
+Journal of Veterinary Research		2450-8608	2016-03-30	60	1				https://sciendo.com/journal/JVETRES		2450-8608		fulltext		Sciendo	serial								F
+Journal of World Languages		2169-8260	2021-04-20	7	1				https://www.degruyter.com/openurl?genre=journal&issn=2169-8260		2169-8260		fulltext		De Gruyter Mouton	serial								F
+Journal on Baltic Security		2382-9230	2015-04-16	1	1				https://sciendo.com/journal/JOBS		2382-9230		fulltext		Sciendo	serial								F
+Kairos. Journal of Philosophy & Science		1647-659X	2016-03-01	15	1				https://sciendo.com/journal/KJPS		1647-659X		fulltext		Sciendo	serial								F
+Koroze a ochrana materialu		1804-1213	2012-04-03	56	1				https://sciendo.com/journal/KOM		1804-1213		fulltext		Sciendo	serial								F
+KRITERION – Journal of Philosophy		1019-8288	2021-03-20	35	1				https://www.degruyter.com/openurl?genre=journal&issn=1019-8288		1019-8288		fulltext		De Gruyter	serial								F
+Kulturwissenschaftliche Zeitschrift		2451-1765	2016-12-15	1	1				https://sciendo.com/journal/KWG		2451-1765		fulltext		Sciendo	serial								F
+Land Forces Academy Review		2247-840X	2017-03-15	22	1				https://sciendo.com/journal/RAFT		2247-840X		fulltext		Sciendo	serial								F
+Latvian Journal of Physics and Technical Sciences		2255-8896	2008-03-18	45	1				https://sciendo.com/journal/LPTS		2255-8896		fulltext		Sciendo	serial								F
+Law and Administration in Post-Soviet Europe		2391-5544	2014-02-15	1	1				https://sciendo.com/journal/LAPE		2391-5544		fulltext		Sciendo	serial								F
+Limnological Review		2300-7575	2011-01-05	11	1				https://sciendo.com/journal/LIMRE		2300-7575		fulltext		Sciendo	serial								F
+Lingua Posnaniensis		2083-6090	2010-01-14	51	51				https://sciendo.com/journal/LINPO		2083-6090		fulltext		Sciendo	serial								F
+Lingua sinica		2197-6678	2020-01-20	5	1				https://sciendo.com/journal/LINGUASINICA		2197-6678		fulltext		Sciendo	serial								F
+Linguistic Frontiers		2544-6339	2017-04-16	1	1				https://sciendo.com/journal/LF		2544-6339		fulltext		Sciendo	serial								F
+LOGI – Scientific Journal on Transport and Logistics		2336-3037	2017-04-16	8	1				https://sciendo.com/journal/LOGI		2336-3037		fulltext		Sciendo	serial								F
+Logistics & Sustainable Transport		2232-4968	2015-12-12	3	1				https://sciendo.com/journal/JLST		2232-4968		fulltext		Sciendo	serial								F
+Lucian Blaga Yearbook		2601-7776	2019-07-30	19	1				https://sciendo.com/journal/CLB		2601-7776		fulltext		Sciendo	serial								F
+Lynx, new series		1804-6460	2016-12-15	47	1				https://sciendo.com/journal/LYNX		1804-6460		fulltext		Sciendo	serial								F
+Macedonian Journal of Medical Sciences		1857-5773	2010-04-05	1	1				https://sciendo.com/journal/MJMS		1857-5773		fulltext		Sciendo	serial								F
+Macedonian Veterinary Review 		1857-7415	2014-09-08	37	1				https://sciendo.com/journal/MACVETREV		1857-7415		fulltext		Sciendo	serial								F
+Main Group Metal Chemistry	0792-1241	2191-0219	1994-05-01	17	1-4				https://www.degruyter.com/openurl?genre=journal&issn=2191-0219		2191-0219		fulltext		De Gruyter	serial								F
+Malaysian Journal of Halal Research		2616-1923	2019-04-30	2	1				https://sciendo.com/journal/MJHR		2616-1923		fulltext		Sciendo	serial								F
+Management		2299-193X	2012-06-01	16	1				https://sciendo.com/journal/MANMENT		2299-193X		fulltext		Sciendo	serial								F
+Management & Marketing. Challenges for the Knowledge Society		2069-8887	2015-03-30	10	1				https://sciendo.com/journal/MMCKS		2069-8887		fulltext		Sciendo	serial								F
+Management and Business Administration		2300-858X	2015-03-30	23	1				https://sciendo.com/journal/MBACE		2300-858X		fulltext		Sciendo	serial								F
+Management Consulting Journal		2631-987X	2021-06-20	7	1				https://sciendo.com/journal/MCJ		2631-987X		fulltext		Sciendo	serial								F
+Management Dynamics in the Knowledge Economy		2392-8042	2019-09-30	7	1				https://sciendo.com/journal/MDKE		2392-8042		fulltext		Sciendo	serial								F
+Management of Organizations: Systematic Research		2335-8750	2017-04-16	77	1				https://sciendo.com/journal/MOSR		2335-8750		fulltext		Sciendo	serial								F
+Management Sciences. Nauki o Zarządzaniu		2449-9803	2018-03-30	54	1				https://sciendo.com/journal/MASC		2449-9803		fulltext		Sciendo	serial								F
+Management Systems in Production Engineering		2450-5781	2017-03-30	25	1				https://sciendo.com/journal/MSPE		2450-5781		fulltext		Sciendo	serial								F
+Management Theory and Studies for Rural Business and Infrastructure Development		2345-0355	2021-05-20	43	1				https://sciendo.com/journal/MTSRBID		2345-0355		fulltext		Sciendo	serial								F
+Marketing – from Information to Decision Journal		2601-3983	2017-06-30	1	1				https://sciendo.com/journal/MIDJ		2601-3983		fulltext		Sciendo	serial								F
+Marketing Intelligence Review		1865-5866	2009-02-08	1	1				https://sciendo.com/journal/GFKMIR		1865-5866		fulltext		Sciendo	serial								F
+Marketing of Scientific and Research Organizations		2353-8414	2015-03-30	15	1				https://sciendo.com/journal/MINIB		2353-8414		fulltext		Sciendo	serial								F
+Materials and Geoenvironment		1854-7400	2016-03-30	63	1				https://sciendo.com/journal/RMZMAG		1854-7400		fulltext		Sciendo	serial								F
+Materials Science-Poland		2083-134X	2011-04-16	29	1				https://sciendo.com/journal/MSP		2083-134X		fulltext		Sciendo	serial								F
+Mathematical Modelling in Civil Engineering		2066-6934	2013-04-19	9	1				https://sciendo.com/journal/MMCE		2066-6934		fulltext		Sciendo	serial								F
+Mathematical Morphology - Theory and Applications		2353-3390	2014-02-06	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2353-3390		2353-3390		fulltext		De Gruyter Open Access	serial								F
+Mathematics of Climate and Weather Forecasting		2353-6438	2014-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2353-6438		2353-6438		fulltext		De Gruyter Open Access	serial								F
+Measurement Science Review		1335-8871	2008-03-07	8	1				https://sciendo.com/journal/MSR		1335-8871		fulltext		Sciendo	serial								F
+Mechanics and Mechanical Engineering		2354-0192	2018-12-28	22	1				https://sciendo.com/journal/MME		2354-0192		fulltext		Sciendo	serial								F
+Medical Journal of Cell Biology 		2544-3577	2010-03-30	2	1				https://sciendo.com/journal/ACB		2544-3577		fulltext		Sciendo	serial								F
+Medical University		2544-9818	2018-05-30	1	1				https://sciendo.com/journal/MEDU		2544-9818		fulltext		Sciendo	serial								F
+Melilah: Manchester Journal of Jewish Studies (1759-1953)		1759-1953	2008-12-30		5				https://www.degruyter.com/openurl?genre=journal&issn=1759-1953		1759-1953		fulltext		Gorgias Press	serial								F
+Mineralogia 		1899-8526	2007-02-05	37	1				https://sciendo.com/journal/MIPO		1899-8526		fulltext		Sciendo	serial								F
+Mining Revue 		2247-8590	2021-05-20	27	1				https://sciendo.com/journal/MINRV		2247-8590		fulltext		Sciendo	serial								F
+Miscellanea Geographica		2084-6118	2011-06-20	15	1				https://sciendo.com/journal/MGRSD		2084-6118		fulltext		Sciendo	serial								F
+Moravian Geographical Reports		2199-6202	2013-04-16	21	1				https://sciendo.com/journal/MGR		2199-6202		fulltext		Sciendo	serial								F
+Moroccan Journal of Pure and Applied Analysis		2351-8227	2015-04-16	1	1				https://sciendo.com/journal/MJPAA		2351-8227		fulltext		Sciendo	serial								F
+Műszaki Tudományos Közlemények		2668-1390	2018-12-30	8	1				https://sciendo.com/journal/MTK		2668-1390		fulltext		Sciendo	serial								F
+Multidisciplinary Aspects of Production Engineering		2545-2827	2018-09-30	4	1				https://sciendo.com/journal/MAPE		2545-2827		fulltext		Sciendo	serial								F
+Musicology Today		2353-5733	2013-12-15	34	1				https://sciendo.com/journal/MUSO		2353-5733		fulltext		Sciendo	serial								F
+Naše gospodarstvo/Our economy		2385-8052	2015-02-22	61	1				https://sciendo.com/journal/NGOE		2385-8052		fulltext		Sciendo	serial								F
+Nang Yan Business Journal		2307-4450	2012-12-15	1	1				https://sciendo.com/journal/NYBJ		2307-4450		fulltext		Sciendo	serial								F
+Nanofabrication		2299-680X	2014-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-680X		2299-680X		fulltext		De Gruyter Open Access	serial								F
+Nanophotonics	2192-8606	2192-8614	2012-02-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2192-8614		2192-8614		fulltext		De Gruyter	serial								F
+Nanotechnology Reviews	2191-9089	2191-9097	2012-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-9097		2191-9097		fulltext		De Gruyter	serial								F
+National Medical Review		2747-9749	2021-07-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2747-9749		2747-9749		fulltext		De Gruyter	serial								F
+New Trends in Production Engineering		2545-2843	2018-09-30	4	1				https://sciendo.com/journal/NTPE		2545-2843		fulltext		Sciendo	serial								F
+NIM Marketing Intelligence Review 		2628-166X	2019-05-30	1	1				https://sciendo.com/journal/NIMMIR		2628-166X		fulltext		Sciendo	serial								F
+NISPAcee Journal of Public Administration and Policy		1338-4309	2009-06-20	2	1				https://sciendo.com/journal/NISPA		1338-4309		fulltext		Sciendo	serial								F
+Noise Mapping		2084-879X	2014-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2084-879X		2084-879X		fulltext		De Gruyter Open Access	serial								F
+Nonautonomous Dynamical Systems		2353-0626	2014-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2353-0626		2353-0626		fulltext		De Gruyter Open Access	serial								F
+Non-coding RNAs in Endocrinology		2300-4258	2012-12-21	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-4258		2300-4258		fulltext		De Gruyter Open Access	serial								F
+Nonlinear Engineering	2192-8010	2192-8029	2012-03-20	1	1-2				https://www.degruyter.com/openurl?genre=journal&issn=2192-8029		2192-8029		fulltext		De Gruyter	serial								F
+Nonprofit Policy Forum	2194-6035	2154-3348	2010-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2154-3348		2154-3348		fulltext		De Gruyter	serial								F
+Nordic Concrete Research		2545-2819	2018-09-30	58	1				https://sciendo.com/journal/NCR		2545-2819		fulltext		Sciendo	serial								F
+Nordic Journal of Dance		2703-6901	2020-06-20	11	1				https://sciendo.com/journal/NJD		2703-6901		fulltext		Sciendo	serial								F
+Nordic Journal of Media Studies		2003-184X	2019-05-30	1	1				https://sciendo.com/journal/NJMS		2003-184X		fulltext		Sciendo	serial								F
+Nordic Tax Journal		2246-1809	2014-02-24	1	2				https://sciendo.com/journal/NTAXJ		2246-1809		fulltext		Sciendo	serial								F
+Nordic Wittgenstein Review	2194-6825	2242-248X	2012-06-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2242-248X		2242-248X		fulltext		De Gruyter	serial								F
+Nordicom Review		2001-5119	2012-06-20	33	1				https://sciendo.com/journal/NOR		2001-5119		fulltext		Sciendo	serial								F
+Nova Biotechnologica et Chimica		1339-004X	2012-05-15	11	1				https://sciendo.com/journal/NBEC		1339-004X		fulltext		Sciendo	serial								F
+Novel Superconducting Materials		2299-3193	2015-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-3193		2299-3193		fulltext		De Gruyter Open Access	serial								F
+Nukleonika		1508-5791	2014-03-30	59	1				https://sciendo.com/journal/NUKA		1508-5791		fulltext		Sciendo	serial								F
+Oceanological and Hydrobiological Studies		1897-3191	2021-03-20	50	1				https://sciendo.com/journal/OANDHS		1897-3191		fulltext		Sciendo	serial								F
+Open Agriculture		2391-9531	2015-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-9531		2391-9531		fulltext		De Gruyter Open Access	serial								F
+Open Anthropological Research		2657-4233	2018-07-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2657-4233		2657-4233		fulltext		De Gruyter Open Access	serial								F
+Open Archaeology		2300-6560	2013-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-6560		2300-6560		fulltext		De Gruyter Open Access	serial								F
+Open Astronomy		2543-6376	2017-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2543-6376		2543-6376		fulltext		De Gruyter Open Access	serial								F
+Open Chemistry		2391-5420	2003-03-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5420		2391-5420		fulltext		De Gruyter Open Access	serial								F
+Open Computer Science		2299-1093	2011-04-16	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-1093		2299-1093		fulltext		De Gruyter Open Access	serial								F
+Open Cultural Studies		2451-3474	2016-08-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2451-3474		2451-3474		fulltext		De Gruyter Open Access	serial								F
+Open Economics		2451-3458	2016-08-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2451-3458		2451-3458		fulltext		De Gruyter Open Access	serial								F
+Open Education Studies		2544-7831	2018-03-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2544-7831		2544-7831		fulltext		De Gruyter Open Access	serial								F
+Open Engineering		2391-5439	2011-04-16	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5439		2391-5439		fulltext		De Gruyter Open Access	serial								F
+Open Geosciences		2391-5447	2009-04-16	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5447		2391-5447		fulltext		De Gruyter Open Access	serial								F
+Open Health 		2544-9826	2020-03-25	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2544-9826		2544-9826		fulltext		De Gruyter Open Access	serial								F
+Open Information Science		2451-1781	2017-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2451-1781		2451-1781		fulltext		De Gruyter Open Access	serial								F
+Open Life Sciences 		2391-5412	2006-03-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5412		2391-5412		fulltext		De Gruyter Open Access	serial								F
+Open Linguistics		2300-9969	2013-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-9969		2300-9969		fulltext		De Gruyter Open Access	serial								F
+Open Management 		2451-344X	2016-08-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2451-344X		2451-344X		fulltext		De Gruyter Open Access	serial								F
+Open Mathematics		2391-5455	2003-03-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5455		2391-5455		fulltext		De Gruyter Open Access	serial								F
+Open Medicine		2391-5463	2006-03-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5463		2391-5463		fulltext		De Gruyter Open Access	serial								F
+Open Military Studies		2545-3254	2018-08-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2545-3254		2545-3254		fulltext		De Gruyter Open Access	serial								F
+Open Philosophy		2543-8875	2017-12-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2543-8875		2543-8875		fulltext		De Gruyter Open Access	serial								F
+Open Physics		2391-5471	2003-03-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2391-5471		2391-5471		fulltext		De Gruyter Open Access	serial								F
+Open Political Science		2543-8042	2017-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2543-8042		2543-8042		fulltext		De Gruyter Open Access	serial								F
+Open Psychology		2543-8883	2017-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2543-8883		2543-8883		fulltext		De Gruyter Open Access	serial								F
+Open Statistics		2657-3601	2019-01-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2657-3601		2657-3601		fulltext		De Gruyter Open Access	serial								F
+Open Theology 		2300-6579	2013-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-6579		2300-6579		fulltext		De Gruyter Open Access	serial								F
+Open Veterinary Science		2544-8951	2018-05-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2544-8951		2544-8951		fulltext		De Gruyter Open Access	serial								F
+Optical Data Processing and Storage		2084-8862	2015-10-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2084-8862		2084-8862		fulltext		De Gruyter Open Access	serial								F
+Opto-Electronics Review	1230-3402	1896-3757	2006-04-22	14	1				https://www.degruyter.com/openurl?genre=journal&issn=1896-3757		1896-3757		fulltext		De Gruyter	serial								F
+Organic Photonics and Photovoltaics		2299-3177	2013-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-3177		2299-3177		fulltext		De Gruyter Open Access	serial								F
+Organizacija		1581-1832	2008-10-17	41	1				https://sciendo.com/journal/ORGA		1581-1832		fulltext		Sciendo	serial								F
+Organization, Technology and Management in Construction: an International Journal		1847-6228	2016-12-15	8	1				https://sciendo.com/journal/OTMCJ		1847-6228		fulltext		Sciendo	serial								F
+Ornis Hungarica		2061-9588	2012-06-20	20	1				https://sciendo.com/journal/ORHU		2061-9588		fulltext		Sciendo	serial								F
+Ovidius University Annals of Chemistry		2286-038X	2012-06-15	23	1				https://sciendo.com/journal/AUOC		2286-038X		fulltext		Sciendo	serial								F
+Ovidius University Annals of Constanta - Series Civil Engineering		2392-6139	2017-12-01	17	1				https://sciendo.com/journal/OUACSCE		2392-6139		fulltext		Sciendo	serial								F
+Pakistan Journal of Geology		2521-2923	2019-04-30	3	1				https://sciendo.com/journal/PJG		2521-2923		fulltext		Sciendo	serial								F
+Paladyn, Journal of Behavioral Robotics		2081-4836	2010-03-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2081-4836		2081-4836		fulltext		De Gruyter Open Access	serial								F
+Pannoniana		2459-7465	2019-12-31	4	1				https://sciendo.com/journal/PANNONIA		2459-7465		fulltext		Sciendo	serial								F
+Peptidomics		2084-7203	2014-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2084-7203		2084-7203		fulltext		De Gruyter Open Access	serial								F
+Perichoresis		2284-7308	2012-06-15	10	1				https://sciendo.com/journal/PERC		2284-7308		fulltext		Sciendo	serial								F
+Perspectives		2009-9479	2016-12-15	7	1				https://sciendo.com/journal/PIPJP		2009-9479		fulltext		Sciendo	serial								F
+Phainomenon		2183-0142	2020-12-20	1	1				https://sciendo.com/journal/PHAINOMENON		2183-0142		fulltext		Sciendo	serial								F
+Pharmaceutical Technology in Hospital Pharmacy	2365-2411	2365-242X	2016-03-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2365-242X		2365-242X		fulltext		De Gruyter	serial								F
+Physical Culture and Sport. Studies and Research		1899-4849	2009-12-31	46	46				https://sciendo.com/journal/PCSSR		1899-4849		fulltext		Sciendo	serial								F
+Physical Education and Sport Through the Centuries		2466-5118	2016-04-16	3	1				https://sciendo.com/journal/SPES		2466-5118		fulltext		Sciendo	serial								F
+Pielegniarstwo  XXI wieku / Nursing in the 21st Century		2450-646X	2016-03-30	54	1				https://sciendo.com/journal/PIELXXIW		2450-646X		fulltext		Sciendo	serial								F
+Pleura and Peritoneum	2364-7671	2364-768X	2016-03-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2364-768X		2364-768X		fulltext		De Gruyter	serial								F
+Pneumologia		2247-059X	2018-03-30	67	1				https://sciendo.com/journal/PNEUM		2247-059X		fulltext		Sciendo	serial								F
+Polish Cartographical Review		2450-6966	2015-03-30	47	1				https://sciendo.com/journal/PCR		2450-6966		fulltext		Sciendo	serial								F
+Polish Hyperbaric Research		2084-0535	2015-03-30	50	1				https://sciendo.com/journal/PHR		2084-0535		fulltext		Sciendo	serial								F
+Polish Journal of Chemical Technology		1899-4741	2007-07-03	9	1				https://sciendo.com/journal/PJCT		1899-4741		fulltext		Sciendo	serial								F
+Polish Journal of Educational  Studies		2657-3628	2019-02-27	1	1				https://sciendo.com/journal/POLJES		2657-3628		fulltext		Sciendo	serial								F
+Polish Journal of Medical Physics and Engineering		1898-0309	2008-12-29	14	1				https://sciendo.com/journal/PJMPE		1898-0309		fulltext		Sciendo	serial								F
+Polish Journal of Public Health		2083-4829	2014-03-30	124	1				https://sciendo.com/journal/PJPH		2083-4829		fulltext		Sciendo	serial								F
+Polish Journal of Sport and Tourism		2082-8799	2011-05-16	18	1				https://sciendo.com/journal/PJST		2082-8799		fulltext		Sciendo	serial								F
+Polish Maritime Research		2083-7429	2007-06-20	14	1				https://sciendo.com/journal/POMR		2083-7429		fulltext		Sciendo	serial								F
+Polish Political Science Review		2353-3773	2015-12-15	3	1				https://sciendo.com/journal/PPSR		2353-3773		fulltext		Sciendo	serial								F
+Politics in Central Europe		1801-3422	2015-04-16	11	1				https://sciendo.com/journal/PCE		1801-3422		fulltext		Sciendo	serial								F
+Polski Rocznik Muzykologiczny		2719-7891	2021-12-20	18	1				https://sciendo.com/journal/PRM		2719-7891		fulltext		Sciendo	serial								F
+Pomeranian Journal of Life Sciences		2719-6313	2019-12-20	65	1				https://sciendo.com/journal/PJLS		2719-6313		fulltext		Sciendo	serial								F
+Powder Metallurgy Progress		1339-4533	2016-04-16	16	1				https://sciendo.com/journal/PMP		1339-4533		fulltext		Sciendo	serial								F
+Power Electronics and Drives		2543-4292	2016-04-16	36	1				https://sciendo.com/journal/PEAD		2543-4292		fulltext		Sciendo	serial								F
+Poznań Theological Studies		2451-2273	2018-06-20	32	1				https://sciendo.com/journal/PST		2451-2273		fulltext		Sciendo	serial								F
+Pragmática Sociocultural / Sociocultural Pragmatics	2194-8305	2194-8313	2013-11-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2194-8313		2194-8313		fulltext		De Gruyter	serial								F
+Prague Journal of English Studies		2336-2685	2012-06-20	1	1				https://sciendo.com/journal/PJES		2336-2685		fulltext		Sciendo	serial								F
+Prenatal Cardiology		2353-8201	2013-04-09	3	1				https://sciendo.com/journal/PCARD		2353-8201		fulltext		Sciendo	serial								F
+PRILOZI		1857-8985	2014-09-08	35	1				https://sciendo.com/journal/PRILOZI		1857-8985		fulltext		Sciendo	serial								F
+Proceedings in Radiochemistry		2193-2875	2011-09-08	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2193-2875		2193-2875		fulltext		Oldenbourg Wissenschaftsverlag	serial								F
+Proceedings of the International Conference on Applied Statistics		2668-6309	2019-12-31	1	1				https://sciendo.com/journal/ICAS		2668-6309		fulltext		Sciendo	serial								F
+Proceedings of the International Conference on Business Excellence		2558-9652	2017-12-15	11	1				https://sciendo.com/journal/PICBE		2558-9652		fulltext		Sciendo	serial								F
+Proceedings of the Latvian Academy of Sciences. Section B. Natural, Exact, and Applied Sciences.		2255-890X	2008-08-14	62	1-2				https://sciendo.com/journal/PROLAS		2255-890X		fulltext		Sciendo	serial								F
+Proceedings on Privacy Enhancing Technologies		2299-0984	2015-04-16	2015	1				https://sciendo.com/journal/POPETS		2299-0984		fulltext		Sciendo	serial								F
+Production Engineering Archives		2353-7779	2018-03-30	18	1				https://sciendo.com/journal/PEA		2353-7779		fulltext		Sciendo	serial								F
+Psicológica Journal		1576-8597	2018-06-30	39	1				https://sciendo.com/journal/PSICOLJ		1576-8597		fulltext		Sciendo	serial								F
+Psychology and Pathopsychology of Child		2585-9056	2018-03-30	1	1				https://sciendo.com/journal/PAPD		2585-9056		fulltext		Sciendo	serial								F
+Psychology of Language and Communication		2083-8506	2008-08-22	12	1				https://sciendo.com/journal/PLC		2083-8506		fulltext		Sciendo	serial								F
+Pteridines	0933-4807	2195-4720	1989-04-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2195-4720		2195-4720		fulltext		De Gruyter	serial								F
+Public History Weekly		2197-6376	2013-09-01		1-44				https://www.degruyter.com/openurl?genre=journal&issn=2197-6376		2197-6376		fulltext		De Gruyter Oldenbourg	serial								F
+Pure Mathematics and Applications		1788-800X	2015-03-30	26	1				https://sciendo.com/journal/PUMA		1788-800X		fulltext		Sciendo	serial								F
+Quaestiones Geographicae 		2081-6383	2010-04-05	29	1				https://sciendo.com/journal/QUAGEO		2081-6383		fulltext		Sciendo	serial								F
+Quantum Measurements and Quantum Metrology		2299-114X	2013-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-114X		2299-114X		fulltext		De Gruyter Open Access	serial								F
+Questions and Answers in Linguistics		2299-8942	2015-04-16	1	1				https://sciendo.com/journal/QAL		2299-8942		fulltext		Sciendo	serial								F
+Radiology and Oncology		1581-3207	2007-04-30	41	1				https://sciendo.com/journal/RAON		1581-3207		fulltext		Sciendo	serial								F
+Raptor Journal		2644-5247	2013-12-21	7	1				https://sciendo.com/journal/SRJ		2644-5247		fulltext		Sciendo	serial								F
+Raumforschung und Raumordnung | Spatial Research and Planning	0034-0111	1869-4179	2019-01-30	77	1				https://sciendo.com/journal/RARA		1869-4179		fulltext		Sciendo	serial								F
+Real Estate Management and Valuation		2300-5289	2012-12-25	21	1				https://sciendo.com/journal/REMAV		2300-5289		fulltext		Sciendo	serial								F
+Recreational Mathematics Magazine		2182-1976	2016-04-16	2016	5				https://sciendo.com/journal/RMM		2182-1976		fulltext		Sciendo	serial								F
+Reports on Geodesy and Geoinformatics		2391-8152	2013-09-08	96	1				https://sciendo.com/journal/RGG		2391-8152		fulltext		Sciendo	serial								F
+Research in Social Change		2463-8226	2021-07-20	11	1				https://sciendo.com/journal/RSC		2463-8226		fulltext		Sciendo	serial								F
+Research on Education and Media		2037-0849	2015-04-16	7	1				https://sciendo.com/journal/REM		2037-0849		fulltext		Sciendo	serial								F
+Research Papers Faculty of Materials Science and Technology Slovak University of Technology		1338-0532	2011-03-03	18	28				https://sciendo.com/journal/RPUT		1338-0532		fulltext		Sciendo	serial								F
+Review of Artistic Education		2501-238X	2016-04-16	11	1				https://sciendo.com/journal/RAE		2501-238X		fulltext		Sciendo	serial								F
+Review of Economic and Business Studies		2068-7249	2015-04-16	8	1				https://sciendo.com/journal/REBS		2068-7249		fulltext		Sciendo	serial								F
+Review of Economic Perspectives		1804-1663	2010-02-19	9	2				https://sciendo.com/journal/REVECP		1804-1663		fulltext		Sciendo	serial								F
+Review of Ecumenical Studies Sibiu		2359-8107	2013-03-15	13	1				https://sciendo.com/journal/RESS		2359-8107		fulltext		Sciendo	serial								F
+Review of Nationalities		2543-9391	2016-12-15	6	1				https://sciendo.com/journal/PN		2543-9391		fulltext		Sciendo	serial								F
+Reviews in Analytical Chemistry	0793-0135	2191-0189	1980-04-20	4	April				https://www.degruyter.com/openurl?genre=journal&issn=2191-0189		2191-0189		fulltext		De Gruyter	serial								F
+REVIEWS ON ADVANCED MATERIALS SCIENCE		1605-8127	2019-01-30	57	1				https://www.degruyter.com/openurl?genre=journal&issn=1605-8127		1605-8127		fulltext		De Gruyter Open Access	serial								F
+Revista Romana de Medicina de Laborator		2284-5623	2013-03-15	21	1				https://sciendo.com/journal/RRLM		2284-5623		fulltext		Sciendo	serial								F
+Rheumatology and Immunology Research		2719-4523	2020-09-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2719-4523		2719-4523		fulltext		De Gruyter Open Access	serial								F
+Rhodes Cook Letter	1552-8189	1558-4291	2000-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1558-4291		1558-4291		fulltext		De Gruyter	serial								F
+Romanian Journal of Anaesthesia and Intensive Care		2502-0307	2018-05-30	24	1				https://sciendo.com/journal/RJAIC		2502-0307		fulltext		Sciendo	serial								F
+Romanian Journal of Diabetes Nutrition and Metabolic Diseases		2284-6417	2012-03-15	19	2				https://sciendo.com/journal/RJDNMD		2284-6417		fulltext		Sciendo	serial								F
+Romanian Journal of English Studies		2286-0428	2012-12-15	9	1				https://sciendo.com/journal/RJES		2286-0428		fulltext		Sciendo	serial								F
+Romanian Journal of Internal Medicine		2501-062X	2015-03-30	53	1				https://sciendo.com/journal/RJIM		2501-062X		fulltext		Sciendo	serial								F
+Romanian Journal of Occupational Medicine		2601-0828	2018-12-30	69	1				https://sciendo.com/journal/RJOM		2601-0828		fulltext		Sciendo	serial								F
+Romanian Journal of Orthopaedic Surgery and Traumatology		2544-8978	2018-05-30	1	1				https://sciendo.com/journal/ROJOST		2544-8978		fulltext		Sciendo	serial								F
+Romanian Journal of Psychoanalysis		2457-6972	2018-08-30	1	1				https://sciendo.com/journal/RJP		2457-6972		fulltext		Sciendo	serial								F
+Romanian Journal of Rhinology		2393-3356	2015-03-30	5	1				https://sciendo.com/journal/RJR		2393-3356		fulltext		Sciendo	serial								F
+Romanian Journal of Transport Infrastructure		2286-2218	2012-09-08	1	1				https://sciendo.com/journal/RJTI		2286-2218		fulltext		Sciendo	serial								F
+Rural Sustainability Research		2256-0939	2012-06-20	27	1				https://sciendo.com/journal/PLUA		2256-0939		fulltext		Sciendo	serial								F
+SAECULUM		2601-1182	2019-07-30	47	1				https://sciendo.com/journal/SAEC		2601-1182		fulltext		Sciendo	serial								F
+Sanitarno inženirstvo International Journal of Sanitary Engineering Research		1855-0452	2019-12-20	13	1				https://sciendo.com/journal/IJSER		1855-0452		fulltext		Sciendo	serial								F
+Scandinavian Journal of Forensic Science		2353-0707	2012-06-20	18	1				https://sciendo.com/journal/SJFS		2353-0707		fulltext		Sciendo	serial								F
+Science and Engineering of Composite Materials 	0792-1233	2191-0359	1988-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-0359		2191-0359		fulltext		De Gruyter	serial								F
+Scientia Agriculturae Bohemica		1805-9430	2012-05-01	2013	1				https://sciendo.com/journal/SAB		1805-9430		fulltext		Sciendo	serial								F
+Scientific Bulletin		2451-3148	2015-04-16	20	1				https://sciendo.com/journal/BSAFT		2451-3148		fulltext		Sciendo	serial								F
+Scientific Bulletin of Valahia University - Materials and Mechanics		2537-3161	2016-04-16	11	1				https://sciendo.com/journal/BSMM		2537-3161		fulltext		Sciendo	serial								F
+Scientific Journal of Polish Naval Academy		2657-7291	2016-03-30	204	1				https://sciendo.com/journal/SJPNA		2657-7291		fulltext		Sciendo	serial								F
+SEEU Review		1857-8462	2011-06-20	8	1				https://sciendo.com/journal/SEEUR		1857-8462		fulltext		Sciendo	serial								F
+Selected Scientific Papers - Journal of Civil Engineering		1338-7278	2012-06-15	7	1				https://sciendo.com/journal/SSPJCE		1338-7278		fulltext		Sciendo	serial								F
+Seminars in Cardiovascular Medicine		1822-7767	2012-12-01	18	1				https://sciendo.com/journal/SEMCARD		1822-7767		fulltext		Sciendo	serial								F
+Serbian Journal of Dermatology and Venereology		2406-0631	2009-03-15	1	1				https://sciendo.com/journal/SJDV		2406-0631		fulltext		Sciendo	serial								F
+Serbian Journal of Experimental and Clinical Research 		2335-075X	2014-04-15	15	1				https://sciendo.com/journal/SJECR		2335-075X		fulltext		Sciendo	serial								F
+Silvae Genetica		2509-8934	2016-02-22	65	1				https://sciendo.com/journal/SG		2509-8934		fulltext		Sciendo	serial								F
+Slovak Journal of Civil Engineering		1338-3973	2011-05-23	19	1				https://sciendo.com/journal/SJCE		1338-3973		fulltext		Sciendo	serial								F
+Slovenian Journal of Public Health		1854-2476	2010-07-29	49	1				https://sciendo.com/journal/SJPH		1854-2476		fulltext		Sciendo	serial								F
+Slovenský národopis / Slovak Ethnology		1339-9357	2019-03-30	67	1				https://sciendo.com/journal/SE		1339-9357		fulltext		Sciendo	serial								F
+Social Change Review		2068-8016	2012-06-20	10	1				https://sciendo.com/journal/SCR		2068-8016		fulltext		Sciendo	serial								F
+Social Communication		2450-7563	2015-04-16	11	1				https://sciendo.com/journal/SC		2450-7563		fulltext		Sciendo	serial								F
+Sommerfeltia		2084-0098	2011-10-04	31	31				https://sciendo.com/journal/SOM		2084-0098		fulltext		Sciendo	serial								F
+South East European Journal of Economics and Business		2233-1999	2008-03-04	2	1				https://sciendo.com/journal/JEB		2233-1999		fulltext		Sciendo	serial								F
+Special Matrices		2300-7451	2013-12-12	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2300-7451		2300-7451		fulltext		De Gruyter Open Access	serial								F
+Strojnícky časopis - Journal of Mechanical Engineering		2450-5471	2016-04-16	67	1				https://sciendo.com/journal/SCJME		2450-5471		fulltext		Sciendo	serial								F
+Structure and Environment		2657-6902	2020-06-20	12	1				https://sciendo.com/journal/SAE		2657-6902		fulltext		Sciendo	serial								F
+Studia Anglica Posnaniensia 		2082-5102	2009-12-10	45	1				https://sciendo.com/journal/STAP		2082-5102		fulltext		Sciendo	serial								F
+Studia Celtica Posnaniensia		2657-3008	2016-12-15	1	1				https://sciendo.com/journal/SCP		2657-3008		fulltext		Sciendo	serial								F
+Studia Commercialia Bratislavensia		1339-3081	2010-10-29	3	10				https://sciendo.com/journal/STCB		1339-3081		fulltext		Sciendo	serial								F
+Studia Geotechnica et Mechanica		2083-831X	2012-04-15	34	1				https://sciendo.com/journal/SGEM		2083-831X		fulltext		Sciendo	serial								F
+Studia Historiae Oeconomicae		0081-6485	2013-12-15	31	1				https://sciendo.com/journal/SHO		0081-6485		fulltext		Sciendo	serial								F
+Studia Humana		2299-0518	2014-03-30	3	1				https://sciendo.com/journal/SH		2299-0518		fulltext		Sciendo	serial								F
+Studia Universitatis Babes-Bolyai Oeconomica		2065-9644	2016-03-06	61	1				https://sciendo.com/journal/SUBBOEC		2065-9644		fulltext		Sciendo	serial								F
+Studia Universitatis Babes-Bolyai Sociologia		2066-0464	2015-04-16	6	1				https://sciendo.com/journal/SUBBS		2066-0464		fulltext		Sciendo	serial								F
+Studia Universitatis „Vasile Goldis” Arad – Economics Series		2285-3065	2015-03-30	25	1				https://sciendo.com/journal/SUES		2285-3065		fulltext		Sciendo	serial								F
+Studies in Business and Economics		2344-5416	2015-03-06	10	1				https://sciendo.com/journal/SBE		2344-5416		fulltext		Sciendo	serial								F
+Studies in Chinese Linguistics		2470-8275	2015-06-16	36	1				https://sciendo.com/journal/SCL		2470-8275		fulltext		Sciendo	serial								F
+Studies in Logic, Grammar and Rhetoric		2199-6059	2013-03-30	37	1				https://sciendo.com/journal/SLGR		2199-6059		fulltext		Sciendo	serial								F
+Studies in Second Language Learning and Teaching		2084-1965	2019-07-30	8	1				https://sciendo.com/journal/SSLLT		2084-1965		fulltext		Sciendo	serial								F
+Sustainable Mobility		2657-3539	2019-08-30	1	1				https://sciendo.com/journal/SUSMO		2657-3539		fulltext		Sciendo	serial								F
+Sustainable Multilingualism		2335-2027	2015-04-16	8	1				https://sciendo.com/journal/SM		2335-2027		fulltext		Sciendo	serial								F
+Swiss Journal of Sociology		2297-8348	2016-04-16	42	1				https://sciendo.com/journal/SJS		2297-8348		fulltext		Sciendo	serial								F
+SYMPOSIUM CULTURE@KULTUR		2545-3858	2018-12-31	1	1				https://sciendo.com/journal/SCK		2545-3858		fulltext		Sciendo	serial								F
+System Safety: Human - Technical Facility - Environment 		2657-5450	2019-03-30	1	1				https://sciendo.com/journal/CZOTO		2657-5450		fulltext		Sciendo	serial								F
+TalTech Journal of European Studies		2674-4619	2013-06-18	3	1				https://sciendo.com/journal/BJES		2674-4619		fulltext		Sciendo	serial								F
+Tatra Mountains Mathematical Publications		1338-9750	2009-04-20	42	1				https://sciendo.com/journal/TMMP		1338-9750		fulltext		Sciendo	serial								F
+Technical Transactions		2353-737X	2020-05-20	13	1				https://sciendo.com/journal/TECHTRANS		2353-737X		fulltext		Sciendo	serial								F
+Tékhne		2255-3886	2019-07-30	17	1				https://sciendo.com/journal/TEKHNE		2255-3886		fulltext		Sciendo	serial								F
+The EuroBiotech Journal		2564-615X	2018-03-30	2	1				https://sciendo.com/journal/EBTJ		2564-615X		fulltext		Sciendo	serial								F
+The Heart Matrix		2720-0620	2021-06-20	1	1				https://sciendo.com/journal/THM		2720-0620		fulltext		Sciendo	serial								F
+The Irish Journal of Management		2451-2834	2015-03-30	34	1				https://sciendo.com/journal/IJM		2451-2834		fulltext		Sciendo	serial								F
+The Journal of Critical Care Medicine		2393-1817	2015-03-30	1	1				https://sciendo.com/journal/JCCM		2393-1817		fulltext		Sciendo	serial								F
+The Journal of Haemophilia Practice		2055-3390	2017-12-22	4	1				https://sciendo.com/journal/JHP		2055-3390		fulltext		Sciendo	serial								F
+The Journal of Natural Gas Engineering		2379-2892	2019-02-27	4	1				https://www.degruyter.com/openurl?genre=journal&issn=2379-2892		2379-2892		fulltext		De Gruyter Open Access	serial								F
+The Philosophy of Humor Yearbook	2698-7171	2698-718X	2020-09-20		1				https://www.degruyter.com/openurl?genre=journal&issn=2698-718X		2698-718X		fulltext		De Gruyter	serial								F
+The Ring		2083-3520	2009-06-30	30	1-2				https://sciendo.com/journal/RING		2083-3520		fulltext		Sciendo	serial								F
+The Scientific Bulletin of Electrical Engineering Faculty		2286-2455	2016-04-16	32	1				https://sciendo.com/journal/SBEEF		2286-2455		fulltext		Sciendo	serial								F
+Theatrical Colloquia		2285-5912	2017-04-16	23	1				https://sciendo.com/journal/TCO		2285-5912		fulltext		Sciendo	serial								F
+Timisoara Physical Education and Rehabilitation Journal		2199-6040	2012-06-10	5	1				https://sciendo.com/journal/TPERJ		2199-6040		fulltext		Sciendo	serial								F
+Topics in Linguistics		2199-6504	2014-06-08	13	1				https://sciendo.com/journal/TOPLING		2199-6504		fulltext		Sciendo	serial								F
+Topological Algebra and its Applications		2299-3231	2013-12-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2299-3231		2299-3231		fulltext		De Gruyter Open Access	serial								F
+TRANSACTIONS of the VŠB – Technical University of Ostrava, Safety Engineering Series		1805-3238	2012-06-20	7	1				https://sciendo.com/journal/TVSBSES		1805-3238		fulltext		Sciendo	serial								F
+Transactions on Aerospace Research		2545-2835	2019-03-30	246	1				https://sciendo.com/journal/TAR		2545-2835		fulltext		Sciendo	serial								F
+Translational Neuroscience		2081-6936	2010-12-09	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2081-6936		2081-6936		fulltext		De Gruyter Open Access	serial								F
+Translationes		2067-2705	2009-12-15	1	1				https://sciendo.com/journal/TRAN		2067-2705		fulltext		Sciendo	serial								F
+Transport and Aerospace Engineering		2255-9876	2015-12-15	2	1				https://sciendo.com/journal/TAE		2255-9876		fulltext		Sciendo	serial								F
+Transport and Telecommunication Journal		1407-6179	2012-03-20	13	1				https://sciendo.com/journal/TTJ		1407-6179		fulltext		Sciendo	serial								F
+Transport technic and technology		2585-8084	2018-09-30	14	1				https://sciendo.com/journal/TTT		2585-8084		fulltext		Sciendo	serial								F
+Transylvanian Review of Systematical and Ecological Research		2344-3219	2013-06-01	15	1				https://sciendo.com/journal/TRSER		2344-3219		fulltext		Sciendo	serial								F
+Turkish Journal of Biochemistry	0250-4685	1303-829X	2015-02-15	40	1				https://www.degruyter.com/openurl?genre=journal&issn=1303-829X		1303-829X		fulltext		De Gruyter	serial								F
+Uniform distribution theory		2309-5377	2013-12-30	1	1				https://sciendo.com/journal/UDT		2309-5377		fulltext		Sciendo	serial								F
+Urban Development Issues		2544-6258	2017-03-30	53	1				https://sciendo.com/journal/UDI		2544-6258		fulltext		Sciendo	serial								F
+Valahian Journal of Economic Studies		2344-4924	2016-04-16	7	1				https://sciendo.com/journal/VJES		2344-4924		fulltext		Sciendo	serial								F
+Vegetable Crops Research Bulletin		1898-7761	2007-09-07	66	66				https://sciendo.com/journal/VCRB		1898-7761		fulltext		Sciendo	serial								F
+Vestnik Zoologii		2073-2333	2008-08-19	42	1				https://sciendo.com/journal/VZOO		2073-2333		fulltext		Sciendo	serial								F
+Vienna Journal of East Asian Studies		2521-7038	2018-10-10	10	1				https://sciendo.com/journal/VJEAS		2521-7038		fulltext		Sciendo	serial								F
+Vietnamese Journal of Legal Sciences		2719-3004	2020-06-20	1	1				https://sciendo.com/journal/VJLS		2719-3004		fulltext		Sciendo	serial								F
+Visegrad Journal on Bioeconomy and Sustainable Development		1339-3367	2013-04-16	2	1				https://sciendo.com/journal/VJBSD		1339-3367		fulltext		Sciendo	serial								F
+Werkwinkel		2719-2938	2014-04-16	9	1				https://sciendo.com/journal/WERK		2719-2938		fulltext		Sciendo	serial								F
+Wroclaw Review of Law, Administration & Economics		2084-1264	2013-07-01	3	1				https://sciendo.com/journal/WRLAE		2084-1264		fulltext		Sciendo	serial								F
+WSB Journal of Business and Finance		2657-4950	2019-02-27	53	1				https://sciendo.com/journal/WSBJBF		2657-4950		fulltext		Sciendo	serial								F
+YBL Journal of Built Environment		2064-2520	2013-06-15	1	1				https://sciendo.com/journal/JBE		2064-2520		fulltext		Sciendo	serial								F
+Yearbook of Pedagogy		2719-888X	2019-12-31		1				https://sciendo.com/journal/RP		2719-888X		fulltext		Sciendo	serial								F
+Yearbook of the Poznan Linguistic Meeting		2449-7525	2014-11-19	1	1				https://sciendo.com/journal/YPLM		2449-7525		fulltext		Sciendo	serial								F
+Zagreb International Review of Economics and Business		1849-1162	2015-04-16	18	1				https://sciendo.com/journal/ZIREB		1849-1162		fulltext		Sciendo	serial								F
+Zeitschrift für interkulturelle Germanistik	1869-3660	2198-0330	2010-07-31	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2198-0330		2198-0330		fulltext		transcript Verlag	serial								F
+Zeitschrift für Kristallographie - New Crystal Structures	1433-7266	2197-4578	1997-06-20	212	212				https://www.degruyter.com/openurl?genre=journal&issn=2197-4578		2197-4578		fulltext		De Gruyter (O)	serial								F
+Zeitschrift für Medienwissenschaft		2296-4126	2017-09-20	9	17/2				https://www.degruyter.com/openurl?genre=journal&issn=2296-4126		2296-4126		fulltext		transcript Verlag	serial								F
+Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft	1867-1691	1867-1705	2009-06-21	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1867-1705		1867-1705		fulltext		De Gruyter	serial								F
+Zeitschrift für Sprachwissenschaft	0721-9067	1613-3706	1982-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1613-3706		1613-3706		fulltext		De Gruyter	serial								F
+21st Century Pedagogy		2544-8986	2018-06-30	1	1				https://sciendo.com/journal/PED21		2544-8986		fulltext		Sciendo	serial								F
