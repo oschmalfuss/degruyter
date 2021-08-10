@@ -1,0 +1,90 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Field Guide to the Mid-Atlantic Coast		9780300258592							https://www.degruyter.com/openurl?genre=book&isbn=9780300258592	Lynch	9780300258592		fulltext		Yale University Press	monograph	2021	2021						P	1244629400
+A Fortress in Brooklyn		9780300258370							https://www.degruyter.com/openurl?genre=book&isbn=9780300258370	Deutsch	9780300258370		fulltext		Yale University Press	monograph	2021	2021						P	
+A Life Together		9780300258745							https://www.degruyter.com/openurl?genre=book&isbn=9780300258745	Van Young	9780300258745		fulltext		Yale University Press	monograph	2021	2021						P	
+A Writing Guide for Learners of Chinese		9780300258196							https://www.degruyter.com/openurl?genre=book&isbn=9780300258196	Herzberg	9780300258196		fulltext		Yale University Press	monograph	2021	2021						P	
+Adapting to Climate Change		9780300258578							https://www.degruyter.com/openurl?genre=book&isbn=9780300258578	Kahn	9780300258578		fulltext		Yale University Press	monograph	2021	2021						P	1237410060
+After Democracy		9780300258646							https://www.degruyter.com/openurl?genre=book&isbn=9780300258646	Papacharissi	9780300258646		fulltext		Yale University Press	monograph	2021	2021						P	1231607931
+American Covenant		9780300258714							https://www.degruyter.com/openurl?genre=book&isbn=9780300258714	Soukup	9780300258714		fulltext		Yale University Press	monograph	2021	2021						P	1237407291
+An Essay on Man		9780300258189							https://www.degruyter.com/openurl?genre=book&isbn=9780300258189		9780300258189		fulltext		Yale University Press	monograph	2021	2021						P	
+Art and Faith		9780300255935							https://www.degruyter.com/openurl?genre=book&isbn=9780300255935	Fujimura	9780300255935		fulltext		Yale University Press	monograph	2021	2020						P	1229161174
+Asteroids		9780300258387							https://www.degruyter.com/openurl?genre=book&isbn=9780300258387	Elvis	9780300258387		fulltext		Yale University Press	monograph	2021	2021						P	
+Atlas of AI		9780300252392							https://www.degruyter.com/openurl?genre=book&isbn=9780300252392	Crawford	9780300252392		fulltext		Yale University Press	monograph	2021	2021						P	1237863151
+Bald		9780300258356							https://www.degruyter.com/openurl?genre=book&isbn=9780300258356	Critchley	9780300258356		fulltext		Yale University Press	monograph	2021	2021						P	1244627254
+Becoming Organic		9780300258080							https://www.degruyter.com/openurl?genre=book&isbn=9780300258080	Galvin	9780300258080		fulltext		Yale University Press	monograph	2021	2021						P	1245662959
+Belarus		9780300260878							https://www.degruyter.com/openurl?genre=book&isbn=9780300260878	Wilson	9780300260878		fulltext		Yale University Press	monograph	2021	2021		New Edition				P	1240724890
+Bird versus Bulldozer		9780300258608							https://www.degruyter.com/openurl?genre=book&isbn=9780300258608	Mayer	9780300258608		fulltext		Yale University Press	monograph	2021	2021						P	1237410858
+Bitter Shade		9780300258073							https://www.degruyter.com/openurl?genre=book&isbn=9780300258073	Dove	9780300258073		fulltext		Yale University Press	monograph	2021	2021						P	1231611224
+Bugsy Siegel		9780300258103							https://www.degruyter.com/openurl?genre=book&isbn=9780300258103	Shnayerson	9780300258103		fulltext		Yale University Press	monograph	2021	2021						P	1231607881
+Calculus for Cranks		9780300256123							https://www.degruyter.com/openurl?genre=book&isbn=9780300256123	Katz	9780300256123		fulltext		Yale University Press	monograph	2021	2021						P	1225555669
+Causal Inference		9780300255881							https://www.degruyter.com/openurl?genre=book&isbn=9780300255881	Cunningham	9780300255881		fulltext		Yale University Press	monograph	2021	2021						P	1233041753
+Clairvoyant of the Small		9780300258264							https://www.degruyter.com/openurl?genre=book&isbn=9780300258264	Bernofsky	9780300258264		fulltext		Yale University Press	monograph	2021	2021						P	
+Condemned		9780300256222							https://www.degruyter.com/openurl?genre=book&isbn=9780300256222	Seal	9780300256222		fulltext		Yale University Press	monograph	2021	2021						P	
+Constitutional Processes and Democratic Commitment		9780300258097							https://www.degruyter.com/openurl?genre=book&isbn=9780300258097	Horowitz	9780300258097		fulltext		Yale University Press	monograph	2021	2021						P	
+Coral Reefs		9780300258691							https://www.degruyter.com/openurl?genre=book&isbn=9780300258691	Sale	9780300258691		fulltext		Yale University Press	monograph	2021	2021						P	
+Creation Stories		9780300258233							https://www.degruyter.com/openurl?genre=book&isbn=9780300258233	Aveni	9780300258233		fulltext		Yale University Press	monograph	2021	2021						P	1245850911
+Divine Accounting		9780300258165							https://www.degruyter.com/openurl?genre=book&isbn=9780300258165	Quigley	9780300258165		fulltext		Yale University Press	monograph	2021	2021						P	
+Empire of Silver		9780300258271							https://www.degruyter.com/openurl?genre=book&isbn=9780300258271		9780300258271		fulltext		Yale University Press	monograph	2021	2021						P	1241553627
+Founding God’s Nation		9780300256116							https://www.degruyter.com/openurl?genre=book&isbn=9780300256116	Kass	9780300256116		fulltext		Yale University Press	monograph	2021	2021						P	1233040974
+From Sarah to Sydney		9780300258363							https://www.degruyter.com/openurl?genre=book&isbn=9780300258363	Dunietz	9780300258363		fulltext		Yale University Press	monograph	2021	2021						P	
+Goering’s Man in Paris		9780300256215							https://www.degruyter.com/openurl?genre=book&isbn=9780300256215	Petropoulos	9780300256215		fulltext		Yale University Press	monograph	2021	2021						P	1226062084
+Grey Wars		9780300258349							https://www.degruyter.com/openurl?genre=book&isbn=9780300258349	Collins	9780300258349		fulltext		Yale University Press	monograph	2021	2021						P	
+Hernando Colon's New World of Books		9780300256208							https://www.degruyter.com/openurl?genre=book&isbn=9780300256208	Wilson-Lee	9780300256208		fulltext		Yale University Press	monograph	2021	2021						P	1226062334
+Hidden Laws		9780300258288							https://www.degruyter.com/openurl?genre=book&isbn=9780300258288	Woodward-Burns	9780300258288		fulltext		Yale University Press	monograph	2021	2021						P	
+How Photography Became Contemporary Art		9780300259896							https://www.degruyter.com/openurl?genre=book&isbn=9780300259896	Grundberg	9780300259896		fulltext		Yale University Press	monograph	2021	2021						P	1236400539
+How the Just So Stories Were Made		9780300258257							https://www.degruyter.com/openurl?genre=book&isbn=9780300258257	Batchelor	9780300258257		fulltext		Yale University Press	monograph	2021	2021						P	
+Ibsen's Kingdom		9780300256246							https://www.degruyter.com/openurl?genre=book&isbn=9780300256246	Sprinchorn	9780300256246		fulltext		Yale University Press	monograph	2021	2021						P	1233040543
+Intentions in Great Power Politics		9780300258684							https://www.degruyter.com/openurl?genre=book&isbn=9780300258684	Rosato	9780300258684		fulltext		Yale University Press	monograph	2021	2021						P	1244629953
+Introduction to the Apocrypha		9780300258769							https://www.degruyter.com/openurl?genre=book&isbn=9780300258769	Wills	9780300258769		fulltext		Yale University Press	monograph	2021	2021						P	
+Islamic Thought in Africa		9780300258202							https://www.degruyter.com/openurl?genre=book&isbn=9780300258202	Ajura	9780300258202		fulltext		Yale University Press	monograph	2021	2021						P	
+Kindred Voices		9780300258653							https://www.degruyter.com/openurl?genre=book&isbn=9780300258653	Pifer	9780300258653		fulltext		Yale University Press	monograph	2021	2021						P	
+Latecomer State Formation		9780300258615							https://www.degruyter.com/openurl?genre=book&isbn=9780300258615	Mazzuca	9780300258615		fulltext		Yale University Press	monograph	2021	2021						P	
+London and the Seventeenth Century		9780300258820							https://www.degruyter.com/openurl?genre=book&isbn=9780300258820	Lincoln	9780300258820		fulltext		Yale University Press	monograph	2021	2021						P	1245173736
+Magnum Opus		9780300258301							https://www.degruyter.com/openurl?genre=book&isbn=9780300258301	Brietzke	9780300258301		fulltext		Yale University Press	monograph	2021	2021						P	1244625432
+Mathematical Models in the Biosciences I		9780300258424							https://www.degruyter.com/openurl?genre=book&isbn=9780300258424	Frame	9780300258424		fulltext		Yale University Press	monograph	2021	2021						P	
+Mechanisms of Loss		9780300255645							https://www.degruyter.com/openurl?genre=book&isbn=9780300255645	Fais	9780300255645		fulltext		Yale University Press	monograph	2021	2020						P	1229161370
+Minerva’s French Sisters		9780300258431							https://www.degruyter.com/openurl?genre=book&isbn=9780300258431	Gelbart	9780300258431		fulltext		Yale University Press	monograph	2021	2021						P	
+Mission France		9780300258844							https://www.degruyter.com/openurl?genre=book&isbn=9780300258844	Vigurs	9780300258844		fulltext		Yale University Press	monograph	2021	2021						P	
+Mussolini and the Eclipse of Italian Fascism		9780300255829							https://www.degruyter.com/openurl?genre=book&isbn=9780300255829	Bosworth	9780300255829		fulltext		Yale University Press	monograph	2021	2021						P	
+Nine-Tenths of the Law		9780300255560							https://www.degruyter.com/openurl?genre=book&isbn=9780300255560	Lund	9780300255560		fulltext		Yale University Press	monograph	2021	2021						P	1233041561
+Northern Ireland		9780300258851							https://www.degruyter.com/openurl?genre=book&isbn=9780300258851	Cochrane	9780300258851		fulltext		Yale University Press	monograph	2021	2021		New Edition				P	1240724892
+Of Human Kindness		9780300258325							https://www.degruyter.com/openurl?genre=book&isbn=9780300258325	Cohen	9780300258325		fulltext		Yale University Press	monograph	2021	2021						P	1231607932
+Providence and the Invention of American History		9780300258585							https://www.degruyter.com/openurl?genre=book&isbn=9780300258585	Koenig	9780300258585		fulltext		Yale University Press	monograph	2021	2021						P	
+Radical Vision		9780300258332							https://www.degruyter.com/openurl?genre=book&isbn=9780300258332	Colbert	9780300258332		fulltext		Yale University Press	monograph	2021	2021						P	1244630349
+Reclaiming Patriotism in an Age of Extremes		9780300258707							https://www.degruyter.com/openurl?genre=book&isbn=9780300258707	Smith	9780300258707		fulltext		Yale University Press	monograph	2021	2021						P	1231611415
+Reimagining Time		9780300258318							https://www.degruyter.com/openurl?genre=book&isbn=9780300258318	Bub	9780300258318		fulltext		Yale University Press	monograph	2021	2021						P	
+Revise		9780300258462							https://www.degruyter.com/openurl?genre=book&isbn=9780300258462	Haag	9780300258462		fulltext		Yale University Press	monograph	2021	2021						P	1243312557
+Samuel Johnson		9780300258004							https://www.degruyter.com/openurl?genre=book&isbn=9780300258004	Johnson	9780300258004		fulltext		Yale University Press	monograph	2021	2020						P	1229161748
+Sodom and Gomorrah		9780300189636							https://www.degruyter.com/openurl?genre=book&isbn=9780300189636	Proust	9780300189636		fulltext		Yale University Press	monograph	2021	2021						P	
+Solving Public Problems		9780300258622							https://www.degruyter.com/openurl?genre=book&isbn=9780300258622	Noveck	9780300258622		fulltext		Yale University Press	monograph	2021	2021						P	
+Strange Natures		9780300258677							https://www.degruyter.com/openurl?genre=book&isbn=9780300258677	Adams	9780300258677		fulltext		Yale University Press	monograph	2021	2021						P	
+Stronger		9780300258479							https://www.degruyter.com/openurl?genre=book&isbn=9780300258479	Hass	9780300258479		fulltext		Yale University Press	monograph	2021	2021						P	1237403141
+The Aeneid		9780300258752							https://www.degruyter.com/openurl?genre=book&isbn=9780300258752		9780300258752		fulltext		Yale University Press	monograph	2021	2021		Revised and Expanded Edition				P	1245066780
+The Art of War in an Age of Peace		9780300258639							https://www.degruyter.com/openurl?genre=book&isbn=9780300258639	O'Hanlon	9780300258639		fulltext		Yale University Press	monograph	2021	2021						P	
+The Craft of Poetry		9780300256161							https://www.degruyter.com/openurl?genre=book&isbn=9780300256161	Newlyn	9780300256161		fulltext		Yale University Press	monograph	2021	2021						P	1242732178
+The Ever-Changing Past		9780300258240							https://www.degruyter.com/openurl?genre=book&isbn=9780300258240	Banner	9780300258240		fulltext		Yale University Press	monograph	2021	2021						P	1237409317
+The Faiths of Others		9780300258561							https://www.degruyter.com/openurl?genre=book&isbn=9780300258561	Howard	9780300258561		fulltext		Yale University Press	monograph	2021	2021						P	
+The First Irish Cities		9780300255898							https://www.degruyter.com/openurl?genre=book&isbn=9780300255898	Dickson	9780300255898		fulltext		Yale University Press	monograph	2021	2021						P	
+The Global Indies		9780300255690							https://www.degruyter.com/openurl?genre=book&isbn=9780300255690	Cohen	9780300255690		fulltext		Yale University Press	monograph	2021	2020						P	1226064183
+The House of Fragile Things		9780300252545							https://www.degruyter.com/openurl?genre=book&isbn=9780300252545	McAuley	9780300252545		fulltext		Yale University Press	monograph	2021	2021						P	
+The Last Shah		9780300256260							https://www.degruyter.com/openurl?genre=book&isbn=9780300256260	Takeyh	9780300256260		fulltext		Yale University Press	monograph	2021	2021						P	1226062416
+The Life of Music		9780300260601							https://www.degruyter.com/openurl?genre=book&isbn=9780300260601	Kenyon	9780300260601		fulltext		Yale University Press	monograph	2021	2021						P	
+The New World Written		9780300258127							https://www.degruyter.com/openurl?genre=book&isbn=9780300258127	Baranda	9780300258127		fulltext		Yale University Press	monograph	2021	2021						P	
+The Orphanage		9780300258158							https://www.degruyter.com/openurl?genre=book&isbn=9780300258158	Zhadan	9780300258158		fulltext		Yale University Press	monograph	2021	2021						P	1231607387
+The Prophet's Heir		9780300252057							https://www.degruyter.com/openurl?genre=book&isbn=9780300252057	Abbas	9780300252057		fulltext		Yale University Press	monograph	2021	2021						P	1231606036
+The Science of Abolition		9780300258554							https://www.degruyter.com/openurl?genre=book&isbn=9780300258554	Herschthal	9780300258554		fulltext		Yale University Press	monograph	2021	2021						P	
+The Voice Catchers		9780300258738							https://www.degruyter.com/openurl?genre=book&isbn=9780300258738	Turow	9780300258738		fulltext		Yale University Press	monograph	2021	2021						P	
+The Volga		9780300256048							https://www.degruyter.com/openurl?genre=book&isbn=9780300256048	Hartley	9780300256048		fulltext		Yale University Press	monograph	2021	2020						P	1229161945
+This Is Not Normal		9780300258721							https://www.degruyter.com/openurl?genre=book&isbn=9780300258721	Sunstein	9780300258721		fulltext		Yale University Press	monograph	2021	2021						P	1231603096
+To Kidnap a Pope		9780300258776							https://www.degruyter.com/openurl?genre=book&isbn=9780300258776	Caiani	9780300258776		fulltext		Yale University Press	monograph	2021	2021						P	
+Trading with the Enemy		9780300258837							https://www.degruyter.com/openurl?genre=book&isbn=9780300258837	Shovlin	9780300258837		fulltext		Yale University Press	monograph	2021	2021						P	
+Undoing Optimization		9780300258660							https://www.degruyter.com/openurl?genre=book&isbn=9780300258660	Powell	9780300258660		fulltext		Yale University Press	monograph	2021	2021						P	1245464595
+Unrevolutionary Mexico		9780300258448							https://www.degruyter.com/openurl?genre=book&isbn=9780300258448	Gillingham	9780300258448		fulltext		Yale University Press	monograph	2021	2021						P	
+Vagrant Figures		9780300255706							https://www.degruyter.com/openurl?genre=book&isbn=9780300255706	Nicolazzo	9780300255706		fulltext		Yale University Press	monograph	2021	2021						P	1233041206
+Voices of the Lost		9780300258400							https://www.degruyter.com/openurl?genre=book&isbn=9780300258400	Barakat	9780300258400		fulltext		Yale University Press	monograph	2021	2021						P	1238025329
+Warda		9780300258141							https://www.degruyter.com/openurl?genre=book&isbn=9780300258141		9780300258141		fulltext		Yale University Press	monograph	2021	2021						P	
+What Noise Against the Cane		9780300259872							https://www.degruyter.com/openurl?genre=book&isbn=9780300259872	Bailey	9780300259872		fulltext		Yale University Press	monograph	2021	2021						P	1244621496
+Why the New Deal Matters		9780300258219							https://www.degruyter.com/openurl?genre=book&isbn=9780300258219	Rauchway	9780300258219		fulltext		Yale University Press	monograph	2021	2021						P	1244620805
+Women and Gender in Islam		9780300258172							https://www.degruyter.com/openurl?genre=book&isbn=9780300258172	Ahmed	9780300258172		fulltext		Yale University Press	monograph	2021	2021						P	1243311305
+Words as Grain		9780300258134							https://www.degruyter.com/openurl?genre=book&isbn=9780300258134	Duo	9780300258134		fulltext		Yale University Press	monograph	2021	2021						P	
+Worlds Beyond		9780300258417							https://www.degruyter.com/openurl?genre=book&isbn=9780300258417	Forsberg	9780300258417		fulltext		Yale University Press	monograph	2021	2021						P	
