@@ -1,0 +1,31 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+Bauphysik	9783035605730	9783035605747							https://www.degruyter.com/openurl?genre=book&isbn=9783035605747	Pech	9783035605747		fulltext		Birkhäuser	monograph	2018	2017		2. Aufl.				P	1024042426
+Bauphysik	9783035614206	9783035614268							https://www.degruyter.com/openurl?genre=book&isbn=9783035614268	Pöhn	9783035614268		fulltext		Birkhäuser	monograph	2018	2017		3. Aufl.				P	1024022088
+Dachstühle	9783035611274	9783035609257							https://www.degruyter.com/openurl?genre=book&isbn=9783035609257	Pech	9783035609257		fulltext		Birkhäuser	monograph	2017	2017		2. Aufl.				P	999354846
+Dachstühle		9783990430637							https://www.degruyter.com/openurl?genre=book&isbn=9783990430637		9783990430637		fulltext		Ambra Verlag	monograph	2005	2015						P	979956934
+Decken	9783035621358	9783035621389							https://www.degruyter.com/openurl?genre=book&isbn=9783035621389		9783035621389		fulltext		Birkhäuser	monograph	2021	2020		mit 200, teilw. farb. Abb.	Pech			P	1224277984
+Decken	9783990430446	9783990431160							https://www.degruyter.com/openurl?genre=book&isbn=9783990431160		9783990431160		fulltext		Ambra Verlag	monograph	2006	2015						P	979597203
+Elektro- und Regeltechnik	9783990430842	9783990430859							https://www.degruyter.com/openurl?genre=book&isbn=9783990430859	Pech	9783990430859		fulltext		Ambra Verlag	monograph	2007	2015						P	979884671
+Fassaden	9783990430866	9783990430873							https://www.degruyter.com/openurl?genre=book&isbn=9783990430873	Pech	9783990430873		fulltext		Ambra Verlag	monograph	2014	2014						P	979892184
+Fenster	9783035622133	9783035622188							https://www.degruyter.com/openurl?genre=book&isbn=9783035622188	Pech	9783035622188		fulltext		Birkhäuser	monograph	2021	2020		mit 157, teilw. farb. Abb.				P	1224279598
+Fenster	9783990430231	9783990430576							https://www.degruyter.com/openurl?genre=book&isbn=9783990430576		9783990430576		fulltext		Ambra Verlag	monograph	2005	2015						P	979613508
+Flachdach		9783990437131							https://www.degruyter.com/openurl?genre=book&isbn=9783990437131	Pech	9783990437131		fulltext		Ambra Verlag	monograph	2011	2015						P	979897122
+Fußböden	9783035610222	9783035608298							https://www.degruyter.com/openurl?genre=book&isbn=9783035608298		9783035608298		fulltext		Birkhäuser	monograph	2016	2016			Pech			P	979752329
+Gründungen	9783035619768	9783035620467							https://www.degruyter.com/openurl?genre=book&isbn=9783035620467		9783035620467		fulltext		Birkhäuser	monograph	2020	2019		2., erw. Auflage	Pech			P	1129143227
+Gründungen		9783990430545							https://www.degruyter.com/openurl?genre=book&isbn=9783990430545		9783990430545		fulltext		Ambra Verlag	monograph	2004	2015						P	979602650
+Heizung und Kühlung	9783990430248	9783990430552							https://www.degruyter.com/openurl?genre=book&isbn=9783990430552	Pech	9783990430552		fulltext		Ambra Verlag	monograph	2005	2005						P	979602651
+Holz im Hochbau	9783035609363	9783035607529							https://www.degruyter.com/openurl?genre=book&isbn=9783035607529		9783035607529		fulltext		Birkhäuser	monograph	2016	2016						P	979906038
+Keller	9783035621365	9783035621372							https://www.degruyter.com/openurl?genre=book&isbn=9783035621372		9783035621372		fulltext		Birkhäuser	monograph	2021	2021		2., aktualisierte Auflage16,5 x 24,2	Pech			P	
+Keller	9783990430286	9783990430767							https://www.degruyter.com/openurl?genre=book&isbn=9783990430767		9783990430767		fulltext		Ambra Verlag	monograph	2005	2015						P	979956935
+Lüftung und Sanitär	9783990430453	9783990430941							https://www.degruyter.com/openurl?genre=book&isbn=9783990430941	Pech	9783990430941		fulltext		Ambra Verlag	monograph	2006	2015						P	979908645
+Parkhäuser – Garagen		9783990432815							https://www.degruyter.com/openurl?genre=book&isbn=9783990432815		9783990432815		fulltext		Ambra Verlag	monograph	2009	2014		zahlr. farb. Abb.				P	979598589
+Parkhäuser – Garagen	9783035616927	9783035617009							https://www.degruyter.com/openurl?genre=book&isbn=9783035617009		9783035617009		fulltext		Birkhäuser	monograph	2018	2018		3., erw. Aufl.	Pech			P	1059297259
+Steildach	9783990431108	9783990436066							https://www.degruyter.com/openurl?genre=book&isbn=9783990436066	Pech	9783990436066		fulltext		Birkhäuser	monograph	2015	2015						P	979635190
+Tragwerke		9783990430835							https://www.degruyter.com/openurl?genre=book&isbn=9783990430835	Pech	9783990430835		fulltext		Ambra Verlag	monograph	2008	2007						P	979755155
+Tragwerke	9783035615456	9783035615166							https://www.degruyter.com/openurl?genre=book&isbn=9783035615166		9783035615166		fulltext		Birkhäuser	monograph	2018	2018		2., akt. Aufl.	Pech			P	1059278625
+Treppen – Stiegen	9783990430224	9783990430538							https://www.degruyter.com/openurl?genre=book&isbn=9783990430538	Pech	9783990430538		fulltext		Ambra Verlag	monograph	2005	2015						P	979836522
+Türen und Tore	9783990430309	9783990431238							https://www.degruyter.com/openurl?genre=book&isbn=9783990431238	Pech	9783990431238		fulltext		Ambra Verlag	monograph	2007	2015						P	979597204
+Wände	9783035619751	9783035620481							https://www.degruyter.com/openurl?genre=book&isbn=9783035620481		9783035620481		fulltext		Birkhäuser	monograph	2019	2019		2. Auflage	Pech			P	1125189135
+Wände		9783990430569							https://www.degruyter.com/openurl?genre=book&isbn=9783990430569	Kolbitsch	9783990430569		fulltext		Ambra Verlag	monograph	2005	2015						P	999372063
+Ziegel im Hochbau	9783035616156	9783035616163							https://www.degruyter.com/openurl?genre=book&isbn=9783035616163		9783035616163		fulltext		Birkhäuser	monograph	2018	2018		2., erw. Aufl.	Pech			P	1059280372
+Ziegel im Hochbau		9783035606652							https://www.degruyter.com/openurl?genre=book&isbn=9783035606652		9783035606652		fulltext		Birkhäuser	monograph	2015	2015			Pech			P	940678698
