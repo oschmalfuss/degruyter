@@ -1,0 +1,119 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Contested Caribbean Indigeneity		9781978808218							https://www.degruyter.com/openurl?genre=book&isbn=9781978808218	Feliciano-Santos	9781978808218		fulltext		Rutgers University Press	monograph	2021	2021						P	
+A COVID Charter, A Better World		9781978827493							https://www.degruyter.com/openurl?genre=book&isbn=9781978827493	Miller	9781978827493		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Acts of Repair		9781978807464							https://www.degruyter.com/openurl?genre=book&isbn=9781978807464	Zaretsky	9781978807464		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Aging Nationally in Contemporary Poland		9781978814004							https://www.degruyter.com/openurl?genre=book&isbn=9781978814004	Robbins	9781978814004		fulltext		Rutgers University Press	monograph	2021	2021						P	
+All My Friends Live in My Computer		9781978818996							https://www.degruyter.com/openurl?genre=book&isbn=9781978818996	Rajabi	9781978818996		fulltext		Rutgers University Press	monograph	2021	2021						P	
+All Politics are God’s Politics		9781978818651							https://www.degruyter.com/openurl?genre=book&isbn=9781978818651	Khanani	9781978818651		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Alternative Realities		9780813599854							https://www.degruyter.com/openurl?genre=book&isbn=9780813599854	Plantinga	9780813599854		fulltext		Rutgers University Press	monograph	2021	2021						P	
+American Hotel		9780813594422							https://www.degruyter.com/openurl?genre=book&isbn=9780813594422	Freeland	9780813594422		fulltext		Rutgers University Press	monograph	2021	2021						P	
+American War Stories		9781978807624							https://www.degruyter.com/openurl?genre=book&isbn=9781978807624	Boyle	9781978807624		fulltext		Rutgers University Press	monograph	2021	2020						P	1202463479
+An Organ of Murder		9781978813106							https://www.degruyter.com/openurl?genre=book&isbn=9781978813106	Thompson	9781978813106		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Anthony Cerami		9781978801448							https://www.degruyter.com/openurl?genre=book&isbn=9781978801448	Keating	9781978801448		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Apocalypse Cinema		9781978819887							https://www.degruyter.com/openurl?genre=book&isbn=9781978819887	Prince	9781978819887		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Association and Enlightenment		9781684482702							https://www.degruyter.com/openurl?genre=book&isbn=9781684482702		9781684482702		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Back to the Roots		9780813590189							https://www.degruyter.com/openurl?genre=book&isbn=9780813590189	Shostak	9780813590189		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Becoming Gods		9781978819696							https://www.degruyter.com/openurl?genre=book&isbn=9781978819696	Smith-Oka	9781978819696		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Bio-Imperialism		9781978814813							https://www.degruyter.com/openurl?genre=book&isbn=9781978814813	D'Arcangelis	9781978814813		fulltext		Rutgers University Press	monograph	2021	2020						P	1201334500
+Bodies Unbound		9781978815827							https://www.degruyter.com/openurl?genre=book&isbn=9781978815827	Sledge	9781978815827		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Bollywood’s New Woman		9781978814486							https://www.degruyter.com/openurl?genre=book&isbn=9781978814486		9781978814486		fulltext		Rutgers University Press	monograph	2021	2021			Arora			P	
+Boswell and the Press		9781684482856							https://www.degruyter.com/openurl?genre=book&isbn=9781684482856		9781684482856		fulltext		Bucknell University Press	monograph	2021	2021			Newman			P	
+Branding Brazil		9781978819337							https://www.degruyter.com/openurl?genre=book&isbn=9781978819337	Marsh	9781978819337		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Calila		9781684483099							https://www.degruyter.com/openurl?genre=book&isbn=9781684483099	Brown	9781684483099		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Calling Memory into Place		9781978807877							https://www.degruyter.com/openurl?genre=book&isbn=9781978807877	Apel	9781978807877		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Campus with Purpose		9781978818408							https://www.degruyter.com/openurl?genre=book&isbn=9781978818408	Lehmkuhle	9781978818408		fulltext		Rutgers University Press	monograph	2021	2020						P	1190896584
+Caribbean Migrations		9781978814530							https://www.degruyter.com/openurl?genre=book&isbn=9781978814530		9781978814530		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Challenging the Black Atlantic		9781684481903							https://www.degruyter.com/openurl?genre=book&isbn=9781684481903	IV	9781684481903		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Changing on the Fly		9781978807976							https://www.degruyter.com/openurl?genre=book&isbn=9781978807976	Szto	9781978807976		fulltext		Rutgers University Press	monograph	2021	2020						P	1200198310
+Citizen Power		9781978824423							https://www.degruyter.com/openurl?genre=book&isbn=9781978824423	Pozycki	9781978824423		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Climbing a Broken Ladder		9781978809208							https://www.degruyter.com/openurl?genre=book&isbn=9781978809208	Okpych	9781978809208		fulltext		Rutgers University Press	monograph	2021	2021						P	
+College Belonging		9781978809536							https://www.degruyter.com/openurl?genre=book&isbn=9781978809536	Nunn	9781978809536		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Crossing Segregated Boundaries		9781978810099							https://www.degruyter.com/openurl?genre=book&isbn=9781978810099	Danns	9781978810099		fulltext		Rutgers University Press	monograph	2021	2020						P	1196171770
+Cyberwars in the Middle East		9781978810143							https://www.degruyter.com/openurl?genre=book&isbn=9781978810143	Al-Rawi	9781978810143		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Disputing Discipline		9781978821774							https://www.degruyter.com/openurl?genre=book&isbn=9781978821774	Fay	9781978821774		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Documenting the American Student Abroad		9781978807723							https://www.degruyter.com/openurl?genre=book&isbn=9781978807723	Hankin	9781978807723		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Drag Queens and Beauty Queens		9781978813908							https://www.degruyter.com/openurl?genre=book&isbn=9781978813908	Greene	9781978813908		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Dreams of Archives Unfolded		9781978806580							https://www.degruyter.com/openurl?genre=book&isbn=9781978806580	Stitt	9781978806580		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Dying to Count		9781978804586							https://www.degruyter.com/openurl?genre=book&isbn=9781978804586	Suh	9781978804586		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Electric Mountains		9781978820722							https://www.degruyter.com/openurl?genre=book&isbn=9781978820722	Golding	9781978820722		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Embracing Age		9781978822313							https://www.degruyter.com/openurl?genre=book&isbn=9781978822313	Corwin	9781978822313		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Exemplary Violence		9781684482658							https://www.degruyter.com/openurl?genre=book&isbn=9781684482658	Villate-Isaza	9781684482658		fulltext		Bucknell University Press	monograph	2021	2021						P	
+False Dawn		9781978808768							https://www.degruyter.com/openurl?genre=book&isbn=9781978808768	Buhler-Wilkerson	9781978808768		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Folk Stories from the Hills of Puerto Rico / Cuentos folklóricos de las montañas de Puerto Rico		9781978823020							https://www.degruyter.com/openurl?genre=book&isbn=9781978823020		9781978823020		fulltext		Rutgers University Press	monograph	2021	2021			Ocasio			P	
+Forget Burial		9781978813809							https://www.degruyter.com/openurl?genre=book&isbn=9781978813809	Fink	9781978813809		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Freedom’s Ring		9781978822757							https://www.degruyter.com/openurl?genre=book&isbn=9781978822757	Foertsch	9781978822757		fulltext		Rutgers University Press	monograph	2021	2021						P	
+From Dead Ends to Cold Warriors		9781978813502							https://www.degruyter.com/openurl?genre=book&isbn=9781978813502	Lee	9781978813502		fulltext		Rutgers University Press	monograph	2021	2021						P	
+From Memory to History		9781978813854							https://www.degruyter.com/openurl?genre=book&isbn=9781978813854	Cullen	9781978813854		fulltext		Rutgers University Press	monograph	2021	2021						P	
+From Residency to Retirement		9780813570044							https://www.degruyter.com/openurl?genre=book&isbn=9780813570044	Mizrahi	9780813570044		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Gentrification Down the Shore		9781978813656							https://www.degruyter.com/openurl?genre=book&isbn=9781978813656	Makris	9781978813656		fulltext		Rutgers University Press	monograph	2021	2020						P	1198715871
+Growing Old in a New China		9781978813953							https://www.degruyter.com/openurl?genre=book&isbn=9781978813953	Keimig	9781978813953		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Haiti Fights Back		9781978815445							https://www.degruyter.com/openurl?genre=book&isbn=9781978815445	Alexis	9781978815445		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Has It Come to This?		9781978809390							https://www.degruyter.com/openurl?genre=book&isbn=9781978809390		9781978809390		fulltext		Rutgers University Press	monograph	2021	2021			Sapinski			P	
+Haunted Homes		9781978807778							https://www.degruyter.com/openurl?genre=book&isbn=9781978807778	Schweitzer	9781978807778		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Hear #metoo in India		9781978805767							https://www.degruyter.com/openurl?genre=book&isbn=9781978805767	Guha	9781978805767		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Hemispheres and Stratospheres		9781684482054							https://www.degruyter.com/openurl?genre=book&isbn=9781684482054		9781684482054		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Hot Pants and Spandex Suits		9781978806078							https://www.degruyter.com/openurl?genre=book&isbn=9781978806078	Dauw	9781978806078		fulltext		Rutgers University Press	monograph	2021	2021						P	1227386548
+Humanity's Last Stand		9781978820913							https://www.degruyter.com/openurl?genre=book&isbn=9781978820913	Schuller	9781978820913		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Imagining Persecution		9781978816855							https://www.degruyter.com/openurl?genre=book&isbn=9781978816855	Bruner	9781978816855		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Indigenous Peoples Rise Up		9781978808812							https://www.degruyter.com/openurl?genre=book&isbn=9781978808812		9781978808812		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Indiscreet Fantasies		9781684482504							https://www.degruyter.com/openurl?genre=book&isbn=9781684482504		9781684482504		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Jewish and Romani Families in the Holocaust and its Aftermath		9781978819542							https://www.degruyter.com/openurl?genre=book&isbn=9781978819542		9781978819542		fulltext		Rutgers University Press	monograph	2021	2020						P	1182881192
+Johnson in Japan		9781684482450							https://www.degruyter.com/openurl?genre=book&isbn=9781684482450		9781684482450		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Korean "Comfort Women"		9781978815001							https://www.degruyter.com/openurl?genre=book&isbn=9781978815001	Min	9781978815001		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Latin American Literature at the Millennium		9781684482603							https://www.degruyter.com/openurl?genre=book&isbn=9781684482603	Raynor	9781684482603		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Laurence Sterne’s A Sentimental Journey		9781684482801							https://www.degruyter.com/openurl?genre=book&isbn=9781684482801		9781684482801		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Learning to Love		9780813599670							https://www.degruyter.com/openurl?genre=book&isbn=9780813599670	Pande	9780813599670		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Life in a Cambodian Orphanage		9781978804883							https://www.degruyter.com/openurl?genre=book&isbn=9781978804883	Carpenter	9781978804883		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Linked Lives		9781978815346							https://www.degruyter.com/openurl?genre=book&isbn=9781978815346	Gamburd	9781978815346		fulltext		Rutgers University Press	monograph	2021	2020						P	1201334738
+Making the Right Choice		9781978810341							https://www.degruyter.com/openurl?genre=book&isbn=9781978810341	Abeyasekera	9781978810341		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Mapping the Way from Teacher Preparation to edTPA® Completion		9781978822016							https://www.degruyter.com/openurl?genre=book&isbn=9781978822016	Schpakow	9781978822016		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Marriage, Gender and Refugee Migration		9781978805576							https://www.degruyter.com/openurl?genre=book&isbn=9781978805576	Carver	9781978805576		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Memories before the State		9781978809574							https://www.degruyter.com/openurl?genre=book&isbn=9781978809574	Feldman	9781978809574		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Micro Media Industries		9781978823389							https://www.degruyter.com/openurl?genre=book&isbn=9781978823389	Lopez	9781978823389		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Mixed-Race Superheroes		9781978814639							https://www.degruyter.com/openurl?genre=book&isbn=9781978814639		9781978814639		fulltext		Rutgers University Press	monograph	2021	2021			Dagbovie-Mullins			P	
+Mormons in Paris		9781684482405							https://www.degruyter.com/openurl?genre=book&isbn=9781684482405		9781684482405		fulltext		Bucknell University Press	monograph	2021	2021			Cropper			P	
+Movie Minorities		9781978809680							https://www.degruyter.com/openurl?genre=book&isbn=9781978809680	Diffrient	9781978809680		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Nursing the Nation		9780813586007							https://www.degruyter.com/openurl?genre=book&isbn=9780813586007	Whelan	9780813586007		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Oriental Networks		9781684482757							https://www.degruyter.com/openurl?genre=book&isbn=9781684482757		9781684482757		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Panthers, Hulks and Ironhearts		9781978809253							https://www.degruyter.com/openurl?genre=book&isbn=9781978809253	Brown	9781978809253		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Paper, Ink, and Achievement		9781684482559							https://www.degruyter.com/openurl?genre=book&isbn=9781684482559		9781684482559		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Performing Math		9781978820241							https://www.degruyter.com/openurl?genre=book&isbn=9781978820241	Fiss	9781978820241		fulltext		Rutgers University Press	monograph	2021	2020						P	1198714108
+Pink and Blue		9781978809871							https://www.degruyter.com/openurl?genre=book&isbn=9781978809871		9781978809871		fulltext		Rutgers University Press	monograph	2021	2021			Conis			P	
+Playing with History		9781978822115							https://www.degruyter.com/openurl?genre=book&isbn=9781978822115	Rosner	9781978822115		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Precarity and Belonging		9781978815667							https://www.degruyter.com/openurl?genre=book&isbn=9781978815667	Ramírez	9781978815667		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Premed Prep		9781978817265							https://www.degruyter.com/openurl?genre=book&isbn=9781978817265	Nakae	9781978817265		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Race and the Rhetoric of Resistance		9781978820869							https://www.degruyter.com/openurl?genre=book&isbn=9781978820869	Ferguson	9781978820869		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Reuse, Misuse, Abuse		9780813599304							https://www.degruyter.com/openurl?genre=book&isbn=9780813599304	Baron	9780813599304		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Robinson Crusoe after 300 Years		9781684482900							https://www.degruyter.com/openurl?genre=book&isbn=9781684482900		9781684482900		fulltext		Bucknell University Press	monograph	2021	2021						P	
+Scarlet and Black, Volume Three		9781978827349							https://www.degruyter.com/openurl?genre=book&isbn=9781978827349		9781978827349		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Securitizing Youth		9781978822412							https://www.degruyter.com/openurl?genre=book&isbn=9781978822412		9781978822412		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Sex, Society, and the Making of Pornography		9781978820180							https://www.degruyter.com/openurl?genre=book&isbn=9781978820180	Escoffier	9781978820180		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Shades of Springsteen		9781978816206							https://www.degruyter.com/openurl?genre=book&isbn=9781978816206	Massaro	9781978816206		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Special Admission		9781978821248							https://www.degruyter.com/openurl?genre=book&isbn=9781978821248	Hextrum	9781978821248		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Stanley Kubrick Produces		9781978814912							https://www.degruyter.com/openurl?genre=book&isbn=9781978814912	Fenwick	9781978814912		fulltext		Rutgers University Press	monograph	2021	2020						P	1198611689
+Star Wars Multiverse		9781978815292							https://www.degruyter.com/openurl?genre=book&isbn=9781978815292	Esterrich	9781978815292		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Streetwalking		9781978816534							https://www.degruyter.com/openurl?genre=book&isbn=9781978816534	Lara	9781978816534		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Testimony		9781684483143							https://www.degruyter.com/openurl?genre=book&isbn=9781684483143	Stepakoff	9781684483143		fulltext		Bucknell University Press	monograph	2021	2021						P	
+The Age of Johnson		9781684483044							https://www.degruyter.com/openurl?genre=book&isbn=9781684483044		9781684483044		fulltext		Bucknell University Press	monograph	2021	2021						P	
+The Boxing Film		9781978801394							https://www.degruyter.com/openurl?genre=book&isbn=9781978801394	Vogan	9781978801394		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Cinema of Rithy Panh		9781978809833							https://www.degruyter.com/openurl?genre=book&isbn=9781978809833		9781978809833		fulltext		Rutgers University Press	monograph	2022	2021						P	
+The Complexity of Evil		9781978814332							https://www.degruyter.com/openurl?genre=book&isbn=9781978814332	Williams	9781978814332		fulltext		Rutgers University Press	monograph	2021	2021						F	
+The Devil's Fruit		9780813598659							https://www.degruyter.com/openurl?genre=book&isbn=9780813598659	Saxton	9780813598659		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Divine Institution		9781978824492							https://www.degruyter.com/openurl?genre=book&isbn=9781978824492	Bjork-James	9781978824492		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Guise of Exceptionalism		9781978821354							https://www.degruyter.com/openurl?genre=book&isbn=9781978821354	Fatton	9781978821354		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Latinx Files		9781978815148							https://www.degruyter.com/openurl?genre=book&isbn=9781978815148		9781978815148		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Movie Musical		9781978803824							https://www.degruyter.com/openurl?genre=book&isbn=9781978803824	Garcia	9781978803824		fulltext		Rutgers University Press	monograph	2021	2021						P	1226582164
+The Other End of the Needle		9781978807518							https://www.degruyter.com/openurl?genre=book&isbn=9781978807518	Lane	9781978807518		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Philadelphia Irish		9781978815490							https://www.degruyter.com/openurl?genre=book&isbn=9781978815490	Mullan	9781978815490		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Quotable Voltaire		9781684482955							https://www.degruyter.com/openurl?genre=book&isbn=9781684482955		9781684482955		fulltext		Bucknell University Press	monograph	2021	2021			Apgar			P	
+The Red Thread		9781978809932							https://www.degruyter.com/openurl?genre=book&isbn=9781978809932	Zumoff	9781978809932		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Reimagined PhD		9781978809154							https://www.degruyter.com/openurl?genre=book&isbn=9781978809154		9781978809154		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Street		9781978814240							https://www.degruyter.com/openurl?genre=book&isbn=9781978814240		9781978814240		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Struggle of Non-Sovereign Caribbean Territories		9781978815766							https://www.degruyter.com/openurl?genre=book&isbn=9781978815766		9781978815766		fulltext		Rutgers University Press	monograph	2021	2021						P	
+The Synergistic Classroom		9781978818453							https://www.degruyter.com/openurl?genre=book&isbn=9781978818453		9781978818453		fulltext		Rutgers University Press	monograph	2021	2020						P	1196171805
+Through Japanese Eyes		9781978819597							https://www.degruyter.com/openurl?genre=book&isbn=9781978819597	Tsuji	9781978819597		fulltext		Rutgers University Press	monograph	2021	2020						P	1200197414
+Toxic and Intoxicating Oil		9781978814110							https://www.degruyter.com/openurl?genre=book&isbn=9781978814110	Widener	9781978814110		fulltext		Rutgers University Press	monograph	2021	2021						P	
+Transatlantic Women Travelers, 1688-1843		9781684483006							https://www.degruyter.com/openurl?genre=book&isbn=9781684483006		9781684483006		fulltext		Bucknell University Press	monograph	2021	2021			Krueger			P	
+Unsettling		9781978807273							https://www.degruyter.com/openurl?genre=book&isbn=9781978807273	Bromberg	9781978807273		fulltext		Rutgers University Press	monograph	2021	2020						P	1204135213
+U.S. Power in International Higher Education		9781978820814							https://www.degruyter.com/openurl?genre=book&isbn=9781978820814		9781978820814		fulltext		Rutgers University Press	monograph	2021	2021						P	
+1650-1850		9781684483242							https://www.degruyter.com/openurl?genre=book&isbn=9781684483242		9781684483242		fulltext		Bucknell University Press	monograph	2021	2021						P	
