@@ -1,0 +1,22 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE
+Bio-Algorithms and Med-Systems 	1895-9091	1896-530X	2012-06-20	8	1				https://www.degruyter.com/openurl?genre=journal&issn=1896-530X		1896-530X		fulltext		De Gruyter	serial								P
+Biomedical Engineering / Biomedizinische Technik 	0013-5585	1862-278X	1995-01-01	40	1				https://www.degruyter.com/openurl?genre=journal&issn=1862-278X		1862-278X		fulltext		De Gruyter	serial								P
+Case Reports in Perinatal Medicine	2192-8932	2192-8959	2012-06-20	1	1-2				https://www.degruyter.com/openurl?genre=journal&issn=2192-8959		2192-8959		fulltext		De Gruyter	serial								P
+Clinical Chemistry and Laboratory Medicine (CCLM)	1434-6621	1437-4331	1995-01-01	33	1				https://www.degruyter.com/openurl?genre=journal&issn=1437-4331		1437-4331		fulltext		De Gruyter	serial								P
+Diagnosis	2194-8011	2194-802X	2014-01-31	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2194-802X		2194-802X		fulltext		De Gruyter	serial								P
+Drug Metabolism and Personalized Therapy	2363-8907	2363-8915	1995-03-01	12	März				https://www.degruyter.com/openurl?genre=journal&issn=2363-8915		2363-8915		fulltext		De Gruyter	serial								P
+Epidemiologic Methods	2194-9263	2161-962X	2012-12-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2161-962X		2161-962X		fulltext		De Gruyter	serial								P
+Hormone Molecular Biology and Clinical Investigation	1868-1883	1868-1891	2010-03-27		1				https://www.degruyter.com/openurl?genre=journal&issn=1868-1891		1868-1891		fulltext		De Gruyter	serial								P
+International Journal of Adolescent Medicine and Health 	0334-0139	2191-0278	1995-01-01	8	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-0278		2191-0278		fulltext		De Gruyter	serial								P
+International Journal of Nursing Education Scholarship	2194-5772	1548-923X	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1548-923X		1548-923X		fulltext		De Gruyter	serial								P
+Journal of Basic and Clinical Physiology and Pharmacology	0792-6855	2191-0286	1995-03-01	6	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-0286		2191-0286		fulltext		De Gruyter	serial								P
+Journal of Complementary and Integrative Medicine	2194-6329	1553-3840	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1553-3840		1553-3840		fulltext		De Gruyter	serial								P
+Journal of Imagery Research in Sport and Physical Activity	2194-637X	1932-0191	2006-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1932-0191		1932-0191		fulltext		De Gruyter	serial								P
+Journal of Pediatric Endocrinology and Metabolism	0334-018X	2191-0251	1995-01-01	8	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-0251		2191-0251		fulltext		De Gruyter	serial								P
+Journal of Perinatal Medicine	0300-5577	1619-3997	1995-01-01	23	1				https://www.degruyter.com/openurl?genre=journal&issn=1619-3997		1619-3997		fulltext		De Gruyter	serial								P
+Medizinische Genetik	0936-5931	1863-5490	2007-05-20	19	1				https://www.degruyter.com/openurl?genre=journal&issn=1863-5490		1863-5490		fulltext		De Gruyter	serial								P
+Public Health Forum	0944-5587	1876-4851	1995-01-20	3	1				https://www.degruyter.com/openurl?genre=journal&issn=1876-4851		1876-4851		fulltext		De Gruyter	serial								P
+Reviews on Environmental Health	0048-7554	2191-0308	1996-01-01	11	1/2				https://www.degruyter.com/openurl?genre=journal&issn=2191-0308		2191-0308		fulltext		De Gruyter	serial								P
+Scandinavian Journal of Pain	1877-8860	1877-8879	2010-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1877-8879		1877-8879		fulltext		De Gruyter	serial								P
+Spiritual Care	2193-3804	2365-8185	2012-04-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2365-8185		2365-8185		fulltext		De Gruyter	serial								P
+Statistical Communications in Infectious Diseases	2194-6310	1948-4690	2009-06-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1948-4690		1948-4690		fulltext		De Gruyter	serial								P

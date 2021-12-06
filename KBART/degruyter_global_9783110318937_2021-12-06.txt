@@ -1,0 +1,39 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+Alta densità abitativa		9783034615075							https://www.degruyter.com/openurl?genre=book&isbn=9783034615075		9783034615075		fulltext		Birkhäuser	monograph	2005	2013			Schittich			P	979954778
+Barthélémy-Griño architectes		9783764376536							https://www.degruyter.com/openurl?genre=book&isbn=9783764376536		9783764376536		fulltext		Birkhäuser	monograph	2005	2012			Barthélémy-Griño architectes			P	979646841
+Baustoff Atlas	9783764372729	9783034614481							https://www.degruyter.com/openurl?genre=book&isbn=9783034614481	Hegger	9783034614481		fulltext		Birkhäuser	monograph	2006	2012						P	979625450
+Baustoff Beton		9783955530204							https://www.degruyter.com/openurl?genre=book&isbn=9783955530204		9783955530204		fulltext		DETAIL	monograph	2005	2012		1., Aufl.	Peck			P	979647875
+Bothe Richter Teherani		9783764376550							https://www.degruyter.com/openurl?genre=book&isbn=9783764376550	Weiss	9783764376550		fulltext		Birkhäuser	monograph	2005	2005						P	74671041
+Bothe Richter Teherani		9783764376567							https://www.degruyter.com/openurl?genre=book&isbn=9783764376567	Weiss	9783764376567		fulltext		Birkhäuser	monograph	2005	2005						P	843622855
+Constantin Boym—America		9783764376789							https://www.degruyter.com/openurl?genre=book&isbn=9783764376789	Boym	9783764376789		fulltext		Birkhäuser	monograph	2005	2005						P	979646842
+Curtain Walls		9783764376543							https://www.degruyter.com/openurl?genre=book&isbn=9783764376543	Crosbie	9783764376543		fulltext		Birkhäuser	monograph	2005	2005						P	850699431
+Design		9783764376819							https://www.degruyter.com/openurl?genre=book&isbn=9783764376819	Bürdek	9783764376819		fulltext		Birkhäuser	monograph	2005	2005						P	999373075
+Design		9783764376802							https://www.degruyter.com/openurl?genre=book&isbn=9783764376802	Bürdek	9783764376802		fulltext		Birkhäuser	monograph	2005	2005		3. ed.				P	840438890
+Devanthéry & Lamunière		9783764379049							https://www.degruyter.com/openurl?genre=book&isbn=9783764379049		9783764379049		fulltext		Birkhäuser	monograph	2005	2005						P	699657027
+Die Küche		9783764376703							https://www.degruyter.com/openurl?genre=book&isbn=9783764376703		9783764376703		fulltext		Birkhäuser	monograph	2006	2005			Spechtenhauser			P	979596278
+Die Schweiz – ein städtebauliches Portrait		9783764376611							https://www.degruyter.com/openurl?genre=book&isbn=9783764376611	Diener	9783764376611		fulltext		Birkhäuser	monograph	2006	2005						P	979594973
+Die Stadt der Architekten	9783764370640	9783764376758							https://www.degruyter.com/openurl?genre=book&isbn=9783764376758	Eisinger	9783764376758		fulltext		Birkhäuser	monograph	2005	2005						P	695706910
+Disappearing Architecture		9783764376741							https://www.degruyter.com/openurl?genre=book&isbn=9783764376741		9783764376741		fulltext		Birkhäuser	monograph	2005	2005			Flachbart			P	698847672
+Dressed Stone	9783764372736	9783034614641							https://www.degruyter.com/openurl?genre=book&isbn=9783034614641	Hugues	9783034614641		fulltext		Birkhäuser	monograph	2005	2012						P	979582508
+Einfach Bauen	9783764372705	9783034615242							https://www.degruyter.com/openurl?genre=book&isbn=9783034615242		9783034615242		fulltext		Birkhäuser	monograph	2005	2013			Schittich			P	958039721
+Einfamilienhäuser	9783764372781	9783034615259							https://www.degruyter.com/openurl?genre=book&isbn=9783034615259		9783034615259		fulltext		Birkhäuser	monograph	2005	2012		2. ed.	Schittich			P	979744110
+Entwurfsatlas Forschungs- und Technologiebau		9783764376710							https://www.degruyter.com/openurl?genre=book&isbn=9783764376710	Braun	9783764376710		fulltext		Birkhäuser	monograph	2005	2005						P	979612085
+Formationen der Stadt	9783764371524	9783764376765							https://www.degruyter.com/openurl?genre=book&isbn=9783764376765		9783764376765		fulltext		Birkhäuser	monograph	2006	2005			Wilhelm			P	979596781
+Frank Gehry MARTa Herford		9783764376581							https://www.degruyter.com/openurl?genre=book&isbn=9783764376581		9783764376581		fulltext		Birkhäuser	monograph	2005	2005			MARTa Freunde und Förderer			P	74720720
+In Gardens	9783764370787	9783764376628							https://www.degruyter.com/openurl?genre=book&isbn=9783764376628	Weilacher	9783764376628		fulltext		Birkhäuser	monograph	2005	2005						P	850317856
+In Gärten		9783034608558							https://www.degruyter.com/openurl?genre=book&isbn=9783034608558	Weilacher	9783034608558		fulltext		Birkhäuser	monograph	2005	2012						P	979625292
+La Suisse - portrait  urbain		9783764378028							https://www.degruyter.com/openurl?genre=book&isbn=9783764378028	Meili	9783764378028		fulltext		Birkhäuser	monograph	2005	2005						P	992541984
+Plaster, Render, Paint and Coatings		9783034614764							https://www.degruyter.com/openurl?genre=book&isbn=9783034614764	Reichel	9783034614764		fulltext		Birkhäuser	monograph	2005	2012						P	979760961
+Recent Waterscapes		9783764376659							https://www.degruyter.com/openurl?genre=book&isbn=9783764376659		9783764376659		fulltext		Birkhäuser	monograph	2009	2012		2. ed.	Dreiseitl			P	948656494
+Research and Technology Buildings	9783764321741	9783764376727							https://www.degruyter.com/openurl?genre=book&isbn=9783764376727	Braun	9783764376727		fulltext		Birkhäuser	monograph	2005	2005						P	987766523
+Single Family Houses	9783764372774	9783034615174							https://www.degruyter.com/openurl?genre=book&isbn=9783034615174		9783034615174		fulltext		Birkhäuser	monograph	2005	2012		2. ed.	Schittich			P	979752233
+Spielräume / Changing Places		9783764376642							https://www.degruyter.com/openurl?genre=book&isbn=9783764376642		9783764376642		fulltext		Birkhäuser	monograph	2005	2005			Bund Deutscher Landschaftsarchitekten			P	840439587
+Stadtland Schweiz		9783764376604							https://www.degruyter.com/openurl?genre=book&isbn=9783764376604		9783764376604		fulltext		Birkhäuser	monograph	2005	2005		2. ed.	Eisinger			P	840440354
+Switzerland – an Urban Portrait		9783034608664							https://www.degruyter.com/openurl?genre=book&isbn=9783034608664	Diener	9783034608664		fulltext		Birkhäuser	monograph	2005	2013						P	979905954
+Tageslicht - Kunstlicht	9783920034126	9783955530266							https://www.degruyter.com/openurl?genre=book&isbn=9783955530266	Licht	9783955530266		fulltext		DETAIL	monograph	2005	2012						P	979971477
+T-Center St. Marx, Wien / Vienna		9783764376598							https://www.degruyter.com/openurl?genre=book&isbn=9783764376598	Domenig/Eisenköck/Peyker	9783764376598		fulltext		Birkhäuser	monograph	2005	2005						P	840440880
+The Art of Precast Concrete	9783764371500	9783764376680							https://www.degruyter.com/openurl?genre=book&isbn=9783764376680	Bennett	9783764376680		fulltext		Birkhäuser	monograph	2005	2005						P	850574109
+The Kitchen	9783764372811	9783764377236							https://www.degruyter.com/openurl?genre=book&isbn=9783764377236		9783764377236		fulltext		Birkhäuser	monograph	2006	2005			Spechtenhauser			P	979853650
+Total Interaction		9783764376772							https://www.degruyter.com/openurl?genre=book&isbn=9783764376772		9783764376772		fulltext		Birkhäuser	monograph	2005	2005			Buurman			P	830884940
+Urban Textures | Yves Lion		9783764376574							https://www.degruyter.com/openurl?genre=book&isbn=9783764376574	Cohen	9783764376574		fulltext		Birkhäuser	monograph	2005	2005						P	975194652
+Vivienda y densidad	9783764375300	9783034615068							https://www.degruyter.com/openurl?genre=book&isbn=9783034615068		9783034615068		fulltext		Birkhäuser	monograph	2005	2013			Schittich			P	979954777
