@@ -1,0 +1,57 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE
+Accounting, Economics, and Law: A Convivium	2194-6051	2152-2820	2011-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2152-2820		2152-2820		fulltext		De Gruyter	serial								P
+Asian Journal of Law and Economics	2194-6086	2154-4611	2010-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2154-4611		2154-4611		fulltext		De Gruyter	serial								P
+Asia-Pacific Journal of Risk and Insurance	1793-2157	2153-3792	2005-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2153-3792		2153-3792		fulltext		De Gruyter	serial								P
+Basic Income Studies	2194-6094	1932-0183	2006-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1932-0183		1932-0183		fulltext		De Gruyter	serial								P
+Chemical Product and Process Modeling	2194-6159	1934-2659	2006-05-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1934-2659		1934-2659		fulltext		De Gruyter	serial								P
+Computational Methods in Applied Mathematics	1609-4840	1609-9389	2001-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1609-9389		1609-9389		fulltext		De Gruyter	serial								P
+Computer Law Review International	1610-7608	2194-4164	2005-02-15	6	1				https://www.degruyter.com/openurl?genre=journal&issn=2194-4164		2194-4164		fulltext		Verlag Dr. Otto Schmidt	serial								P
+Entrepreneurship Research Journal	2194-6175	2157-5665	2011-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2157-5665		2157-5665		fulltext		De Gruyter	serial								P
+Forum for Health Economics & Policy	2194-6191	1558-9544	1998-10-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1558-9544		1558-9544		fulltext		De Gruyter	serial								P
+Global Jurist	2194-5675	1934-2640	2001-11-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1934-2640		1934-2640		fulltext		De Gruyter	serial								P
+Human Affairs	1210-3055	1337-401X	2007-03-19	17	1				https://www.degruyter.com/openurl?genre=journal&issn=1337-401X		1337-401X		fulltext		De Gruyter	serial								P
+ICL Journal	2306-3734	1995-5855	2017-03-20	11	1				https://www.degruyter.com/openurl?genre=journal&issn=1995-5855		1995-5855		fulltext		De Gruyter	serial								P
+i-com	1618-162X	2196-6826	2001-08-20		O				https://www.degruyter.com/openurl?genre=journal&issn=2196-6826		2196-6826		fulltext		Oldenbourg Wissenschaftsverlag	serial								P
+International Journal of Chemical Reactor Engineering	2194-5748	1542-6580	2003-05-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1542-6580		1542-6580		fulltext		De Gruyter	serial								P
+International Journal of Emerging Electric Power Systems	2194-5756	1553-779X	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1553-779X		1553-779X		fulltext		De Gruyter	serial								P
+International Journal of Food Engineering	2194-5764	1556-3758	2005-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1556-3758		1556-3758		fulltext		De Gruyter	serial								P
+International Journal of Nursing Education Scholarship	2194-5772	1548-923X	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1548-923X		1548-923X		fulltext		De Gruyter	serial								P
+International Public History		2567-1111	2018-06-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2567-1111		2567-1111		fulltext		De Gruyter Oldenbourg	serial								P
+Journal des Économistes et des Études Humaines	2194-5799	2153-1552	1995-01-01	6	1				https://www.degruyter.com/openurl?genre=journal&issn=2153-1552		2153-1552		fulltext		De Gruyter	serial								P
+Journal of Agricultural & Food Industrial Organization	2194-5896	1542-0485	2003-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1542-0485		1542-0485		fulltext		De Gruyter	serial								P
+Journal of Applied Analysis	1425-6908	1869-6082	1995-06-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1869-6082		1869-6082		fulltext		De Gruyter	serial								P
+Journal of Biosecurity, Biosafety and Biodefense Law	2194-590X	2154-3186	2011-07-15		1				https://www.degruyter.com/openurl?genre=journal&issn=2154-3186		2154-3186		fulltext		De Gruyter	serial								P
+Journal of Business Valuation and Economic Loss Analysis	2194-5861	1932-9156	2006-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1932-9156		1932-9156		fulltext		De Gruyter	serial								P
+Journal of Complementary and Integrative Medicine	2194-6329	1553-3840	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1553-3840		1553-3840		fulltext		De Gruyter	serial								P
+Journal of Econometric Methods	2194-6345	2156-6674	2012-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2156-6674		2156-6674		fulltext		De Gruyter	serial								P
+Journal of European Tort Law	1868-9612	1868-9620	1998-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1868-9620		1868-9620		fulltext		De Gruyter	serial								P
+Journal of Globalization and Development 	2194-6353	1948-1837	2010-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1948-1837		1948-1837		fulltext		De Gruyter	serial								P
+Journal of Homeland Security and Emergency Management	2194-6361	1547-7355	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1547-7355		1547-7355		fulltext		De Gruyter	serial								P
+Journal of Imagery Research in Sport and Physical Activity	2194-637X	1932-0191	2006-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1932-0191		1932-0191		fulltext		De Gruyter	serial								P
+Journal of Quantitative Analysis in Sports	2194-6388	1559-0410	2005-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1559-0410		1559-0410		fulltext		De Gruyter	serial								P
+Journal of Time Series Econometrics	2194-6507	1941-1928	2009-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1941-1928		1941-1928		fulltext		De Gruyter	serial								P
+Journal of Tort Law	2194-6515	1932-9148	2006-12-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1932-9148		1932-9148		fulltext		De Gruyter	serial								P
+Law & Ethics of Human Rights	2194-6531	1938-2545	2007-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1938-2545		1938-2545		fulltext		De Gruyter	serial								P
+Law and Development Review	2194-6523	1943-3867	2008-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1943-3867		1943-3867		fulltext		De Gruyter	serial								P
+Man and the Economy	2196-9639	2196-9647	2014-07-30	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2196-9647		2196-9647		fulltext		De Gruyter	serial								P
+Moral Philosophy and Politics	2194-5616	2194-5624	2014-04-15	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2194-5624		2194-5624		fulltext		De Gruyter	serial								P
+Multicultural Learning and Teaching	2194-654X	2161-2412	2006-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2161-2412		2161-2412		fulltext		De Gruyter	serial								P
+Muslim World Journal of Human Rights	2194-6558	1554-4419	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1554-4419		1554-4419		fulltext		De Gruyter	serial								P
+New Global Studies	2194-6566	1940-0004	2007-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1940-0004		1940-0004		fulltext		De Gruyter	serial								P
+Peace Economics, Peace Science and Public Policy	1079-2457	1554-8597	1995-01-01	3	1				https://www.degruyter.com/openurl?genre=journal&issn=1554-8597		1554-8597		fulltext		De Gruyter	serial								P
+Review of Law & Economics	2194-6000	1555-5879	2005-04-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1555-5879		1555-5879		fulltext		De Gruyter	serial								P
+Review of Marketing Science	2194-5985	1546-5616	2003-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1546-5616		1546-5616		fulltext		De Gruyter	serial								P
+Review of Middle East Economics and Finance	1475-3685	1475-3693	2003-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1475-3693		1475-3693		fulltext		De Gruyter	serial								P
+Statistical Applications in Genetics and Molecular Biology	2194-6302	1544-6115	2002-05-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1544-6115		1544-6115		fulltext		De Gruyter	serial								P
+Statistical Communications in Infectious Diseases	2194-6310	1948-4690	2009-06-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1948-4690		1948-4690		fulltext		De Gruyter	serial								P
+Statistics & Risk Modeling	2193-1402	2196-7040	1995-04-20	13	1				https://www.degruyter.com/openurl?genre=journal&issn=2196-7040		2196-7040		fulltext		De Gruyter (A)	serial								P
+Statistics, Politics and Policy 	2194-6299	2151-7509	2010-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2151-7509		2151-7509		fulltext		De Gruyter	serial								P
+Stochastics and Quality Control 	2367-2390	2367-2404	2001-04-01	16	1				https://www.degruyter.com/openurl?genre=journal&issn=2367-2404		2367-2404		fulltext		De Gruyter	serial								P
+Studies in Nonlinear Dynamics & Econometrics	1081-1826	1558-3708	1996-04-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1558-3708		1558-3708		fulltext		De Gruyter	serial								P
+The B.E. Journal of Economic Analysis & Policy	2194-6108	1935-1682	2001-11-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1935-1682		1935-1682		fulltext		De Gruyter	serial								P
+The B.E. Journal of Macroeconomics	2194-6116	1935-1690	2001-11-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1935-1690		1935-1690		fulltext		De Gruyter	serial								P
+The B.E. Journal of Theoretical Economics	2194-6124	1935-1704	2001-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1935-1704		1935-1704		fulltext		De Gruyter	serial								P
+The Economists’ Voice	2194-6167	1553-3832	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1553-3832		1553-3832		fulltext		De Gruyter	serial								P
+The Forum	2194-6183	1540-8884	2002-05-21	1 (2002-2003)	1				https://www.degruyter.com/openurl?genre=journal&issn=1540-8884		1540-8884		fulltext		De Gruyter	serial								P
+The International Journal of Biostatistics	2194-573X	1557-4679	2005-05-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1557-4679		1557-4679		fulltext		De Gruyter	serial								P
+Theoretical Inquiries in Law	1565-1509	1565-3404	2000-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1565-3404		1565-3404		fulltext		De Gruyter	serial								P

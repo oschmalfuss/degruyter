@@ -1,0 +1,142 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Medicated Empire		9781501756269							https://www.degruyter.com/openurl?genre=book&isbn=9781501756269	Yang	9781501756269		fulltext		Cornell University Press	monograph	2021	2021						P	
+A Region of Regimes		9781501758829							https://www.degruyter.com/openurl?genre=book&isbn=9781501758829	Pempel	9781501758829		fulltext		Cornell University Press	monograph	2021	2021						P	
+A Simpler Life		9781501753459							https://www.degruyter.com/openurl?genre=book&isbn=9781501753459	Dan-Cohen	9781501753459		fulltext		Cornell University Press	monograph	2021	2021						P	1178869946
+A Vulnerable System		9781501759048							https://www.degruyter.com/openurl?genre=book&isbn=9781501759048	Stewart	9781501759048		fulltext		Cornell University Press	monograph	2021	2021						P	
+A Wild Idea		9781501759024							https://www.degruyter.com/openurl?genre=book&isbn=9781501759024	Edmondson	9781501759024		fulltext		Cornell University Press	monograph	2021	2021						P	1221016666
+Acts of Care		9781501753558							https://www.degruyter.com/openurl?genre=book&isbn=9781501753558	Ritchey	9781501753558		fulltext		Cornell University Press	monograph	2021	2021						P	1243310792
+All Options on the Table		9781501760365							https://www.degruyter.com/openurl?genre=book&isbn=9781501760365	Whitlark	9781501760365		fulltext		Cornell University Press	monograph	2021	2021						P	
+All Societies Die		9781501755927							https://www.degruyter.com/openurl?genre=book&isbn=9781501755927	Cohn	9781501755927		fulltext		Cornell University Press	monograph	2021	2021						P	1248759175
+America's Disenfranchised		9781501763762							https://www.degruyter.com/openurl?genre=book&isbn=9781501763762	Meade	9781501763762		fulltext		Cornell University Press	monograph	2021	2021						F	
+An Elusive Common		9781501756146							https://www.degruyter.com/openurl?genre=book&isbn=9781501756146	Rignall	9781501756146		fulltext		Cornell University Press	monograph	2021	2021						P	
+Antifascism		9781501759376							https://www.degruyter.com/openurl?genre=book&isbn=9781501759376	Gottfried	9781501759376		fulltext		Cornell University Press	monograph	2021	2021						P	
+Babaylan Sing Back		9781501760112							https://www.degruyter.com/openurl?genre=book&isbn=9781501760112	Nono	9781501760112		fulltext		Cornell University Press	monograph	2021	2021						P	
+Beyond Medicine		9781501754586							https://www.degruyter.com/openurl?genre=book&isbn=9781501754586	Dutton	9781501754586		fulltext		Cornell University Press	monograph	2021	2021						P	1248759090
+Biological Systematics		9781501752797							https://www.degruyter.com/openurl?genre=book&isbn=9781501752797	Schuh	9781501752797		fulltext		Cornell University Press	monograph	2021	2021		Third Edition				P	1243312388
+Bridging the Divide		9781501760334							https://www.degruyter.com/openurl?genre=book&isbn=9781501760334	Metzgar	9781501760334		fulltext		Cornell University Press	monograph	2021	2021						P	
+Bullets Not Ballots		9781501754807							https://www.degruyter.com/openurl?genre=book&isbn=9781501754807	Hazelton	9781501754807		fulltext		Cornell University Press	monograph	2021	2021						P	1163932658
+Can You Beat Churchill?		9781501755668							https://www.degruyter.com/openurl?genre=book&isbn=9781501755668	Barnhart	9781501755668		fulltext		Cornell University Press	monograph	2021	2021						P	
+Catastrophic Success		9781501761164							https://www.degruyter.com/openurl?genre=book&isbn=9781501761164	Downes	9781501761164		fulltext		Cornell University Press	monograph	2021	2021						P	
+Claiming Belonging		9781501753619							https://www.degruyter.com/openurl?genre=book&isbn=9781501753619	Cury	9781501753619		fulltext		Cornell University Press	monograph	2021	2021						P	1145907626
+Collaborative Anthropology Today		9781501753374							https://www.degruyter.com/openurl?genre=book&isbn=9781501753374		9781501753374		fulltext		Cornell University Press	monograph	2021	2021			Boyer			P	1227392982
+Coming Home to a Foreign Country		9781501756207							https://www.degruyter.com/openurl?genre=book&isbn=9781501756207	Ong	9781501756207		fulltext		Cornell University Press	monograph	2021	2021						P	
+Cultivating the Past, Living the Modern		9781501758621							https://www.degruyter.com/openurl?genre=book&isbn=9781501758621	Sachedina	9781501758621		fulltext		Cornell University Press	monograph	2021	2021						P	
+Death, Power, and Apotheosis in Ancient Egypt		9781501760174							https://www.degruyter.com/openurl?genre=book&isbn=9781501760174	Troche	9781501760174		fulltext		Cornell University Press	monograph	2021	2021						P	
+Defense 101		9781501754500							https://www.degruyter.com/openurl?genre=book&isbn=9781501754500	O'Hanlon	9781501754500		fulltext		Cornell University Press	monograph	2021	2021						P	
+Destination Elsewhere		9781501760235							https://www.degruyter.com/openurl?genre=book&isbn=9781501760235	Balint	9781501760235		fulltext		Cornell University Press	monograph	2021	2021						P	
+Disaffected		9781501753909							https://www.degruyter.com/openurl?genre=book&isbn=9781501753909	Agathocleous	9781501753909		fulltext		Cornell University Press	monograph	2021	2021						P	1248758922
+Disenchanted Wanderer		9781501760204							https://www.degruyter.com/openurl?genre=book&isbn=9781501760204	Cronin	9781501760204		fulltext		Cornell University Press	monograph	2021	2021						P	
+Dragonslayer		9781501754616							https://www.degruyter.com/openurl?genre=book&isbn=9781501754616	Lockenour	9781501754616		fulltext		Cornell University Press	monograph	2021	2021						P	1248758878
+Drunk on Genocide		9781501754210							https://www.degruyter.com/openurl?genre=book&isbn=9781501754210	Westermann	9781501754210		fulltext		Cornell University Press	monograph	2021	2021						P	1237694160
+Dying to Learn		9781501758478							https://www.degruyter.com/openurl?genre=book&isbn=9781501758478	Hunzeker	9781501758478		fulltext		Cornell University Press	monograph	2021	2021						P	
+Edmund Burke for Our Time		9781501755408							https://www.degruyter.com/openurl?genre=book&isbn=9781501755408	Byrne	9781501755408		fulltext		Cornell University Press	monograph	2021	2021						P	
+Eight Dogs, or "Hakkenden"		9781501755194							https://www.degruyter.com/openurl?genre=book&isbn=9781501755194		9781501755194		fulltext		Cornell University Press	monograph	2021	2021						P	
+Empire of the Air		9781501759338							https://www.degruyter.com/openurl?genre=book&isbn=9781501759338	Lewis	9781501759338		fulltext		Cornell University Press	monograph	2021	2021						P	
+England's Cross of Gold		9781501758447							https://www.degruyter.com/openurl?genre=book&isbn=9781501758447	Morrison	9781501758447		fulltext		Cornell University Press	monograph	2021	2021						P	
+Faith in Freedom		9781501759239							https://www.degruyter.com/openurl?genre=book&isbn=9781501759239	Polk	9781501759239		fulltext		Cornell University Press	monograph	2021	2021						P	
+Fluid Russia		9781501760563							https://www.degruyter.com/openurl?genre=book&isbn=9781501760563	Michlin-Shapir	9781501760563		fulltext		Cornell University Press	monograph	2021	2021						P	
+Flying Camelot		9781501760662							https://www.degruyter.com/openurl?genre=book&isbn=9781501760662	Hankins	9781501760662		fulltext		Cornell University Press	monograph	2021	2021						P	
+Follies in America		9781501755941							https://www.degruyter.com/openurl?genre=book&isbn=9781501755941	Carso	9781501755941		fulltext		Cornell University Press	monograph	2021	2021						P	
+From Country to Nation		9781501753954							https://www.degruyter.com/openurl?genre=book&isbn=9781501753954	Fujiwara	9781501753954		fulltext		Cornell University Press	monograph	2021	2021						P	1226074196
+From Family to Police Force		9781501759550							https://www.degruyter.com/openurl?genre=book&isbn=9781501759550	Ibrahim	9781501759550		fulltext		Cornell University Press	monograph	2021	2021						P	
+From Victory to Peace		9781501756498							https://www.degruyter.com/openurl?genre=book&isbn=9781501756498	Wirtschafter	9781501756498		fulltext		Cornell University Press	monograph	2020	2021						F	
+Governing the Dead		9781501756511							https://www.degruyter.com/openurl?genre=book&isbn=9781501756511	Vu	9781501756511		fulltext		Cornell University Press	monograph	2021	2021						P	
+Helping Soldiers Heal		9781501760525							https://www.degruyter.com/openurl?genre=book&isbn=9781501760525	Srinivasan	9781501760525		fulltext		Cornell University Press	monograph	2021	2021						P	
+Imposing Standards		9781501756009							https://www.degruyter.com/openurl?genre=book&isbn=9781501756009	Hearson	9781501756009		fulltext		Cornell University Press	monograph	2021	2021						F	
+Indonesians and Their Arab World		9781501753145							https://www.degruyter.com/openurl?genre=book&isbn=9781501753145	Lücking	9781501753145		fulltext		Cornell University Press	monograph	2021	2021						P	1227386051
+Irregular Unions		9781501753497							https://www.degruyter.com/openurl?genre=book&isbn=9781501753497	Cleland	9781501753497		fulltext		Cornell University Press	monograph	2021	2021						F	1243310330
+Is Russia Fascist?		9781501754159							https://www.degruyter.com/openurl?genre=book&isbn=9781501754159	Laruelle	9781501754159		fulltext		Cornell University Press	monograph	2021	2021						P	1155487716
+Julian and Christianity		9781501755491							https://www.degruyter.com/openurl?genre=book&isbn=9781501755491	Greenwood	9781501755491		fulltext		Cornell University Press	monograph	2021	2021						P	
+Kidney to Share		9781501755453							https://www.degruyter.com/openurl?genre=book&isbn=9781501755453	Lantos	9781501755453		fulltext		Cornell University Press	monograph	2021	2021						P	1227836998
+Lakefront		9781501754661							https://www.degruyter.com/openurl?genre=book&isbn=9781501754661	Kearney	9781501754661		fulltext		Cornell University Press	monograph	2021	2021						P	1228178622
+Land Fictions		9781501753749							https://www.degruyter.com/openurl?genre=book&isbn=9781501753749		9781501753749		fulltext		Cornell University Press	monograph	2021	2021			Ghertner			P	1243311457
+Language Ungoverned		9781501758256							https://www.degruyter.com/openurl?genre=book&isbn=9781501758256	Hoogervorst	9781501758256		fulltext		Cornell University Press	monograph	2021	2021						P	
+Law, Economics, and Conflict		9781501759284							https://www.degruyter.com/openurl?genre=book&isbn=9781501759284		9781501759284		fulltext		Cornell University Press	monograph	2021	2021			Hockett			P	
+Lives of Weeds		9781501758997							https://www.degruyter.com/openurl?genre=book&isbn=9781501758997	Cardina	9781501758997		fulltext		Cornell University Press	monograph	2021	2021						P	
+Love for Sale		9781501758881							https://www.degruyter.com/openurl?genre=book&isbn=9781501758881	Lucey	9781501758881		fulltext		Cornell University Press	monograph	2021	2021						P	
+Manpower and the Armies of the British Empire in the Two World Wars		9781501755866							https://www.degruyter.com/openurl?genre=book&isbn=9781501755866		9781501755866		fulltext		Cornell University Press	monograph	2021	2021			Delaney			P	
+Mayor Michael Bloomberg		9781501756399							https://www.degruyter.com/openurl?genre=book&isbn=9781501756399	Weikart	9781501756399		fulltext		Cornell University Press	monograph	2021	2021						P	
+Meritocracy and Its Discontents		9781501754449							https://www.degruyter.com/openurl?genre=book&isbn=9781501754449	Howlett	9781501754449		fulltext		Cornell University Press	monograph	2021	2021						P	1248759368
+Millennial Feminism at Work		9781501760303							https://www.degruyter.com/openurl?genre=book&isbn=9781501760303		9781501760303		fulltext		Cornell University Press	monograph	2021	2021			Juffer			P	
+Mobilizing in Uncertainty		9781501753787							https://www.degruyter.com/openurl?genre=book&isbn=9781501753787	Shesterinina	9781501753787		fulltext		Cornell University Press	monograph	2021	2021						P	1149286414
+Mobilizing Japanese Youth		9781501756337							https://www.degruyter.com/openurl?genre=book&isbn=9781501756337	Gerteis	9781501756337		fulltext		Cornell University Press	monograph	2021	2021						P	
+Morbid Undercurrents		9781501758348							https://www.degruyter.com/openurl?genre=book&isbn=9781501758348	Quinlan	9781501758348		fulltext		Cornell University Press	monograph	2021	2021						P	
+More Than Medals		9781501753107							https://www.degruyter.com/openurl?genre=book&isbn=9781501753107	Frost	9781501753107		fulltext		Cornell University Press	monograph	2021	2021						P	1227390569
+Nested Nationalism		9781501753299							https://www.degruyter.com/openurl?genre=book&isbn=9781501753299	Goff	9781501753299		fulltext		Cornell University Press	monograph	2021	2021						P	1227393777
+Nuclear Reactions		9781501754173							https://www.degruyter.com/openurl?genre=book&isbn=9781501754173	Bell	9781501754173		fulltext		Cornell University Press	monograph	2021	2021						F	1248759676
+Oil Money		9781501715747							https://www.degruyter.com/openurl?genre=book&isbn=9781501715747	Wight	9781501715747		fulltext		Cornell University Press	monograph	2021	2021						P	
+On Russian Soil		9781501755712							https://www.degruyter.com/openurl?genre=book&isbn=9781501755712	Erley	9781501755712		fulltext		Cornell University Press	monograph	2021	2021						P	
+Ordering Violence		9781501761133							https://www.degruyter.com/openurl?genre=book&isbn=9781501761133	Staniland	9781501761133		fulltext		Cornell University Press	monograph	2021	2021						P	
+Our Changing Menu		9781501754647							https://www.degruyter.com/openurl?genre=book&isbn=9781501754647	Koplinka-Loehr	9781501754647		fulltext		Cornell University Press	monograph	2021	2021						P	1241446055
+Performing Power		9781501758607							https://www.degruyter.com/openurl?genre=book&isbn=9781501758607	der Meer	9781501758607		fulltext		Cornell University Press	monograph	2021	2021						F	1245329536
+Police Matters		9781501760860							https://www.degruyter.com/openurl?genre=book&isbn=9781501760860	Kumar	9781501760860		fulltext		Cornell University Press	monograph	2021	2021						F	
+Policing China		9781501755606							https://www.degruyter.com/openurl?genre=book&isbn=9781501755606	Scoggins	9781501755606		fulltext		Cornell University Press	monograph	2021	2021						P	
+Possessed		9781501752810							https://www.degruyter.com/openurl?genre=book&isbn=9781501752810	Falkoff	9781501752810		fulltext		Cornell University Press	monograph	2021	2021						P	1157725327
+Private Regulation of Labor Standards in Global Supply Chains		9781501754548							https://www.degruyter.com/openurl?genre=book&isbn=9781501754548	Kuruvilla	9781501754548		fulltext		Cornell University Press	monograph	2021	2021						P	1183400544
+Pursuing Truth		9781501753800							https://www.degruyter.com/openurl?genre=book&isbn=9781501753800	Oates	9781501753800		fulltext		Cornell University Press	monograph	2021	2021						F	1191457767
+Putin's Labor Dilemma		9781501756306							https://www.degruyter.com/openurl?genre=book&isbn=9781501756306	Crowley	9781501756306		fulltext		Cornell University Press	monograph	2021	2021						P	
+Recasting Islamic Law		9781501753985							https://www.degruyter.com/openurl?genre=book&isbn=9781501753985	Scott	9781501753985		fulltext		Cornell University Press	monograph	2021	2021						F	1237869837
+Recharging China in War and Revolution, 1882–1955		9781501758966							https://www.degruyter.com/openurl?genre=book&isbn=9781501758966	Tan	9781501758966		fulltext		Cornell University Press	monograph	2021	2021						F	
+Reclaiming the Past		9781501761034							https://www.degruyter.com/openurl?genre=book&isbn=9781501761034	Hall	9781501761034		fulltext		Cornell University Press	monograph	2021	2021						P	
+Reinventing Licentiousness		9781501752995							https://www.degruyter.com/openurl?genre=book&isbn=9781501752995	Wang	9781501752995		fulltext		Cornell University Press	monograph	2021	2021						P	1150806800
+Religious Pluralism in Indonesia		9781501760464							https://www.degruyter.com/openurl?genre=book&isbn=9781501760464		9781501760464		fulltext		Cornell University Press	monograph	2021	2021			Formichi			P	
+Republicanism, Communism, Islam		9781501755637							https://www.degruyter.com/openurl?genre=book&isbn=9781501755637	Sidel	9781501755637		fulltext		Cornell University Press	monograph	2021	2021						P	1253313485
+Resisting Independence		9781501754029							https://www.degruyter.com/openurl?genre=book&isbn=9781501754029	Jones	9781501754029		fulltext		Cornell University Press	monograph	2021	2021						P	1243310512
+Re-Union		9781501755392							https://www.degruyter.com/openurl?genre=book&isbn=9781501755392	Madland	9781501755392		fulltext		Cornell University Press	monograph	2021	2021						P	1253313773
+Reworking Japan		9781501753053							https://www.degruyter.com/openurl?genre=book&isbn=9781501753053	Gagné	9781501753053		fulltext		Cornell University Press	monograph	2021	2021						P	1229932953
+Rich Thanks to Racism		9781501755156							https://www.degruyter.com/openurl?genre=book&isbn=9781501755156	Freeman	9781501755156		fulltext		Cornell University Press	monograph	2021	2021						P	1182021138
+Rockaway Blue		9781501754234							https://www.degruyter.com/openurl?genre=book&isbn=9781501754234	Kirwan	9781501754234		fulltext		Cornell University Press	monograph	2021	2021						P	1191456512
+Romania's Holy War		9781501759970							https://www.degruyter.com/openurl?genre=book&isbn=9781501759970	Harward	9781501759970		fulltext		Cornell University Press	monograph	2021	2021						P	
+Saved at the Seawall		9781501759130							https://www.degruyter.com/openurl?genre=book&isbn=9781501759130		9781501759130		fulltext		Cornell University Press	monograph	2021	2021						P	1230250365
+Saving Stuyvesant Town		9781501754388							https://www.degruyter.com/openurl?genre=book&isbn=9781501754388	Garodnick	9781501754388		fulltext		Cornell University Press	monograph	2021	2021						P	1248758857
+Secession and the Sovereignty Game		9781501754760							https://www.degruyter.com/openurl?genre=book&isbn=9781501754760	Griffiths	9781501754760		fulltext		Cornell University Press	monograph	2021	2021						P	1224041696
+Show Time		9781501758560							https://www.degruyter.com/openurl?genre=book&isbn=9781501758560		9781501758560		fulltext		Cornell University Press	monograph	2021	2021						P	
+Shredding Paper		9781501753176							https://www.degruyter.com/openurl?genre=book&isbn=9781501753176	Hillard	9781501753176		fulltext		Cornell University Press	monograph	2021	2021						P	1227386352
+Sin Sick		9781501755897							https://www.degruyter.com/openurl?genre=book&isbn=9781501755897	Pederson	9781501755897		fulltext		Cornell University Press	monograph	2021	2021						P	
+Snapshots of the Soul		9781501753718							https://www.degruyter.com/openurl?genre=book&isbn=9781501753718	Blasing	9781501753718		fulltext		Cornell University Press	monograph	2021	2021						P	
+Souls under Siege		9781501753688							https://www.degruyter.com/openurl?genre=book&isbn=9781501753688	Archambeau	9781501753688		fulltext		Cornell University Press	monograph	2021	2021						P	1248758970
+Spring and Autumn Annals of Wu and Yue		9781501754364							https://www.degruyter.com/openurl?genre=book&isbn=9781501754364	He	9781501754364		fulltext		Cornell University Press	monograph	2021	2021						P	1248760285
+St. Matthew Passion		9781501759079							https://www.degruyter.com/openurl?genre=book&isbn=9781501759079	Blumenberg	9781501759079		fulltext		Cornell University Press	monograph	2021	2021						P	
+Stalin's Quest for Gold		9781501758539							https://www.degruyter.com/openurl?genre=book&isbn=9781501758539	Osokina	9781501758539		fulltext		Cornell University Press	monograph	2021	2021						P	
+Still a Mother		9781501754319							https://www.degruyter.com/openurl?genre=book&isbn=9781501754319	Krasas	9781501754319		fulltext		Cornell University Press	monograph	2021	2021						P	1248759305
+Stitching the 24-Hour City		9781501754272							https://www.degruyter.com/openurl?genre=book&isbn=9781501754272	Park	9781501754272		fulltext		Cornell University Press	monograph	2021	2021						P	
+Stranger Citizens		9781501756160							https://www.degruyter.com/openurl?genre=book&isbn=9781501756160	O'Keefe	9781501756160		fulltext		Cornell University Press	monograph	2020	2021						P	1192302817
+Stranger Fictions		9781501753305							https://www.degruyter.com/openurl?genre=book&isbn=9781501753305	Johnson	9781501753305		fulltext		Cornell University Press	monograph	2021	2021						P	1227392378
+Strike the Hammer		9781501754418							https://www.degruyter.com/openurl?genre=book&isbn=9781501754418	Hill	9781501754418		fulltext		Cornell University Press	monograph	2021	2021						P	1176322115
+Substantial Relations		9781501758201							https://www.degruyter.com/openurl?genre=book&isbn=9781501758201	Bärnreuther	9781501758201		fulltext		Cornell University Press	monograph	2021	2021						F	
+The Caring Class		9781501754128							https://www.degruyter.com/openurl?genre=book&isbn=9781501754128	Schweid	9781501754128		fulltext		Cornell University Press	monograph	2021	2021						P	1152358330
+The Cold War from the Margins		9781501755576							https://www.degruyter.com/openurl?genre=book&isbn=9781501755576	Dragostinova	9781501755576		fulltext		Cornell University Press	monograph	2021	2021						F	1183400258
+The Dragoman Renaissance		9781501758485							https://www.degruyter.com/openurl?genre=book&isbn=9781501758485	Rothman	9781501758485		fulltext		Cornell University Press	monograph	2021	2021						F	1248759074
+The Ends of Modernization		9781501756221							https://www.degruyter.com/openurl?genre=book&isbn=9781501756221	Lee	9781501756221		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Erotics of Grief		9781501758416							https://www.degruyter.com/openurl?genre=book&isbn=9781501758416	Moore	9781501758416		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Everyday Lives of Sovereignty		9781501755767							https://www.degruyter.com/openurl?genre=book&isbn=9781501755767		9781501755767		fulltext		Cornell University Press	monograph	2021	2021			Bryant			P	
+The Floating Pool Lady		9781501716034							https://www.degruyter.com/openurl?genre=book&isbn=9781501716034	Buttenwieser	9781501716034		fulltext		Cornell University Press	monograph	2021	2021						P	1253312920
+The Future Conditional		9781501754920							https://www.degruyter.com/openurl?genre=book&isbn=9781501754920	Henry	9781501754920		fulltext		Cornell University Press	monograph	2021	2021						P	1184121861
+The Inconvenient Journalist		9781501759109							https://www.degruyter.com/openurl?genre=book&isbn=9781501759109		9781501759109		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Masses Are Revolting		9781501756481							https://www.degruyter.com/openurl?genre=book&isbn=9781501756481	Samalin	9781501756481		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Neoliberal Republic		9781501752575							https://www.degruyter.com/openurl?genre=book&isbn=9781501752575		9781501752575		fulltext		Cornell University Press	monograph	2021	2021						P	1227390035
+The Neomercantilists		9781501760136							https://www.degruyter.com/openurl?genre=book&isbn=9781501760136	Helleiner	9781501760136		fulltext		Cornell University Press	monograph	2021	2021						P	
+The New Dogs of War		9781501758911							https://www.degruyter.com/openurl?genre=book&isbn=9781501758911	Thomas	9781501758911		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Pitfalls of Piety for Married Women		9781501758386							https://www.degruyter.com/openurl?genre=book&isbn=9781501758386		9781501758386		fulltext		Cornell University Press	monograph	2021	2021			Idema			P	
+The Power to Divide		9781501754739							https://www.degruyter.com/openurl?genre=book&isbn=9781501754739	Crawford	9781501754739		fulltext		Cornell University Press	monograph	2021	2021						P	1253314114
+The Reagan Moment		9781501760709							https://www.degruyter.com/openurl?genre=book&isbn=9781501760709		9781501760709		fulltext		Cornell University Press	monograph	2021	2021			Miles			P	
+The Rhetorical Sense of Philosophy		9781501756368							https://www.degruyter.com/openurl?genre=book&isbn=9781501756368	Verene	9781501756368		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Scholar as Human		9781501750632							https://www.degruyter.com/openurl?genre=book&isbn=9781501750632		9781501750632		fulltext		Cornell University Press	monograph	2021	2021			Castillo			F	
+The Tsar's Happy Occasion		9781501754869							https://www.degruyter.com/openurl?genre=book&isbn=9781501754869	Martin	9781501754869		fulltext		Cornell University Press	monograph	2021	2021						P	1183400277
+The Virtuous Wehrmacht		9781501760051							https://www.degruyter.com/openurl?genre=book&isbn=9781501760051	Harrisville	9781501760051		fulltext		Cornell University Press	monograph	2021	2021						P	
+The Writing Public		9781501753589							https://www.degruyter.com/openurl?genre=book&isbn=9781501753589	Bond	9781501753589		fulltext		Cornell University Press	monograph	2021	2021						F	1243312255
+Threatening Dystopias		9781501759178							https://www.degruyter.com/openurl?genre=book&isbn=9781501759178	Paprocki	9781501759178		fulltext		Cornell University Press	monograph	2021	2021						P	
+Time and Migration		9781501754883							https://www.degruyter.com/openurl?genre=book&isbn=9781501754883	Sun	9781501754883		fulltext		Cornell University Press	monograph	2021	2021						P	1164822012
+To the Brink of Destruction		9781501760266							https://www.degruyter.com/openurl?genre=book&isbn=9781501760266	Sinclair	9781501760266		fulltext		Cornell University Press	monograph	2021	2021						P	
+Touring China		9781501760631							https://www.degruyter.com/openurl?genre=book&isbn=9781501760631		9781501760631		fulltext		Cornell University Press	monograph	2021	2021						F	
+Trans Historical		9781501759529							https://www.degruyter.com/openurl?genre=book&isbn=9781501759529		9781501759529		fulltext		Cornell University Press	monograph	2021	2021			LaFleur			P	
+Unfixable Forms		9781501753527							https://www.degruyter.com/openurl?genre=book&isbn=9781501753527	Williams	9781501753527		fulltext		Cornell University Press	monograph	2021	2021						P	
+Unwritten Rule		9781501753633							https://www.degruyter.com/openurl?genre=book&isbn=9781501753633	Beban	9781501753633		fulltext		Cornell University Press	monograph	2021	2021						P	1154891497
+War and Democracy		9781501756429							https://www.degruyter.com/openurl?genre=book&isbn=9781501756429	Kier	9781501756429		fulltext		Cornell University Press	monograph	2021	2021						P	
+War and Genocide in South Sudan		9781501753022							https://www.degruyter.com/openurl?genre=book&isbn=9781501753022	Pinaud	9781501753022		fulltext		Cornell University Press	monograph	2021	2021						F	
+Warsaw Ghetto Police		9781501754098							https://www.degruyter.com/openurl?genre=book&isbn=9781501754098	Person	9781501754098		fulltext		Cornell University Press	monograph	2021	2021						P	1155483913
+What We Mean by the American Dream		9781501754708							https://www.degruyter.com/openurl?genre=book&isbn=9781501754708	Taussig	9781501754708		fulltext		Cornell University Press	monograph	2021	2021						P	1159637252
+Why Noncompliance		9781501753411							https://www.degruyter.com/openurl?genre=book&isbn=9781501753411	Börzel	9781501753411		fulltext		Cornell University Press	monograph	2021	2021						F	
+Wilsonian Visions		9781501759949							https://www.degruyter.com/openurl?genre=book&isbn=9781501759949	McAllister	9781501759949		fulltext		Cornell University Press	monograph	2021	2021						P	
+Women in the Sky		9781501758287							https://www.degruyter.com/openurl?genre=book&isbn=9781501758287	Nam	9781501758287		fulltext		Cornell University Press	monograph	2021	2021						P	
+Women of the Catacombs		9781501754067							https://www.degruyter.com/openurl?genre=book&isbn=9781501754067		9781501754067		fulltext		Cornell University Press	monograph	2021	2021						P	1151489979

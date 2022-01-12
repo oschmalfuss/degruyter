@@ -1,0 +1,33 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE
+at - Automatisierungstechnik	0178-2312	2196-677X	1995-01-15	43	1				https://www.degruyter.com/openurl?genre=journal&issn=2196-677X		2196-677X		fulltext		Oldenbourg Wissenschaftsverlag	serial								P
+Bio-Algorithms and Med-Systems 	1895-9091	1896-530X	2012-06-20	8	1				https://www.degruyter.com/openurl?genre=journal&issn=1896-530X		1896-530X		fulltext		De Gruyter	serial								P
+Biological Chemistry	1431-6730	1437-4315	1995-01-01	380	1				https://www.degruyter.com/openurl?genre=journal&issn=1437-4315		1437-4315		fulltext		De Gruyter	serial								P
+Biomedical Engineering / Biomedizinische Technik 	0013-5585	1862-278X	1995-01-01	40	1				https://www.degruyter.com/openurl?genre=journal&issn=1862-278X		1862-278X		fulltext		De Gruyter	serial								P
+Botanica Marina	0006-8055	1437-4323	1995-01-01	38	Jan				https://www.degruyter.com/openurl?genre=journal&issn=1437-4323		1437-4323		fulltext		De Gruyter	serial								P
+Clinical Chemistry and Laboratory Medicine (CCLM)	1434-6621	1437-4331	1995-01-01	33	1				https://www.degruyter.com/openurl?genre=journal&issn=1437-4331		1437-4331		fulltext		De Gruyter	serial								P
+Diagnosis	2194-8011	2194-802X	2014-01-31	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2194-802X		2194-802X		fulltext		De Gruyter	serial								P
+Drug Metabolism and Personalized Therapy	2363-8907	2363-8915	1995-03-01	12	März				https://www.degruyter.com/openurl?genre=journal&issn=2363-8915		2363-8915		fulltext		De Gruyter	serial								P
+Epidemiologic Methods	2194-9263	2161-962X	2012-12-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2161-962X		2161-962X		fulltext		De Gruyter	serial								P
+Holzforschung	0018-3830	1437-434X	1995-01-01	49	1				https://www.degruyter.com/openurl?genre=journal&issn=1437-434X		1437-434X		fulltext		De Gruyter	serial								P
+Hormone Molecular Biology and Clinical Investigation	1868-1883	1868-1891	2010-03-27		1				https://www.degruyter.com/openurl?genre=journal&issn=1868-1891		1868-1891		fulltext		De Gruyter	serial								P
+International Journal of Adolescent Medicine and Health 	0334-0139	2191-0278	1995-01-01	8	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-0278		2191-0278		fulltext		De Gruyter	serial								P
+International Journal of Nursing Education Scholarship	2194-5772	1548-923X	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1548-923X		1548-923X		fulltext		De Gruyter	serial								P
+Journal of Basic and Clinical Physiology and Pharmacology	0792-6855	2191-0286	1995-03-01	6	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-0286		2191-0286		fulltext		De Gruyter	serial								P
+Journal of Complementary and Integrative Medicine	2194-6329	1553-3840	2004-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1553-3840		1553-3840		fulltext		De Gruyter	serial								P
+Journal of Imagery Research in Sport and Physical Activity	2194-637X	1932-0191	2006-01-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1932-0191		1932-0191		fulltext		De Gruyter	serial								P
+Journal of Pediatric Endocrinology and Metabolism	0334-018X	2191-0251	1995-01-01	8	1				https://www.degruyter.com/openurl?genre=journal&issn=2191-0251		2191-0251		fulltext		De Gruyter	serial								P
+Journal of Perinatal Medicine	0300-5577	1619-3997	1995-01-01	23	1				https://www.degruyter.com/openurl?genre=journal&issn=1619-3997		1619-3997		fulltext		De Gruyter	serial								P
+Mammalia	0025-1461	1864-1547	1995-01-01	59	1				https://www.degruyter.com/openurl?genre=journal&issn=1864-1547		1864-1547		fulltext		De Gruyter	serial								P
+Medizinische Genetik	0936-5931	1863-5490	2007-05-20	19	1				https://www.degruyter.com/openurl?genre=journal&issn=1863-5490		1863-5490		fulltext		De Gruyter	serial								P
+Public Health Forum	0944-5587	1876-4851	1995-01-20	3	1				https://www.degruyter.com/openurl?genre=journal&issn=1876-4851		1876-4851		fulltext		De Gruyter	serial								P
+Pure and Applied Chemistry	0033-4545	1365-3075	1995-01-10	67	1				https://www.degruyter.com/openurl?genre=journal&issn=1365-3075		1365-3075		fulltext		De Gruyter	serial								P
+Reviews in the Neurosciences	0334-1763	2191-0200	1995-01-01	6	Jan				https://www.degruyter.com/openurl?genre=journal&issn=2191-0200		2191-0200		fulltext		De Gruyter	serial								P
+Reviews on Environmental Health	0048-7554	2191-0308	1996-01-01	11	1/2				https://www.degruyter.com/openurl?genre=journal&issn=2191-0308		2191-0308		fulltext		De Gruyter	serial								P
+Scandinavian Journal of Pain	1877-8860	1877-8879	2010-01-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1877-8879		1877-8879		fulltext		De Gruyter	serial								P
+Spiritual Care	2193-3804	2365-8185	2012-04-20	1	1				https://www.degruyter.com/openurl?genre=journal&issn=2365-8185		2365-8185		fulltext		De Gruyter	serial								P
+Statistical Applications in Genetics and Molecular Biology	2194-6302	1544-6115	2002-05-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1544-6115		1544-6115		fulltext		De Gruyter	serial								P
+Statistical Communications in Infectious Diseases	2194-6310	1948-4690	2009-06-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1948-4690		1948-4690		fulltext		De Gruyter	serial								P
+The International Journal of Biostatistics	2194-573X	1557-4679	2005-05-01	1	1				https://www.degruyter.com/openurl?genre=journal&issn=1557-4679		1557-4679		fulltext		De Gruyter	serial								P
+Zeitschrift für Kristallographie - Crystalline Materials 	2194-4946	2196-7105	1995-01-15	210	1				https://www.degruyter.com/openurl?genre=journal&issn=2196-7105		2196-7105		fulltext		Oldenbourg Wissenschaftsverlag	serial								P
+Zeitschrift für Naturforschung C	0939-5075	1865-7125	1995-02-20	50	1-2				https://www.degruyter.com/openurl?genre=journal&issn=1865-7125		1865-7125		fulltext		De Gruyter	serial								P
+Zeitschrift für Physikalische Chemie	0942-9352	2196-7156	1996-01-15	193	1-2				https://www.degruyter.com/openurl?genre=journal&issn=2196-7156		2196-7156		fulltext		Oldenbourg Wissenschaftsverlag	serial								P
