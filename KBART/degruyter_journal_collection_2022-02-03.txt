@@ -1,0 +1,75 @@
+file_name	collection_name	collection_id	selectable	custom_coverage	open_access	collection_url	record_count
+degruyter_global_BCI2022_2022-02-03.txt	Bureau de coopération interuniversitaire BCI2022	BCI2022	yes	no	no		109
+degruyter_global_CJP21_2022-02-03.txt	Complete Journal Package 2021	CJP21	yes	no	no		345
+degruyter_global_CJP22_2022-02-03.txt	Complete Journal Package 2022	CJP22	yes	no	no		350
+degruyter_global_CJPE21_2022-02-03.txt	Complete Journal Package 2021 in English	CJPE21	yes	no	no		211
+degruyter_global_CJPE22_2022-02-03.txt	Complete Journal Package 2022 in English	CJPE22	yes	no	no		218
+degruyter_global_CJPHSS21_2022-02-03.txt	Complete Journal Package HSS 2021	CJPHSS21	yes	no	no		262
+degruyter_global_CJPHSS22_2022-02-03.txt	Complete Journal Package HSS 2022	CJPHSS22	yes	no	no		264
+degruyter_global_CJPHSSE21_2022-02-03.txt	Complete Journal Package HSS 2021 in English	CJPHSSE21	yes	no	no		134
+degruyter_global_CJPHSSE22_2022-02-03.txt	Complete Journal Package HSS 2022 in English	CJPHSSE22	yes	no	no		138
+degruyter_global_CJPSTM21_2022-02-03.txt	Complete Journal Package STM 2021	CJPSTM21	yes	no	no		83
+degruyter_global_CJPSTM22_2022-02-03.txt	Complete Journal Package STM 2022	CJPSTM22	yes	no	no		87
+degruyter_global_CJPSTME21_2022-02-03.txt	Complete Journal Package STM 2021 in English	CJPSTME21	yes	no	no		77
+degruyter_global_CJPSTME22_2022-02-03.txt	Complete Journal Package STM 2022 in English	CJPSTME22	yes	no	no		80
+degruyter_global_DGSP2022_2022-02-03.txt	De Gruyter Scholar Plus 2022	DGSP2022	yes	no	no		301
+degruyter_global_HSSTEM22_2022-02-03.txt	Hochschulen und die DHBW in BaWü  HSSTEM22	HSSTEM22	yes	no	no		20
+degruyter_global_JABCG14_2022-02-03.txt	Journal Archive Package Biology, Chemistry, Geosciences 1826-2014	JABCG14	yes	no	no		30
+degruyter_global_JABCG19_2022-02-03.txt	Journal Archive Package Biology, Chemistry, Geosciences 1826-2019	JABCG19	yes	no	no		21
+degruyter_global_JACH14_2022-02-03.txt	Journal Archive Package Classical Studies 1826-2014	JACH14	yes	no	no		28
+degruyter_global_JACH19_2022-02-03.txt	Journal Archive Package Classical Studies, History 1826-2019	JACH19	yes	no	no		29
+degruyter_global_JACP19_2022-02-03.txt	Journal Archive Complete Package 1826-2019	JACP19	yes	no	no		331
+degruyter_global_JACPE19_2022-02-03.txt	Journal Archive Complete Package English 1826-2019	JACPE19	yes	no	no		193
+degruyter_global_JALAW14_2022-02-03.txt	Journal Archive Package Law 1826-2014	JALAW14	yes	no	no		41
+degruyter_global_JALAW19_2022-02-03.txt	Journal Archive Package Law 1826-2019	JALAW19	yes	no	no		43
+degruyter_global_JALIS14_2022-02-03.txt	Journal Archive Package Library and Information Science, Library Reference 1826-2014	JALIS14	yes	no	no		11
+degruyter_global_JALIS19_2022-02-03.txt	Journal Archive Package Library and Information Science, Library Reference 1826-2019	JALIS19	yes	no	no		8
+degruyter_global_JALL14_2022-02-03.txt	Journal Archive Package Linguistics, Literature 1826-2014	JALL14	yes	no	no		83
+degruyter_global_JALL19_2022-02-03.txt	Journal Archive Package Linguistics, Literature 1826-2019	JALL19	yes	no	no		82
+degruyter_global_JAMED14_2022-02-03.txt	Journal Archive Package Medicine 1826-2014	JAMED14	yes	no	no		23
+degruyter_global_JAMED19_2022-02-03.txt	Journal Archive Package Medicine 1826-2019	JAMED19	yes	no	no		20
+degruyter_global_JAMPE14_2022-02-03.txt	Journal Archive Package Mathematics, Physics, Engineering 1826-2014	JAMPE14	yes	no	no		49
+degruyter_global_JAMPE19_2022-02-03.txt	Journal Archive Package Mathematics, Physics, Engineering 1826-2019	JAMPE19	yes	no	no		43
+degruyter_global_JAPCL14_2022-02-03.txt	Complete Journal Archive Package 1826-2014	JAPCL14	yes	no	no		338
+degruyter_global_JAPCLE14_2022-02-03.txt	Complete Journal Archive Package in English 1826-2014	JAPCLE14	yes	no	no		214
+degruyter_global_JAPES14_2022-02-03.txt	Journal Archive Package Politics, Economics, Sociology 1826-2014	JAPES14	yes	no	no		37
+degruyter_global_JAPES19_2022-02-03.txt	Journal Archive Package Politics, Economics, Sociology 1826-2019	JAPES19	yes	no	no		46
+degruyter_global_JAPTJ14_2022-02-03.txt	Journal Archive Package Philosophy, Theology, Judaism, Religion 1826-2014	JAPTJ14	yes	no	no		36
+degruyter_global_JAPTJ19_2022-02-03.txt	Journal Archive Package Philosophy, Theology, Judaism, Religion 1826-2019	JAPTJ19	yes	no	no		39
+degruyter_global_JASSH14_2022-02-03.txt	Complete Journal Archive SSH 1826-2014	JASSH14	yes	no	no		236
+degruyter_global_JASSH19_2022-02-03.txt	Complete Journal Archive SSH 1826-2019	JASSH19	yes	no	no		249
+degruyter_global_JASSHE14_2022-02-03.txt	Journal Archive Package SSH in English 1826-2014	JASSHE14	yes	no	no		122
+degruyter_global_JASSHE19_2022-02-03.txt	Journal Archive Package SSH in English 1826-2019	JASSHE19	yes	no	no		120
+degruyter_global_JASTM14_2022-02-03.txt	Complete Journal Archive STM 1826-2014	JASTM14	yes	no	no		102
+degruyter_global_JASTM19_2022-02-03.txt	Complete Journal Archive STM 1826-2019	JASTM19	yes	no	no		83
+degruyter_global_JASTME14_2022-02-03.txt	Journal Archive Package STM in English 1826-2014	JASTME14	yes	no	no		92
+degruyter_global_JASTME19_2022-02-03.txt	Journal Archive Package STM in English 1826-2019	JASTME19	yes	no	no		73
+degruyter_global_JPBCG21_2022-02-03.txt	Journal Package Biology, Chemistry, Geosciences 2021	JPBCG21	yes	no	no		24
+degruyter_global_JPBCG22_2022-02-03.txt	Journal Package Biology, Chemistry, Geosciences 2022	JPBCG22	yes	no	no		28
+degruyter_global_JPCH21_2022-02-03.txt	Journal Package Classical Studies, History 2021	JPCH21	yes	no	no		33
+degruyter_global_JPCH22_2022-02-03.txt	Journal Package Classical Studies, History 2022	JPCH22	yes	no	no		31
+degruyter_global_JPLAW21_2022-02-03.txt	Journal Package Law 2021	JPLAW21	yes	no	no		45
+degruyter_global_JPLAW22_2022-02-03.txt	Journal Package Law 2022	JPLAW22	yes	no	no		45
+degruyter_global_JPLIS21_2022-02-03.txt	Journal Package Library and Information Science, Library Reference 2021	JPLIS21	yes	no	no		9
+degruyter_global_JPLIS22_2022-02-03.txt	Journal Package Library and Information Science, Library Reference 2022	JPLIS22	yes	no	no		9
+degruyter_global_JPLL21_2022-02-03.txt	Journal Package Linguistics, Literature 2021	JPLL21	yes	no	no		84
+degruyter_global_JPLL22_2022-02-03.txt	Journal Package Linguistics, Literature 2022	JPLL22	yes	no	no		84
+degruyter_global_JPMED21_2022-02-03.txt	Journal Package Medicine 2021	JPMED21	yes	no	no		21
+degruyter_global_JPMED22_2022-02-03.txt	Journal Package Medicine 2022	JPMED22	yes	no	no		20
+degruyter_global_JPMPE21_2022-02-03.txt	Journal Package Mathematics, Physics, Engineering 2021	JPMPE21	yes	no	no		38
+degruyter_global_JPMPE22_2022-02-03.txt	Journal Package Mathematics, Physics, Engineering 2022	JPMPE22	yes	no	no		39
+degruyter_global_JPPES21_2022-02-03.txt	Journal Package Politics, Economics, Sociology 2021	JPPES21	yes	no	no		49
+degruyter_global_JPPES22_2022-02-03.txt	Journal Package Politics, Economics, Sociology 2022	JPPES22	yes	no	no		48
+degruyter_global_JPPTJ21_2022-02-03.txt	Journal Package Philosophy, Theology, Judaism, Religion 2021	JPPTJ21	yes	no	no		42
+degruyter_global_JPPTJ22_2022-02-03.txt	Journal Package Philosophy, Theology, Judaism, Religion 2022	JPPTJ22	yes	no	no		46
+degruyter_global_LBDG2022_2022-02-03.txt	Law by De Gruyter 2022	LBDG2022	yes	no	no		20
+degruyter_global_MLSBDG2022_2022-02-03.txt	MedLifeSci RNBDG Titles 2022	MLSBDG2022	yes	no	no		32
+degruyter_global_OCUL2021_2022-02-03.txt	OCUL2021	OCUL2021	yes	no	no		144
+degruyter_global_OCUL2022_2022-02-03.txt	OCUL Titles 2022	OCUL2022	yes	no	no		143
+degruyter_global_RN2021_2022-02-03.txt	Research Now 2021	RN2021	yes	no	no		57
+degruyter_global_RN2022_2022-02-03.txt	Research Now 2022	RN2022	yes	no	no		56
+degruyter_global_RNBDG2021_2022-02-03.txt	Research Now by De Gruyter 2021	RNBDG2021	yes	no	no		300
+degruyter_global_RNBDGLAW2021_2022-02-03.txt	Research Now by De Gruyter Law 2021	RNBDGLAW2021	yes	no	no		20
+degruyter_global_RNBDGMLS2021_2022-02-03.txt	Research Now by De Gruyter Medical & Life Sciences 2021	RNBDGMLS2021	yes	no	no		33
+degruyter_global_journals_2022-02-03.txt	De Gruyter journals	journals	yes	no	no		1030
+degruyter_global_oaejournals_2022-02-03.txt	De Gruyter Open Access journals	oaejournals	yes	no	yes		608

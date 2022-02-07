@@ -1,0 +1,10 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+Campaign of the Century		9780300245035							https://www.degruyter.com/openurl?genre=book&isbn=9780300245035	Gellman	9780300245035		fulltext		Yale University Press	monograph	2022	2022						P	
+Disaster Mon Amour		9780300263343							https://www.degruyter.com/openurl?genre=book&isbn=9780300263343	Thomson	9780300263343		fulltext		Yale University Press	monograph	2022	2022						P	
+For the Freedom of Zion		9780300262568							https://www.degruyter.com/openurl?genre=book&isbn=9780300262568	Rogers	9780300262568		fulltext		Yale University Press	monograph	2022	2022						P	
+Global Calvinism		9780300262605							https://www.degruyter.com/openurl?genre=book&isbn=9780300262605	Parker	9780300262605		fulltext		Yale University Press	monograph	2022	2022						P	
+Principles and Agents		9780300262902							https://www.degruyter.com/openurl?genre=book&isbn=9780300262902	Richardson	9780300262902		fulltext		Yale University Press	monograph	2022	2022						P	
+Ranquil		9780300262322							https://www.degruyter.com/openurl?genre=book&isbn=9780300262322	Klubock	9780300262322		fulltext		Yale University Press	monograph	2022	2022						P	
+The Economic Weapon		9780300262520							https://www.degruyter.com/openurl?genre=book&isbn=9780300262520	Mulder	9780300262520		fulltext		Yale University Press	monograph	2022	2022						P	
+The End of Genetics		9780300262544							https://www.degruyter.com/openurl?genre=book&isbn=9780300262544	Goldstein	9780300262544		fulltext		Yale University Press	monograph	2022	2022						P	
+The Wall and the Bridge		9780300263046							https://www.degruyter.com/openurl?genre=book&isbn=9780300263046	Hubbard	9780300263046		fulltext		Yale University Press	monograph	2022	2022						P	

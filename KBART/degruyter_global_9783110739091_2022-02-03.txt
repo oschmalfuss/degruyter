@@ -1,0 +1,54 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+Aid Memoir		9780823297054							https://www.degruyter.com/openurl?genre=book&isbn=9780823297054	Hollingworth	9780823297054		fulltext		Fordham University Press	monograph	2021	2021						P	1253313289
+Anarchy and the Kingdom of God		9780823294411							https://www.degruyter.com/openurl?genre=book&isbn=9780823294411	Džalto	9780823294411		fulltext		Fordham University Press	monograph	2021	2021						P	
+Atonement and Comparative Theology		9780823294374							https://www.degruyter.com/openurl?genre=book&isbn=9780823294374		9780823294374		fulltext		Fordham University Press	monograph	2021	2021						P	
+Banished Children of Eve		9780823294107							https://www.degruyter.com/openurl?genre=book&isbn=9780823294107	Quinn	9780823294107		fulltext		Fordham University Press	monograph	2021	2021						P	
+Between Form and Faith		9780823294695							https://www.degruyter.com/openurl?genre=book&isbn=9780823294695	Sampson	9780823294695		fulltext		Fordham University Press	monograph	2021	2021						P	
+Blood of Two Streams		9780823297641							https://www.degruyter.com/openurl?genre=book&isbn=9780823297641	Deng	9780823297641		fulltext		Fordham University Press	monograph	2021	2021						P	
+Called Back		9780823294060							https://www.degruyter.com/openurl?genre=book&isbn=9780823294060	Cappello	9780823294060		fulltext		Fordham University Press	monograph	2021	2021						P	
+Class Acts		9780823298426							https://www.degruyter.com/openurl?genre=book&isbn=9780823298426	Naas	9780823298426		fulltext		Fordham University Press	monograph	2021	2021						P	
+Cold War Reckonings		9780823294855							https://www.degruyter.com/openurl?genre=book&isbn=9780823294855	Watson	9780823294855		fulltext		Fordham University Press	monograph	2021	2021						P	
+Commodified Communion		9780823294145							https://www.degruyter.com/openurl?genre=book&isbn=9780823294145	Alonso	9780823294145		fulltext		Fordham University Press	monograph	2021	2021						P	
+Couch City		9780823294251							https://www.degruyter.com/openurl?genre=book&isbn=9780823294251		9780823294251		fulltext		Fordham University Press	monograph	2021	2021			Fuqua			P	1243554226
+Crossing Back		9780823297801							https://www.degruyter.com/openurl?genre=book&isbn=9780823297801	De Marco Torgovnick	9780823297801		fulltext		Fordham University Press	monograph	2021	2021						P	
+Eros		9780823298303							https://www.degruyter.com/openurl?genre=book&isbn=9780823298303	Martínez Ruiz	9780823298303		fulltext		Fordham University Press	monograph	2021	2021						P	
+Fate of the Flesh		9780823290079							https://www.degruyter.com/openurl?genre=book&isbn=9780823290079	Gil	9780823290079		fulltext		Fordham University Press	monograph	2021	2021						P	1233040490
+Form and Feeling		9780823289134							https://www.degruyter.com/openurl?genre=book&isbn=9780823289134		9780823289134		fulltext		Fordham University Press	monograph	2021	2021			Bessa			P	1237409964
+Form and Foreskin		9780823294770							https://www.degruyter.com/openurl?genre=book&isbn=9780823294770	Strouse	9780823294770		fulltext		Fordham University Press	monograph	2021	2021						P	1240381089
+Gasoline Dreams		9780823297733							https://www.degruyter.com/openurl?genre=book&isbn=9780823297733	Orpana	9780823297733		fulltext		Fordham University Press	monograph	2021	2021						P	
+Giving the Devil His Due		9780823297924							https://www.degruyter.com/openurl?genre=book&isbn=9780823297924		9780823297924		fulltext		Fordham University Press	monograph	2021	2021			Weinstock			P	
+Hijras, Lovers, Brothers		9780823294732							https://www.degruyter.com/openurl?genre=book&isbn=9780823294732	Saria	9780823294732		fulltext		Fordham University Press	monograph	2021	2021						P	1247158027
+Homo Psyche		9780823294183							https://www.degruyter.com/openurl?genre=book&isbn=9780823294183	Ashtor	9780823294183		fulltext		Fordham University Press	monograph	2021	2021						P	
+In Defense of Secrets		9780823289257							https://www.degruyter.com/openurl?genre=book&isbn=9780823289257	Dufourmantelle	9780823289257		fulltext		Fordham University Press	monograph	2021	2021						P	1225555651
+Inceptions		9780823294657							https://www.degruyter.com/openurl?genre=book&isbn=9780823294657	Ohi	9780823294657		fulltext		Fordham University Press	monograph	2021	2021						P	1243057147
+Infectious Liberty		9780823294619							https://www.degruyter.com/openurl?genre=book&isbn=9780823294619	Mitchell	9780823294619		fulltext		Fordham University Press	monograph	2021	2021						F	1245577185
+Infrapolitics		9780823298389							https://www.degruyter.com/openurl?genre=book&isbn=9780823298389	Moreiras	9780823298389		fulltext		Fordham University Press	monograph	2021	2021						P	
+Just Universities		9780823289998							https://www.degruyter.com/openurl?genre=book&isbn=9780823289998	Beyer	9780823289998		fulltext		Fordham University Press	monograph	2021	2021						P	1237406891
+Kubrick's Men		9780823293902							https://www.degruyter.com/openurl?genre=book&isbn=9780823293902	Rambuss	9780823293902		fulltext		Fordham University Press	monograph	2021	2021						P	1237404341
+Land of Stark Contrasts		9780823293988							https://www.degruyter.com/openurl?genre=book&isbn=9780823293988		9780823293988		fulltext		Fordham University Press	monograph	2021	2021						P	1243547413
+Living with Concepts		9780823294299							https://www.degruyter.com/openurl?genre=book&isbn=9780823294299		9780823294299		fulltext		Fordham University Press	monograph	2021	2021						P	
+Material Mystery		9780823294572							https://www.degruyter.com/openurl?genre=book&isbn=9780823294572	MacKendrick	9780823294572		fulltext		Fordham University Press	monograph	2021	2021						P	
+Medieval Nonsense		9780823294497							https://www.degruyter.com/openurl?genre=book&isbn=9780823294497	Kirk	9780823294497		fulltext		Fordham University Press	monograph	2021	2021						P	1242106218
+Missions Begin with Blood		9780823294220							https://www.degruyter.com/openurl?genre=book&isbn=9780823294220	Bayne	9780823294220		fulltext		Fordham University Press	monograph	2021	2021						P	
+Mixing Medicines		9780823294336							https://www.degruyter.com/openurl?genre=book&isbn=9780823294336	Chudakova	9780823294336		fulltext		Fordham University Press	monograph	2021	2021						P	
+Nothing Absolute		9780823290192							https://www.degruyter.com/openurl?genre=book&isbn=9780823290192		9780823290192		fulltext		Fordham University Press	monograph	2021	2021						P	1235599361
+Now What?		9780823293940							https://www.degruyter.com/openurl?genre=book&isbn=9780823293940	Weiss	9780823293940		fulltext		Fordham University Press	monograph	2021	2021						P	1237411180
+On the Horizon of World Literature		9780823294817							https://www.degruyter.com/openurl?genre=book&isbn=9780823294817	Sun	9780823294817		fulltext		Fordham University Press	monograph	2021	2021						P	1237409863
+Orphaned Landscapes		9780823298716							https://www.degruyter.com/openurl?genre=book&isbn=9780823298716	Spyer	9780823298716		fulltext		Fordham University Press	monograph	2021	2022						F	
+Radical Hospitality		9780823294442							https://www.degruyter.com/openurl?genre=book&isbn=9780823294442	Kearney	9780823294442		fulltext		Fordham University Press	monograph	2021	2021						P	1235594644
+Rationalist Empiricism		9780823290031							https://www.degruyter.com/openurl?genre=book&isbn=9780823290031	Brown	9780823290031		fulltext		Fordham University Press	monograph	2021	2021						P	1206395331
+Scatter 2		9780823289950							https://www.degruyter.com/openurl?genre=book&isbn=9780823289950	Bennington	9780823289950		fulltext		Fordham University Press	monograph	2021	2021						P	1224366129
+Sexistence		9780823294022							https://www.degruyter.com/openurl?genre=book&isbn=9780823294022		9780823294022		fulltext		Fordham University Press	monograph	2021	2021						P	1249492380
+Shattering Biopolitics		9780823294893							https://www.degruyter.com/openurl?genre=book&isbn=9780823294893	Waltham-Smith	9780823294893		fulltext		Fordham University Press	monograph	2021	2021						P	
+Shell-Shocked		9780823293797							https://www.degruyter.com/openurl?genre=book&isbn=9780823293797	Honig	9780823293797		fulltext		Fordham University Press	monograph	2021	2021						P	1242909343
+Stroke Book		9780823297696							https://www.degruyter.com/openurl?genre=book&isbn=9780823297696	Alexander	9780823297696		fulltext		Fordham University Press	monograph	2021	2021						P	
+The Book of Negroes		9780823298822							https://www.degruyter.com/openurl?genre=book&isbn=9780823298822		9780823298822		fulltext		Fordham University Press	monograph	2021	2021			Hodges			P	
+The Book of Tiny Prayer		9780823299249							https://www.degruyter.com/openurl?genre=book&isbn=9780823299249		9780823299249		fulltext		Fordham University Press	monograph	2021	2021						P	
+The Form of Love		9780823294534							https://www.degruyter.com/openurl?genre=book&isbn=9780823294534	Kuzner	9780823294534		fulltext		Fordham University Press	monograph	2021	2021						P	
+The Migrant Diaries		9780823297016							https://www.degruyter.com/openurl?genre=book&isbn=9780823297016	Jones	9780823297016		fulltext		Fordham University Press	monograph	2021	2021						P	1248759921
+The National Frame		9780823290239							https://www.degruyter.com/openurl?genre=book&isbn=9780823290239	Karaca	9780823290239		fulltext		Fordham University Press	monograph	2021	2021						P	1231605823
+The Survival of Dulles		9780823294923							https://www.degruyter.com/openurl?genre=book&isbn=9780823294923		9780823294923		fulltext		Fordham University Press	monograph	2021	2021						P	
+Toward a Feminist Ethics of Nonviolence		9780823290116							https://www.degruyter.com/openurl?genre=book&isbn=9780823290116		9780823290116		fulltext		Fordham University Press	monograph	2021	2021						P	1231605903
+What Is Theology?		9780823297849							https://www.degruyter.com/openurl?genre=book&isbn=9780823297849	Kotsko	9780823297849		fulltext		Fordham University Press	monograph	2021	2021						P	
+Who Is a Muslim?		9780823290154							https://www.degruyter.com/openurl?genre=book&isbn=9780823290154	Khan	9780823290154		fulltext		Fordham University Press	monograph	2021	2021						P	1224362707
+Women and Religiosity in Orthodox Christianity		9780823298631							https://www.degruyter.com/openurl?genre=book&isbn=9780823298631		9780823298631		fulltext		Fordham University Press	monograph	2021	2021						P	
