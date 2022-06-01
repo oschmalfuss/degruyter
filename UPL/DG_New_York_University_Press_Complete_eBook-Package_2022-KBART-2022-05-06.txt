@@ -1,0 +1,34 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+Are the Arts Essential?		9781479812646							https://www.degruyter.com/openurl?genre=book&isbn=9781479812646		9781479812646		fulltext		New York University Press	monograph	2022	2022			Arthurs			P	
+Avidly Reads Poetry		9781479813605							https://www.degruyter.com/openurl?genre=book&isbn=9781479813605	Ardam	9781479813605		fulltext		New York University Press	monograph	2022	2022						P	
+Black Ephemera		9781479806935							https://www.degruyter.com/openurl?genre=book&isbn=9781479806935	Neal	9781479806935		fulltext		New York University Press	monograph	2022	2022						P	
+Black Patience		9781479806874							https://www.degruyter.com/openurl?genre=book&isbn=9781479806874	Fleming Jr.	9781479806874		fulltext		New York University Press	monograph	2022	2022						P	
+Christian Anarchist		9781479811250							https://www.degruyter.com/openurl?genre=book&isbn=9781479811250	Marling	9781479811250		fulltext		New York University Press	monograph	2022	2022						P	
+Coal, Cages, Crisis		9781479866656							https://www.degruyter.com/openurl?genre=book&isbn=9781479866656	Schept	9781479866656		fulltext		New York University Press	monograph	2022	2022						P	
+Disabilities of the Color Line		9781479817344							https://www.degruyter.com/openurl?genre=book&isbn=9781479817344	Tyler	9781479817344		fulltext		New York University Press	monograph	2022	2022						P	
+Distressing Language		9781479813858							https://www.degruyter.com/openurl?genre=book&isbn=9781479813858	Davidson	9781479813858		fulltext		New York University Press	monograph	2022	2022						P	
+Faith and Power		9781479804542							https://www.degruyter.com/openurl?genre=book&isbn=9781479804542		9781479804542		fulltext		New York University Press	monograph	2022	2022			Hinojosa			P	
+Geek Girls		9781479803859							https://www.degruyter.com/openurl?genre=book&isbn=9781479803859	Twine	9781479803859		fulltext		New York University Press	monograph	2022	2022						P	
+Ghost Criminology		9781479870493							https://www.degruyter.com/openurl?genre=book&isbn=9781479870493		9781479870493		fulltext		New York University Press	monograph	2022	2022			Linnemann			P	
+In Case of Emergency		9781479811656							https://www.degruyter.com/openurl?genre=book&isbn=9781479811656	Ellcessor	9781479811656		fulltext		New York University Press	monograph	2022	2022						P	
+Jailhouse Informants		9781479803330							https://www.degruyter.com/openurl?genre=book&isbn=9781479803330	Golding	9781479803330		fulltext		New York University Press	monograph	2022	2022						P	
+Just Health		9781479802685							https://www.degruyter.com/openurl?genre=book&isbn=9781479802685	Matthew	9781479802685		fulltext		New York University Press	monograph	2022	2022						P	
+Kalīlah and Dimnah		9781479806560							https://www.degruyter.com/openurl?genre=book&isbn=9781479806560		9781479806560		fulltext		New York University Press	monograph	2022	2022						P	
+Keeping It Unreal		9781479811694							https://www.degruyter.com/openurl?genre=book&isbn=9781479811694	Scott	9781479811694		fulltext		New York University Press	monograph	2022	2022						P	
+"Let Us Vote!"		9781479811335							https://www.degruyter.com/openurl?genre=book&isbn=9781479811335	Frost	9781479811335		fulltext		New York University Press	monograph	2022	2022						P	
+Liberty Road		9781479860692							https://www.degruyter.com/openurl?genre=book&isbn=9781479860692	Smithsimon	9781479860692		fulltext		New York University Press	monograph	2022	2022						P	
+Love, Death, Fame		9781479806591							https://www.degruyter.com/openurl?genre=book&isbn=9781479806591		9781479806591		fulltext		New York University Press	monograph	2022	2022			Kurpershoek			P	
+Muslims of the Heartland		9781479812578							https://www.degruyter.com/openurl?genre=book&isbn=9781479812578	Curtis IV	9781479812578		fulltext		New York University Press	monograph	2022	2022						P	
+Networking the Black Church		9781479805839							https://www.degruyter.com/openurl?genre=book&isbn=9781479805839	Gault	9781479805839		fulltext		New York University Press	monograph	2022	2022						P	
+Queer Carnival		9781479802029							https://www.degruyter.com/openurl?genre=book&isbn=9781479802029	Stone	9781479802029		fulltext		New York University Press	monograph	2022	2022						P	
+Religion, Race, and COVID-19		9781479810277							https://www.degruyter.com/openurl?genre=book&isbn=9781479810277		9781479810277		fulltext		New York University Press	monograph	2022	2022			Floyd-Thomas			P	
+Taking Down Backpage		9781479803064							https://www.degruyter.com/openurl?genre=book&isbn=9781479803064	Krell	9781479803064		fulltext		New York University Press	monograph	2022	2022						P	
+Tax and Time		9781479800414							https://www.degruyter.com/openurl?genre=book&isbn=9781479800414	Infanti	9781479800414		fulltext		New York University Press	monograph	2022	2022						P	
+Terrorism in American Memory		9781479811700							https://www.degruyter.com/openurl?genre=book&isbn=9781479811700	Sturken	9781479811700		fulltext		New York University Press	monograph	2022	2022						P	
+The Essence of Reality		9781479816620							https://www.degruyter.com/openurl?genre=book&isbn=9781479816620		9781479816620		fulltext		New York University Press	monograph	2022	2022			Rustom			P	
+The Museum		9781479809363							https://www.degruyter.com/openurl?genre=book&isbn=9781479809363	Redman	9781479809363		fulltext		New York University Press	monograph	2022	2022						P	
+The Opportunity Trap		9781479860821							https://www.degruyter.com/openurl?genre=book&isbn=9781479860821	Banerjee	9781479860821		fulltext		New York University Press	monograph	2022	2022						P	
+The Transformation of American Sex Education		9781479812059							https://www.degruyter.com/openurl?genre=book&isbn=9781479812059	More	9781479812059		fulltext		New York University Press	monograph	2022	2022						P	
+The World of Obsessive-Compulsive Disorder		9781479869909							https://www.degruyter.com/openurl?genre=book&isbn=9781479869909	Fennell	9781479869909		fulltext		New York University Press	monograph	2022	2022						P	
+Unaccompanied		9781479838493							https://www.degruyter.com/openurl?genre=book&isbn=9781479838493	Ruehs-Navarro	9781479838493		fulltext		New York University Press	monograph	2022	2022						P	
+Uninsured in Chicago		9781479807260							https://www.degruyter.com/openurl?genre=book&isbn=9781479807260	Vargas	9781479807260		fulltext		New York University Press	monograph	2022	2022						P	

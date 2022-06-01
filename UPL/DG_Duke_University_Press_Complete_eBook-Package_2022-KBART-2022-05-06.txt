@@ -1,0 +1,42 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+All That Was Not Her		9781478022510							https://www.degruyter.com/openurl?genre=book&isbn=9781478022510	Meyers	9781478022510		fulltext		Duke University Press	monograph	2022	2022						P	
+Atlantis, an Autoanthropology		9781478022527							https://www.degruyter.com/openurl?genre=book&isbn=9781478022527		9781478022527		fulltext		Duke University Press	monograph	2022	2021						P	
+"Beyond This Narrow Now"		9781478022121							https://www.degruyter.com/openurl?genre=book&isbn=9781478022121	Chandler	9781478022121		fulltext		Duke University Press	monograph	2022	2021						P	
+Black Trans Feminism		9781478022428							https://www.degruyter.com/openurl?genre=book&isbn=9781478022428	Bey	9781478022428		fulltext		Duke University Press	monograph	2022	2021						P	
+Climatic Media		9781478022435							https://www.degruyter.com/openurl?genre=book&isbn=9781478022435	Furuhata	9781478022435		fulltext		Duke University Press	monograph	2022	2022						P	
+Confidence Culture		9781478021834							https://www.degruyter.com/openurl?genre=book&isbn=9781478021834	Gill	9781478021834		fulltext		Duke University Press	monograph	2022	2022						P	
+Dockside Reading		9781478022367							https://www.degruyter.com/openurl?genre=book&isbn=9781478022367	Hofmeyr	9781478022367		fulltext		Duke University Press	monograph	2022	2021						P	
+Dreadful Desires		9781478022619							https://www.degruyter.com/openurl?genre=book&isbn=9781478022619	Zhang	9781478022619		fulltext		Duke University Press	monograph	2022	2022						P	
+Dreams of Flight		9781478022220							https://www.degruyter.com/openurl?genre=book&isbn=9781478022220	Martin	9781478022220		fulltext		Duke University Press	monograph	2022	2021						P	
+Earworm and Event		9781478022596							https://www.degruyter.com/openurl?genre=book&isbn=9781478022596	Priest	9781478022596		fulltext		Duke University Press	monograph	2022	2022						P	
+Engineering Vulnerability		9781478022725							https://www.degruyter.com/openurl?genre=book&isbn=9781478022725	Vaughn	9781478022725		fulltext		Duke University Press	monograph	2022	2022						P	
+Familial Undercurrents		9781478022398							https://www.degruyter.com/openurl?genre=book&isbn=9781478022398	Najmabadi	9781478022398		fulltext		Duke University Press	monograph	2022	2022						P	
+Gay Liberation after May '68		9781478022695							https://www.degruyter.com/openurl?genre=book&isbn=9781478022695		9781478022695		fulltext		Duke University Press	monograph	2022	2022						P	
+Good night the pleasure was ours		9781478022787							https://www.degruyter.com/openurl?genre=book&isbn=9781478022787	Grubbs	9781478022787		fulltext		Duke University Press	monograph	2022	2022						P	
+Healing at the Periphery		9781478021759							https://www.degruyter.com/openurl?genre=book&isbn=9781478021759		9781478021759		fulltext		Duke University Press	monograph	2022	2021			Kloos			P	
+Horn, or The Counterside of Media		9781478022343							https://www.degruyter.com/openurl?genre=book&isbn=9781478022343		9781478022343		fulltext		Duke University Press	monograph	2022	2021						P	
+How Do We Look?		9781478021902							https://www.degruyter.com/openurl?genre=book&isbn=9781478021902	Rony	9781478021902		fulltext		Duke University Press	monograph	2022	2021						P	
+How Machines Came to Speak		9781478021827							https://www.degruyter.com/openurl?genre=book&isbn=9781478021827	Petersen	9781478021827		fulltext		Duke University Press	monograph	2022	2022						P	
+Intimate Eating		9781478022442							https://www.degruyter.com/openurl?genre=book&isbn=9781478022442	Mannur	9781478022442		fulltext		Duke University Press	monograph	2022	2022						P	
+Kin		9781478022664							https://www.degruyter.com/openurl?genre=book&isbn=9781478022664		9781478022664		fulltext		Duke University Press	monograph	2022	2022			Chrulew			P	
+Lesbian Potentiality and Feminist Media in the 1970s		9781478022640							https://www.degruyter.com/openurl?genre=book&isbn=9781478022640	Samer	9781478022640		fulltext		Duke University Press	monograph	2022	2022						P	
+Listening in the Afterlife of Data		9781478022534							https://www.degruyter.com/openurl?genre=book&isbn=9781478022534	Cecchetto	9781478022534		fulltext		Duke University Press	monograph	2022	2022						P	
+Living Worth		9781478022282							https://www.degruyter.com/openurl?genre=book&isbn=9781478022282	Ecks	9781478022282		fulltext		Duke University Press	monograph	2022	2022						P	
+Making Women Pay		9781478022169							https://www.degruyter.com/openurl?genre=book&isbn=9781478022169	Radhakrishnan	9781478022169		fulltext		Duke University Press	monograph	2022	2021						P	
+Nkrumah and the Ghana Revolution		9781478007128							https://www.degruyter.com/openurl?genre=book&isbn=9781478007128		9781478007128		fulltext		Duke University Press	monograph	2022	2022			James			P	
+Planetary Longings		9781478022909							https://www.degruyter.com/openurl?genre=book&isbn=9781478022909	Pratt	9781478022909		fulltext		Duke University Press	monograph	2022	2022						P	
+Plastic Matter		9781478022374							https://www.degruyter.com/openurl?genre=book&isbn=9781478022374	Davis	9781478022374		fulltext		Duke University Press	monograph	2022	2022						P	
+Queer African Cinemas		9781478022633							https://www.degruyter.com/openurl?genre=book&isbn=9781478022633	Green-Simms	9781478022633		fulltext		Duke University Press	monograph	2022	2022						P	
+Queer Companions		9781478022657							https://www.degruyter.com/openurl?genre=book&isbn=9781478022657	Kasmani	9781478022657		fulltext		Duke University Press	monograph	2022	2022						P	
+Racist Love		9781478022466							https://www.degruyter.com/openurl?genre=book&isbn=9781478022466	Bow	9781478022466		fulltext		Duke University Press	monograph	2022	2022						P	
+Rainforest Capitalism		9781478022473							https://www.degruyter.com/openurl?genre=book&isbn=9781478022473	Hendriks	9781478022473		fulltext		Duke University Press	monograph	2022	2022						P	
+Reframing Todd Haynes		9781478022626							https://www.degruyter.com/openurl?genre=book&isbn=9781478022626		9781478022626		fulltext		Duke University Press	monograph	2022	2022			Leyda			P	
+Selfie Aesthetics		9781478022756							https://www.degruyter.com/openurl?genre=book&isbn=9781478022756	Morse	9781478022756		fulltext		Duke University Press	monograph	2022	2022						P	
+Sissy Insurgencies		9781478022459							https://www.degruyter.com/openurl?genre=book&isbn=9781478022459	Ross	9781478022459		fulltext		Duke University Press	monograph	2022	2022						P	
+Subversive Habits		9781478022817							https://www.degruyter.com/openurl?genre=book&isbn=9781478022817	Williams	9781478022817		fulltext		Duke University Press	monograph	2022	2022						P	
+The Doctor Who Would Be King		9781478022480							https://www.degruyter.com/openurl?genre=book&isbn=9781478022480	Lachenal	9781478022480		fulltext		Duke University Press	monograph	2022	2022						P	
+The End of Pax Americana		9781478022213							https://www.degruyter.com/openurl?genre=book&isbn=9781478022213	Sakai	9781478022213		fulltext		Duke University Press	monograph	2022	2022						P	
+The Sovereign Trickster		9781478022411							https://www.degruyter.com/openurl?genre=book&isbn=9781478022411	Rafael	9781478022411		fulltext		Duke University Press	monograph	2022	2021						P	
+The Surrounds		9781478022749							https://www.degruyter.com/openurl?genre=book&isbn=9781478022749	Simone	9781478022749		fulltext		Duke University Press	monograph	2022	2022						P	
+Ugly Freedoms		9781478022404							https://www.degruyter.com/openurl?genre=book&isbn=9781478022404	Anker	9781478022404		fulltext		Duke University Press	monograph	2022	2021						P	
+Vulgar Beauty		9781478022718							https://www.degruyter.com/openurl?genre=book&isbn=9781478022718	Zuo	9781478022718		fulltext		Duke University Press	monograph	2022	2022						P	

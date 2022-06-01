@@ -1,0 +1,45 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Beautiful Ending		9780300265446							https://www.degruyter.com/openurl?genre=book&isbn=9780300265446	Martin	9780300265446		fulltext		Yale University Press	monograph	2022	2022						P	
+A Blue New Deal		9780300264999							https://www.degruyter.com/openurl?genre=book&isbn=9780300264999	Armstrong	9780300264999		fulltext		Yale University Press	monograph	2022	2022						P	
+Admiral Hyman Rickover		9780300264937							https://www.degruyter.com/openurl?genre=book&isbn=9780300264937	Wortman	9780300264937		fulltext		Yale University Press	monograph	2022	2022						P	
+After Disbelief		9780300265330							https://www.degruyter.com/openurl?genre=book&isbn=9780300265330	Kronman	9780300265330		fulltext		Yale University Press	monograph	2022	2022						P	
+Ancient DNA		9780300262377							https://www.degruyter.com/openurl?genre=book&isbn=9780300262377	Jones	9780300262377		fulltext		Yale University Press	monograph	2022	2022						P	
+Becoming Elijah		9780300264920							https://www.degruyter.com/openurl?genre=book&isbn=9780300264920	Matt	9780300264920		fulltext		Yale University Press	monograph	2022	2022						P	
+Burning the Big House		9780300265118							https://www.degruyter.com/openurl?genre=book&isbn=9780300265118	Dooley	9780300265118		fulltext		Yale University Press	monograph	2022	2022						P	
+Cheap Speech		9780300265255							https://www.degruyter.com/openurl?genre=book&isbn=9780300265255	Hasen	9780300265255		fulltext		Yale University Press	monograph	2022	2022						P	
+Confronting Climate Gridlock		9780300265057							https://www.degruyter.com/openurl?genre=book&isbn=9780300265057		9780300265057		fulltext		Yale University Press	monograph	2022	2022						P	
+Cornwallis		9780300265507							https://www.degruyter.com/openurl?genre=book&isbn=9780300265507	Middleton	9780300265507		fulltext		Yale University Press	monograph	2022	2022						P	
+Decision Leadership		9780300265521							https://www.degruyter.com/openurl?genre=book&isbn=9780300265521	Bazerman	9780300265521		fulltext		Yale University Press	monograph	2022	2022						P	
+Disaster Mon Amour		9780300263343							https://www.degruyter.com/openurl?genre=book&isbn=9780300263343	Thomson	9780300263343		fulltext		Yale University Press	monograph	2022	2022						P	
+Dream-Child		9780300262490							https://www.degruyter.com/openurl?genre=book&isbn=9780300262490	Wilson	9780300262490		fulltext		Yale University Press	monograph	2022	2022						P	
+Ecology of Dakota Landscapes		9780300265293							https://www.degruyter.com/openurl?genre=book&isbn=9780300265293	Johnson	9780300265293		fulltext		Yale University Press	monograph	2022	2022						P	
+Empires of Eurasia		9780300265378							https://www.degruyter.com/openurl?genre=book&isbn=9780300265378	Mankoff	9780300265378		fulltext		Yale University Press	monograph	2022	2022						P	
+Global Calvinism		9780300262605							https://www.degruyter.com/openurl?genre=book&isbn=9780300262605	Parker	9780300262605		fulltext		Yale University Press	monograph	2022	2022						P	
+God after Einstein		9780300265262							https://www.degruyter.com/openurl?genre=book&isbn=9780300265262	Haught	9780300265262		fulltext		Yale University Press	monograph	2022	2022						P	
+Humanitarian Governance and the British Antislavery World System		9780300265606							https://www.degruyter.com/openurl?genre=book&isbn=9780300265606	Ryan	9780300265606		fulltext		Yale University Press	monograph	2022	2022						P	
+Mothman Apologia		9780300264975							https://www.degruyter.com/openurl?genre=book&isbn=9780300264975		9780300264975		fulltext		Yale University Press	monograph	2022	2022						P	
+Nuclear Bodies		9780300265286							https://www.degruyter.com/openurl?genre=book&isbn=9780300265286	Jacobs	9780300265286		fulltext		Yale University Press	monograph	2022	2022						P	
+Playing with Fire		9780300265682							https://www.degruyter.com/openurl?genre=book&isbn=9780300265682	Wilson	9780300265682		fulltext		Yale University Press	monograph	2022	2022						P	
+Power and Justice in Medieval England		9780300164718							https://www.degruyter.com/openurl?genre=book&isbn=9780300164718	Tate	9780300164718		fulltext		Yale University Press	monograph	2022	2022						P	
+Principles and Agents		9780300262902							https://www.degruyter.com/openurl?genre=book&isbn=9780300262902	Richardson	9780300262902		fulltext		Yale University Press	monograph	2022	2022						P	
+Radical Art and the Formation of the Avant-Garde		9780300265071							https://www.degruyter.com/openurl?genre=book&isbn=9780300265071	Cottington	9780300265071		fulltext		Yale University Press	monograph	2022	2022						P	
+Ranquil		9780300262322							https://www.degruyter.com/openurl?genre=book&isbn=9780300262322	Klubock	9780300262322		fulltext		Yale University Press	monograph	2022	2022						P	
+Rapture and Melancholy		9780300265514							https://www.degruyter.com/openurl?genre=book&isbn=9780300265514		9780300265514		fulltext		Yale University Press	monograph	2022	2022			Epstein			P	
+Stalin&#39;s Library		9780300265590							https://www.degruyter.com/openurl?genre=book&isbn=9780300265590	Roberts	9780300265590		fulltext		Yale University Press	monograph	2022	2022						P	
+The Capital of Free Women		9780300265644							https://www.degruyter.com/openurl?genre=book&isbn=9780300265644	Terrazas Williams	9780300265644		fulltext		Yale University Press	monograph	2022	2022						P	
+The Economic Weapon		9780300262520							https://www.degruyter.com/openurl?genre=book&isbn=9780300262520	Mulder	9780300262520		fulltext		Yale University Press	monograph	2022	2022						P	
+The Frederick Douglass Papers		9780300266283							https://www.degruyter.com/openurl?genre=book&isbn=9780300266283		9780300266283		fulltext		Yale University Press	monograph	2022	2022			Kaufman-McKivigan			P	
+The Georgians		9780300265064							https://www.degruyter.com/openurl?genre=book&isbn=9780300265064	Corfield	9780300265064		fulltext		Yale University Press	monograph	2022	2022						P	
+The Long Land War		9780300264869							https://www.degruyter.com/openurl?genre=book&isbn=9780300264869	Guldi	9780300264869		fulltext		Yale University Press	monograph	2022	2022						P	
+The Modem World		9780300265125							https://www.degruyter.com/openurl?genre=book&isbn=9780300265125	Driscoll	9780300265125		fulltext		Yale University Press	monograph	2022	2022						P	
+The New Model Army		9780300265200							https://www.degruyter.com/openurl?genre=book&isbn=9780300265200	Gentles	9780300265200		fulltext		Yale University Press	monograph	2022	2022						P	
+The Newspaper Axis		9780300265552							https://www.degruyter.com/openurl?genre=book&isbn=9780300265552	Olmsted	9780300265552		fulltext		Yale University Press	monograph	2022	2022						P	
+The Normans		9780300189964							https://www.degruyter.com/openurl?genre=book&isbn=9780300189964	Green	9780300189964		fulltext		Yale University Press	monograph	2022	2022						P	
+The One and the Many		9780300262834							https://www.degruyter.com/openurl?genre=book&isbn=9780300262834		9780300262834		fulltext		Yale University Press	monograph	2022	2022						P	
+The Twilight Struggle		9780300262698							https://www.degruyter.com/openurl?genre=book&isbn=9780300262698	Brands	9780300262698		fulltext		Yale University Press	monograph	2022	2022						P	
+The Wall and the Bridge		9780300263046							https://www.degruyter.com/openurl?genre=book&isbn=9780300263046	Hubbard	9780300263046		fulltext		Yale University Press	monograph	2022	2022						P	
+The Weaponisation of Everything		9780300265132							https://www.degruyter.com/openurl?genre=book&isbn=9780300265132	Galeotti	9780300265132		fulltext		Yale University Press	monograph	2022	2022						P	
+This Earthly Frame		9780300265620							https://www.degruyter.com/openurl?genre=book&isbn=9780300265620	Sehat	9780300265620		fulltext		Yale University Press	monograph	2022	2022						P	
+Turkey Under Erdogan		9780300265019							https://www.degruyter.com/openurl?genre=book&isbn=9780300265019	Bechev	9780300265019		fulltext		Yale University Press	monograph	2022	2022						P	
+Why Argument Matters		9780300264968							https://www.degruyter.com/openurl?genre=book&isbn=9780300264968	Siegel	9780300264968		fulltext		Yale University Press	monograph	2022	2022						P	
+Women and the Religion of Ancient Israel		9780300264883							https://www.degruyter.com/openurl?genre=book&isbn=9780300264883	Ackerman	9780300264883		fulltext		Yale University Press	monograph	2022	2022						P	
