@@ -1,0 +1,32 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Reader in Early Franciscan Theology		9780823298860							https://www.degruyter.com/openurl?genre=book&isbn=9780823298860		9780823298860		fulltext		Fordham University Press	monograph	2022	2022			Bychkov			F	
+A True American		9780823298594							https://www.degruyter.com/openurl?genre=book&isbn=9780823298594	Katz	9780823298594		fulltext		Fordham University Press	monograph	2022	2022						P	
+Africans in Harlem		9780823299157							https://www.degruyter.com/openurl?genre=book&isbn=9780823299157	Sawadogo	9780823299157		fulltext		Fordham University Press	monograph	2022	2022						P	
+Between Heaven and Russia		9780823299522							https://www.degruyter.com/openurl?genre=book&isbn=9780823299522	Riccardi-Swartz	9780823299522		fulltext		Fordham University Press	monograph	2022	2022						P	
+Filipino Time		9780823298556							https://www.degruyter.com/openurl?genre=book&isbn=9780823298556	Isaac	9780823298556		fulltext		Fordham University Press	monograph	2021	2021						P	
+Filipinx American Studies		9780823299607							https://www.degruyter.com/openurl?genre=book&isbn=9780823299607		9780823299607		fulltext		Fordham University Press	monograph	2022	2022			Bonus			P	
+Freedoms Gained and Lost		9780823298181							https://www.degruyter.com/openurl?genre=book&isbn=9780823298181		9780823298181		fulltext		Fordham University Press	monograph	2021	2022						P	
+From Life to Survival		9780823298754							https://www.degruyter.com/openurl?genre=book&isbn=9780823298754	Trumbull	9780823298754		fulltext		Fordham University Press	monograph	2022	2022						P	
+Guides to the Eucharist in Medieval Egypt		9780823298341							https://www.degruyter.com/openurl?genre=book&isbn=9780823298341		9780823298341		fulltext		Fordham University Press	monograph	2022	2022			Mikhail			P	
+If Babel Had a Form		9781531500214							https://www.degruyter.com/openurl?genre=book&isbn=9781531500214	Teo	9781531500214		fulltext		Fordham University Press	monograph	2022	2022						P	
+Living in Death		9780823297887							https://www.degruyter.com/openurl?genre=book&isbn=9780823297887	Rechtman	9780823297887		fulltext		Fordham University Press	monograph	2021	2021						P	
+Look Round for Poetry		9780823299829							https://www.degruyter.com/openurl?genre=book&isbn=9780823299829	McGrath	9780823299829		fulltext		Fordham University Press	monograph	2022	2022						P	
+Machines for Making Gods		9780823299386							https://www.degruyter.com/openurl?genre=book&isbn=9780823299386	Bialecki	9780823299386		fulltext		Fordham University Press	monograph	2022	2022						P	
+NBC Goes to War		9780823299348							https://www.degruyter.com/openurl?genre=book&isbn=9780823299348		9780823299348		fulltext		Fordham University Press	monograph	2022	2022			Sweeney			P	
+Obscene Gestures		9781531500115							https://www.degruyter.com/openurl?genre=book&isbn=9781531500115	Lawrence	9781531500115		fulltext		Fordham University Press	monograph	2022	2022						P	
+Our Shared Storm		9780823299560							https://www.degruyter.com/openurl?genre=book&isbn=9780823299560	Hudson	9780823299560		fulltext		Fordham University Press	monograph	2022	2022						P	
+Political Theology on Edge		9780823298143							https://www.degruyter.com/openurl?genre=book&isbn=9780823298143		9780823298143		fulltext		Fordham University Press	monograph	2021	2022						P	
+Reading Shakespeare Reading Me		9780823299218							https://www.degruyter.com/openurl?genre=book&isbn=9780823299218	Barkan	9780823299218		fulltext		Fordham University Press	monograph	2022	2022						P	
+Reconstruction and Empire		9780823298679							https://www.degruyter.com/openurl?genre=book&isbn=9780823298679		9780823298679		fulltext		Fordham University Press	monograph	2022	2022						P	
+Resounding Events		9781531500252							https://www.degruyter.com/openurl?genre=book&isbn=9781531500252	Connolly	9781531500252		fulltext		Fordham University Press	monograph	2022	2022						P	
+Techno-Magism		9780823298501							https://www.degruyter.com/openurl?genre=book&isbn=9780823298501	Wang	9780823298501		fulltext		Fordham University Press	monograph	2022	2022						P	
+The Body of the Cross		9780823298020							https://www.degruyter.com/openurl?genre=book&isbn=9780823298020	Ables	9780823298020		fulltext		Fordham University Press	monograph	2021	2022						P	
+The Book of Tiny Prayer		9780823299249							https://www.degruyter.com/openurl?genre=book&isbn=9780823299249	Bucey	9780823299249		fulltext		Fordham University Press	monograph	2021	2021						P	
+The Corpse in the Kitchen		9780823298792							https://www.degruyter.com/openurl?genre=book&isbn=9780823298792	Waterman	9780823298792		fulltext		Fordham University Press	monograph	2021	2022						P	
+The Political Logic of Experience		9781531500078							https://www.degruyter.com/openurl?genre=book&isbn=9781531500078	DeRoo	9781531500078		fulltext		Fordham University Press	monograph	2022	2022						P	
+The Roads to Hillbrow		9780823299423							https://www.degruyter.com/openurl?genre=book&isbn=9780823299423	Nerio	9780823299423		fulltext		Fordham University Press	monograph	2022	2022						P	
+Throwing the Moral Dice		9780823298105							https://www.degruyter.com/openurl?genre=book&isbn=9780823298105		9780823298105		fulltext		Fordham University Press	monograph	2021	2022						P	
+Totality Inside Out		9780823298228							https://www.degruyter.com/openurl?genre=book&isbn=9780823298228		9780823298228		fulltext		Fordham University Press	monograph	2022	2022						P	
+Vertigo		9780823298068							https://www.degruyter.com/openurl?genre=book&isbn=9780823298068	Cavalletti	9780823298068		fulltext		Fordham University Press	monograph	2022	2022						P	
+Viking Mediologies		9780823298235							https://www.degruyter.com/openurl?genre=book&isbn=9780823298235	Heslop	9780823298235		fulltext		Fordham University Press	monograph	2022	2022						P	
+Why the Assembly Disbanded		9780823299270							https://www.degruyter.com/openurl?genre=book&isbn=9780823299270	Tejada	9780823299270		fulltext		Fordham University Press	monograph	2022	2022						P	

@@ -1,0 +1,59 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+Aging in a Changing World		9781978809444							https://www.degruyter.com/openurl?genre=book&isbn=9781978809444	George	9781978809444		fulltext		Rutgers University Press	monograph	2022	2021						P	
+American Cinema of the 2010s		9781978814868							https://www.degruyter.com/openurl?genre=book&isbn=9781978814868		9781978814868		fulltext		Rutgers University Press	monograph	2022	2021						P	
+An Unseen Unheard Minority		9781978824485							https://www.degruyter.com/openurl?genre=book&isbn=9781978824485	Lee	9781978824485		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Artificial Generation		9781978825109							https://www.degruyter.com/openurl?genre=book&isbn=9781978825109	Parker-Flynn	9781978825109		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Black Celebrity		9781644532478							https://www.degruyter.com/openurl?genre=book&isbn=9781644532478	Rutter	9781644532478		fulltext		University of Delaware Press	monograph	2022	2022						P	
+Black Space		9781978822566							https://www.degruyter.com/openurl?genre=book&isbn=9781978822566	Deckman	9781978822566		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Carrying All before Her		9781644532515							https://www.degruyter.com/openurl?genre=book&isbn=9781644532515	Phillips	9781644532515		fulltext		University of Delaware Press	monograph	2022	2022						P	
+Carrying On		9781978801042							https://www.degruyter.com/openurl?genre=book&isbn=9781978801042	Clair	9781978801042		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Changes in Care		9781978823280							https://www.degruyter.com/openurl?genre=book&isbn=9781978823280	Coe	9781978823280		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Collision Course		9781978818002							https://www.degruyter.com/openurl?genre=book&isbn=9781978818002	Auerhahn	9781978818002		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Comics and the Origins of Manga		9781978827257							https://www.degruyter.com/openurl?genre=book&isbn=9781978827257	Exner	9781978827257		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Creolized Sexualities		9781978818156							https://www.degruyter.com/openurl?genre=book&isbn=9781978818156	Donnell	9781978818156		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Edna O'Brien and the Art of Fiction		9781684483396							https://www.degruyter.com/openurl?genre=book&isbn=9781684483396	O'Connor	9781684483396		fulltext		Bucknell University Press	monograph	2022	2021						P	
+England's Asian Renaissance		9781644532430							https://www.degruyter.com/openurl?genre=book&isbn=9781644532430		9781644532430		fulltext		University of Delaware Press	monograph	2022	2022						P	
+Erotic Cartographies		9781978821408							https://www.degruyter.com/openurl?genre=book&isbn=9781978821408	Ghisyawan	9781978821408		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Frankenstein and STEAM		9781644532553							https://www.degruyter.com/openurl?genre=book&isbn=9781644532553		9781644532553		fulltext		University of Delaware Press	monograph	2022	2022						P	
+Fredric Jameson and Film Theory		9781978808904							https://www.degruyter.com/openurl?genre=book&isbn=9781978808904		9781978808904		fulltext		Rutgers University Press	monograph	2022	2022			Wagner			P	
+From Bureaucracy to Bullets		9781978802759							https://www.degruyter.com/openurl?genre=book&isbn=9781978802759	Basso	9781978802759		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Getting It, Having It, Keeping It Up		9781978817869							https://www.degruyter.com/openurl?genre=book&isbn=9781978817869	Montemurro	9781978817869		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Global Dynamics of Shi'a Marriages		9781978818507							https://www.degruyter.com/openurl?genre=book&isbn=9781978818507		9781978818507		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Hannah Whitman Heyde		9781684483648							https://www.degruyter.com/openurl?genre=book&isbn=9781684483648	[1823-1908]	9781684483648		fulltext		Bucknell University Press	monograph	2022	2022						P	
+Intimate Connections		9781978820524							https://www.degruyter.com/openurl?genre=book&isbn=9781978820524	Walter	9781978820524		fulltext		Rutgers University Press	monograph	2022	2021						P	
+King of Hearts		9781978820579							https://www.degruyter.com/openurl?genre=book&isbn=9781978820579	Rogers	9781978820579		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Latinas on the Line		9781978813755							https://www.degruyter.com/openurl?genre=book&isbn=9781978813755	Villa-Nicholas	9781978813755		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Love, Sex, Gender, and Superheroes		9781978825291							https://www.degruyter.com/openurl?genre=book&isbn=9781978825291	Brown	9781978825291		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Making Ideas Visible in the Eighteenth Century		9781644532355							https://www.degruyter.com/openurl?genre=book&isbn=9781644532355		9781644532355		fulltext		University of Delaware Press	monograph	2022	2022						P	
+Modes of Play in Eighteenth-Century France		9781684483440							https://www.degruyter.com/openurl?genre=book&isbn=9781684483440		9781684483440		fulltext		Bucknell University Press	monograph	2022	2021			Falaky			P	
+Near Human		9781978818255							https://www.degruyter.com/openurl?genre=book&isbn=9781978818255	Svendsen	9781978818255		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Neo-Burlesque		9781978828124							https://www.degruyter.com/openurl?genre=book&isbn=9781978828124	Sally	9781978828124		fulltext		Rutgers University Press	monograph	2022	2022						P	
+No Real Choice		9781978817951							https://www.degruyter.com/openurl?genre=book&isbn=9781978817951	Kimport	9781978817951		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Nothing is Impossible		9781978825192							https://www.degruyter.com/openurl?genre=book&isbn=9781978825192	Osius	9781978825192		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Played Out		9781978824287							https://www.degruyter.com/openurl?genre=book&isbn=9781978824287	Manning	9781978824287		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Population Trends in New Jersey		9780813588339							https://www.degruyter.com/openurl?genre=book&isbn=9780813588339	Listokin	9780813588339		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Residues		9781978818057							https://www.degruyter.com/openurl?genre=book&isbn=9781978818057	Frickel	9781978818057		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Resonant Violence		9781978825598							https://www.degruyter.com/openurl?genre=book&isbn=9781978825598	Whigham	9781978825598		fulltext		Rutgers University Press	monograph	2022	2022						P	
+See Me Naked		9781978826069							https://www.degruyter.com/openurl?genre=book&isbn=9781978826069	Green	9781978826069		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Serious Reflections During the Life and Surprising Adventures of Robinson Crusoe with his Vision of the Angelick World		9781684483341							https://www.degruyter.com/openurl?genre=book&isbn=9781684483341		9781684483341		fulltext		Bucknell University Press	monograph	2022	2022						P	
+Shipwreck in the Early Modern Hispanic World		9781684483747							https://www.degruyter.com/openurl?genre=book&isbn=9781684483747		9781684483747		fulltext		Bucknell University Press	monograph	2022	2022						P	
+Soccer in Mind		9781978817357							https://www.degruyter.com/openurl?genre=book&isbn=9781978817357	Guest	9781978817357		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Speaking Truths		9781978801141							https://www.degruyter.com/openurl?genre=book&isbn=9781978801141	Chepp	9781978801141		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Stellar Transformations		9781978818354							https://www.degruyter.com/openurl?genre=book&isbn=9781978818354		9781978818354		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Storytelling in Sixteenth-Century France		9781644532393							https://www.degruyter.com/openurl?genre=book&isbn=9781644532393		9781644532393		fulltext		University of Delaware Press	monograph	2022	2022						P	
+The American Girl Goes to War		9781978810198							https://www.degruyter.com/openurl?genre=book&isbn=9781978810198	Clarke	9781978810198		fulltext		Rutgers University Press	monograph	2022	2022						P	
+The Baseball Film		9780813596921							https://www.degruyter.com/openurl?genre=book&isbn=9780813596921	Baker	9780813596921		fulltext		Rutgers University Press	monograph	2022	2022						P	
+The Farther Adventures of Robinson Crusoe		9781684483297							https://www.degruyter.com/openurl?genre=book&isbn=9781684483297		9781684483297		fulltext		Bucknell University Press	monograph	2022	2022			Novak			P	
+The First Fifteen		9781978824546							https://www.degruyter.com/openurl?genre=book&isbn=9781978824546	Mollway	9781978824546		fulltext		Rutgers University Press	monograph	2022	2021						P	
+The Great Disappearing Act		9781978823228							https://www.degruyter.com/openurl?genre=book&isbn=9781978823228	Ziegler-McPherson	9781978823228		fulltext		Rutgers University Press	monograph	2022	2021						P	
+The Life and Comics of Howard Cruse		9781978818897							https://www.degruyter.com/openurl?genre=book&isbn=9781978818897	Kunka	9781978818897		fulltext		Rutgers University Press	monograph	2022	2021						P	
+The Marion Thompson Wright Reader		9781978805408							https://www.degruyter.com/openurl?genre=book&isbn=9781978805408		9781978805408		fulltext		Rutgers University Press	monograph	2022	2021			Hodges			P	
+The Politics of International Marriage in Japan		9781978809055							https://www.degruyter.com/openurl?genre=book&isbn=9781978809055	Balgoa	9781978809055		fulltext		Rutgers University Press	monograph	2022	2021						P	
+The Work of Hospitals		9781978823075							https://www.degruyter.com/openurl?genre=book&isbn=9781978823075		9781978823075		fulltext		Rutgers University Press	monograph	2022	2022						P	
+Transnational Marriage and Partner Migration		9781978816749							https://www.degruyter.com/openurl?genre=book&isbn=9781978816749		9781978816749		fulltext		Rutgers University Press	monograph	2022	2022			D'Aoust			P	
+Triumph Over Containment		9781978820968							https://www.degruyter.com/openurl?genre=book&isbn=9781978820968	Kolker	9781978820968		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Urban Dwellings, Haitian Citizenships		9781978820623							https://www.degruyter.com/openurl?genre=book&isbn=9781978820623	Joos	9781978820623		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Village Ties		9781978816480							https://www.degruyter.com/openurl?genre=book&isbn=9781978816480	Qayum	9781978816480		fulltext		Rutgers University Press	monograph	2022	2021						P	
+White Light		9781684483495							https://www.degruyter.com/openurl?genre=book&isbn=9781684483495	Friis	9781684483495		fulltext		Bucknell University Press	monograph	2022	2022						P	
+Whitewashing the Movies		9781978808669							https://www.degruyter.com/openurl?genre=book&isbn=9781978808669	Oh	9781978808669		fulltext		Rutgers University Press	monograph	2022	2021						P	
+Whither College Sports		9781978828162							https://www.degruyter.com/openurl?genre=book&isbn=9781978828162	Zimbalist	9781978828162		fulltext		Rutgers University Press	monograph	2022	2022						P	

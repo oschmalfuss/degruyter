@@ -1,0 +1,81 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Political Economy of Justice		9780226818436							https://www.degruyter.com/openurl?genre=book&isbn=9780226818436		9780226818436		fulltext		University of Chicago Press	monograph	2022	2022			Henderson			P	
+A Problem of Fit		9780226818542							https://www.degruyter.com/openurl?genre=book&isbn=9780226818542	Levine	9780226818542		fulltext		University of Chicago Press	monograph	2022	2022						P	
+A Righteous Smokescreen		9780226816098							https://www.degruyter.com/openurl?genre=book&isbn=9780226816098	Lebovic	9780226816098		fulltext		University of Chicago Press	monograph	2022	2022						P	
+American Mediterraneans		9780226819655							https://www.degruyter.com/openurl?genre=book&isbn=9780226819655	Gillman	9780226819655		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Autistic Intelligence		9780226815992							https://www.degruyter.com/openurl?genre=book&isbn=9780226815992	Turowetz	9780226815992		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Awkward Rituals		9780226818498							https://www.degruyter.com/openurl?genre=book&isbn=9780226818498	Logan	9780226818498		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Bankers in the Ivory Tower		9780226720562							https://www.degruyter.com/openurl?genre=book&isbn=9780226720562	Eaton	9780226720562		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Beyond Positivism, Behaviorism, and Neoinstitutionalism in Economics		9780226818313							https://www.degruyter.com/openurl?genre=book&isbn=9780226818313	McCloskey	9780226818313		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Big Data for Twenty-First-Century Economic Statistics		9780226801391							https://www.degruyter.com/openurl?genre=book&isbn=9780226801391		9780226801391		fulltext		University of Chicago Press	monograph	2022	2022			Abraham			P	
+Biotic Borders		9780226817309							https://www.degruyter.com/openurl?genre=book&isbn=9780226817309	Shinozuka	9780226817309		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Crossing the Boundaries of Life		9780226819358							https://www.degruyter.com/openurl?genre=book&isbn=9780226819358	Matlin	9780226819358		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Dangerous Fun		9780226820446							https://www.degruyter.com/openurl?genre=book&isbn=9780226820446	Corte	9780226820446		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Decay and Afterlife		9780226811451							https://www.degruyter.com/openurl?genre=book&isbn=9780226811451	Prica	9780226811451		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Democratic Swarms		9780226815756							https://www.degruyter.com/openurl?genre=book&isbn=9780226815756	duBois	9780226815756		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Democratize Work		9780226819631							https://www.degruyter.com/openurl?genre=book&isbn=9780226819631	Méda	9780226819631		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Dynamics, Geometry, Number Theory		9780226804163							https://www.degruyter.com/openurl?genre=book&isbn=9780226804163		9780226804163		fulltext		University of Chicago Press	monograph	2022	2022			Fisher			P	
+Educating the Enemy		9780226815961							https://www.degruyter.com/openurl?genre=book&isbn=9780226815961	Perrillo	9780226815961		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Emergency		9780226818610							https://www.degruyter.com/openurl?genre=book&isbn=9780226818610	Garcia	9780226818610		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Fascinating Shells		9780226819815							https://www.degruyter.com/openurl?genre=book&isbn=9780226819815	Salvador	9780226819815		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Figuring Jerusalem		9780226787633							https://www.degruyter.com/openurl?genre=book&isbn=9780226787633	Ezrahi	9780226787633		fulltext		University of Chicago Press	monograph	2022	2022						P	
+How Democracies Live		9780226819112							https://www.degruyter.com/openurl?genre=book&isbn=9780226819112	Ringen	9780226819112		fulltext		University of Chicago Press	monograph	2022	2022						P	
+How the Clinic Made Gender		9780226573465							https://www.degruyter.com/openurl?genre=book&isbn=9780226573465	Eder	9780226573465		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Innovation and Public Policy		9780226805597							https://www.degruyter.com/openurl?genre=book&isbn=9780226805597	Goolsbee	9780226805597		fulltext		University of Chicago Press	monograph	2022	2022						P	
+John Venn		9780226815527							https://www.degruyter.com/openurl?genre=book&isbn=9780226815527	Verburgt	9780226815527		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Joy of the Worm		9780226816517							https://www.degruyter.com/openurl?genre=book&isbn=9780226816517	Daniel	9780226816517		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Knowledge Regulation and National Security in Postwar America		9780226817521							https://www.degruyter.com/openurl?genre=book&isbn=9780226817521	Daniels	9780226817521		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Leo Strauss on Plato’s "Protagoras"		9780226818160							https://www.degruyter.com/openurl?genre=book&isbn=9780226818160	Strauss	9780226818160		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Limits of the Numerical		9780226817163							https://www.degruyter.com/openurl?genre=book&isbn=9780226817163		9780226817163		fulltext		University of Chicago Press	monograph	2022	2022			Newfield			P	
+Living in the Future		9780226817279							https://www.degruyter.com/openurl?genre=book&isbn=9780226817279	Wolcott	9780226817279		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Local Interests		9780226819280							https://www.degruyter.com/openurl?genre=book&isbn=9780226819280	Anzia	9780226819280		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Making Mexican Chicago		9780226815831							https://www.degruyter.com/openurl?genre=book&isbn=9780226815831	Amezcua	9780226815831		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Minoritarian Liberalism		9780226818269							https://www.degruyter.com/openurl?genre=book&isbn=9780226818269	Lino e Silva	9780226818269		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Misconceiving Merit		9780226820149							https://www.degruyter.com/openurl?genre=book&isbn=9780226820149	Blair-Loy	9780226820149		fulltext		University of Chicago Press	monograph	2022	2022						P	
+National Parks Forever		9780226819105							https://www.degruyter.com/openurl?genre=book&isbn=9780226819105	Jarvis	9780226819105		fulltext		University of Chicago Press	monograph	2022	2022						P	
+No Sign		9780226784106							https://www.degruyter.com/openurl?genre=book&isbn=9780226784106	Balakian	9780226784106		fulltext		University of Chicago Press	monograph	2022	2022						P	
+On Not Knowing		9780226751498							https://www.degruyter.com/openurl?genre=book&isbn=9780226751498	Ogden	9780226751498		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Other People's Colleges		9780226820231							https://www.degruyter.com/openurl?genre=book&isbn=9780226820231	Ris	9780226820231		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Partial Stories		9780226816876							https://www.degruyter.com/openurl?genre=book&isbn=9780226816876	Wendland	9780226816876		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Phenomenal Blackness		9780226816432							https://www.degruyter.com/openurl?genre=book&isbn=9780226816432	Thompson	9780226816432		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Platypus Matters		9780226789392							https://www.degruyter.com/openurl?genre=book&isbn=9780226789392	Ashby	9780226789392		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Pow! Right in the Eye!		9780226814537							https://www.degruyter.com/openurl?genre=book&isbn=9780226814537		9780226814537		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Power in the Wild		9780226815954							https://www.degruyter.com/openurl?genre=book&isbn=9780226815954	Dugatkin	9780226815954		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Practice, Power, and Forms of Life		9780226815473							https://www.degruyter.com/openurl?genre=book&isbn=9780226815473	Pinkard	9780226815473		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Proceed to Check Out		9780226817552							https://www.degruyter.com/openurl?genre=book&isbn=9780226817552	Shapiro	9780226817552		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Racial Resentment in the Political Mind		9780226814704							https://www.degruyter.com/openurl?genre=book&isbn=9780226814704	Wilson	9780226814704		fulltext		University of Chicago Press	monograph	2022	2021						P	
+Radical American Partisanship		9780226820279							https://www.degruyter.com/openurl?genre=book&isbn=9780226820279	Kalmoe	9780226820279		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Red Leviathan		9780226628998							https://www.degruyter.com/openurl?genre=book&isbn=9780226628998	Jones	9780226628998		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Redefining Geek		9780226732725							https://www.degruyter.com/openurl?genre=book&isbn=9780226732725	Puckett	9780226732725		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Renunciation and Longing		9780226816913							https://www.degruyter.com/openurl?genre=book&isbn=9780226816913	Pitkin	9780226816913		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Saint Cecilia in the Renaissance		9780226817347							https://www.degruyter.com/openurl?genre=book&isbn=9780226817347	Rice	9780226817347		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Sincerely Held		9780226817941							https://www.degruyter.com/openurl?genre=book&isbn=9780226817941	McCrary	9780226817941		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Sing and Sing On		9780226810331							https://www.degruyter.com/openurl?genre=book&isbn=9780226810331	Shelemay	9780226810331		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Sonic Mobilities		9780226817798							https://www.degruyter.com/openurl?genre=book&isbn=9780226817798	Kielman	9780226817798		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Sound Writing		9780226817767							https://www.degruyter.com/openurl?genre=book&isbn=9780226817767	Wilke	9780226817767		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Speculative Communities		9780226816012							https://www.degruyter.com/openurl?genre=book&isbn=9780226816012	Komporozos-Athanasiou	9780226816012		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Teaching Expertise in Three Countries		9780226818665							https://www.degruyter.com/openurl?genre=book&isbn=9780226818665	Hayashi	9780226818665		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Terms of Exchange		9780226819372							https://www.degruyter.com/openurl?genre=book&isbn=9780226819372	Merkel	9780226819372		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Beat Cop		9780226818719							https://www.degruyter.com/openurl?genre=book&isbn=9780226818719	O'Malley	9780226818719		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Channels of Student Activism		9780226819860							https://www.degruyter.com/openurl?genre=book&isbn=9780226819860	Binder	9780226819860		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Contested Crown		9780226802237							https://www.degruyter.com/openurl?genre=book&isbn=9780226802237	Carroll	9780226802237		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Digital Factory		9780226815503							https://www.degruyter.com/openurl?genre=book&isbn=9780226815503	Altenried	9780226815503		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Education of Betsey Stockton		9780226697864							https://www.degruyter.com/openurl?genre=book&isbn=9780226697864	Nobles	9780226697864		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Eyes of the World		9780226816050							https://www.degruyter.com/openurl?genre=book&isbn=9780226816050	Smith	9780226816050		fulltext		University of Chicago Press	monograph	2022	2021						P	
+The Lookout Man		9780226817842							https://www.degruyter.com/openurl?genre=book&isbn=9780226817842	Dischell	9780226817842		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Nation That Never Was		9780226817620							https://www.degruyter.com/openurl?genre=book&isbn=9780226817620	Roosevelt III	9780226817620		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The New Female Antihero		9780226816364							https://www.degruyter.com/openurl?genre=book&isbn=9780226816364	Silverman	9780226816364		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Obligation Mosaic		9780226812434							https://www.degruyter.com/openurl?genre=book&isbn=9780226812434	Anoll	9780226812434		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Perfect Fit		9780226815893							https://www.degruyter.com/openurl?genre=book&isbn=9780226815893	Benzecry	9780226815893		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Quest for Sexual Health		9780226818177							https://www.degruyter.com/openurl?genre=book&isbn=9780226818177	Epstein	9780226818177		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Role of Innovation and Entrepreneurship in Economic Growth		9780226810645							https://www.degruyter.com/openurl?genre=book&isbn=9780226810645		9780226810645		fulltext		University of Chicago Press	monograph	2022	2022			Lerner			P	
+The Struggle for Inclusion		9780226807386							https://www.degruyter.com/openurl?genre=book&isbn=9780226807386	Sniderman	9780226807386		fulltext		University of Chicago Press	monograph	2022	2022						P	
+The Voice of the Rural		9780226818689							https://www.degruyter.com/openurl?genre=book&isbn=9780226818689	Ciucci	9780226818689		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Thought under Threat		9780226815572							https://www.degruyter.com/openurl?genre=book&isbn=9780226815572	de Beistegui	9780226815572		fulltext		University of Chicago Press	monograph	2021	2022						P	
+To Live Peaceably Together		9780226817828							https://www.degruyter.com/openurl?genre=book&isbn=9780226817828	K'Meyer	9780226817828		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Unbridled		9780226816890							https://www.degruyter.com/openurl?genre=book&isbn=9780226816890	Robert	9780226816890		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Untying Things Together		9780226816487							https://www.degruyter.com/openurl?genre=book&isbn=9780226816487	Santner	9780226816487		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Victories Never Last		9780226803524							https://www.degruyter.com/openurl?genre=book&isbn=9780226803524	Zaretsky	9780226803524		fulltext		University of Chicago Press	monograph	2022	2022						P	
+What Is Regeneration?		9780226816579							https://www.degruyter.com/openurl?genre=book&isbn=9780226816579	MacCord	9780226816579		fulltext		University of Chicago Press	monograph	2022	2022						P	
+What Proust Heard		9780226816685							https://www.degruyter.com/openurl?genre=book&isbn=9780226816685	Lucey	9780226816685		fulltext		University of Chicago Press	monograph	2022	2022						P	
+Where Research Begins		9780226817354							https://www.degruyter.com/openurl?genre=book&isbn=9780226817354	Rea	9780226817354		fulltext		University of Chicago Press	monograph	2022	2022						P	
