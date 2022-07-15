@@ -1,0 +1,138 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Black Intellectual's Odyssey		9781478021513							https://www.degruyter.com/openurl?genre=book&isbn=9781478021513		9781478021513		fulltext		Duke University Press	monograph	2021	2021						P	
+A Fictional Commons		9781478021926							https://www.degruyter.com/openurl?genre=book&isbn=9781478021926	Bourdaghs	9781478021926		fulltext		Duke University Press	monograph	2021	2021						P	
+A Mass Conspiracy to Feed People		9781478021711							https://www.degruyter.com/openurl?genre=book&isbn=9781478021711	Giles	9781478021711		fulltext		Duke University Press	monograph	2021	2021						P	
+A Regarded Self		9781478012757							https://www.degruyter.com/openurl?genre=book&isbn=9781478012757	Glover	9781478012757		fulltext		Duke University Press	monograph	2021	2021						P	
+African Ecomedia		9781478022046							https://www.degruyter.com/openurl?genre=book&isbn=9781478022046	Iheka	9781478022046		fulltext		Duke University Press	monograph	2021	2021						P	
+African Motors		9781478021278							https://www.degruyter.com/openurl?genre=book&isbn=9781478021278	Grace	9781478021278		fulltext		Duke University Press	monograph	2021	2021						P	
+All about Your Eyes, Second Edition, revised and updated		9781478021209							https://www.degruyter.com/openurl?genre=book&isbn=9781478021209		9781478021209		fulltext		Duke University Press	monograph	2021	2021			Fekrat			P	
+Amkoullel, the Fula Boy		9781478021490							https://www.degruyter.com/openurl?genre=book&isbn=9781478021490	Bâ	9781478021490		fulltext		Duke University Press	monograph	2021	2021						P	
+Another Aesthetics Is Possible		9781478012788							https://www.degruyter.com/openurl?genre=book&isbn=9781478012788	Ponce de León	9781478012788		fulltext		Duke University Press	monograph	2021	2021						P	1243311497
+Anthropology, Film Industries, Modularity		9781478022190							https://www.degruyter.com/openurl?genre=book&isbn=9781478022190		9781478022190		fulltext		Duke University Press	monograph	2021	2021			Rossoukh			P	
+Antiblackness		9781478013167							https://www.degruyter.com/openurl?genre=book&isbn=9781478013167		9781478013167		fulltext		Duke University Press	monograph	2021	2021			Jung			P	
+Archiving Mexican Masculinities in Diaspora		9781478021469							https://www.degruyter.com/openurl?genre=book&isbn=9781478021469	Guidotti-Hernández	9781478021469		fulltext		Duke University Press	monograph	2021	2021						P	
+Around the Day in Eighty Worlds		9781478021438							https://www.degruyter.com/openurl?genre=book&isbn=9781478021438	Savransky	9781478021438		fulltext		Duke University Press	monograph	2021	2021						P	1253313030
+Art as Information Ecology		9781478021681							https://www.degruyter.com/openurl?genre=book&isbn=9781478021681	Hoelscher	9781478021681		fulltext		Duke University Press	monograph	2021	2021						P	
+Assembly Codes		9781478013037							https://www.degruyter.com/openurl?genre=book&isbn=9781478013037		9781478013037		fulltext		Duke University Press	monograph	2021	2021			Zieger			P	
+Atmospheres of Violence		9781478021520							https://www.degruyter.com/openurl?genre=book&isbn=9781478021520	Stanley	9781478021520		fulltext		Duke University Press	monograph	2021	2021						P	
+Atmospheric Noise		9781478013174							https://www.degruyter.com/openurl?genre=book&isbn=9781478013174	Peterson	9781478013174		fulltext		Duke University Press	monograph	2021	2021						P	1226498819
+Becoming Palestine		9781478022138							https://www.degruyter.com/openurl?genre=book&isbn=9781478022138	Hochberg	9781478022138		fulltext		Duke University Press	monograph	2021	2021						P	
+Between Gaia and Ground		9781478021872							https://www.degruyter.com/openurl?genre=book&isbn=9781478021872	Povinelli	9781478021872		fulltext		Duke University Press	monograph	2021	2021						P	
+Beyond Man		9781478021339							https://www.degruyter.com/openurl?genre=book&isbn=9781478021339		9781478021339		fulltext		Duke University Press	monograph	2021	2021			An			P	
+Bigger Than Life		9781478021780							https://www.degruyter.com/openurl?genre=book&isbn=9781478021780	Doane	9781478021780		fulltext		Duke University Press	monograph	2021	2021						P	
+Birthing Black Mothers		9781478021728							https://www.degruyter.com/openurl?genre=book&isbn=9781478021728	Nash	9781478021728		fulltext		Duke University Press	monograph	2021	2021						P	
+Black Aliveness, or A Poetics of Being		9781478021322							https://www.degruyter.com/openurl?genre=book&isbn=9781478021322	Quashie	9781478021322		fulltext		Duke University Press	monograph	2021	2021						P	
+Black Bodies, White Gold		9781478021377							https://www.degruyter.com/openurl?genre=book&isbn=9781478021377	Arabindan-Kesson	9781478021377		fulltext		Duke University Press	monograph	2021	2021						P	
+Black Gathering		9781478021773							https://www.degruyter.com/openurl?genre=book&isbn=9781478021773	Cervenak	9781478021773		fulltext		Duke University Press	monograph	2021	2021						P	
+Black Utopias		9781478021230							https://www.degruyter.com/openurl?genre=book&isbn=9781478021230	Brown	9781478021230		fulltext		Duke University Press	monograph	2021	2021						P	
+Bombay Brokers		9781478013082							https://www.degruyter.com/openurl?genre=book&isbn=9781478013082		9781478013082		fulltext		Duke University Press	monograph	2021	2021			Björkman			P	1242423900
+Borderwaters		9781478013204							https://www.degruyter.com/openurl?genre=book&isbn=9781478013204	Roberts	9781478013204		fulltext		Duke University Press	monograph	2021	2021						P	
+Capturing Finance		9781478021605							https://www.degruyter.com/openurl?genre=book&isbn=9781478021605	Hardin	9781478021605		fulltext		Duke University Press	monograph	2021	2021						P	
+City of Screens		9781478021254							https://www.degruyter.com/openurl?genre=book&isbn=9781478021254	Trice	9781478021254		fulltext		Duke University Press	monograph	2021	2021						P	1243312097
+Cocaine		9781478021957							https://www.degruyter.com/openurl?genre=book&isbn=9781478021957		9781478021957		fulltext		Duke University Press	monograph	2021	2021			Grisaffi			P	
+Coed Revolution		9781478012979							https://www.degruyter.com/openurl?genre=book&isbn=9781478012979	Schieder	9781478012979		fulltext		Duke University Press	monograph	2021	2021						P	1227041548
+Collective Biologies		9781478022176							https://www.degruyter.com/openurl?genre=book&isbn=9781478022176	Wentzell	9781478022176		fulltext		Duke University Press	monograph	2021	2022						P	
+Complaint!		9781478022336							https://www.degruyter.com/openurl?genre=book&isbn=9781478022336	Ahmed	9781478022336		fulltext		Duke University Press	monograph	2021	2021						P	
+Counterlife		9781478012962							https://www.degruyter.com/openurl?genre=book&isbn=9781478012962	Freeburg	9781478012962		fulltext		Duke University Press	monograph	2021	2021						P	1233041680
+Couplets		9781478021964							https://www.degruyter.com/openurl?genre=book&isbn=9781478021964	Massumi	9781478021964		fulltext		Duke University Press	monograph	2021	2021						P	
+Dear Science and Other Stories		9781478012573							https://www.degruyter.com/openurl?genre=book&isbn=9781478012573	McKittrick	9781478012573		fulltext		Duke University Press	monograph	2021	2021						P	
+Decay		9781478022039							https://www.degruyter.com/openurl?genre=book&isbn=9781478022039		9781478022039		fulltext		Duke University Press	monograph	2021	2021			Hage			P	
+Decolonizing Memory		9781478021414							https://www.degruyter.com/openurl?genre=book&isbn=9781478021414	Jarvis	9781478021414		fulltext		Duke University Press	monograph	2021	2021						P	
+Diminished Faculties		9781478022329							https://www.degruyter.com/openurl?genre=book&isbn=9781478022329	Sterne	9781478022329		fulltext		Duke University Press	monograph	2021	2021						P	
+Disaffected		9781478022107							https://www.degruyter.com/openurl?genre=book&isbn=9781478022107	Yao	9781478022107		fulltext		Duke University Press	monograph	2021	2021						P	
+Domestic Contradictions		9781478021629							https://www.degruyter.com/openurl?genre=book&isbn=9781478021629	Kandaswamy	9781478021629		fulltext		Duke University Press	monograph	2021	2021						P	
+Eating in Theory		9781478012924							https://www.degruyter.com/openurl?genre=book&isbn=9781478012924	Mol	9781478012924		fulltext		Duke University Press	monograph	2021	2021						P	1248758941
+Embodying Black Religions in Africa and Its Diasporas		9781478013112							https://www.degruyter.com/openurl?genre=book&isbn=9781478013112		9781478013112		fulltext		Duke University Press	monograph	2021	2021			Covington-Ward			P	
+Empire's Mistress, Starring Isabel Rosario Cooper		9781478021315							https://www.degruyter.com/openurl?genre=book&isbn=9781478021315	Gonzalez	9781478021315		fulltext		Duke University Press	monograph	2021	2021						P	1243311621
+Experimenting with Ethnography		9781478091691							https://www.degruyter.com/openurl?genre=book&isbn=9781478091691		9781478091691		fulltext		Duke University Press	monograph	2021	2022			Ballestero			F	
+Experiments in Skin		9781478013136							https://www.degruyter.com/openurl?genre=book&isbn=9781478013136	Tu	9781478013136		fulltext		Duke University Press	monograph	2021	2021						P	1248759795
+Experts in Action		9781478021261							https://www.degruyter.com/openurl?genre=book&isbn=9781478021261	Steimer	9781478021261		fulltext		Duke University Press	monograph	2021	2021						P	
+Fighting and Writing		9781478021285							https://www.degruyter.com/openurl?genre=book&isbn=9781478021285	White	9781478021285		fulltext		Duke University Press	monograph	2021	2021						P	1231558927
+Gods in the Time of Democracy		9781478012887							https://www.degruyter.com/openurl?genre=book&isbn=9781478012887	Jain	9781478012887		fulltext		Duke University Press	monograph	2021	2021						P	
+Hawai'i Is My Haven		9781478021667							https://www.degruyter.com/openurl?genre=book&isbn=9781478021667	Sharma	9781478021667		fulltext		Duke University Press	monograph	2021	2021						P	
+Hegemonic Mimicry		9781478021803							https://www.degruyter.com/openurl?genre=book&isbn=9781478021803	Kim	9781478021803		fulltext		Duke University Press	monograph	2021	2021						P	
+History on the Run		9781478012849							https://www.degruyter.com/openurl?genre=book&isbn=9781478012849	Vang	9781478012849		fulltext		Duke University Press	monograph	2021	2021						P	1233040672
+In the Event of Women		9781478021742							https://www.degruyter.com/openurl?genre=book&isbn=9781478021742	Barlow	9781478021742		fulltext		Duke University Press	monograph	2021	2021						P	
+Indirect Subjects		9781478021506							https://www.degruyter.com/openurl?genre=book&isbn=9781478021506	Brown	9781478021506		fulltext		Duke University Press	monograph	2021	2021						P	
+Kincraft		9781478013129							https://www.degruyter.com/openurl?genre=book&isbn=9781478013129	Thomas	9781478013129		fulltext		Duke University Press	monograph	2021	2021						P	1233322951
+Life-Destroying Diagrams		9781478021650							https://www.degruyter.com/openurl?genre=book&isbn=9781478021650	Brinkema	9781478021650		fulltext		Duke University Press	monograph	2021	2022						P	
+Long Term		9781478021544							https://www.degruyter.com/openurl?genre=book&isbn=9781478021544		9781478021544		fulltext		Duke University Press	monograph	2021	2021			Herring			P	
+Loss and Wonder at the World’s End		9781478021865							https://www.degruyter.com/openurl?genre=book&isbn=9781478021865	Ogden	9781478021865		fulltext		Duke University Press	monograph	2021	2021						P	
+Magical Habits		9781478021483							https://www.degruyter.com/openurl?genre=book&isbn=9781478021483	Huerta	9781478021483		fulltext		Duke University Press	monograph	2021	2021						P	
+Mao's Bestiary		9781478021353							https://www.degruyter.com/openurl?genre=book&isbn=9781478021353	Chee	9781478021353		fulltext		Duke University Press	monograph	2021	2021						P	
+Mapping Abundance for a Planetary Future		9781478021247							https://www.degruyter.com/openurl?genre=book&isbn=9781478021247	Fujikane	9781478021247		fulltext		Duke University Press	monograph	2021	2021						P	
+Maroon Choreography		9781478021568							https://www.degruyter.com/openurl?genre=book&isbn=9781478021568	ife	9781478021568		fulltext		Duke University Press	monograph	2021	2021						P	
+Meat!		9781478012481							https://www.degruyter.com/openurl?genre=book&isbn=9781478012481		9781478012481		fulltext		Duke University Press	monograph	2021	2021			Subramaniam			P	1243311419
+Media Crossroads		9781478021308							https://www.degruyter.com/openurl?genre=book&isbn=9781478021308		9781478021308		fulltext		Duke University Press	monograph	2021	2021			Matos			P	1243312274
+Media Hot and Cold		9781478021841							https://www.degruyter.com/openurl?genre=book&isbn=9781478021841	Starosielski	9781478021841		fulltext		Duke University Press	monograph	2021	2021						P	
+Militarized Global Apartheid		9781478013006							https://www.degruyter.com/openurl?genre=book&isbn=9781478013006	Besteman	9781478013006		fulltext		Duke University Press	monograph	2021	2020						P	1229160847
+Millennials Killed the Video Star		9781478012870							https://www.degruyter.com/openurl?genre=book&isbn=9781478012870	Klein	9781478012870		fulltext		Duke University Press	monograph	2021	2021						P	
+Minor China		9781478013068							https://www.degruyter.com/openurl?genre=book&isbn=9781478013068	Yapp	9781478013068		fulltext		Duke University Press	monograph	2021	2021						P	
+Multisituated		9781478022206							https://www.degruyter.com/openurl?genre=book&isbn=9781478022206	Sunder Rajan	9781478022206		fulltext		Duke University Press	monograph	2021	2021						P	
+Nature's Wild		9781478021889							https://www.degruyter.com/openurl?genre=book&isbn=9781478021889	Gosine	9781478021889		fulltext		Duke University Press	monograph	2021	2021						P	
+Nervous Systems		9781478022053							https://www.degruyter.com/openurl?genre=book&isbn=9781478022053		9781478022053		fulltext		Duke University Press	monograph	2021	2021			Stott			P	
+Newborn Socialist Things		9781478021612							https://www.degruyter.com/openurl?genre=book&isbn=9781478021612	Coderre	9781478021612		fulltext		Duke University Press	monograph	2021	2021						P	
+No One's Witness		9781478021551							https://www.degruyter.com/openurl?genre=book&isbn=9781478021551	Zolf	9781478021551		fulltext		Duke University Press	monograph	2021	2021						P	
+On Living with Television		9781478022060							https://www.degruyter.com/openurl?genre=book&isbn=9781478022060	Holdsworth	9781478022060		fulltext		Duke University Press	monograph	2021	2021						P	
+Operation Valhalla		9781478013181							https://www.degruyter.com/openurl?genre=book&isbn=9781478013181	Kittler	9781478013181		fulltext		Duke University Press	monograph	2021	2021						P	
+Palestine Is Throwing a Party and the Whole World Is Invited		9781478021407							https://www.degruyter.com/openurl?genre=book&isbn=9781478021407	Rabie	9781478021407		fulltext		Duke University Press	monograph	2021	2021						P	
+Parables for the Virtual		9781478021971							https://www.degruyter.com/openurl?genre=book&isbn=9781478021971	Massumi	9781478021971		fulltext		Duke University Press	monograph	2021	2021						P	
+Philosophy for Spiders		9781478021988							https://www.degruyter.com/openurl?genre=book&isbn=9781478021988	Wark	9781478021988		fulltext		Duke University Press	monograph	2021	2021						P	
+Plantation Life		9781478022237							https://www.degruyter.com/openurl?genre=book&isbn=9781478022237	Li	9781478022237		fulltext		Duke University Press	monograph	2021	2021						P	
+Poetic Operations		9781478022275							https://www.degruyter.com/openurl?genre=book&isbn=9781478022275	cárdenas	9781478022275		fulltext		Duke University Press	monograph	2021	2022						P	
+Policing Protest		9781478013013							https://www.degruyter.com/openurl?genre=book&isbn=9781478013013	Passavant	9781478013013		fulltext		Duke University Press	monograph	2021	2021						P	
+Pollution Is Colonialism		9781478021445							https://www.degruyter.com/openurl?genre=book&isbn=9781478021445	Liboiron	9781478021445		fulltext		Duke University Press	monograph	2021	2021						P	
+Queer in Translation		9781478012856							https://www.degruyter.com/openurl?genre=book&isbn=9781478012856	Savci	9781478012856		fulltext		Duke University Press	monograph	2021	2021						P	1203973979
+Reactivating Elements		9781478021674							https://www.degruyter.com/openurl?genre=book&isbn=9781478021674		9781478021674		fulltext		Duke University Press	monograph	2021	2022			Papadopoulos			P	
+Rebel Imaginaries		9781478012900							https://www.degruyter.com/openurl?genre=book&isbn=9781478012900	Sine	9781478012900		fulltext		Duke University Press	monograph	2021	2021						P	1202730070
+Reckoning with Slavery		9781478021452							https://www.degruyter.com/openurl?genre=book&isbn=9781478021452	Morgan	9781478021452		fulltext		Duke University Press	monograph	2021	2021						P	
+Reimagining Social Medicine from the South		9781478021582							https://www.degruyter.com/openurl?genre=book&isbn=9781478021582	Neely	9781478021582		fulltext		Duke University Press	monograph	2021	2021						P	
+Religion, Secularism, and Political Belonging		9781478012986							https://www.degruyter.com/openurl?genre=book&isbn=9781478012986		9781478012986		fulltext		Duke University Press	monograph	2021	2021			Bentley			P	1248758997
+Return Engagements		9781478012931							https://www.degruyter.com/openurl?genre=book&isbn=9781478012931	Lê	9781478012931		fulltext		Duke University Press	monograph	2021	2021						P	
+Revisiting Women's Cinema		9781478012337							https://www.degruyter.com/openurl?genre=book&isbn=9781478012337	Wang	9781478012337		fulltext		Duke University Press	monograph	2021	2021						P	
+Right Here, Right Now		9781478021421							https://www.degruyter.com/openurl?genre=book&isbn=9781478021421		9781478021421		fulltext		Duke University Press	monograph	2021	2021			Harris			P	
+Roadrunner		9781478021698							https://www.degruyter.com/openurl?genre=book&isbn=9781478021698	Clover	9781478021698		fulltext		Duke University Press	monograph	2021	2021						P	
+Saturation		9781478013044							https://www.degruyter.com/openurl?genre=book&isbn=9781478013044		9781478013044		fulltext		Duke University Press	monograph	2021	2021			Ruiz			P	
+See How We Roll		9781478022077							https://www.degruyter.com/openurl?genre=book&isbn=9781478022077	Hinkson	9781478022077		fulltext		Duke University Press	monograph	2021	2021						P	
+Selected Writings on Marxism		9781478002154							https://www.degruyter.com/openurl?genre=book&isbn=9781478002154	Hall	9781478002154		fulltext		Duke University Press	monograph	2021	2021						P	
+Selected Writings on Race and Difference		9781478021223							https://www.degruyter.com/openurl?genre=book&isbn=9781478021223		9781478021223		fulltext		Duke University Press	monograph	2021	2021			Gilroy			P	1248759901
+Slow Disturbance		9781478012139							https://www.degruyter.com/openurl?genre=book&isbn=9781478012139	Ruiz	9781478012139		fulltext		Duke University Press	monograph	2021	2021						P	
+Songbooks		9781478021391							https://www.degruyter.com/openurl?genre=book&isbn=9781478021391	Weisbard	9781478021391		fulltext		Duke University Press	monograph	2021	2021						P	
+Sound Alignments		9781478013143							https://www.degruyter.com/openurl?genre=book&isbn=9781478013143		9781478013143		fulltext		Duke University Press	monograph	2021	2021			Bourdaghs			P	
+Soundscapes of Liberation		9781478021995							https://www.degruyter.com/openurl?genre=book&isbn=9781478021995	Moore	9781478021995		fulltext		Duke University Press	monograph	2021	2021						P	
+Soundworks		9781478012795							https://www.degruyter.com/openurl?genre=book&isbn=9781478012795	Reed	9781478012795		fulltext		Duke University Press	monograph	2021	2021						P	1233040833
+Speaking for the People		9781478021636							https://www.degruyter.com/openurl?genre=book&isbn=9781478021636	Rifkin	9781478021636		fulltext		Duke University Press	monograph	2021	2021						P	
+Subversive Archaism		9781478022244							https://www.degruyter.com/openurl?genre=book&isbn=9781478022244	Herzfeld	9781478022244		fulltext		Duke University Press	monograph	2021	2021						P	
+Suspicion		9781478022251							https://www.degruyter.com/openurl?genre=book&isbn=9781478022251	Charles	9781478022251		fulltext		Duke University Press	monograph	2021	2022						P	
+Terror Capitalism		9781478022268							https://www.degruyter.com/openurl?genre=book&isbn=9781478022268	Byler	9781478022268		fulltext		Duke University Press	monograph	2021	2022						P	
+The Bruce B. Lawrence Reader		9781478012825							https://www.degruyter.com/openurl?genre=book&isbn=9781478012825	Lawrence	9781478012825		fulltext		Duke University Press	monograph	2020	2021						P	1240528119
+The Charismatic Gymnasium		9781478010296							https://www.degruyter.com/openurl?genre=book&isbn=9781478010296	de Abreu	9781478010296		fulltext		Duke University Press	monograph	2020	2021						P	1243312587
+The Deconstruction of Sex		9781478021643							https://www.degruyter.com/openurl?genre=book&isbn=9781478021643	Goh	9781478021643		fulltext		Duke University Press	monograph	2021	2021						P	
+The Future of Fallout, and Other Episodes in Radioactive World-Making		9781478012665							https://www.degruyter.com/openurl?genre=book&isbn=9781478012665	Masco	9781478012665		fulltext		Duke University Press	monograph	2020	2021						P	
+The Genealogical Imagination		9781478021384							https://www.degruyter.com/openurl?genre=book&isbn=9781478021384	Jackson	9781478021384		fulltext		Duke University Press	monograph	2021	2021						P	
+The Inheritance		9781478021346							https://www.degruyter.com/openurl?genre=book&isbn=9781478021346	Povinelli	9781478021346		fulltext		Duke University Press	monograph	2021	2021						P	1248759271
+The Jamaica Reader		9781478013099							https://www.degruyter.com/openurl?genre=book&isbn=9781478013099		9781478013099		fulltext		Duke University Press	monograph	2021	2021			Smith			P	
+The Lettered Barriada		9781478022091							https://www.degruyter.com/openurl?genre=book&isbn=9781478022091	Meléndez-Badillo	9781478022091		fulltext		Duke University Press	monograph	2021	2021						P	
+The Life and Times of Louis Lomax		9781478013150							https://www.degruyter.com/openurl?genre=book&isbn=9781478013150	Aiello	9781478013150		fulltext		Duke University Press	monograph	2021	2021						P	1243310672
+The Long Emancipation		9781478021360							https://www.degruyter.com/openurl?genre=book&isbn=9781478021360	Walcott	9781478021360		fulltext		Duke University Press	monograph	2021	2021						P	1248759116
+The Nature of Space		9781478021704							https://www.degruyter.com/openurl?genre=book&isbn=9781478021704	Santos	9781478021704		fulltext		Duke University Press	monograph	2021	2021						P	
+The Politics of Decolonial Investigations		9781478002574							https://www.degruyter.com/openurl?genre=book&isbn=9781478002574	Mignolo	9781478002574		fulltext		Duke University Press	monograph	2021	2021						P	
+The Powers of Dignity		9781478012801							https://www.degruyter.com/openurl?genre=book&isbn=9781478012801	Bromell	9781478012801		fulltext		Duke University Press	monograph	2021	2021						P	
+The Ruse of Repair		9781478021575							https://www.degruyter.com/openurl?genre=book&isbn=9781478021575	Stuelke	9781478021575		fulltext		Duke University Press	monograph	2021	2021						P	
+The Small Book of Hip Checks		9781478013075							https://www.degruyter.com/openurl?genre=book&isbn=9781478013075	Rand	9781478013075		fulltext		Duke University Press	monograph	2021	2021						P	1233040891
+The Stone and the Wireless		9781478013051							https://www.degruyter.com/openurl?genre=book&isbn=9781478013051	Ma	9781478013051		fulltext		Duke University Press	monograph	2021	2021						P	
+The Surrendered		9781478021216							https://www.degruyter.com/openurl?genre=book&isbn=9781478021216	Agüero	9781478021216		fulltext		Duke University Press	monograph	2021	2021						P	
+The Work of Rape		9781478021797							https://www.degruyter.com/openurl?genre=book&isbn=9781478021797	Jaleel	9781478021797		fulltext		Duke University Press	monograph	2021	2021						P	
+The World Computer		9781478012702							https://www.degruyter.com/openurl?genre=book&isbn=9781478012702	Beller	9781478012702		fulltext		Duke University Press	monograph	2021	2021						P	1243310511
+There's a Disco Ball Between Us		9781478021896							https://www.degruyter.com/openurl?genre=book&isbn=9781478021896	Allen	9781478021896		fulltext		Duke University Press	monograph	2021	2021						P	
+Toward Camden		9781478022008							https://www.degruyter.com/openurl?genre=book&isbn=9781478022008	Romero	9781478022008		fulltext		Duke University Press	monograph	2021	2021						P	
+Transnational Feminist Itineraries		9781478021735							https://www.degruyter.com/openurl?genre=book&isbn=9781478021735		9781478021735		fulltext		Duke University Press	monograph	2021	2021			Thayer			P	
+Tropical Aesthetics of Black Modernism		9781478012894							https://www.degruyter.com/openurl?genre=book&isbn=9781478012894	Noël	9781478012894		fulltext		Duke University Press	monograph	2021	2021						P	
+Trouillot Remixed		9781478021537							https://www.degruyter.com/openurl?genre=book&isbn=9781478021537		9781478021537		fulltext		Duke University Press	monograph	2021	2021			Bonilla			P	
+Universal Tonality		9781478012719							https://www.degruyter.com/openurl?genre=book&isbn=9781478012719	Bradley	9781478012719		fulltext		Duke University Press	monograph	2021	2021						P	
+Viapolitics		9781478021599							https://www.degruyter.com/openurl?genre=book&isbn=9781478021599		9781478021599		fulltext		Duke University Press	monograph	2021	2021			Walters			P	
+Visions of Beirut		9781478013020							https://www.degruyter.com/openurl?genre=book&isbn=9781478013020	El-Hibri	9781478013020		fulltext		Duke University Press	monograph	2021	2021						P	
+Warring Visions		9781478012917							https://www.degruyter.com/openurl?genre=book&isbn=9781478012917	Phu	9781478012917		fulltext		Duke University Press	monograph	2021	2022						P	
+Whiteness Interrupted		9781478021933							https://www.degruyter.com/openurl?genre=book&isbn=9781478021933	Bell	9781478021933		fulltext		Duke University Press	monograph	2021	2021						P	
+Words and Worlds		9781478021476							https://www.degruyter.com/openurl?genre=book&isbn=9781478021476		9781478021476		fulltext		Duke University Press	monograph	2021	2021			Fassin			P	
+Writings on Media		9781478022015							https://www.degruyter.com/openurl?genre=book&isbn=9781478022015	Hall	9781478022015		fulltext		Duke University Press	monograph	2021	2021						P	

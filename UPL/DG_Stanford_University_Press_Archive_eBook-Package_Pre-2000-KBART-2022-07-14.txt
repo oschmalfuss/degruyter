@@ -1,0 +1,520 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Bahian Counterpoint		9780804765541							https://www.degruyter.com/openurl?genre=book&isbn=9780804765541	Barickman	9780804765541		fulltext		Stanford University Press	monograph	1998	2022						P	
+A Child Is Being Killed		9781503617018							https://www.degruyter.com/openurl?genre=book&isbn=9781503617018	Leclaire	9781503617018		fulltext		Stanford University Press	monograph	1998	2022						P	
+A Communitarian Defense of Liberalism		9780804780810							https://www.degruyter.com/openurl?genre=book&isbn=9780804780810	Cladis	9780804780810		fulltext		Stanford University Press	monograph	1992	2022						P	
+A Genealogy of the Modern Self		9780804780766							https://www.degruyter.com/openurl?genre=book&isbn=9780804780766	Clej	9780804780766		fulltext		Stanford University Press	monograph	1995	1995						P	1178770043
+A General Theory of Crime		9781503621794							https://www.degruyter.com/openurl?genre=book&isbn=9781503621794	Gottfredson	9781503621794		fulltext		Stanford University Press	monograph	1990	2022						P	
+A Guide to the World’s Languages		9781503621336							https://www.degruyter.com/openurl?genre=book&isbn=9781503621336	Ruhlen	9781503621336		fulltext		Stanford University Press	monograph	1987	2021						P	
+A History of Japan to 1334		9781503621145							https://www.degruyter.com/openurl?genre=book&isbn=9781503621145	Sansom	9781503621145		fulltext		Stanford University Press	monograph	1958	2022						P	
+A History of Japan, 1334-1615		9781503621152							https://www.degruyter.com/openurl?genre=book&isbn=9781503621152	Sansom	9781503621152		fulltext		Stanford University Press	monograph	1961	2022						P	
+A History of Japan, 1615-1867		9781503621169							https://www.degruyter.com/openurl?genre=book&isbn=9781503621169	Sansom	9781503621169		fulltext		Stanford University Press	monograph	1963	2021						P	
+A History of Madness in Sixteenth-Century Germany		9781503617476							https://www.degruyter.com/openurl?genre=book&isbn=9781503617476	Midelfort	9781503617476		fulltext		Stanford University Press	monograph	1999	2022						P	
+A History of Russian Thought from the Enlightenment to Marxism		9781503621244							https://www.degruyter.com/openurl?genre=book&isbn=9781503621244	Walicki	9781503621244		fulltext		Stanford University Press	monograph	1979	2022						P	
+A History of the Byzantine State and Society		9780804779371							https://www.degruyter.com/openurl?genre=book&isbn=9780804779371	Treadgold	9780804779371		fulltext		Stanford University Press	monograph	1997	2022						P	
+A Home Divided		9780804765824							https://www.degruyter.com/openurl?genre=book&isbn=9780804765824		9780804765824		fulltext		Stanford University Press	monograph	1988	2022			Dwyer			P	
+A Mission to Civilize		9780804765039							https://www.degruyter.com/openurl?genre=book&isbn=9780804765039	Conklin	9780804765039		fulltext		Stanford University Press	monograph	1997	2022						P	
+A Preponderance of Power		9781503621930							https://www.degruyter.com/openurl?genre=book&isbn=9781503621930	Leffler	9781503621930		fulltext		Stanford University Press	monograph	1992	2022						P	
+A Prophet Reads Scripture		9780804765237							https://www.degruyter.com/openurl?genre=book&isbn=9780804765237	Sommer	9780804765237		fulltext		Stanford University Press	monograph	1998	2022						P	
+A Radical Worker in Tsarist Russia		9781503620889							https://www.degruyter.com/openurl?genre=book&isbn=9781503620889		9781503620889		fulltext		Stanford University Press	monograph	1986	2022						P	
+A Sense for the Other		9781503616714							https://www.degruyter.com/openurl?genre=book&isbn=9781503616714	Augé	9781503616714		fulltext		Stanford University Press	monograph	1998	2022						P	
+A Theory of Cognitive Dissonance		9781503620766							https://www.degruyter.com/openurl?genre=book&isbn=9781503620766	Festinger	9781503620766		fulltext		Stanford University Press	monograph	1957	2022						P	
+A Thrice-Told Tale		9780804788243							https://www.degruyter.com/openurl?genre=book&isbn=9780804788243	Wolf	9780804788243		fulltext		Stanford University Press	monograph	1992	1992						P	1178769035
+Abolishing Death		9780804766425							https://www.degruyter.com/openurl?genre=book&isbn=9780804766425	Masing-Delic	9780804766425		fulltext		Stanford University Press	monograph	1992	2022						P	
+Ad Infinitum... The Ghost in Turing's Machine		9781503622135							https://www.degruyter.com/openurl?genre=book&isbn=9781503622135	Rotman	9781503622135		fulltext		Stanford University Press	monograph	1993	2022						P	
+Adieu to Emmanuel Levinas		9781503617346							https://www.degruyter.com/openurl?genre=book&isbn=9781503617346	Derrida	9781503617346		fulltext		Stanford University Press	monograph	1999	2022						P	
+After the Propaganda State		9780804780018							https://www.degruyter.com/openurl?genre=book&isbn=9780804780018	Lynch	9780804780018		fulltext		Stanford University Press	monograph	1999	2022						P	
+Afterlives of the Saints		9781503616066							https://www.degruyter.com/openurl?genre=book&isbn=9781503616066	Lupton	9781503616066		fulltext		Stanford University Press	monograph	1996	2022						P	
+Alexander Pushkin		9781503620964							https://www.degruyter.com/openurl?genre=book&isbn=9781503620964		9781503620964		fulltext		Stanford University Press	monograph	1983	2022						P	
+Allegories of the Purge		9780804765268							https://www.degruyter.com/openurl?genre=book&isbn=9780804765268	Wat	9780804765268		fulltext		Stanford University Press	monograph	1998	2022						P	
+Allende - A Novel		9780804743655							https://www.degruyter.com/openurl?genre=book&isbn=9780804743655	Alegría	9780804743655		fulltext		Stanford University Press	monograph	1993	2022						P	
+American Economic Development in Historical Perspective		9780804766166							https://www.degruyter.com/openurl?genre=book&isbn=9780804766166		9780804766166		fulltext		Stanford University Press	monograph	1994	2022			Weiss			P	
+American Images of China, 1931-1949		9781503615939							https://www.degruyter.com/openurl?genre=book&isbn=9781503615939	Jespersen	9781503615939		fulltext		Stanford University Press	monograph	1996	2022						P	
+An American Bible		9781503617704							https://www.degruyter.com/openurl?genre=book&isbn=9781503617704	Gutjahr	9781503617704		fulltext		Stanford University Press	monograph	1999	2022						P	
+An Anticlassical Political-Economic Analysis		9780804764919							https://www.degruyter.com/openurl?genre=book&isbn=9780804764919	Murakami	9780804764919		fulltext		Stanford University Press	monograph	1996	2022						P	
+An Introduction to Japanese Court Poetry		9781503620735							https://www.degruyter.com/openurl?genre=book&isbn=9781503620735	Miner	9781503620735		fulltext		Stanford University Press	monograph	1968	2021						P	
+An Obsession with History		9780804766784							https://www.degruyter.com/openurl?genre=book&isbn=9780804766784	Wachtel	9780804766784		fulltext		Stanford University Press	monograph	1990	2022						P	
+Ancestor Worship and Korean Society		9780804766340							https://www.degruyter.com/openurl?genre=book&isbn=9780804766340	Janelli	9780804766340		fulltext		Stanford University Press	monograph	1982	2021						P	
+Antiquity and Anachronism in Japanese History		9781503621985							https://www.degruyter.com/openurl?genre=book&isbn=9781503621985	Mass	9781503621985		fulltext		Stanford University Press	monograph	1992	2022						P	
+Asian Security Practice		9780804765121							https://www.degruyter.com/openurl?genre=book&isbn=9780804765121		9780804765121		fulltext		Stanford University Press	monograph	1998	2022			Alagappa			P	
+Assessing the President		9780804779876							https://www.degruyter.com/openurl?genre=book&isbn=9780804779876	Brody	9780804779876		fulltext		Stanford University Press	monograph	1991	2022						P	
+At Odds With Aids		9781503615649							https://www.degruyter.com/openurl?genre=book&isbn=9781503615649	Garcia Düttmann	9781503615649		fulltext		Stanford University Press	monograph	1996	2022						P	
+Atomic Energy for Military Purposes		9781503621725							https://www.degruyter.com/openurl?genre=book&isbn=9781503621725	Smyth	9781503621725		fulltext		Stanford University Press	monograph	1990	2022						P	
+Authoritarianism and the Crisis of the Argentine Political Economy		9780804743730							https://www.degruyter.com/openurl?genre=book&isbn=9780804743730	Smith	9780804743730		fulltext		Stanford University Press	monograph	1989	2022						P	
+Authorship as Alchemy		9780804765305							https://www.degruyter.com/openurl?genre=book&isbn=9780804765305	Kropf	9780804765305		fulltext		Stanford University Press	monograph	1994	2022						P	
+Awakening China		9780804779319							https://www.degruyter.com/openurl?genre=book&isbn=9780804779319	Fitzgerald	9780804779319		fulltext		Stanford University Press	monograph	1996	2022						P	
+Bad Medicine		9780804766678							https://www.degruyter.com/openurl?genre=book&isbn=9780804766678	Silverman	9780804766678		fulltext		Stanford University Press	monograph	1992	2022						P	
+Basho and His Interpreters		9781503621923							https://www.degruyter.com/openurl?genre=book&isbn=9781503621923	Ueda	9781503621923		fulltext		Stanford University Press	monograph	1992	2022						P	
+Baudelaire and the Aesthetics of Bad Faith		9780804780865							https://www.degruyter.com/openurl?genre=book&isbn=9780804780865	Blood	9780804780865		fulltext		Stanford University Press	monograph	1997	2022						P	
+Beacons in the Night		9780804780841							https://www.degruyter.com/openurl?genre=book&isbn=9780804780841	Lindsay	9780804780841		fulltext		Stanford University Press	monograph	1993	2022						P	
+Beethoven’s Kiss		9781503615946							https://www.degruyter.com/openurl?genre=book&isbn=9781503615946	Kopelson	9781503615946		fulltext		Stanford University Press	monograph	1996	2022						P	
+Behavior Settings		9781503623149							https://www.degruyter.com/openurl?genre=book&isbn=9781503623149	Schoggen	9781503623149		fulltext		Stanford University Press	monograph	1989	2022						P	
+Between Pacific Tides		9781503621329							https://www.degruyter.com/openurl?genre=book&isbn=9781503621329	Ricketts	9781503621329		fulltext		Stanford University Press	monograph	1985	2022						P	
+Between ‘Race’ and Culture		9780804780001							https://www.degruyter.com/openurl?genre=book&isbn=9780804780001	Cheyette	9780804780001		fulltext		Stanford University Press	monograph	1996	2022						P	
+Between Reform and Revolution		9781503615663							https://www.degruyter.com/openurl?genre=book&isbn=9781503615663	Seligmann	9781503615663		fulltext		Stanford University Press	monograph	1995	2022						P	
+Beyond Realism		9780804765671							https://www.degruyter.com/openurl?genre=book&isbn=9780804765671	Allen	9780804765671		fulltext		Stanford University Press	monograph	1992	2022						P	
+Beyond the Acropolis		9780804766777							https://www.degruyter.com/openurl?genre=book&isbn=9780804766777	van Andel	9780804766777		fulltext		Stanford University Press	monograph	1987	2022						P	
+Beyond the Killing Fields		9781503622166							https://www.degruyter.com/openurl?genre=book&isbn=9781503622166	Welaratna	9781503622166		fulltext		Stanford University Press	monograph	1993	2022						P	
+Beyond the Pass		9780804797924							https://www.degruyter.com/openurl?genre=book&isbn=9780804797924	Millward	9780804797924		fulltext		Stanford University Press	monograph	1998	2020						P	1178768924
+Black Holes / J. Hillis Miller; or, Boustrophedonic Reading		9781503617254							https://www.degruyter.com/openurl?genre=book&isbn=9781503617254	Miller	9781503617254		fulltext		Stanford University Press	monograph	1999	2022						P	
+Blessings, Curses, Hopes, and Fears		9780804780117							https://www.degruyter.com/openurl?genre=book&isbn=9780804780117	Matisoff	9780804780117		fulltext		Stanford University Press	monograph	1979	2022						P	
+Born Red		9780804765893							https://www.degruyter.com/openurl?genre=book&isbn=9780804765893	Gao	9780804765893		fulltext		Stanford University Press	monograph	1987	1987						P	1178770177
+Breaking the Codes		9780804764834							https://www.degruyter.com/openurl?genre=book&isbn=9780804764834	Shapiro	9780804764834		fulltext		Stanford University Press	monograph	1996	2022						P	
+British Naval Policy in the Gladstone-Disraeli Era, 1866-1880		9781503616615							https://www.degruyter.com/openurl?genre=book&isbn=9781503616615	Beeler	9781503616615		fulltext		Stanford University Press	monograph	1997	2022						P	
+Brotherhoods and Secret Societies in Early and Mid-Qing China		9780804764841							https://www.degruyter.com/openurl?genre=book&isbn=9780804764841	Ownby	9780804764841		fulltext		Stanford University Press	monograph	1996	2022						P	
+Bubonic Plague in Nineteenth-Century China		9781503616134							https://www.degruyter.com/openurl?genre=book&isbn=9781503616134	Benedict	9781503616134		fulltext		Stanford University Press	monograph	1996	2022						P	
+Buddhism in Chinese History		9781503620674							https://www.degruyter.com/openurl?genre=book&isbn=9781503620674	Wright	9781503620674		fulltext		Stanford University Press	monograph	1959	2022						P	
+Byzantium and Its Army, 284-1081		9780804779302							https://www.degruyter.com/openurl?genre=book&isbn=9780804779302	Treadgold	9780804779302		fulltext		Stanford University Press	monograph	1995	2022						P	
+Cadres and Kin		9780804765183							https://www.degruyter.com/openurl?genre=book&isbn=9780804765183	Ruf	9780804765183		fulltext		Stanford University Press	monograph	1998	2022						P	
+Calamity and Reform in China		9780804764810							https://www.degruyter.com/openurl?genre=book&isbn=9780804764810	Yang	9780804764810		fulltext		Stanford University Press	monograph	1996	2022						P	
+California’s Daughter		9781503621855							https://www.degruyter.com/openurl?genre=book&isbn=9781503621855	Leider	9781503621855		fulltext		Stanford University Press	monograph	1991	2022						P	
+Calvino and the Age of Neorealism		9780804766579							https://www.degruyter.com/openurl?genre=book&isbn=9780804766579	Re	9780804766579		fulltext		Stanford University Press	monograph	1990	2022						P	
+Capital, Coercion, and Crime		9780804765473							https://www.degruyter.com/openurl?genre=book&isbn=9780804765473	Sidel	9780804765473		fulltext		Stanford University Press	monograph	1999	2022						P	
+Caring for Patients		9781503615496							https://www.degruyter.com/openurl?genre=book&isbn=9781503615496	Barbour	9781503615496		fulltext		Stanford University Press	monograph	1995	2022						P	
+Caught by History		9781503616448							https://www.degruyter.com/openurl?genre=book&isbn=9781503616448	van Alphen	9781503616448		fulltext		Stanford University Press	monograph	1997	2022						P	
+Changing Stories in the Chinese World		9781503616875							https://www.degruyter.com/openurl?genre=book&isbn=9781503616875	Elvin	9781503616875		fulltext		Stanford University Press	monograph	1997	2022						P	
+Children Are Artists		9781503622661							https://www.degruyter.com/openurl?genre=book&isbn=9781503622661	Mendelowitz	9781503622661		fulltext		Stanford University Press	monograph	1963	2021						P	
+China Builds the Bomb		9781503621473							https://www.degruyter.com/openurl?genre=book&isbn=9781503621473	Lewis	9781503621473		fulltext		Stanford University Press	monograph	1988	2022						P	
+China Crosses the Yalu		9781503620728							https://www.degruyter.com/openurl?genre=book&isbn=9781503620728	Whiting	9781503620728		fulltext		Stanford University Press	monograph	1960	2021						P	
+China in a Polycentric World		9781503617087							https://www.degruyter.com/openurl?genre=book&isbn=9781503617087		9781503617087		fulltext		Stanford University Press	monograph	1998	2022			Zhang			P	
+China to 1850		9781503620773							https://www.degruyter.com/openurl?genre=book&isbn=9781503620773	Hucker	9781503620773		fulltext		Stanford University Press	monograph	1978	2021						P	
+China’s Changing Population		9780804765701							https://www.degruyter.com/openurl?genre=book&isbn=9780804765701	Banister	9780804765701		fulltext		Stanford University Press	monograph	1987	2022						P	
+China’s Imperial Past		9781503621190							https://www.degruyter.com/openurl?genre=book&isbn=9781503621190	Hucker	9781503621190		fulltext		Stanford University Press	monograph	1975	2022						P	
+China’s Modern Economy in Historical Perspective		9780804766517							https://www.degruyter.com/openurl?genre=book&isbn=9780804766517		9780804766517		fulltext		Stanford University Press	monograph	1975	2021			Perkins			P	
+China's Strategic Seapower		9781503622319							https://www.degruyter.com/openurl?genre=book&isbn=9781503622319	Lewis	9781503622319		fulltext		Stanford University Press	monograph	1994	2022						P	
+Chinese Modernity and the Peasant Path		9781503616462							https://www.degruyter.com/openurl?genre=book&isbn=9781503616462	Walker	9781503616462		fulltext		Stanford University Press	monograph	1999	2022						P	
+Cinematograph of Words		9781503616431							https://www.degruyter.com/openurl?genre=book&isbn=9781503616431	Süssekind	9781503616431		fulltext		Stanford University Press	monograph	1997	2022						P	
+Citizen Emperor		9781503617940							https://www.degruyter.com/openurl?genre=book&isbn=9781503617940	Barman	9781503617940		fulltext		Stanford University Press	monograph	1999	2022						P	
+Civil Justice in China		9781503616233							https://www.degruyter.com/openurl?genre=book&isbn=9781503616233	Huang	9781503616233		fulltext		Stanford University Press	monograph	1996	2022						P	
+Civil Law in Qing and Republican China		9780804779272							https://www.degruyter.com/openurl?genre=book&isbn=9780804779272	Bernhardt	9780804779272		fulltext		Stanford University Press	monograph	1994	2022						P	
+Class Conflict and Economic Development in Chile, 1958-1973		9780804766715							https://www.degruyter.com/openurl?genre=book&isbn=9780804766715	Stallings	9780804766715		fulltext		Stanford University Press	monograph	1978	2021						P	
+Coevolution		9781503621534							https://www.degruyter.com/openurl?genre=book&isbn=9781503621534	Durham	9781503621534		fulltext		Stanford University Press	monograph	1991	2022						P	
+Common Ground		9781503616400							https://www.degruyter.com/openurl?genre=book&isbn=9781503616400	Frank	9781503616400		fulltext		Stanford University Press	monograph	1997	2022						P	
+Commonplace Book		9781503620902							https://www.degruyter.com/openurl?genre=book&isbn=9781503620902	Forster	9781503620902		fulltext		Stanford University Press	monograph	1986	2022						P	
+Community and Commerce in Late Medieval Japan		9780804766142							https://www.degruyter.com/openurl?genre=book&isbn=9780804766142	Tonomura	9780804766142		fulltext		Stanford University Press	monograph	1992	2022						P	
+Comparative Economic Transformations		9781503623804							https://www.degruyter.com/openurl?genre=book&isbn=9781503623804	Wu	9781503623804		fulltext		Stanford University Press	monograph	1994	2022						P	
+Comrade Kryuchkov's Instructions		9781503621077							https://www.degruyter.com/openurl?genre=book&isbn=9781503621077	Andrew	9781503621077		fulltext		Stanford University Press	monograph	1994	2022						P	
+Conceptual Foundations for Multidisciplinary Thinking		9780804763936							https://www.degruyter.com/openurl?genre=book&isbn=9780804763936	Kline	9780804763936		fulltext		Stanford University Press	monograph	1995	1995						P	1178769042
+Confrontations		9781503621022							https://www.degruyter.com/openurl?genre=book&isbn=9781503621022	Behler	9781503621022		fulltext		Stanford University Press	monograph	1992	2022						P	
+Confucianism and Chinese Civilization		9781503621206							https://www.degruyter.com/openurl?genre=book&isbn=9781503621206		9781503621206		fulltext		Stanford University Press	monograph	1964	2021			Wright			P	
+Constructing World Culture		9781503617681							https://www.degruyter.com/openurl?genre=book&isbn=9781503617681		9781503617681		fulltext		Stanford University Press	monograph	1999	2022			Boli			P	
+Contagion		9780804765251							https://www.degruyter.com/openurl?genre=book&isbn=9780804765251	Aisenberg	9780804765251		fulltext		Stanford University Press	monograph	1999	2022						P	
+Contrary Things		9780804765145							https://www.degruyter.com/openurl?genre=book&isbn=9780804765145	Brown	9780804765145		fulltext		Stanford University Press	monograph	1998	2022						P	
+Court and Bakufu in Japan		9781503622463							https://www.degruyter.com/openurl?genre=book&isbn=9781503622463		9781503622463		fulltext		Stanford University Press	monograph	1982	2022			Mass			P	
+Crafting the Third World		9781503615809							https://www.degruyter.com/openurl?genre=book&isbn=9781503615809	Love	9781503615809		fulltext		Stanford University Press	monograph	1996	2022						P	
+Creating and Recovering Experience		9780804765084							https://www.degruyter.com/openurl?genre=book&isbn=9780804765084	Sankovitch	9780804765084		fulltext		Stanford University Press	monograph	1998	2022						P	
+Crime and Inequality		9781503615557							https://www.degruyter.com/openurl?genre=book&isbn=9781503615557		9781503615557		fulltext		Stanford University Press	monograph	1995	2022			Hagan			P	
+Crisis in the World’s Fisheries		9780804798723							https://www.degruyter.com/openurl?genre=book&isbn=9780804798723	McGoodwin	9780804798723		fulltext		Stanford University Press	monograph	1991	2020						P	1178770282
+Critical Elections and Congressional Policy Making		9781503621442							https://www.degruyter.com/openurl?genre=book&isbn=9781503621442	Brady	9781503621442		fulltext		Stanford University Press	monograph	1988	2022						P	
+Critical Reconstructions		9780804766555							https://www.degruyter.com/openurl?genre=book&isbn=9780804766555		9780804766555		fulltext		Stanford University Press	monograph	1994	2022			Polhemus			P	
+Culture and State in Chinese History		9780804765060							https://www.degruyter.com/openurl?genre=book&isbn=9780804765060		9780804765060		fulltext		Stanford University Press	monograph	1997	2022			Wong			P	
+Culture Through Time		9781503621817							https://www.degruyter.com/openurl?genre=book&isbn=9781503621817		9781503621817		fulltext		Stanford University Press	monograph	1991	2022			Ohnuki-Tierney			P	
+Daily Life in China on the Eve of the Mongol Invasion, 1250-1276		9781503620742							https://www.degruyter.com/openurl?genre=book&isbn=9781503620742	Gernet	9781503620742		fulltext		Stanford University Press	monograph	1962	2021						P	
+Daily Life in Rembrandt’s Holland		9781503622210							https://www.degruyter.com/openurl?genre=book&isbn=9781503622210	Zumthor	9781503622210		fulltext		Stanford University Press	monograph	1994	2022						P	
+Daily Life in Russia under the Last Tsar		9781503620827							https://www.degruyter.com/openurl?genre=book&isbn=9781503620827	Troyat	9781503620827		fulltext		Stanford University Press	monograph	1962	2022						P	
+Daily Life in Spain in the Golden Age		9781503620810							https://www.degruyter.com/openurl?genre=book&isbn=9781503620810	Defourneaux	9781503620810		fulltext		Stanford University Press	monograph	1971	2021						P	
+Dance Pathologies		9781503616653							https://www.degruyter.com/openurl?genre=book&isbn=9781503616653	McCarren	9781503616653		fulltext		Stanford University Press	monograph	1998	2022						P	
+Dancing in Chains		9781503616301							https://www.degruyter.com/openurl?genre=book&isbn=9781503616301	Dienstag	9781503616301		fulltext		Stanford University Press	monograph	1997	2022						P	
+Dangerous Encounters		9781503621947							https://www.degruyter.com/openurl?genre=book&isbn=9781503621947	Linger	9781503621947		fulltext		Stanford University Press	monograph	1992	2022						P	
+Dangerous Truths and Criminal Passions		9780804765800							https://www.degruyter.com/openurl?genre=book&isbn=9780804765800	DiPiero	9780804765800		fulltext		Stanford University Press	monograph	1992	2022						P	
+Dante’s Testaments		9781503617919							https://www.degruyter.com/openurl?genre=book&isbn=9781503617919	Hawkins	9781503617919		fulltext		Stanford University Press	monograph	1999	2022						P	
+Daughters of the Canton Delta		9781503621404							https://www.degruyter.com/openurl?genre=book&isbn=9781503621404	Stockard	9781503621404		fulltext		Stanford University Press	monograph	1989	2022						P	
+Dead Hands		9781503617582							https://www.degruyter.com/openurl?genre=book&isbn=9781503617582	Rowe	9781503617582		fulltext		Stanford University Press	monograph	1999	2022						P	
+Declaring Independence		9781503622074							https://www.degruyter.com/openurl?genre=book&isbn=9781503622074	Fliegelman	9781503622074		fulltext		Stanford University Press	monograph	1993	2022						P	
+Deepening Democracy?		9781503617117							https://www.degruyter.com/openurl?genre=book&isbn=9781503617117	Roberts	9781503617117		fulltext		Stanford University Press	monograph	1998	2022						P	
+Defacement		9781503617131							https://www.degruyter.com/openurl?genre=book&isbn=9781503617131	Taussig	9781503617131		fulltext		Stanford University Press	monograph	1999	2022						P	
+Demanding Democracy		9781503616271							https://www.degruyter.com/openurl?genre=book&isbn=9781503616271	Yashar	9781503616271		fulltext		Stanford University Press	monograph	1997	2022						P	
+Desert Wild Flowers		9781503620643							https://www.degruyter.com/openurl?genre=book&isbn=9781503620643	Jaeger	9781503620643		fulltext		Stanford University Press	monograph	1940	2022						P	
+Designing Dead Souls		9781503623583							https://www.degruyter.com/openurl?genre=book&isbn=9781503623583	Fusso	9781503623583		fulltext		Stanford University Press	monograph	1993	2022						P	
+Desiring Women Writing		9781503616622							https://www.degruyter.com/openurl?genre=book&isbn=9781503616622	Goldberg	9781503616622		fulltext		Stanford University Press	monograph	1997	2022						P	
+Dialectic of the Chinese Revolution		9780804779364							https://www.degruyter.com/openurl?genre=book&isbn=9780804779364	Ci	9780804779364		fulltext		Stanford University Press	monograph	1994	2022						P	
+Disappearance of the Dowry		9780804743624							https://www.degruyter.com/openurl?genre=book&isbn=9780804743624	Nazzari	9780804743624		fulltext		Stanford University Press	monograph	1991	2022						P	
+Discourse as Performance		9781503623279							https://www.degruyter.com/openurl?genre=book&isbn=9781503623279	Issacharoff	9781503623279		fulltext		Stanford University Press	monograph	1989	2022						P	
+Discourse Networks, 1800/1900		9781503621633							https://www.degruyter.com/openurl?genre=book&isbn=9781503621633	Kittler	9781503621633		fulltext		Stanford University Press	monograph	1990	2022						P	
+Dislocating the Color Line		9780804764964							https://www.degruyter.com/openurl?genre=book&isbn=9780804764964	Kawash	9780804764964		fulltext		Stanford University Press	monograph	1997	2022						P	
+Divided Sun		9780804779937							https://www.degruyter.com/openurl?genre=book&isbn=9780804779937	Callon	9780804779937		fulltext		Stanford University Press	monograph	1995	2022						P	
+Dojo		9781503621268							https://www.degruyter.com/openurl?genre=book&isbn=9781503621268	Davis	9781503621268		fulltext		Stanford University Press	monograph	1980	2022						P	
+Double Talk		9781503624443							https://www.degruyter.com/openurl?genre=book&isbn=9781503624443	Woolard	9781503624443		fulltext		Stanford University Press	monograph	1989	2022						P	
+Down to Earth		9780804764735							https://www.degruyter.com/openurl?genre=book&isbn=9780804764735		9780804764735		fulltext		Stanford University Press	monograph	1995	2022			Faure			P	
+Drinking, Homicide, and Rebellion in Colonial Mexican Villages		9780804765633							https://www.degruyter.com/openurl?genre=book&isbn=9780804765633	Taylor	9780804765633		fulltext		Stanford University Press	monograph	1979	1979						P	1178768897
+During the Rains & Flowers in the Shade		9781503622258							https://www.degruyter.com/openurl?genre=book&isbn=9781503622258	Nagai	9781503622258		fulltext		Stanford University Press	monograph	1994	2022						P	
+Dying for God		9780804764292							https://www.degruyter.com/openurl?genre=book&isbn=9780804764292	Boyarin	9780804764292		fulltext		Stanford University Press	monograph	1999	2022						P	
+Emerson and the Climates of History		9781503622555							https://www.degruyter.com/openurl?genre=book&isbn=9781503622555	Cadava	9781503622555		fulltext		Stanford University Press	monograph	1997	2022						P	
+Equality by Design		9780804765220							https://www.degruyter.com/openurl?genre=book&isbn=9780804765220	Szelényi	9780804765220		fulltext		Stanford University Press	monograph	1998	2022						P	
+Erie Lackawanna		9781503622395							https://www.degruyter.com/openurl?genre=book&isbn=9781503622395	Grant	9781503622395		fulltext		Stanford University Press	monograph	1994	2022						P	
+Ethics of an Artificial Person		9781503622012							https://www.degruyter.com/openurl?genre=book&isbn=9781503622012	Wolgast	9781503622012		fulltext		Stanford University Press	monograph	1992	2022						P	
+Everyday Exchanges		9781503616844							https://www.degruyter.com/openurl?genre=book&isbn=9781503616844	Watkins	9781503616844		fulltext		Stanford University Press	monograph	1998	2022						P	
+Evolution and the Myth of Creationism		9781503620940							https://www.degruyter.com/openurl?genre=book&isbn=9781503620940	Berra	9781503620940		fulltext		Stanford University Press	monograph	1990	2022						P	
+Exploring Gogol		9780804765329							https://www.degruyter.com/openurl?genre=book&isbn=9780804765329	Maguire	9780804765329		fulltext		Stanford University Press	monograph	1994	1996						P	1178770267
+Family Fictions		9781503616790							https://www.degruyter.com/openurl?genre=book&isbn=9781503616790	Flint	9781503616790		fulltext		Stanford University Press	monograph	1998	2022						P	
+Fantasm and Fiction		9781503617483							https://www.degruyter.com/openurl?genre=book&isbn=9781503617483	Schwenger	9781503617483		fulltext		Stanford University Press	monograph	1999	2022						P	
+Fascist Modernism		9781503622128							https://www.degruyter.com/openurl?genre=book&isbn=9781503622128	Hewitt	9781503622128		fulltext		Stanford University Press	monograph	1993	2022						P	
+Fault Lines		9781503617650							https://www.degruyter.com/openurl?genre=book&isbn=9781503617650	Sas	9781503617650		fulltext		Stanford University Press	monograph	1999	2022						P	
+Fetal Positions		9781503616080							https://www.degruyter.com/openurl?genre=book&isbn=9781503616080	Newman	9781503616080		fulltext		Stanford University Press	monograph	1996	2022						P	
+Fiction in the Archives		9781503620957							https://www.degruyter.com/openurl?genre=book&isbn=9781503620957	Davis	9781503620957		fulltext		Stanford University Press	monograph	1987	2022						P	
+Fin-de-Siècle Splendor		9781503616332							https://www.degruyter.com/openurl?genre=book&isbn=9781503616332	Wang	9781503616332		fulltext		Stanford University Press	monograph	1997	2022						P	
+Fiscal Crises, Liberty, and Representative Government 1450-1789		9781503619500							https://www.degruyter.com/openurl?genre=book&isbn=9781503619500		9781503619500		fulltext		Stanford University Press	monograph	1994	2022			Hoffman			P	
+Flawed by Design		9780804764209							https://www.degruyter.com/openurl?genre=book&isbn=9780804764209	Zegart	9780804764209		fulltext		Stanford University Press	monograph	1999	2022						P	
+Flowers in Salt		9781503621305							https://www.degruyter.com/openurl?genre=book&isbn=9781503621305	Sievers	9781503621305		fulltext		Stanford University Press	monograph	1983	2022						P	
+Formal Charges		9781503616127							https://www.degruyter.com/openurl?genre=book&isbn=9781503616127	Wolfson	9781503616127		fulltext		Stanford University Press	monograph	1997	2022						P	
+Foundations of Cognitive Grammar		9780804764469							https://www.degruyter.com/openurl?genre=book&isbn=9780804764469	Langacker	9780804764469		fulltext		Stanford University Press	monograph	1991	2022						P	
+Freud and the Institution of Psychoanalytic Knowledge		9780804780025							https://www.degruyter.com/openurl?genre=book&isbn=9780804780025	Winter	9780804780025		fulltext		Stanford University Press	monograph	1999	2022						P	
+Friends and Enemies		9781503621589							https://www.degruyter.com/openurl?genre=book&isbn=9781503621589	Chang	9781503621589		fulltext		Stanford University Press	monograph	1990	2022						P	
+Friendship		9781503620445							https://www.degruyter.com/openurl?genre=book&isbn=9781503620445	Blanchot	9781503620445		fulltext		Stanford University Press	monograph	1997	2022						P	
+From Lathes to Looms		9780804766708							https://www.degruyter.com/openurl?genre=book&isbn=9780804766708	Solinger	9780804766708		fulltext		Stanford University Press	monograph	1991	2022						P	
+Genji & Heike		9780804766463							https://www.degruyter.com/openurl?genre=book&isbn=9780804766463		9780804766463		fulltext		Stanford University Press	monograph	1994	2022						P	
+Global Space and the Nationalist Discourse of Modernity		9780804764742							https://www.degruyter.com/openurl?genre=book&isbn=9780804764742	Tang	9780804764742		fulltext		Stanford University Press	monograph	1996	1996						P	1178768931
+God Between Their Lips		9780804788151							https://www.degruyter.com/openurl?genre=book&isbn=9780804788151	Stockton	9780804788151		fulltext		Stanford University Press	monograph	1994	2022						P	
+God, Foreknowledge, and Freedom		9781503621602							https://www.degruyter.com/openurl?genre=book&isbn=9781503621602		9781503621602		fulltext		Stanford University Press	monograph	1989	2022			Fischer			P	
+Governance and Society in Colonial Mexico		9780804763943							https://www.degruyter.com/openurl?genre=book&isbn=9780804763943	Martin	9780804763943		fulltext		Stanford University Press	monograph	1996	2022						P	
+Han Unbound		9781503616769							https://www.degruyter.com/openurl?genre=book&isbn=9781503616769	Lie	9781503616769		fulltext		Stanford University Press	monograph	1998	2022						P	
+Handicapping the Handicapped		9781503622944							https://www.degruyter.com/openurl?genre=book&isbn=9781503622944	Mehan	9781503622944		fulltext		Stanford University Press	monograph	1986	2021						P	
+Harmony and Counterpoint		9780804764902							https://www.degruyter.com/openurl?genre=book&isbn=9780804764902		9780804764902		fulltext		Stanford University Press	monograph	1996	2022			Yung			P	
+Harmony Ideology		9781503621831							https://www.degruyter.com/openurl?genre=book&isbn=9781503621831	Nader	9781503621831		fulltext		Stanford University Press	monograph	1990	2022						P	
+Haruko’s World		9780804765725							https://www.degruyter.com/openurl?genre=book&isbn=9780804765725	Bernstein	9780804765725		fulltext		Stanford University Press	monograph	1983	2022						P	
+Has Semantics Rested on a Mistake? And Other Essays		9781503621893							https://www.degruyter.com/openurl?genre=book&isbn=9781503621893	Wettstein	9781503621893		fulltext		Stanford University Press	monograph	1991	2022						P	
+Heart's Flower		9781503623712							https://www.degruyter.com/openurl?genre=book&isbn=9781503623712	Ramirez-Christensen	9781503623712		fulltext		Stanford University Press	monograph	1994	2022						P	
+Hearts of Sorrow		9780804765848							https://www.degruyter.com/openurl?genre=book&isbn=9780804765848	Freeman	9780804765848		fulltext		Stanford University Press	monograph	1989	2022						P	
+Henry James’s Thwarted Love		9780804780094							https://www.degruyter.com/openurl?genre=book&isbn=9780804780094	Graham	9780804780094		fulltext		Stanford University Press	monograph	1999	2022						P	
+Hired Swords		9780804765855							https://www.degruyter.com/openurl?genre=book&isbn=9780804765855	Friday	9780804765855		fulltext		Stanford University Press	monograph	1992	2022						P	
+Historian of the Strange		9780804765954							https://www.degruyter.com/openurl?genre=book&isbn=9780804765954	Zeitlin	9780804765954		fulltext		Stanford University Press	monograph	1993	2022						P	
+History of the Donner Party		9781503621121							https://www.degruyter.com/openurl?genre=book&isbn=9781503621121	McGlashan	9781503621121		fulltext		Stanford University Press	monograph	1940	2021						P	
+Homo Sacer		9780804764025							https://www.degruyter.com/openurl?genre=book&isbn=9780804764025	Agamben	9780804764025		fulltext		Stanford University Press	monograph	1998	1998						P	1178770106
+How Chiefs Come to Power		9781503616349							https://www.degruyter.com/openurl?genre=book&isbn=9781503616349	Earle	9781503616349		fulltext		Stanford University Press	monograph	1997	2022						P	
+How Latin America Fell Behind		9781503622500							https://www.degruyter.com/openurl?genre=book&isbn=9781503622500		9781503622500		fulltext		Stanford University Press	monograph	1997	2022			Haber			P	
+Huarochiri		9781503621299							https://www.degruyter.com/openurl?genre=book&isbn=9781503621299	Spalding	9781503621299		fulltext		Stanford University Press	monograph	1984	2021						P	
+Identities in North America		9780804780827							https://www.degruyter.com/openurl?genre=book&isbn=9780804780827		9780804780827		fulltext		Stanford University Press	monograph	1995	2022			Earle			P	
+Ideology and Modern Culture		9781503621886							https://www.degruyter.com/openurl?genre=book&isbn=9781503621886	Thompson	9781503621886		fulltext		Stanford University Press	monograph	1991	2022						P	
+Ideology, Power, Text		9780804765190							https://www.degruyter.com/openurl?genre=book&isbn=9780804765190	Feuerwerker	9780804765190		fulltext		Stanford University Press	monograph	1998	1998						P	1178768801
+Ilongot Headhunting, 1883-1974		9781503622784							https://www.degruyter.com/openurl?genre=book&isbn=9781503622784	Rosaldo	9781503622784		fulltext		Stanford University Press	monograph	1980	2022						P	
+Images of the Medieval Peasant		9781503617537							https://www.degruyter.com/openurl?genre=book&isbn=9781503617537	Freedman	9781503617537		fulltext		Stanford University Press	monograph	1999	2022						P	
+Imagining the Nation		9781503617636							https://www.degruyter.com/openurl?genre=book&isbn=9781503617636	Li	9781503617636		fulltext		Stanford University Press	monograph	1998	2022						P	
+In a Shattered Mirror		9780804765688							https://www.degruyter.com/openurl?genre=book&isbn=9780804765688	Amert	9780804765688		fulltext		Stanford University Press	monograph	1992	2022						P	
+In Other Words		9781503621558							https://www.degruyter.com/openurl?genre=book&isbn=9781503621558	Bourdieu	9781503621558		fulltext		Stanford University Press	monograph	1990	2022						P	
+In Praise of Nonsense		9780804783064							https://www.degruyter.com/openurl?genre=book&isbn=9780804783064		9780804783064		fulltext		Stanford University Press	monograph	1999	1999						P	1178769662
+Informal Politics		9780804765114							https://www.degruyter.com/openurl?genre=book&isbn=9780804765114	Cross	9780804765114		fulltext		Stanford University Press	monograph	1998	2022						P	
+Instituting Science		9781503616059							https://www.degruyter.com/openurl?genre=book&isbn=9781503616059	Lenoir	9781503616059		fulltext		Stanford University Press	monograph	1997	2022						P	
+Into the Heart of the Fire		9781503616974							https://www.degruyter.com/openurl?genre=book&isbn=9781503616974	Hopkins	9781503616974		fulltext		Stanford University Press	monograph	1998	2022						P	
+Intonation and Its Parts		9781503622906							https://www.degruyter.com/openurl?genre=book&isbn=9781503622906	Bolinger	9781503622906		fulltext		Stanford University Press	monograph	1985	2021						P	
+Intonation and Its Uses		9781503623125							https://www.degruyter.com/openurl?genre=book&isbn=9781503623125	Bolinger	9781503623125		fulltext		Stanford University Press	monograph	1989	2022						P	
+Inventing Eastern Europe		9780804765299							https://www.degruyter.com/openurl?genre=book&isbn=9780804765299	Wolff	9780804765299		fulltext		Stanford University Press	monograph	1994	2022						P	
+Invisible Relations		9780804765459							https://www.degruyter.com/openurl?genre=book&isbn=9780804765459	Wahl	9780804765459		fulltext		Stanford University Press	monograph	1999	2022						P	
+James Joyce’s Judaic Other		9781503617308							https://www.degruyter.com/openurl?genre=book&isbn=9781503617308	Reizbaum	9781503617308		fulltext		Stanford University Press	monograph	1999	2022						P	
+Japan		9781503621220							https://www.degruyter.com/openurl?genre=book&isbn=9781503621220	Sansom	9781503621220		fulltext		Stanford University Press	monograph	1952	2022						P	
+Japanese Economic Growth		9781503622746							https://www.degruyter.com/openurl?genre=book&isbn=9781503622746	Ohkawa	9781503622746		fulltext		Stanford University Press	monograph	1973	2021						P	
+Japan’s Decision for War		9781503622654							https://www.degruyter.com/openurl?genre=book&isbn=9781503622654		9781503622654		fulltext		Stanford University Press	monograph	1967	2021						P	
+Job		9781503622999							https://www.degruyter.com/openurl?genre=book&isbn=9781503622999	Girard	9781503622999		fulltext		Stanford University Press	monograph	1987	2021						P	
+Journal of a Voyage with Bering, 1741-1742		9781503621459							https://www.degruyter.com/openurl?genre=book&isbn=9781503621459	Steller	9781503621459		fulltext		Stanford University Press	monograph	1988	2022						P	
+Kant’s Transcendental Deductions		9781503621619							https://www.degruyter.com/openurl?genre=book&isbn=9781503621619		9781503621619		fulltext		Stanford University Press	monograph	1989	2022			Förster			P	
+Kokin Wakashu		9781503622920							https://www.degruyter.com/openurl?genre=book&isbn=9781503622920	McCullough	9781503622920		fulltext		Stanford University Press	monograph	1985	2021						P	
+Land and Lordship in Early Modern Japan		9780804763868							https://www.degruyter.com/openurl?genre=book&isbn=9780804763868	Ravina	9780804763868		fulltext		Stanford University Press	monograph	1999	2022						P	
+Language in Time of Revolution		9781503618879							https://www.degruyter.com/openurl?genre=book&isbn=9781503618879	Harshav	9781503618879		fulltext		Stanford University Press	monograph	1993	2022						P	
+Lao Tzu and Taoism		9781503621176							https://www.degruyter.com/openurl?genre=book&isbn=9781503621176	Kaltenmark	9781503621176		fulltext		Stanford University Press	monograph	1969	2022						P	
+Law, Liberty, and Morality		9781503620612							https://www.degruyter.com/openurl?genre=book&isbn=9781503620612	Hart	9781503620612		fulltext		Stanford University Press	monograph	1963	2021						P	
+Learning from ‘Learning by Doing’		9781503622579							https://www.degruyter.com/openurl?genre=book&isbn=9781503622579	Solow	9781503622579		fulltext		Stanford University Press	monograph	1997	2022						P	
+Less Legible Meanings		9780804780124							https://www.degruyter.com/openurl?genre=book&isbn=9780804780124	Schirmeister	9780804780124		fulltext		Stanford University Press	monograph	1999	2022						P	
+Lianda		9780804765244							https://www.degruyter.com/openurl?genre=book&isbn=9780804765244	Israel	9780804765244		fulltext		Stanford University Press	monograph	1998	1999						P	1178769141
+Life in Amber		9781503623545							https://www.degruyter.com/openurl?genre=book&isbn=9781503623545	Poinar	9781503623545		fulltext		Stanford University Press	monograph	1992	2022						P	
+Literary History and the Challenge of Philology		9780804764766							https://www.degruyter.com/openurl?genre=book&isbn=9780804764766		9780804764766		fulltext		Stanford University Press	monograph	1996	2022			Lerer			P	
+Literati and Self-Re/Presentation		9780804763929							https://www.degruyter.com/openurl?genre=book&isbn=9780804763929	Huang	9780804763929		fulltext		Stanford University Press	monograph	1995	2022						P	
+Literature of the Lost Home		9781503615762							https://www.degruyter.com/openurl?genre=book&isbn=9781503615762	Kobayashi	9781503615762		fulltext		Stanford University Press	monograph	1995	2022						P	
+Long Lives		9781503620988							https://www.degruyter.com/openurl?genre=book&isbn=9781503620988	Davis-Friedmann	9781503620988		fulltext		Stanford University Press	monograph	1983	2022						P	
+Lords of Parliament		9780804765398							https://www.degruyter.com/openurl?genre=book&isbn=9780804765398		9780804765398		fulltext		Stanford University Press	monograph	1995	2022			Davis			P	
+Love + Marriage = Death		9780804765138							https://www.degruyter.com/openurl?genre=book&isbn=9780804765138	Gilman	9780804765138		fulltext		Stanford University Press	monograph	1998	2022						P	
+Love as Passion		9781503618862							https://www.degruyter.com/openurl?genre=book&isbn=9781503618862	Luhmann	9781503618862		fulltext		Stanford University Press	monograph	1998	2022						P	
+Macrohistory		9781503617957							https://www.degruyter.com/openurl?genre=book&isbn=9781503617957	Collins	9781503617957		fulltext		Stanford University Press	monograph	1999	2022						P	
+Madame Mao: The White-Boned Demon		9781503618855							https://www.degruyter.com/openurl?genre=book&isbn=9781503618855	Terrill	9781503618855		fulltext		Stanford University Press	monograph	1999	2022						P	
+Makiko’s Diary		9781503622449							https://www.degruyter.com/openurl?genre=book&isbn=9781503622449	Nakano	9781503622449		fulltext		Stanford University Press	monograph	1995	2022						P	
+Making and Remaking Asian America		9780804766302							https://www.degruyter.com/openurl?genre=book&isbn=9780804766302	Hing	9780804766302		fulltext		Stanford University Press	monograph	1993	2022						P	
+Making Capitalism		9780804766357							https://www.degruyter.com/openurl?genre=book&isbn=9780804766357	Janelli	9780804766357		fulltext		Stanford University Press	monograph	1993	2022						P	
+Making Majorities		9780804763967							https://www.degruyter.com/openurl?genre=book&isbn=9780804763967		9780804763967		fulltext		Stanford University Press	monograph	1998	2022			Gladney			P	
+Making Trifles of Terrors		9781503622494							https://www.degruyter.com/openurl?genre=book&isbn=9781503622494	Berger	9781503622494		fulltext		Stanford University Press	monograph	1997	2022						P	
+Mao: A Biography		9781503618848							https://www.degruyter.com/openurl?genre=book&isbn=9781503618848	Terrill	9781503618848		fulltext		Stanford University Press	monograph	1999	2022						P	
+Marine Algae of California		9781503621053							https://www.degruyter.com/openurl?genre=book&isbn=9781503621053	Abbott	9781503621053		fulltext		Stanford University Press	monograph	1976	2022						P	
+Marxism and the Leap to the Kingdom of Freedom		9780804764131							https://www.degruyter.com/openurl?genre=book&isbn=9780804764131	Walicki	9780804764131		fulltext		Stanford University Press	monograph	1995	2022						P	
+Maternal Pasts, Feminist Futures		9780804765091							https://www.degruyter.com/openurl?genre=book&isbn=9780804765091	Huffer	9780804765091		fulltext		Stanford University Press	monograph	1998	2022						P	
+Maya and Spaniard in Yucatan, 1648-1812		9780804765640							https://www.degruyter.com/openurl?genre=book&isbn=9780804765640	Patch	9780804765640		fulltext		Stanford University Press	monograph	1994	2022						P	
+Mea Culpa		9780804766739							https://www.degruyter.com/openurl?genre=book&isbn=9780804766739	Tavuchis	9780804766739		fulltext		Stanford University Press	monograph	1991	2022						P	
+Medieval Japan		9781503621503							https://www.degruyter.com/openurl?genre=book&isbn=9781503621503		9781503621503		fulltext		Stanford University Press	monograph	1974	2022			Hall			P	
+Medieval Venuses and Cupids		9780804764803							https://www.degruyter.com/openurl?genre=book&isbn=9780804764803	Tinkle	9780804764803		fulltext		Stanford University Press	monograph	1996	1996						P	1178768959
+Melanesian Pidgin and the Oceanic Substrate		9781503623040							https://www.degruyter.com/openurl?genre=book&isbn=9781503623040	Keesing	9781503623040		fulltext		Stanford University Press	monograph	1988	2022						P	
+Melodramatic Tactics		9781503615540							https://www.degruyter.com/openurl?genre=book&isbn=9781503615540	Hadley	9781503615540		fulltext		Stanford University Press	monograph	1995	2022						P	
+Mencius and Early Chinese Thought		9781503616264							https://www.degruyter.com/openurl?genre=book&isbn=9781503616264	Shun	9781503616264		fulltext		Stanford University Press	monograph	1997	2022						P	
+Mighty Opposites		9781503617315							https://www.degruyter.com/openurl?genre=book&isbn=9781503617315	Zhang	9781503617315		fulltext		Stanford University Press	monograph	1998	2022						P	
+Migration and Ethnicity in Chinese History		9781503616356							https://www.degruyter.com/openurl?genre=book&isbn=9781503616356	Leong	9781503616356		fulltext		Stanford University Press	monograph	1997	2022						P	
+Mikhail Bakhtin		9780804765961							https://www.degruyter.com/openurl?genre=book&isbn=9780804765961	Morson	9780804765961		fulltext		Stanford University Press	monograph	1990	2022						P	
+MITI and the Japanese Miracle		9780804765602							https://www.degruyter.com/openurl?genre=book&isbn=9780804765602	Johnson	9780804765602		fulltext		Stanford University Press	monograph	1982	2022						P	
+Mobilizing the Masses		9780804766821							https://www.degruyter.com/openurl?genre=book&isbn=9780804766821	Wou	9780804766821		fulltext		Stanford University Press	monograph	1994	2022						P	
+Modern Chinese Literary Thought		9781503615830							https://www.degruyter.com/openurl?genre=book&isbn=9781503615830		9781503615830		fulltext		Stanford University Press	monograph	1996	2022			Denton			P	
+Modern Forests		9781503617995							https://www.degruyter.com/openurl?genre=book&isbn=9781503617995	Sivaramakrishnan	9781503617995		fulltext		Stanford University Press	monograph	1999	2022						P	
+Modern Japan Through Its Weddings		9781503621510							https://www.degruyter.com/openurl?genre=book&isbn=9781503621510	Edwards	9781503621510		fulltext		Stanford University Press	monograph	1989	2022						P	
+Modernity at the Edge of Empire		9780804765022							https://www.degruyter.com/openurl?genre=book&isbn=9780804765022	Nugent	9780804765022		fulltext		Stanford University Press	monograph	1997	2022						P	
+Morning Glory, Evening Shadow		9780804780896							https://www.degruyter.com/openurl?genre=book&isbn=9780804780896		9780804780896		fulltext		Stanford University Press	monograph	1997	2022			Chang			P	
+Museum Memories		9781503617155							https://www.degruyter.com/openurl?genre=book&isbn=9781503617155	Maleuvre	9781503617155		fulltext		Stanford University Press	monograph	1999	2022						P	
+Musica Ficta		9781503622418							https://www.degruyter.com/openurl?genre=book&isbn=9781503622418	Lacoue-Labarthe	9781503622418		fulltext		Stanford University Press	monograph	1994	2022						P	
+Mysterious Music		9780804765169							https://www.degruyter.com/openurl?genre=book&isbn=9780804765169	Cooper	9780804765169		fulltext		Stanford University Press	monograph	1998	2022						P	
+Nahuas and Spaniards		9781503621961							https://www.degruyter.com/openurl?genre=book&isbn=9781503621961	Lockhart	9781503621961		fulltext		Stanford University Press	monograph	1991	2022						P	
+Nakahara		9780804766692							https://www.degruyter.com/openurl?genre=book&isbn=9780804766692	Smith	9780804766692		fulltext		Stanford University Press	monograph	1977	2021						P	
+Narrating the Self		9780804764759							https://www.degruyter.com/openurl?genre=book&isbn=9780804764759	Suzuki	9780804764759		fulltext		Stanford University Press	monograph	1996	2022						P	
+Nation, Governance, and Modernity in China		9780804779920							https://www.degruyter.com/openurl?genre=book&isbn=9780804779920	Tsin	9780804779920		fulltext		Stanford University Press	monograph	1999	2022						P	
+Naturalizing Phenomenology		9781503617421							https://www.degruyter.com/openurl?genre=book&isbn=9781503617421		9781503617421		fulltext		Stanford University Press	monograph	1999	2022			Petitot			P	
+Naven		9781503621138							https://www.degruyter.com/openurl?genre=book&isbn=9781503621138	Bateson	9781503621138		fulltext		Stanford University Press	monograph	1958	2021						P	
+Neighborhood Tokyo		9780804765732							https://www.degruyter.com/openurl?genre=book&isbn=9780804765732	Bestor	9780804765732		fulltext		Stanford University Press	monograph	1989	2022						P	
+‘No Mentor but Myself’		9781503618190							https://www.degruyter.com/openurl?genre=book&isbn=9781503618190		9781503618190		fulltext		Stanford University Press	monograph	1999	2022			Walker			P	
+Observations on Modernity		9781503617230							https://www.degruyter.com/openurl?genre=book&isbn=9781503617230	Luhmann	9781503617230		fulltext		Stanford University Press	monograph	1998	2022						P	
+Oedipus, Philosopher		9781503622197							https://www.degruyter.com/openurl?genre=book&isbn=9781503622197	Goux	9781503622197		fulltext		Stanford University Press	monograph	1993	2022						P	
+Of God Who Comes to Mind		9781503616882							https://www.degruyter.com/openurl?genre=book&isbn=9781503616882	Levinas	9781503616882		fulltext		Stanford University Press	monograph	1998	2022						P	
+Of Minimal Things		9781503618268							https://www.degruyter.com/openurl?genre=book&isbn=9781503618268	Gasche	9781503618268		fulltext		Stanford University Press	monograph	1999	2022						P	
+Of Things of the Indies		9781503618572							https://www.degruyter.com/openurl?genre=book&isbn=9781503618572	Lockhart	9781503618572		fulltext		Stanford University Press	monograph	1999	2022						P	
+Of Time and Power		9781503623439							https://www.degruyter.com/openurl?genre=book&isbn=9781503623439	Bienen	9781503623439		fulltext		Stanford University Press	monograph	1991	2022						P	
+Old Madam Yin		9781503621251							https://www.degruyter.com/openurl?genre=book&isbn=9781503621251	Pruitt	9781503621251		fulltext		Stanford University Press	monograph	1979	2022						P	
+On Language		9781503623217							https://www.degruyter.com/openurl?genre=book&isbn=9781503623217		9781503623217		fulltext		Stanford University Press	monograph	1990	2022			Denning			P	
+On the Name		9781503615823							https://www.degruyter.com/openurl?genre=book&isbn=9781503615823	Derrida	9781503615823		fulltext		Stanford University Press	monograph	1995	2022						P	
+On the Origin of Languages		9781503622357							https://www.degruyter.com/openurl?genre=book&isbn=9781503622357	Ruhlen	9781503622357		fulltext		Stanford University Press	monograph	1994	2022						P	
+One Hundred Years of Sea Power		9780804788144							https://www.degruyter.com/openurl?genre=book&isbn=9780804788144	Baer	9780804788144		fulltext		Stanford University Press	monograph	1994	2022						P	
+One Industry, Two Chinas		9780804780872							https://www.degruyter.com/openurl?genre=book&isbn=9780804780872	Bell	9780804780872		fulltext		Stanford University Press	monograph	1999	2022						P	
+Open the Social Sciences		9781503616219							https://www.degruyter.com/openurl?genre=book&isbn=9781503616219		9781503616219		fulltext		Stanford University Press	monograph	1996	2022			Wallerstein			P	
+Order Without Design		9781503621732							https://www.degruyter.com/openurl?genre=book&isbn=9781503621732	Feldman	9781503621732		fulltext		Stanford University Press	monograph	1989	2022						P	
+Origins of the Medieval World		9781503620667							https://www.degruyter.com/openurl?genre=book&isbn=9781503620667	Bark	9781503620667		fulltext		Stanford University Press	monograph	1958	2021						P	
+Other Ways of Growing Old		9780804766180							https://www.degruyter.com/openurl?genre=book&isbn=9780804766180		9780804766180		fulltext		Stanford University Press	monograph	1981	2021			Amoss			P	
+Outing Goethe & His Age		9780804780858							https://www.degruyter.com/openurl?genre=book&isbn=9780804780858		9780804780858		fulltext		Stanford University Press	monograph	1996	2022			Kuzniar			P	
+Patronage and Politics in Nineteenth-Century Brazil		9780804765565							https://www.degruyter.com/openurl?genre=book&isbn=9780804765565	Graham	9780804765565		fulltext		Stanford University Press	monograph	1989	2022						P	
+Pearl Harbor		9781503620698							https://www.degruyter.com/openurl?genre=book&isbn=9781503620698	Wohlstetter	9781503620698		fulltext		Stanford University Press	monograph	1962	2022						P	
+Peasant Nationalism and Communist Power		9781503620582							https://www.degruyter.com/openurl?genre=book&isbn=9781503620582	Johnson	9781503620582		fulltext		Stanford University Press	monograph	1962	2021						P	
+Peasants Against Globalization		9780804778893							https://www.degruyter.com/openurl?genre=book&isbn=9780804778893	Edelman	9780804778893		fulltext		Stanford University Press	monograph	1999	2022						P	
+Peasants into Frenchmen		9780804766036							https://www.degruyter.com/openurl?genre=book&isbn=9780804766036	Weber	9780804766036		fulltext		Stanford University Press	monograph	1976	2022						P	
+Peasants, Politics, and the Formation of Mexico's National State		9780804743648							https://www.degruyter.com/openurl?genre=book&isbn=9780804743648	Guardino	9780804743648		fulltext		Stanford University Press	monograph	1996	2022						P	
+Pelagic Snails		9781503623088							https://www.degruyter.com/openurl?genre=book&isbn=9781503623088	Lalli	9781503623088		fulltext		Stanford University Press	monograph	1989	2022						P	
+Personal Voices		9780804766319							https://www.degruyter.com/openurl?genre=book&isbn=9780804766319	Honig	9780804766319		fulltext		Stanford University Press	monograph	1988	2021						P	
+Phantom Communities		9781503616783							https://www.degruyter.com/openurl?genre=book&isbn=9781503616783	Durham	9781503616783		fulltext		Stanford University Press	monograph	1998	2022						P	
+Picture Control		9781503616325							https://www.degruyter.com/openurl?genre=book&isbn=9781503616325	Rasmussen	9781503616325		fulltext		Stanford University Press	monograph	1997	2022						P	
+Pleroma		9781503615489							https://www.degruyter.com/openurl?genre=book&isbn=9781503615489	Hamacher	9781503615489		fulltext		Stanford University Press	monograph	1998	2022						P	
+Points...		9781503622425							https://www.degruyter.com/openurl?genre=book&isbn=9781503622425	Derrida	9781503622425		fulltext		Stanford University Press	monograph	1995	2022						P	
+Policing Rio de Janeiro		9780804765534							https://www.degruyter.com/openurl?genre=book&isbn=9780804765534	Holloway	9780804765534		fulltext		Stanford University Press	monograph	1993	2022						P	
+Political Legitimacy in Southeast Asia		9780804764704							https://www.degruyter.com/openurl?genre=book&isbn=9780804764704		9780804764704		fulltext		Stanford University Press	monograph	1995	2022			Alagappa			P	
+Politics and Paradigms		9781503621374							https://www.degruyter.com/openurl?genre=book&isbn=9781503621374	Janos	9781503621374		fulltext		Stanford University Press	monograph	1986	2022						P	
+Politics, Economy, and Society in Contemporary China		9781503622388							https://www.degruyter.com/openurl?genre=book&isbn=9781503622388	Brugger	9781503622388		fulltext		Stanford University Press	monograph	1994	2022						P	
+Posthumous People		9781503622487							https://www.degruyter.com/openurl?genre=book&isbn=9781503622487	Cacciari	9781503622487		fulltext		Stanford University Press	monograph	1997	2022						P	
+Potentialities		9780804764070							https://www.degruyter.com/openurl?genre=book&isbn=9780804764070	Agamben	9780804764070		fulltext		Stanford University Press	monograph	1999	2022						P	
+Practicing Desire		9781503616165							https://www.degruyter.com/openurl?genre=book&isbn=9781503616165	Dowsett	9781503616165		fulltext		Stanford University Press	monograph	1996	2022						P	
+Precious Records		9781503622517							https://www.degruyter.com/openurl?genre=book&isbn=9781503622517	Mann	9781503622517		fulltext		Stanford University Press	monograph	1997	2022						P	
+Prelude to Greatness		9781503620599							https://www.degruyter.com/openurl?genre=book&isbn=9781503620599	Fehrenbacher	9781503620599		fulltext		Stanford University Press	monograph	1962	2022						P	
+Preromanticism		9781503621565							https://www.degruyter.com/openurl?genre=book&isbn=9781503621565	Brown	9781503621565		fulltext		Stanford University Press	monograph	1991	2022						P	
+Problems of Form		9781503617698							https://www.degruyter.com/openurl?genre=book&isbn=9781503617698		9781503617698		fulltext		Stanford University Press	monograph	1999	2022			Baecker			P	
+Professions of Taste		9781503621800							https://www.degruyter.com/openurl?genre=book&isbn=9781503621800	Freedman	9781503621800		fulltext		Stanford University Press	monograph	1990	2022						P	
+Property Rights and Economic Reform in China		9780804764193							https://www.degruyter.com/openurl?genre=book&isbn=9780804764193		9780804764193		fulltext		Stanford University Press	monograph	1999	2022			Oi			P	
+Prosthesis		9781503615694							https://www.degruyter.com/openurl?genre=book&isbn=9781503615694	Wills	9781503615694		fulltext		Stanford University Press	monograph	1995	2022						P	
+Proust		9781503623538							https://www.degruyter.com/openurl?genre=book&isbn=9781503623538	Descombes	9781503623538		fulltext		Stanford University Press	monograph	1992	2022						P	
+Public Lives, Private Secrets		9781503617032							https://www.degruyter.com/openurl?genre=book&isbn=9781503617032	Twinam	9781503617032		fulltext		Stanford University Press	monograph	1999	2022						P	
+Quelling the People		9781503618893							https://www.degruyter.com/openurl?genre=book&isbn=9781503618893	Brook	9781503618893		fulltext		Stanford University Press	monograph	1992	2022						P	
+Reading Marx Writing		9781503615571							https://www.degruyter.com/openurl?genre=book&isbn=9781503615571	Kemple	9781503615571		fulltext		Stanford University Press	monograph	1995	2022						P	
+Reading Myth		9780804765053							https://www.degruyter.com/openurl?genre=book&isbn=9780804765053	Blumenfeld-Kosinski	9780804765053		fulltext		Stanford University Press	monograph	1997	2022						P	
+Reading Rawls		9781503620919							https://www.degruyter.com/openurl?genre=book&isbn=9781503620919		9781503620919		fulltext		Stanford University Press	monograph	1989	2022			Daniels			P	
+Reason in Human Affairs		9780804766685							https://www.degruyter.com/openurl?genre=book&isbn=9780804766685	Simon	9780804766685		fulltext		Stanford University Press	monograph	1983	2022						P	
+Recollected Words of Abraham Lincoln		9780804764889							https://www.degruyter.com/openurl?genre=book&isbn=9780804764889		9780804764889		fulltext		Stanford University Press	monograph	1996	2022			Fehrenbacher			P	
+Reconstructing Women’s Thoughts		9781503623873							https://www.degruyter.com/openurl?genre=book&isbn=9781503623873	Schott	9781503623873		fulltext		Stanford University Press	monograph	1997	2022						P	
+ReMembering Osiris		9781503617063							https://www.degruyter.com/openurl?genre=book&isbn=9781503617063	Hare	9781503617063		fulltext		Stanford University Press	monograph	1999	2022						P	
+Rendering French Realism		9780804780162							https://www.degruyter.com/openurl?genre=book&isbn=9780804780162	Schehr	9780804780162		fulltext		Stanford University Press	monograph	1997	2022						P	
+Rents, Taxes, and Peasant Resistance		9780804785365							https://www.degruyter.com/openurl?genre=book&isbn=9780804785365	Bernhardt	9780804785365		fulltext		Stanford University Press	monograph	1992	2022						P	
+Report from Xunwu		9781503621688							https://www.degruyter.com/openurl?genre=book&isbn=9781503621688	Mao	9781503621688		fulltext		Stanford University Press	monograph	1989	2022						P	
+Republic of Capital		9780804764148							https://www.degruyter.com/openurl?genre=book&isbn=9780804764148	Adelman	9780804764148		fulltext		Stanford University Press	monograph	1999	2002						P	1198930884
+Rereading Jack London		9781503616042							https://www.degruyter.com/openurl?genre=book&isbn=9781503616042		9781503616042		fulltext		Stanford University Press	monograph	1996	2022			Cassuto			P	
+Resistance and Contradiction		9780804765510							https://www.degruyter.com/openurl?genre=book&isbn=9780804765510	Hale	9780804765510		fulltext		Stanford University Press	monograph	1994	2022						P	
+Resistances of Psychoanalysis		9781503616707							https://www.degruyter.com/openurl?genre=book&isbn=9781503616707	Derrida	9781503616707		fulltext		Stanford University Press	monograph	1998	2022						P	
+Rethinking Party Systems in the Third Wave of Democratization		9781503616776							https://www.degruyter.com/openurl?genre=book&isbn=9781503616776	Mainwaring	9781503616776		fulltext		Stanford University Press	monograph	1999	2022						P	
+Revolution Postponed		9780804765619							https://www.degruyter.com/openurl?genre=book&isbn=9780804765619	Wolf	9780804765619		fulltext		Stanford University Press	monograph	1985	2021						P	
+Revolutionary Change		9781503620834							https://www.degruyter.com/openurl?genre=book&isbn=9781503620834	Johnson	9781503620834		fulltext		Stanford University Press	monograph	1982	2021						P	
+Rewriting Chinese		9780804766227							https://www.degruyter.com/openurl?genre=book&isbn=9780804766227	Gunn	9780804766227		fulltext		Stanford University Press	monograph	1991	2022						P	
+Rice, Rupees, and Ritual		9780804766630							https://www.degruyter.com/openurl?genre=book&isbn=9780804766630	Sherman	9780804766630		fulltext		Stanford University Press	monograph	1990	1990						P	1198929699
+Righting a Wrong		9780804766067							https://www.degruyter.com/openurl?genre=book&isbn=9780804766067	Hatamiya	9780804766067		fulltext		Stanford University Press	monograph	1993	2022						P	
+Risk Taking and Decision Making		9780804765077							https://www.degruyter.com/openurl?genre=book&isbn=9780804765077	Vertzberger	9780804765077		fulltext		Stanford University Press	monograph	1998	2022						P	
+Roots of Identity		9781503623651							https://www.degruyter.com/openurl?genre=book&isbn=9781503623651	King	9781503623651		fulltext		Stanford University Press	monograph	1994	2022						P	
+Samuel Richardson's Fictions of Gender		9780804766234							https://www.degruyter.com/openurl?genre=book&isbn=9780804766234	Gwilliam	9780804766234		fulltext		Stanford University Press	monograph	1993	2022						P	
+São Paulo in the Brazilian Federation, 1889-1937		9780804766081							https://www.degruyter.com/openurl?genre=book&isbn=9780804766081	Love	9780804766081		fulltext		Stanford University Press	monograph	1980	2021						P	
+Schools of Linguistics		9781503621282							https://www.degruyter.com/openurl?genre=book&isbn=9781503621282	Sampson	9781503621282		fulltext		Stanford University Press	monograph	1980	2022						P	
+Scripts, Grooves, and Writing Machines		9781503617353							https://www.degruyter.com/openurl?genre=book&isbn=9781503617353	Gitelman	9781503617353		fulltext		Stanford University Press	monograph	1999	2022						P	
+Secondary Cities of Argentina		9780804766623							https://www.degruyter.com/openurl?genre=book&isbn=9780804766623	Scobie	9780804766623		fulltext		Stanford University Press	monograph	1988	2022						P	
+Seeing Through the Mother Goose Tales		9780804764797							https://www.degruyter.com/openurl?genre=book&isbn=9780804764797	Lewis	9780804764797		fulltext		Stanford University Press	monograph	1996	2022						P	
+Seeing Together		9780804766098							https://www.degruyter.com/openurl?genre=book&isbn=9780804766098	Luftig	9780804766098		fulltext		Stanford University Press	monograph	1993	2022						P	
+Self-Generation		9781503623897							https://www.degruyter.com/openurl?genre=book&isbn=9781503623897	Müller-Sievers	9781503623897		fulltext		Stanford University Press	monograph	1997	2022						P	
+Sex Differences in Depression		9781503621640							https://www.degruyter.com/openurl?genre=book&isbn=9781503621640	Nolen-Hoeksema	9781503621640		fulltext		Stanford University Press	monograph	1990	2022						P	
+Sexual Attraction and Childhood Association		9780804764681							https://www.degruyter.com/openurl?genre=book&isbn=9780804764681	Wolf	9780804764681		fulltext		Stanford University Press	monograph	1995	2022						P	
+Sexuality and the Body in Russian Culture		9781503622104							https://www.degruyter.com/openurl?genre=book&isbn=9781503622104		9781503622104		fulltext		Stanford University Press	monograph	1993	2022			Costlow			P	
+Shanghai on Strike		9780804766531							https://www.degruyter.com/openurl?genre=book&isbn=9780804766531	Perry	9780804766531		fulltext		Stanford University Press	monograph	1993	2022						P	
+Sisters and Strangers		9781503621350							https://www.degruyter.com/openurl?genre=book&isbn=9781503621350	Honig	9781503621350		fulltext		Stanford University Press	monograph	1986	2021						P	
+Smallholders, Householders		9781503622067							https://www.degruyter.com/openurl?genre=book&isbn=9781503622067	Netting	9781503622067		fulltext		Stanford University Press	monograph	1993	2022						P	
+Soap		9781503616554							https://www.degruyter.com/openurl?genre=book&isbn=9781503616554	Ponge	9781503616554		fulltext		Stanford University Press	monograph	1998	2022						P	
+Social Power and Legal Culture		9780804765206							https://www.degruyter.com/openurl?genre=book&isbn=9780804765206	Macauley	9780804765206		fulltext		Stanford University Press	monograph	1998	2022						P	
+Society and Culture in Early Modern France		9781503621183							https://www.degruyter.com/openurl?genre=book&isbn=9781503621183	Davis	9781503621183		fulltext		Stanford University Press	monograph	1975	2021						P	
+Somatic Fictions		9780804764636							https://www.degruyter.com/openurl?genre=book&isbn=9780804764636	Vrettos	9780804764636		fulltext		Stanford University Press	monograph	1995	2022						P	
+Some Shakespearean Themes and An Approach to ‘Hamlet’		9781503622647							https://www.degruyter.com/openurl?genre=book&isbn=9781503622647	Knights	9781503622647		fulltext		Stanford University Press	monograph	1960	2021						P	
+Sound Figures		9781503615335							https://www.degruyter.com/openurl?genre=book&isbn=9781503615335	Adorno	9781503615335		fulltext		Stanford University Press	monograph	1999	2022						P	
+Space Between Words		9781503619081							https://www.degruyter.com/openurl?genre=book&isbn=9781503619081	Saenger	9781503619081		fulltext		Stanford University Press	monograph	1997	2022						P	
+Stalin’s Drive to the West, 1938-1945		9780804764650							https://www.degruyter.com/openurl?genre=book&isbn=9780804764650	Raack	9780804764650		fulltext		Stanford University Press	monograph	1995	2022						P	
+Standard Deviations		9780804766487							https://www.degruyter.com/openurl?genre=book&isbn=9780804766487	Monk	9780804766487		fulltext		Stanford University Press	monograph	1994	2022						P	
+State and Diplomacy in Early Modern Japan		9781503621015							https://www.degruyter.com/openurl?genre=book&isbn=9781503621015	Toby	9781503621015		fulltext		Stanford University Press	monograph	1991	2022						P	
+Strange Fits of Passion		9781503615816							https://www.degruyter.com/openurl?genre=book&isbn=9781503615816	Pinch	9781503615816		fulltext		Stanford University Press	monograph	1996	2022						P	
+Strong Parties and Lame Ducks		9781503622272							https://www.degruyter.com/openurl?genre=book&isbn=9781503622272	Coppedge	9781503622272		fulltext		Stanford University Press	monograph	1994	2022						P	
+Strong Wine		9781503617025							https://www.degruyter.com/openurl?genre=book&isbn=9781503617025	McGinty	9781503617025		fulltext		Stanford University Press	monograph	1998	2022						P	
+Student Protests in Twentieth-Century China		9781503615434							https://www.degruyter.com/openurl?genre=book&isbn=9781503615434	Wasserstrom	9781503615434		fulltext		Stanford University Press	monograph	1991	2022						P	
+Studies in Chinese Society		9781503620803							https://www.degruyter.com/openurl?genre=book&isbn=9781503620803		9781503620803		fulltext		Stanford University Press	monograph	1978	2022			Wolf			P	
+Sublime Poussin		9781503617865							https://www.degruyter.com/openurl?genre=book&isbn=9781503617865	Marin	9781503617865		fulltext		Stanford University Press	monograph	1999	2022						P	
+Summer of Discontent, Seasons of Upheaval		9781503616110							https://www.degruyter.com/openurl?genre=book&isbn=9781503616110	Wells	9781503616110		fulltext		Stanford University Press	monograph	1997	2022						P	
+Tales of Ise		9781503622715							https://www.degruyter.com/openurl?genre=book&isbn=9781503622715		9781503622715		fulltext		Stanford University Press	monograph	1968	2021						P	
+Tales of San Francisco		9781503621039							https://www.degruyter.com/openurl?genre=book&isbn=9781503621039	Dickson	9781503621039		fulltext		Stanford University Press	monograph	1947	2022						P	
+Taoism		9780804764940							https://www.degruyter.com/openurl?genre=book&isbn=9780804764940	Robinet	9780804764940		fulltext		Stanford University Press	monograph	1997	2022						P	
+Teachers of the Inner Chambers		9781503622401							https://www.degruyter.com/openurl?genre=book&isbn=9781503622401	Ko	9781503622401		fulltext		Stanford University Press	monograph	1994	2022						P	
+Technics and Time, 1		9781503616738							https://www.degruyter.com/openurl?genre=book&isbn=9781503616738	Stiegler	9781503616738		fulltext		Stanford University Press	monograph	1998	2022						P	
+Terms of Labor		9780804765336							https://www.degruyter.com/openurl?genre=book&isbn=9780804765336		9780804765336		fulltext		Stanford University Press	monograph	1999	2022			Engerman			P	
+Terror and Consensus		9781503616561							https://www.degruyter.com/openurl?genre=book&isbn=9781503616561		9781503616561		fulltext		Stanford University Press	monograph	1998	2022			Goux			P	
+Thai-English Student’s Dictionary		9781503622708							https://www.degruyter.com/openurl?genre=book&isbn=9781503622708	Haas	9781503622708		fulltext		Stanford University Press	monograph	1964	2021						P	
+The Advisors		9781503621718							https://www.degruyter.com/openurl?genre=book&isbn=9781503621718	York	9781503621718		fulltext		Stanford University Press	monograph	1976	2022						P	
+The Age of the Earth		9781503621596							https://www.degruyter.com/openurl?genre=book&isbn=9781503621596	Dalrymple	9781503621596		fulltext		Stanford University Press	monograph	1991	2022						P	
+The Army and Politics in Argentina, 1928-1945		9780804743600							https://www.degruyter.com/openurl?genre=book&isbn=9780804743600	Potash	9780804743600		fulltext		Stanford University Press	monograph	1969	2021						P	
+The Army and Politics in Argentina, 1962-1973		9780804743686							https://www.degruyter.com/openurl?genre=book&isbn=9780804743686	Potash	9780804743686		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Aztecs Under Spanish Rule		9781503621114							https://www.degruyter.com/openurl?genre=book&isbn=9781503621114	Gibson	9781503621114		fulltext		Stanford University Press	monograph	1964	2021						P	
+The Bakufu in Japanese History		9781503621060							https://www.degruyter.com/openurl?genre=book&isbn=9781503621060		9781503621060		fulltext		Stanford University Press	monograph	1985	2022			Mass			P	
+The Beach of Falesa		9781503620896							https://www.degruyter.com/openurl?genre=book&isbn=9781503620896	Stevenson	9781503620896		fulltext		Stanford University Press	monograph	1987	2021						P	
+The Birth to Presence		9781503622050							https://www.degruyter.com/openurl?genre=book&isbn=9781503622050	Nancy	9781503622050		fulltext		Stanford University Press	monograph	1993	2022						P	
+The Body of This Death		9781503616189							https://www.degruyter.com/openurl?genre=book&isbn=9781503616189	Haver	9781503616189		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Body Politic		9781503622562							https://www.degruyter.com/openurl?genre=book&isbn=9781503622562	de Baecque	9781503622562		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Bridge of Dreams		9781503620933							https://www.degruyter.com/openurl?genre=book&isbn=9781503620933	Shirane	9781503620933		fulltext		Stanford University Press	monograph	1987	2022						P	
+The Budget Puzzle		9780804779982							https://www.degruyter.com/openurl?genre=book&isbn=9780804779982	Cogan	9780804779982		fulltext		Stanford University Press	monograph	1994	2022						P	
+The Burden of Support		9780804766296							https://www.degruyter.com/openurl?genre=book&isbn=9780804766296	Hayes-Bautista	9780804766296		fulltext		Stanford University Press	monograph	1988	2022						P	
+The Butterflies of North America		9781503624450							https://www.degruyter.com/openurl?genre=book&isbn=9781503624450	Scott	9781503624450		fulltext		Stanford University Press	monograph	1986	2022						P	
+The Cable Car in America		9781503616752							https://www.degruyter.com/openurl?genre=book&isbn=9781503616752	Hilton	9781503616752		fulltext		Stanford University Press	monograph	1982	2022						P	
+The California Deserts		9781503620858							https://www.degruyter.com/openurl?genre=book&isbn=9781503620858	Jaeger	9781503620858		fulltext		Stanford University Press	monograph	1965	2021						P	
+The California-Mexico Connection		9780804766401							https://www.degruyter.com/openurl?genre=book&isbn=9780804766401		9780804766401		fulltext		Stanford University Press	monograph	1993	2022			Lowenthal			P	
+The Chinese City Between Two Worlds		9781503622753							https://www.degruyter.com/openurl?genre=book&isbn=9781503622753		9781503622753		fulltext		Stanford University Press	monograph	1974	2021			Elvin			P	
+The Choice of Achilles		9780804780803							https://www.degruyter.com/openurl?genre=book&isbn=9780804780803	Wofford	9780804780803		fulltext		Stanford University Press	monograph	1992	1992						P	1198931372
+The Complete Essays of Montaigne		9780804780773							https://www.degruyter.com/openurl?genre=book&isbn=9780804780773	Montaigne	9780804780773		fulltext		Stanford University Press	monograph	1958	2021						P	
+The Conquest of the Last Maya Kingdom		9780804779326							https://www.degruyter.com/openurl?genre=book&isbn=9780804779326	Jones	9780804779326		fulltext		Stanford University Press	monograph	1998	2022						P	
+The Course of Remembrance and Other Essays on Hölderlin		9781503623866							https://www.degruyter.com/openurl?genre=book&isbn=9781503623866	Henrich	9781503623866		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Culture of Autobiography		9781503622043							https://www.degruyter.com/openurl?genre=book&isbn=9781503622043		9781503622043		fulltext		Stanford University Press	monograph	1993	2022			Folkenflik			P	
+The Culture of Power		9780804764247							https://www.degruyter.com/openurl?genre=book&isbn=9780804764247	Jin	9780804764247		fulltext		Stanford University Press	monograph	1999	2022						P	
+The Decline of Privilege		9780804765435							https://www.degruyter.com/openurl?genre=book&isbn=9780804765435	Soares	9780804765435		fulltext		Stanford University Press	monograph	1999	2022						P	
+The Development of the Modern State		9781503621237							https://www.degruyter.com/openurl?genre=book&isbn=9781503621237	Poggi	9781503621237		fulltext		Stanford University Press	monograph	1978	2022						P	
+The Electric Interurban Railways in America		9781503619074							https://www.degruyter.com/openurl?genre=book&isbn=9781503619074	Hilton	9781503619074		fulltext		Stanford University Press	monograph	1960	2022						P	
+The End of the Chinese ‘Middle Ages’		9781503616158							https://www.degruyter.com/openurl?genre=book&isbn=9781503616158	Owen	9781503616158		fulltext		Stanford University Press	monograph	1996	2022						P	
+The End of the Poem		9780804763912							https://www.degruyter.com/openurl?genre=book&isbn=9780804763912	Agamben	9780804763912		fulltext		Stanford University Press	monograph	1999	2022						P	
+The Ends of Rhetoric		9781503621848							https://www.degruyter.com/openurl?genre=book&isbn=9781503621848		9781503621848		fulltext		Stanford University Press	monograph	1990	2022			Bender			P	
+The Epic of Gilgamesh		9781503621626							https://www.degruyter.com/openurl?genre=book&isbn=9781503621626		9781503621626		fulltext		Stanford University Press	monograph	1989	2022						P	
+The Evangelist of Desire		9781503621862							https://www.degruyter.com/openurl?genre=book&isbn=9781503621862	Abelove	9781503621862		fulltext		Stanford University Press	monograph	1990	2022						P	
+The Face of the Nation		9780804764827							https://www.degruyter.com/openurl?genre=book&isbn=9780804764827	Fitzgerald	9780804764827		fulltext		Stanford University Press	monograph	1996	2022						P	
+The French Idea of Freedom		9780804788168							https://www.degruyter.com/openurl?genre=book&isbn=9780804788168		9780804788168		fulltext		Stanford University Press	monograph	1995	2022			Van Kley			P	
+The Frozen Echo		9781503615731							https://www.degruyter.com/openurl?genre=book&isbn=9781503615731	Seaver	9781503615731		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Gray Book		9780804764254							https://www.degruyter.com/openurl?genre=book&isbn=9780804764254	Fioretos	9780804764254		fulltext		Stanford University Press	monograph	1999	2022						P	
+The Great Mirror of Male Love		9781503621664							https://www.degruyter.com/openurl?genre=book&isbn=9781503621664	Saikaku	9781503621664		fulltext		Stanford University Press	monograph	1990	2022						P	
+The Great Road		9781503622234							https://www.degruyter.com/openurl?genre=book&isbn=9781503622234	Dilts	9781503622234		fulltext		Stanford University Press	monograph	1993	2022						P	
+The Ideology of Imagination		9780804765381							https://www.degruyter.com/openurl?genre=book&isbn=9780804765381	Pyle	9780804765381		fulltext		Stanford University Press	monograph	1995	2022						P	
+The Jacksonian Persuasion		9781503620650							https://www.degruyter.com/openurl?genre=book&isbn=9781503620650	Meyers	9781503620650		fulltext		Stanford University Press	monograph	1960	2021						P	
+The Japanese Discovery of Europe, 1720-1830		9780804774161							https://www.degruyter.com/openurl?genre=book&isbn=9780804774161	Keene	9780804774161		fulltext		Stanford University Press	monograph	1969	2022						P	
+The Japanese Through American Eyes		9781503621466							https://www.degruyter.com/openurl?genre=book&isbn=9781503621466	Johnson	9781503621466		fulltext		Stanford University Press	monograph	1988	2022						P	
+The Landscapes of Alienation		9780804766494							https://www.degruyter.com/openurl?genre=book&isbn=9780804766494	Murray	9780804766494		fulltext		Stanford University Press	monograph	1991	2022						P	
+The Legend of Freud		9781503616950							https://www.degruyter.com/openurl?genre=book&isbn=9781503616950	Weber	9781503616950		fulltext		Stanford University Press	monograph	1982	2022						P	
+The Life and Times of Pancho Villa		9780804765176							https://www.degruyter.com/openurl?genre=book&isbn=9780804765176	Katz	9780804765176		fulltext		Stanford University Press	monograph	1998	2022						P	
+The Life Sciences in Eighteenth-Century French Thought		9780804780834							https://www.degruyter.com/openurl?genre=book&isbn=9780804780834	Roger	9780804780834		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Limits of the Criminal Sanction		9780804780797							https://www.degruyter.com/openurl?genre=book&isbn=9780804780797	Packer	9780804780797		fulltext		Stanford University Press	monograph	1968	2022						P	
+The Logic of Practice		9781503621749							https://www.degruyter.com/openurl?genre=book&isbn=9781503621749	Bourdieu	9781503621749		fulltext		Stanford University Press	monograph	1990	2022						P	
+The Making of an Enterprise		9781503615441							https://www.degruyter.com/openurl?genre=book&isbn=9781503615441	Alden	9781503615441		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Man Without Content		9780804765428							https://www.degruyter.com/openurl?genre=book&isbn=9780804765428	Agamben	9780804765428		fulltext		Stanford University Press	monograph	1999	2022						P	
+The Mass-Extinction Debates		9780804765947							https://www.degruyter.com/openurl?genre=book&isbn=9780804765947		9780804765947		fulltext		Stanford University Press	monograph	1994	2022			Glen			P	
+The Maya World		9780804765008							https://www.degruyter.com/openurl?genre=book&isbn=9780804765008	Restall	9780804765008		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Meaning of Yiddish		9781503618886							https://www.degruyter.com/openurl?genre=book&isbn=9781503618886	Harshav	9781503618886		fulltext		Stanford University Press	monograph	1990	2022						P	
+The Meiji Restoration		9780804779906							https://www.degruyter.com/openurl?genre=book&isbn=9780804779906	Beasley	9780804779906		fulltext		Stanford University Press	monograph	1972	2021						P	
+The Metaphysics of Death		9781503622036							https://www.degruyter.com/openurl?genre=book&isbn=9781503622036		9781503622036		fulltext		Stanford University Press	monograph	1993	2022			Fischer			P	
+The Nahuas After the Conquest		9780804765572							https://www.degruyter.com/openurl?genre=book&isbn=9780804765572	Lockhart	9780804765572		fulltext		Stanford University Press	monograph	1992	2022						P	
+The Odyssey of the Abraham Lincoln Brigade		9781503622265							https://www.degruyter.com/openurl?genre=book&isbn=9781503622265	Carroll	9781503622265		fulltext		Stanford University Press	monograph	1994	2022						P	
+The Opium War Through Chinese Eyes		9781503620711							https://www.degruyter.com/openurl?genre=book&isbn=9781503620711	Waley	9781503620711		fulltext		Stanford University Press	monograph	1958	2021						P	
+The Origins of the Tiandihui		9780804766104							https://www.degruyter.com/openurl?genre=book&isbn=9780804766104	Baoqi	9780804766104		fulltext		Stanford University Press	monograph	1994	1994						P	1198932038
+The Peasant Economy and Social Change in North China		9780804780995							https://www.degruyter.com/openurl?genre=book&isbn=9780804780995	Huang	9780804780995		fulltext		Stanford University Press	monograph	1985	2022						P	
+The Peasant Family and Rural Development in the Yangzi Delta, 1350-1988		9780804765596							https://www.degruyter.com/openurl?genre=book&isbn=9780804765596	Huang	9780804765596		fulltext		Stanford University Press	monograph	1990	2022						P	
+The Photograph		9781503622333							https://www.degruyter.com/openurl?genre=book&isbn=9781503622333	Price	9781503622333		fulltext		Stanford University Press	monograph	1994	2022						P	
+The Pink and the Black		9781503617377							https://www.degruyter.com/openurl?genre=book&isbn=9781503617377	Martel	9781503617377		fulltext		Stanford University Press	monograph	1999	2022						P	
+The Poetics of Appropriation		9780804766500							https://www.degruyter.com/openurl?genre=book&isbn=9780804766500	Palumbo-Liu	9780804766500		fulltext		Stanford University Press	monograph	1993	1993						P	1198931358
+The Poetry of Allusion		9781503623422							https://www.degruyter.com/openurl?genre=book&isbn=9781503623422		9781503623422		fulltext		Stanford University Press	monograph	1991	2022			Jacoff			P	
+The Pollen Path		9781503622678							https://www.degruyter.com/openurl?genre=book&isbn=9781503622678	Link	9781503622678		fulltext		Stanford University Press	monograph	1956	2021						P	
+The Power of God Against the Guns of Government		9781503616721							https://www.degruyter.com/openurl?genre=book&isbn=9781503616721	Vanderwood	9781503616721		fulltext		Stanford University Press	monograph	1998	2022						P	
+The Practice of Cultural Analysis		9781503620438							https://www.degruyter.com/openurl?genre=book&isbn=9781503620438		9781503620438		fulltext		Stanford University Press	monograph	1999	2022			Bal			P	
+‘The President Has Been Shot’		9781503621091							https://www.degruyter.com/openurl?genre=book&isbn=9781503621091	Abrams	9781503621091		fulltext		Stanford University Press	monograph	1994	2022						P	
+The Price of Redemption		9781503616424							https://www.degruyter.com/openurl?genre=book&isbn=9781503616424	Peterson	9781503616424		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Problem of a Chinese Aesthetic		9780804766616							https://www.degruyter.com/openurl?genre=book&isbn=9780804766616	Saussy	9780804766616		fulltext		Stanford University Press	monograph	1993	2022						P	
+The Production of Personal Life		9780804766548							https://www.degruyter.com/openurl?genre=book&isbn=9780804766548	Pfister	9780804766548		fulltext		Stanford University Press	monograph	1991	2022						P	
+The Psychic Life of Power		9781503616295							https://www.degruyter.com/openurl?genre=book&isbn=9781503616295	Butler	9781503616295		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Psychology of Sex Differences		9781503620780							https://www.degruyter.com/openurl?genre=book&isbn=9781503620780	Maccoby	9781503620780		fulltext		Stanford University Press	monograph	1974	2021						P	
+The Psychology of Sex Differences		9781503620797							https://www.degruyter.com/openurl?genre=book&isbn=9781503620797	Maccoby	9781503620797		fulltext		Stanford University Press	monograph	1974	2021						P	
+The Reach of the State		9780804766654							https://www.degruyter.com/openurl?genre=book&isbn=9780804766654	Shue	9780804766654		fulltext		Stanford University Press	monograph	1988	2022						P	
+The Reading of Silence		9781503621879							https://www.degruyter.com/openurl?genre=book&isbn=9781503621879	Laurence	9781503621879		fulltext		Stanford University Press	monograph	1991	2022						P	
+The Reasonableness of Christianity, and A Discourse of Miracles		9781503620636							https://www.degruyter.com/openurl?genre=book&isbn=9781503620636	Locke	9781503620636		fulltext		Stanford University Press	monograph	1958	2021						P	
+The Return of the God of Wealth		9781503615908							https://www.degruyter.com/openurl?genre=book&isbn=9781503615908	Ikels	9781503615908		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Revenge of the Past		9780804779265							https://www.degruyter.com/openurl?genre=book&isbn=9780804779265	Suny	9780804779265		fulltext		Stanford University Press	monograph	1993	2022						P	
+The Revolution of 1905		9781503621978							https://www.degruyter.com/openurl?genre=book&isbn=9781503621978	Ascher	9781503621978		fulltext		Stanford University Press	monograph	1992	2022						P	
+The Revolution of 1905		9781503621435							https://www.degruyter.com/openurl?genre=book&isbn=9781503621435	Ascher	9781503621435		fulltext		Stanford University Press	monograph	1988	2022						P	
+The Rise of Confucian Ritualism in Late Imperial China		9780804765787							https://www.degruyter.com/openurl?genre=book&isbn=9780804765787	Chow	9780804765787		fulltext		Stanford University Press	monograph	1994	2022						P	
+The Road to East Slope		9781503623200							https://www.degruyter.com/openurl?genre=book&isbn=9781503623200	Fuller	9781503623200		fulltext		Stanford University Press	monograph	1990	2022						P	
+The Rules of Art		9781503615861							https://www.degruyter.com/openurl?genre=book&isbn=9781503615861	Bourdieu	9781503615861		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Russian Far East		9781503615458							https://www.degruyter.com/openurl?genre=book&isbn=9781503615458	Stephan	9781503615458		fulltext		Stanford University Press	monograph	1994	2022						P	
+The Social Cage		9781503621992							https://www.degruyter.com/openurl?genre=book&isbn=9781503621992	Maryanski	9781503621992		fulltext		Stanford University Press	monograph	1992	2022						P	
+The Solid Letter		9781503616523							https://www.degruyter.com/openurl?genre=book&isbn=9781503616523		9781503616523		fulltext		Stanford University Press	monograph	1999	2022			Fioretos			P	
+The State Nobility		9781503615427							https://www.degruyter.com/openurl?genre=book&isbn=9781503615427	Bourdieu	9781503615427		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Story of Guadalupe		9781503617872							https://www.degruyter.com/openurl?genre=book&isbn=9781503617872	Sousa	9781503617872		fulltext		Stanford University Press	monograph	1998	2022						P	
+The Sublime Figure of History		9780804764063							https://www.degruyter.com/openurl?genre=book&isbn=9780804764063	Wang	9780804764063		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Tale of the Heike		9781503620971							https://www.degruyter.com/openurl?genre=book&isbn=9781503620971		9781503620971		fulltext		Stanford University Press	monograph	1990	2022						P	
+The Temple of Memories		9780804764926							https://www.degruyter.com/openurl?genre=book&isbn=9780804764926	Jing	9780804764926		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Title to the Poem		9781503616004							https://www.degruyter.com/openurl?genre=book&isbn=9781503616004	Ferry	9781503616004		fulltext		Stanford University Press	monograph	1996	2022						P	
+The Unholy Grail		9780804764728							https://www.degruyter.com/openurl?genre=book&isbn=9780804764728	Cazelles	9780804764728		fulltext		Stanford University Press	monograph	1996	2022						P	
+The University System and Economic Development in Mexico Since 1929		9780804765527							https://www.degruyter.com/openurl?genre=book&isbn=9780804765527	Lorey	9780804765527		fulltext		Stanford University Press	monograph	1993	2022						P	
+The Voyage of the ‘Frolic’		9781503616417							https://www.degruyter.com/openurl?genre=book&isbn=9781503616417	Layton	9781503616417		fulltext		Stanford University Press	monograph	1997	2022						P	
+The Way of the Heavenly Sword		9780804765350							https://www.degruyter.com/openurl?genre=book&isbn=9780804765350	Humphreys	9780804765350		fulltext		Stanford University Press	monograph	1995	1995						P	1198932146
+The Woman’s Hand		9781503616202							https://www.degruyter.com/openurl?genre=book&isbn=9781503616202		9781503616202		fulltext		Stanford University Press	monograph	1996	2022			Schalow			P	
+The Work of Fire		9781503615632							https://www.degruyter.com/openurl?genre=book&isbn=9781503615632	Blanchot	9781503615632		fulltext		Stanford University Press	monograph	1995	2022						P	
+The World of William and Mary		9781503615564							https://www.degruyter.com/openurl?genre=book&isbn=9781503615564		9781503615564		fulltext		Stanford University Press	monograph	1996	2022			Hoak			P	
+The World Upside Down		9781503615595							https://www.degruyter.com/openurl?genre=book&isbn=9781503615595	Ramírez	9781503615595		fulltext		Stanford University Press	monograph	1996	2022						P	
+Thinking About ‘Beowulf’		9781503621701							https://www.degruyter.com/openurl?genre=book&isbn=9781503621701	Earl	9781503621701		fulltext		Stanford University Press	monograph	1994	2022						P	
+Thinking Bodies		9781503622326							https://www.degruyter.com/openurl?genre=book&isbn=9781503622326		9781503622326		fulltext		Stanford University Press	monograph	1994	2022			Zakarin			P	
+Thinking Fascism		9781503616868							https://www.degruyter.com/openurl?genre=book&isbn=9781503616868	Carlston	9781503616868		fulltext		Stanford University Press	monograph	1998	2022						P	
+‘This Culture of Ours’		9780804765756							https://www.degruyter.com/openurl?genre=book&isbn=9780804765756	Bol	9780804765756		fulltext		Stanford University Press	monograph	1992	1994						P	1178769380
+Throwaways		9780804765985							https://www.degruyter.com/openurl?genre=book&isbn=9780804765985	Watkins	9780804765985		fulltext		Stanford University Press	monograph	1993	2022						P	
+To Love, Honor, and Obey in Colonial Mexico		9780804765503							https://www.degruyter.com/openurl?genre=book&isbn=9780804765503	Seed	9780804765503		fulltext		Stanford University Press	monograph	1988	2022						P	
+To Steal a Book Is an Elegant Offense		9780804779296							https://www.degruyter.com/openurl?genre=book&isbn=9780804779296	Alford	9780804779296		fulltext		Stanford University Press	monograph	1995	2022						P	
+To the Harbin Station		9780804764056							https://www.degruyter.com/openurl?genre=book&isbn=9780804764056	Wolff	9780804764056		fulltext		Stanford University Press	monograph	1999	2022						P	
+Traces of Dreams		9781503616905							https://www.degruyter.com/openurl?genre=book&isbn=9781503616905	Shirane	9781503616905		fulltext		Stanford University Press	monograph	1998	2022						P	
+Traditional Chinese Fiction and Fiction Commentary		9780804764957							https://www.degruyter.com/openurl?genre=book&isbn=9780804764957	Rolston	9780804764957		fulltext		Stanford University Press	monograph	1997	2022						P	
+Traditional Japanese Poetry		9781503621572							https://www.degruyter.com/openurl?genre=book&isbn=9781503621572		9781503621572		fulltext		Stanford University Press	monograph	1991	2022						P	
+Transcendence and Divine Passion		9781503622098							https://www.degruyter.com/openurl?genre=book&isbn=9781503622098	Cahill	9781503622098		fulltext		Stanford University Press	monograph	1993	2022						P	
+Transforming the Past		9780804766838							https://www.degruyter.com/openurl?genre=book&isbn=9780804766838	Yanagisako	9780804766838		fulltext		Stanford University Press	monograph	1985	2022						P	
+Translating Neruda		9781503621275							https://www.degruyter.com/openurl?genre=book&isbn=9781503621275	Felstiner	9781503621275		fulltext		Stanford University Press	monograph	1980	2022						P	
+Translingual Practice		9781503615755							https://www.degruyter.com/openurl?genre=book&isbn=9781503615755	Liu	9781503615755		fulltext		Stanford University Press	monograph	1996	2022						P	
+Transuming Passion		9781503623408							https://www.degruyter.com/openurl?genre=book&isbn=9781503623408	Barkan	9781503623408		fulltext		Stanford University Press	monograph	1991	2022						P	
+Trapped in the Cold War		9781503618060							https://www.degruyter.com/openurl?genre=book&isbn=9781503618060	Field	9781503618060		fulltext		Stanford University Press	monograph	1999	2022						P	
+Traveller Without a Map		9781503622241							https://www.degruyter.com/openurl?genre=book&isbn=9781503622241	Hsiao	9781503622241		fulltext		Stanford University Press	monograph	1994	2022						P	
+Turning Points		9781503622470							https://www.degruyter.com/openurl?genre=book&isbn=9781503622470	Brown	9781503622470		fulltext		Stanford University Press	monograph	1997	2022						P	
+Turning Points in Social Security		9780804763950							https://www.degruyter.com/openurl?genre=book&isbn=9780804763950	Tynes	9780804763950		fulltext		Stanford University Press	monograph	1996	2022						P	
+Two Revolutions		9781503623927							https://www.degruyter.com/openurl?genre=book&isbn=9781503623927	Keating	9781503623927		fulltext		Stanford University Press	monograph	1997	2022						P	
+U. S. Containment Policy and the Conflict in Indochina		9780804765817							https://www.degruyter.com/openurl?genre=book&isbn=9780804765817	Duiker	9780804765817		fulltext		Stanford University Press	monograph	1994	2022						P	
+Uncertain Partners		9781503622111							https://www.degruyter.com/openurl?genre=book&isbn=9781503622111	Goncharov	9781503622111		fulltext		Stanford University Press	monograph	1994	2022						P	
+Unruly Examples		9781503615533							https://www.degruyter.com/openurl?genre=book&isbn=9781503615533	Gelley	9781503615533		fulltext		Stanford University Press	monograph	1995	2022						P	
+Unspeakable Subjects		9781503620414							https://www.degruyter.com/openurl?genre=book&isbn=9781503620414	Lezra	9781503620414		fulltext		Stanford University Press	monograph	1997	2022						P	
+Vichy France and the Jews		9781503618831							https://www.degruyter.com/openurl?genre=book&isbn=9781503618831	Marrus	9781503618831		fulltext		Stanford University Press	monograph	1981	2022						P	
+Violence, Identity, and Self-Determination		9781503616660							https://www.degruyter.com/openurl?genre=book&isbn=9781503616660		9781503616660		fulltext		Stanford University Press	monograph	1997	2022			de Vries			P	
+Violent Origins		9780804766265							https://www.degruyter.com/openurl?genre=book&isbn=9780804766265		9780804766265		fulltext		Stanford University Press	monograph	1987	1988			Hamerton-Kelly			P	1224278933
+Virtue’s Faults		9780804764872							https://www.degruyter.com/openurl?genre=book&isbn=9780804764872	Alliston	9780804764872		fulltext		Stanford University Press	monograph	1996	2022						P	
+Wallington’s World		9781503621343							https://www.degruyter.com/openurl?genre=book&isbn=9781503621343	Seaver	9781503621343		fulltext		Stanford University Press	monograph	1985	2022						P	
+Walter Benjamin		9781503615878							https://www.degruyter.com/openurl?genre=book&isbn=9781503615878		9781503615878		fulltext		Stanford University Press	monograph	1996	2022			Ferris			P	
+What Have We Learned About Science and Technology from the Russian Experience?		9781503616639							https://www.degruyter.com/openurl?genre=book&isbn=9781503616639	Graham	9781503616639		fulltext		Stanford University Press	monograph	1998	2022						P	
+When Jesus Came, the Corn Mothers Went Away		9780804766029							https://www.degruyter.com/openurl?genre=book&isbn=9780804766029	Gutierrez	9780804766029		fulltext		Stanford University Press	monograph	1991	2022						P	
+Who Supports the Family?		9781503620452							https://www.degruyter.com/openurl?genre=book&isbn=9781503620452	Potuchek	9781503620452		fulltext		Stanford University Press	monograph	1997	2022						P	
+Why Vietnam Invaded Cambodia		9781503616745							https://www.degruyter.com/openurl?genre=book&isbn=9781503616745	Morris	9781503616745		fulltext		Stanford University Press	monograph	1999	2022						P	
+Witch Hunting in Southwestern Germany, 1562-1684		9780804766470							https://www.degruyter.com/openurl?genre=book&isbn=9780804766470	Midelfort	9780804766470		fulltext		Stanford University Press	monograph	1972	2021						P	
+Women and Property in China, 960-1949		9781503617964							https://www.degruyter.com/openurl?genre=book&isbn=9781503617964	Bernhardt	9781503617964		fulltext		Stanford University Press	monograph	1999	2022						P	
+Women and the Family in Rural Taiwan		9780804780780							https://www.degruyter.com/openurl?genre=book&isbn=9780804780780	Wolf	9780804780780		fulltext		Stanford University Press	monograph	1972	2022						P	
+Women and Writing in Modern China		9780804764001							https://www.degruyter.com/openurl?genre=book&isbn=9780804764001	Larson	9780804764001		fulltext		Stanford University Press	monograph	1998	2022						P	
+Women, Power, and Economic Change		9781503622852							https://www.degruyter.com/openurl?genre=book&isbn=9781503622852	Oboler	9781503622852		fulltext		Stanford University Press	monograph	1985	2021						P	
+Women, the Family, and Freedom		9781503621312							https://www.degruyter.com/openurl?genre=book&isbn=9781503621312		9781503621312		fulltext		Stanford University Press	monograph	1983	2022			Bell			P	
+Wordsworth’s Profession		9781503616394							https://www.degruyter.com/openurl?genre=book&isbn=9781503616394	Pfau	9781503616394		fulltext		Stanford University Press	monograph	1997	2022						P	
+World Power Forsaken		9780804763189							https://www.degruyter.com/openurl?genre=book&isbn=9780804763189	Duffield	9780804763189		fulltext		Stanford University Press	monograph	1998	2022						P	
+Writing in Parts		9780804764674							https://www.degruyter.com/openurl?genre=book&isbn=9780804764674	Mclaughlin	9780804764674		fulltext		Stanford University Press	monograph	1995	2022						P	
+Writing Women in Late Imperial China		9780804765916							https://www.degruyter.com/openurl?genre=book&isbn=9780804765916		9780804765916		fulltext		Stanford University Press	monograph	1997	2022			Widmer			P	
+Xunzi		9781503623057							https://www.degruyter.com/openurl?genre=book&isbn=9781503623057	Knoblock	9781503623057		fulltext		Stanford University Press	monograph	1988	2022						P	
+Yoritomo and the Founding of the First Bakufu		9780804780100							https://www.degruyter.com/openurl?genre=book&isbn=9780804780100	Mass	9780804780100		fulltext		Stanford University Press	monograph	1999	2022						P	
+Zeami’s Style		9780804766289							https://www.degruyter.com/openurl?genre=book&isbn=9780804766289	Hare	9780804766289		fulltext		Stanford University Press	monograph	1986	2022						P	
+1905 in St. Petersburg		9780804766722							https://www.degruyter.com/openurl?genre=book&isbn=9780804766722	Surh	9780804766722		fulltext		Stanford University Press	monograph	1989	2022						P	

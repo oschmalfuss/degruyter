@@ -1,0 +1,44 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A Brief History of Equality		9780674275898							https://www.degruyter.com/openurl?genre=book&isbn=9780674275898	Piketty	9780674275898		fulltext		Harvard University Press	monograph	2022	2022						P	
+A Little Book about the Big Bang		9780674276314							https://www.degruyter.com/openurl?genre=book&isbn=9780674276314	Rothman	9780674276314		fulltext		Harvard University Press	monograph	2022	2022						P	
+Against Constitutionalism		9780674276567							https://www.degruyter.com/openurl?genre=book&isbn=9780674276567	Loughlin	9780674276567		fulltext		Harvard University Press	monograph	2022	2022						P	
+Being a Jesuit in Renaissance Italy		9780674270053							https://www.degruyter.com/openurl?genre=book&isbn=9780674270053	Russell	9780674270053		fulltext		Harvard University Press	monograph	2022	2022						P	
+Coconut Colonialism		9780674270299							https://www.degruyter.com/openurl?genre=book&isbn=9780674270299	Droessler	9780674270299		fulltext		Harvard University Press	monograph	2022	2022						P	
+Cotton Mather’s Spanish Lessons		9780674275683							https://www.degruyter.com/openurl?genre=book&isbn=9780674275683	Gruesz	9780674275683		fulltext		Harvard University Press	monograph	2022	2022						P	
+Degenerations of Democracy		9780674276024							https://www.degruyter.com/openurl?genre=book&isbn=9780674276024	Taylor	9780674276024		fulltext		Harvard University Press	monograph	2022	2022						P	
+Democratizing Finance		9780674275980							https://www.degruyter.com/openurl?genre=book&isbn=9780674275980	Deffrennes	9780674275980		fulltext		Harvard University Press	monograph	2022	2022						P	
+Desperate Remedies		9780674276475							https://www.degruyter.com/openurl?genre=book&isbn=9780674276475	Scull	9780674276475		fulltext		Harvard University Press	monograph	2022	2022						P	
+Eleven Winters of Discontent		9780674269699							https://www.degruyter.com/openurl?genre=book&isbn=9780674269699	Muminov	9780674269699		fulltext		Harvard University Press	monograph	2022	2022						P	
+Exporting Capitalism		9780674276284							https://www.degruyter.com/openurl?genre=book&isbn=9780674276284	Kapstein	9780674276284		fulltext		Harvard University Press	monograph	2022	2022						P	
+Ghazals		9780674276499							https://www.degruyter.com/openurl?genre=book&isbn=9780674276499	Mir	9780674276499		fulltext		Harvard University Press	monograph	2022	2022						P	
+Growth for Good		9780674276338							https://www.degruyter.com/openurl?genre=book&isbn=9780674276338	Terzi	9780674276338		fulltext		Harvard University Press	monograph	2022	2022						P	
+He Spoke of Love		9780674276529							https://www.degruyter.com/openurl?genre=book&isbn=9780674276529	Biharilal	9780674276529		fulltext		Harvard University Press	monograph	2022	2022						P	
+Heathen		9780674275782							https://www.degruyter.com/openurl?genre=book&isbn=9780674275782	Gin Lum	9780674275782		fulltext		Harvard University Press	monograph	2022	2022						P	
+Here and There		9780674276437							https://www.degruyter.com/openurl?genre=book&isbn=9780674276437	Cavell	9780674276437		fulltext		Harvard University Press	monograph	2022	2022						P	
+Jacob’s Younger Brother		9780674276352							https://www.degruyter.com/openurl?genre=book&isbn=9780674276352	Ben-Johanan	9780674276352		fulltext		Harvard University Press	monograph	2022	2022						P	
+Jozef Pilsudski		9780674275843							https://www.degruyter.com/openurl?genre=book&isbn=9780674275843	Zimmerman	9780674275843		fulltext		Harvard University Press	monograph	2022	2022						P	
+Necropolis		9780674276086							https://www.degruyter.com/openurl?genre=book&isbn=9780674276086	Olivarius	9780674276086		fulltext		Harvard University Press	monograph	2022	2022						P	
+New Democracy		9780674275621							https://www.degruyter.com/openurl?genre=book&isbn=9780674275621	Novak	9780674275621		fulltext		Harvard University Press	monograph	2022	2022						P	
+Not Thinking like a Liberal		9780674276543							https://www.degruyter.com/openurl?genre=book&isbn=9780674276543	Geuss	9780674276543		fulltext		Harvard University Press	monograph	2022	2022						P	
+On Modern Poetry		9780674276291							https://www.degruyter.com/openurl?genre=book&isbn=9780674276291	Mazzoni	9780674276291		fulltext		Harvard University Press	monograph	2022	2022						P	
+On Theories		9780674269712							https://www.degruyter.com/openurl?genre=book&isbn=9780674269712	Demopoulos	9780674269712		fulltext		Harvard University Press	monograph	2022	2022						P	
+Rewired		9780674275874							https://www.degruyter.com/openurl?genre=book&isbn=9780674275874	Marci MD	9780674275874		fulltext		Harvard University Press	monograph	2022	2022						P	
+Right Where We Belong		9780674276376							https://www.degruyter.com/openurl?genre=book&isbn=9780674276376	Dryden-Peterson	9780674276376		fulltext		Harvard University Press	monograph	2022	2022						P	
+Rosewood		9780674276413							https://www.degruyter.com/openurl?genre=book&isbn=9780674276413	Zhu	9780674276413		fulltext		Harvard University Press	monograph	2022	2022						P	
+Sustainable Utopias		9780674276208							https://www.degruyter.com/openurl?genre=book&isbn=9780674276208	Allen	9780674276208		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Anti-Oligarchy Constitution		9780674247413							https://www.degruyter.com/openurl?genre=book&isbn=9780674247413	Fishkin	9780674247413		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Borders of Chinese Architecture		9780674269583							https://www.degruyter.com/openurl?genre=book&isbn=9780674269583	Steinhardt	9780674269583		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Class Matrix		9780674269835							https://www.degruyter.com/openurl?genre=book&isbn=9780674269835	Chibber	9780674269835		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Elephant in the Universe		9780674276185							https://www.degruyter.com/openurl?genre=book&isbn=9780674276185	Schilling	9780674276185		fulltext		Harvard University Press	monograph	2022	2022						P	
+The End of Astronauts		9780674276222							https://www.degruyter.com/openurl?genre=book&isbn=9780674276222	Rees	9780674276222		fulltext		Harvard University Press	monograph	2022	2022						P	
+The <i>Chevron</i> Doctrine		9780674276390							https://www.degruyter.com/openurl?genre=book&isbn=9780674276390	Merrill	9780674276390		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Listeners		9780674275720							https://www.degruyter.com/openurl?genre=book&isbn=9780674275720	Hochman	9780674275720		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Meddlers		9780674275768							https://www.degruyter.com/openurl?genre=book&isbn=9780674275768	Martin	9780674275768		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Proof		9780674276260							https://www.degruyter.com/openurl?genre=book&isbn=9780674276260	Schauer	9780674276260		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Shadow of God		9780674276055							https://www.degruyter.com/openurl?genre=book&isbn=9780674276055	Rosen	9780674276055		fulltext		Harvard University Press	monograph	2022	2022						P	
+The Triumph of Broken Promises		9780674275805							https://www.degruyter.com/openurl?genre=book&isbn=9780674275805	Bartel	9780674275805		fulltext		Harvard University Press	monograph	2022	2022						P	
+The World That Latin America Created		9780674270039							https://www.degruyter.com/openurl?genre=book&isbn=9780674270039	Fajardo	9780674270039		fulltext		Harvard University Press	monograph	2022	2022						P	
+We the Miners		9780674276154							https://www.degruyter.com/openurl?genre=book&isbn=9780674276154	McDowell	9780674276154		fulltext		Harvard University Press	monograph	2022	2022						P	
+Who’s Black and Why?		9780674276130							https://www.degruyter.com/openurl?genre=book&isbn=9780674276130		9780674276130		fulltext		Harvard University Press	monograph	2022	2022			Curran			P	
+Why White Liberals Fail		9780674276116							https://www.degruyter.com/openurl?genre=book&isbn=9780674276116	Badger	9780674276116		fulltext		Harvard University Press	monograph	2022	2022						P	
+Wild by Design		9780674275829							https://www.degruyter.com/openurl?genre=book&isbn=9780674275829	Martin	9780674275829		fulltext		Harvard University Press	monograph	2022	2022						P	

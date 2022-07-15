@@ -1,0 +1,60 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+A History of Slavery and Emancipation in Iran, 1800-1929		9781477311875							https://www.degruyter.com/openurl?genre=book&isbn=9781477311875	Mirzai	9781477311875		fulltext		University of Texas Press	monograph	2017	2021						P	
+A Perfectly Good Guitar		9781477312582							https://www.degruyter.com/openurl?genre=book&isbn=9781477312582	Holley	9781477312582		fulltext		University of Texas Press	monograph	2017	2021						P	
+Bad Girls of the Arab World		9781477313374							https://www.degruyter.com/openurl?genre=book&isbn=9781477313374		9781477313374		fulltext		University of Texas Press	monograph	2017	2021			Quawas			P	
+Batos, Bolillos, Pochos, and Pelados		9781477312704							https://www.degruyter.com/openurl?genre=book&isbn=9781477312704	Pisani	9781477312704		fulltext		University of Texas Press	monograph	2017	2021		Revised Edition				P	
+Blood of the Earth		9781477311530							https://www.degruyter.com/openurl?genre=book&isbn=9781477311530	Young	9781477311530		fulltext		University of Texas Press	monograph	2017	2021						P	
+Books Are Made Out of Books		9781477314692							https://www.degruyter.com/openurl?genre=book&isbn=9781477314692	Crews	9781477314692		fulltext		University of Texas Press	monograph	2017	2021						P	
+Cattle in the Backlands		9781477311158							https://www.degruyter.com/openurl?genre=book&isbn=9781477311158	Wilcox	9781477311158		fulltext		University of Texas Press	monograph	2017	2021						P	
+Chrissie Hynde		9781477313312							https://www.degruyter.com/openurl?genre=book&isbn=9781477313312	Sobsey	9781477313312		fulltext		University of Texas Press	monograph	2017	2021						P	
+Cineaste on Film Criticism, Programming, and Preservation in the New Millennium		9781477313428							https://www.degruyter.com/openurl?genre=book&isbn=9781477313428		9781477313428		fulltext		University of Texas Press	monograph	2017	2021			Hamid			P	
+Comic Book Film Style		9781477313268							https://www.degruyter.com/openurl?genre=book&isbn=9781477313268	Jeffries	9781477313268		fulltext		University of Texas Press	monograph	2017	2021						P	
+Connecting The Wire		9781477311783							https://www.degruyter.com/openurl?genre=book&isbn=9781477311783	Corkin	9781477311783		fulltext		University of Texas Press	monograph	2017	2021						P	
+Cormac McCarthy and Performance		9781477312056							https://www.degruyter.com/openurl?genre=book&isbn=9781477312056	Peebles	9781477312056		fulltext		University of Texas Press	monograph	2017	2021						P	
+Culture and Revolution		9781477311721							https://www.degruyter.com/openurl?genre=book&isbn=9781477311721	Legrás	9781477311721		fulltext		University of Texas Press	monograph	2017	2021						P	
+Delirious Consumption		9781477314364							https://www.degruyter.com/openurl?genre=book&isbn=9781477314364	Delgado Moya	9781477314364		fulltext		University of Texas Press	monograph	2017	2021						P	
+Dopers in Uniform		9781477313978							https://www.degruyter.com/openurl?genre=book&isbn=9781477313978	Hoberman	9781477313978		fulltext		University of Texas Press	monograph	2017	2021						P	
+Energy		9781477312919							https://www.degruyter.com/openurl?genre=book&isbn=9781477312919	McKetta	9781477312919		fulltext		University of Texas Press	monograph	2017	2021						P	
+Every Day We Live Is the Future		9781477314173							https://www.degruyter.com/openurl?genre=book&isbn=9781477314173	Haynes	9781477314173		fulltext		University of Texas Press	monograph	2017	2021						P	
+Evolving Images		9781477314272							https://www.degruyter.com/openurl?genre=book&isbn=9781477314272		9781477314272		fulltext		University of Texas Press	monograph	2017	2021			Huberman			P	
+Flying Under the Radar with the Royal Chicano Air Force		9781477312414							https://www.degruyter.com/openurl?genre=book&isbn=9781477312414	Diaz	9781477312414		fulltext		University of Texas Press	monograph	2017	2021						P	
+Framing a Lost City		9781477313695							https://www.degruyter.com/openurl?genre=book&isbn=9781477313695	Cox Hall	9781477313695		fulltext		University of Texas Press	monograph	2017	2021						P	
+Frankie and Johnny		9781477312094							https://www.degruyter.com/openurl?genre=book&isbn=9781477312094	Morgan	9781477312094		fulltext		University of Texas Press	monograph	2017	2021						P	
+From Strangers to Neighbors		9781477314104							https://www.degruyter.com/openurl?genre=book&isbn=9781477314104	Alaniz	9781477314104		fulltext		University of Texas Press	monograph	2017	2021						P	
+Hysterical!		9781477314531							https://www.degruyter.com/openurl?genre=book&isbn=9781477314531		9781477314531		fulltext		University of Texas Press	monograph	2017	2021			Mizejewski			P	
+Infrastructures of Race		9781477312612							https://www.degruyter.com/openurl?genre=book&isbn=9781477312612	Nemser	9781477312612		fulltext		University of Texas Press	monograph	2017	2021						P	
+Jazz and Cocktails		9781477312285							https://www.degruyter.com/openurl?genre=book&isbn=9781477312285	Wager	9781477312285		fulltext		University of Texas Press	monograph	2017	2021						P	
+Kuxlejal Politics		9781477314487							https://www.degruyter.com/openurl?genre=book&isbn=9781477314487	Mora	9781477314487		fulltext		University of Texas Press	monograph	2017	2021						P	
+La India María		9781477313466							https://www.degruyter.com/openurl?genre=book&isbn=9781477313466	Rohrer	9781477313466		fulltext		University of Texas Press	monograph	2017	2021						P	
+Learning from Bogotá		9781477311059							https://www.degruyter.com/openurl?genre=book&isbn=9781477311059	Berney	9781477311059		fulltext		University of Texas Press	monograph	2017	2021						P	
+Los Zetas Inc.		9781477312766							https://www.degruyter.com/openurl?genre=book&isbn=9781477312766	Correa-Cabrera	9781477312766		fulltext		University of Texas Press	monograph	2017	2021						P	
+Make Ours Marvel		9781477312513							https://www.degruyter.com/openurl?genre=book&isbn=9781477312513		9781477312513		fulltext		University of Texas Press	monograph	2017	2021			Yockey			P	
+Mano Dura		9781477311226							https://www.degruyter.com/openurl?genre=book&isbn=9781477311226	Wolf	9781477311226		fulltext		University of Texas Press	monograph	2017	2021						P	
+Monitoring the Movies		9781477313947							https://www.degruyter.com/openurl?genre=book&isbn=9781477313947	Fronc	9781477313947		fulltext		University of Texas Press	monograph	2017	2021						P	
+Not Your Average Zombie		9781477313183							https://www.degruyter.com/openurl?genre=book&isbn=9781477313183	Kee	9781477313183		fulltext		University of Texas Press	monograph	2017	2021						P	
+Nuevo South		9781477313657							https://www.degruyter.com/openurl?genre=book&isbn=9781477313657	Guerrero	9781477313657		fulltext		University of Texas Press	monograph	2017	2021						P	
+One More Warbler		9781477312391							https://www.degruyter.com/openurl?genre=book&isbn=9781477312391	Walsh	9781477312391		fulltext		University of Texas Press	monograph	2017	2021						P	
+Picturing Childhood		9781477311639							https://www.degruyter.com/openurl?genre=book&isbn=9781477311639		9781477311639		fulltext		University of Texas Press	monograph	2017	2021			Heimermann			P	
+Picturing the Proletariat		9781477311257							https://www.degruyter.com/openurl?genre=book&isbn=9781477311257	Lear	9781477311257		fulltext		University of Texas Press	monograph	2017	2021						P	
+Power Moves		9781477314661							https://www.degruyter.com/openurl?genre=book&isbn=9781477314661	Shelton	9781477314661		fulltext		University of Texas Press	monograph	2017	2021						P	
+Pushing in Silence		9781477314135							https://www.degruyter.com/openurl?genre=book&isbn=9781477314135	Córdova	9781477314135		fulltext		University of Texas Press	monograph	2017	2021						P	
+Rebellious Bodies		9781477311820							https://www.degruyter.com/openurl?genre=book&isbn=9781477311820	Meeuf	9781477311820		fulltext		University of Texas Press	monograph	2017	2021						P	
+REMEX		9781477311028							https://www.degruyter.com/openurl?genre=book&isbn=9781477311028	Carroll	9781477311028		fulltext		University of Texas Press	monograph	2017	2021						P	
+Rewrite Man		9781477312018							https://www.degruyter.com/openurl?genre=book&isbn=9781477312018	Macor	9781477312018		fulltext		University of Texas Press	monograph	2017	2021						P	
+Spectatorship		9781477313770							https://www.degruyter.com/openurl?genre=book&isbn=9781477313770		9781477313770		fulltext		University of Texas Press	monograph	2017	2021			Whittington			P	
+Street Occupations		9781477313572							https://www.degruyter.com/openurl?genre=book&isbn=9781477313572	Acerbi	9781477313572		fulltext		University of Texas Press	monograph	2017	2021						P	
+Substance and Seduction		9781477313886							https://www.degruyter.com/openurl?genre=book&isbn=9781477313886		9781477313886		fulltext		University of Texas Press	monograph	2017	2021			Sampeck			P	
+Texas Sports		9781477314999							https://www.degruyter.com/openurl?genre=book&isbn=9781477314999	Conine	9781477314999		fulltext		University of Texas Press	monograph	2017	2021						P	
+The American Idea of Home		9781477312889							https://www.degruyter.com/openurl?genre=book&isbn=9781477312889		9781477312889		fulltext		University of Texas Press	monograph	2017	2021						P	
+The Independent Republic of Arequipa		9781477314609							https://www.degruyter.com/openurl?genre=book&isbn=9781477314609	Love	9781477314609		fulltext		University of Texas Press	monograph	2017	2021						P	
+The Mexican Mahjar		9781477314630							https://www.degruyter.com/openurl?genre=book&isbn=9781477314630	Pastor	9781477314630		fulltext		University of Texas Press	monograph	2017	2021						P	
+The Mobility of Modernism		9781477312551							https://www.degruyter.com/openurl?genre=book&isbn=9781477312551	Montgomery	9781477312551		fulltext		University of Texas Press	monograph	2017	2021						P	
+The New Gay for Pay		9781477313619							https://www.degruyter.com/openurl?genre=book&isbn=9781477313619	Himberg	9781477313619		fulltext		University of Texas Press	monograph	2017	2021						P	
+The Peculiar Revolution		9781477312131							https://www.degruyter.com/openurl?genre=book&isbn=9781477312131		9781477312131		fulltext		University of Texas Press	monograph	2017	2021			Drinot			P	
+The Quality of Life Report		9781477313152							https://www.degruyter.com/openurl?genre=book&isbn=9781477313152	Daum	9781477313152		fulltext		University of Texas Press	monograph	2017	2021						P	
+The Rhetoric of Seeing in Attic Forensic Oratory		9781477311691							https://www.degruyter.com/openurl?genre=book&isbn=9781477311691	O'Connell	9781477311691		fulltext		University of Texas Press	monograph	2017	2021						P	
+The Texanist		9781477312995							https://www.degruyter.com/openurl?genre=book&isbn=9781477312995	Courtney	9781477312995		fulltext		University of Texas Press	monograph	2017	2021						P	
+Under Surveillance		9781477313800							https://www.degruyter.com/openurl?genre=book&isbn=9781477313800	Lewis	9781477313800		fulltext		University of Texas Press	monograph	2017	2021						P	
+Weather in Texas		9781477315019							https://www.degruyter.com/openurl?genre=book&isbn=9781477315019	Bomar	9781477315019		fulltext		University of Texas Press	monograph	2017	2021						P	
+Where the Land Meets the Sea		9781477313206							https://www.degruyter.com/openurl?genre=book&isbn=9781477313206		9781477313206		fulltext		University of Texas Press	monograph	2017	2021			Dillehay			P	
+Why Harry Met Sally		9781477312841							https://www.degruyter.com/openurl?genre=book&isbn=9781477312841	Moss	9781477312841		fulltext		University of Texas Press	monograph	2017	2021						P	

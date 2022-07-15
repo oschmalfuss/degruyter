@@ -1,0 +1,62 @@
+PUBLICATION_TITLE	PRINT_IDENTIFIER	ONLINE_IDENTIFIER	DATE_FIRST_ISSUE_ONLINE	NUM_FIRST_VOL_ONLINE	NUM_FIRST_ISSUE_ONLINE	DATE_LAST_ISSUE_ONLINE	NUM_LAST_VOL_ONLINE	NUM_LAST_ISSUE_ONLINE	TITLE_URL	FIRST_AUTHOR	TITLE_ID	EMBARGO_INFO	COVERAGE_DEPTH	NOTES	PUBLISHER_NAME	PUBLICATION_TYPE	DATE_MONOGRAPH_PUBLISHED_PRINT	DATE_MONOGRAPH_PUBLISHED_ONLINE	MONOGRAPH_VOLUME	MONOGRAPH_EDITION	FIRST_EDITOR	PARENT_PUBLICATION_TITLE_ID	PRECEDING_PUBLICATION_TITLE_ID	ACCESS_TYPE	OCLC_NUMBER
+Antagonistic Cooperation		9780231548212							https://www.degruyter.com/openurl?genre=book&isbn=9780231548212	O'Meally	9780231548212		fulltext		Columbia University Press	monograph	2022	2022						P	
+Barbary Captives		9780231555128							https://www.degruyter.com/openurl?genre=book&isbn=9780231555128		9780231555128		fulltext		Columbia University Press	monograph	2022	2022			Klarer			P	
+Building States		9780231553513							https://www.degruyter.com/openurl?genre=book&isbn=9780231553513	Muschik	9780231553513		fulltext		Columbia University Press	monograph	2022	2022						P	
+Chimpanzee Memoirs		9780231553032							https://www.degruyter.com/openurl?genre=book&isbn=9780231553032		9780231553032		fulltext		Columbia University Press	monograph	2022	2022			Ross			P	
+Countries That Don’t Exist		9780231554527							https://www.degruyter.com/openurl?genre=book&isbn=9780231554527		9780231554527		fulltext		Columbia University Press	monograph	2022	2022			Spektor			P	
+Crisis Under Critique		9780231555487							https://www.degruyter.com/openurl?genre=book&isbn=9780231555487		9780231555487		fulltext		Columbia University Press	monograph	2022	2022			Honneth			P	
+Critique of Bored Reason		9780231548151							https://www.degruyter.com/openurl?genre=book&isbn=9780231548151	Nikulin	9780231548151		fulltext		Columbia University Press	monograph	2022	2022						P	
+Earthlings		9780231556026							https://www.degruyter.com/openurl?genre=book&isbn=9780231556026	Parr	9780231556026		fulltext		Columbia University Press	monograph	2022	2022						P	
+Education		9780231555494							https://www.degruyter.com/openurl?genre=book&isbn=9780231555494		9780231555494		fulltext		Columbia University Press	monograph	2022	2022						P	
+Exhuming Violent Histories		9780231553940							https://www.degruyter.com/openurl?genre=book&isbn=9780231553940	Iturriaga	9780231553940		fulltext		Columbia University Press	monograph	2022	2022						P	
+Explorers of Deep Time		9780231551311							https://www.degruyter.com/openurl?genre=book&isbn=9780231551311	Plotnick	9780231551311		fulltext		Columbia University Press	monograph	2022	2022						P	
+Hard Rain		9780231556231							https://www.degruyter.com/openurl?genre=book&isbn=9780231556231	Portelli	9780231556231		fulltext		Columbia University Press	monograph	2022	2022						P	
+Hollywood and Israel		9780231544924							https://www.degruyter.com/openurl?genre=book&isbn=9780231544924	Shaw	9780231544924		fulltext		Columbia University Press	monograph	2022	2022						P	
+Hollywood's Embassies		9780231554138							https://www.degruyter.com/openurl?genre=book&isbn=9780231554138	Melnick	9780231554138		fulltext		Columbia University Press	monograph	2022	2022						P	
+Horror Film and Otherness		9780231556156							https://www.degruyter.com/openurl?genre=book&isbn=9780231556156	Lowenstein	9780231556156		fulltext		Columbia University Press	monograph	2022	2022						P	
+In Love with Movies		9780231554893							https://www.degruyter.com/openurl?genre=book&isbn=9780231554893	Talbot	9780231554893		fulltext		Columbia University Press	monograph	2022	2022						P	
+In the Forest of the Blind		9780231555142							https://www.degruyter.com/openurl?genre=book&isbn=9780231555142	King	9780231555142		fulltext		Columbia University Press	monograph	2022	2022						P	
+Kill the Documentary		9780231554701							https://www.degruyter.com/openurl?genre=book&isbn=9780231554701	Godmilow	9780231554701		fulltext		Columbia University Press	monograph	2022	2022						P	
+Lars von Trier Beyond Depression		9780231549448							https://www.degruyter.com/openurl?genre=book&isbn=9780231549448	Badley	9780231549448		fulltext		Columbia University Press	monograph	2022	2022						P	
+Learning to Rule		9780231554961							https://www.degruyter.com/openurl?genre=book&isbn=9780231554961	Barish	9780231554961		fulltext		Columbia University Press	monograph	2022	2022						P	
+Let in the Light		9780231555791							https://www.degruyter.com/openurl?genre=book&isbn=9780231555791	White	9780231555791		fulltext		Columbia University Press	monograph	2022	2022						P	
+Line of Advantage		9780231555630							https://www.degruyter.com/openurl?genre=book&isbn=9780231555630	Green	9780231555630		fulltext		Columbia University Press	monograph	2022	2022						P	
+Liquid Light		9780231546720							https://www.degruyter.com/openurl?genre=book&isbn=9780231546720	Barnard	9780231546720		fulltext		Columbia University Press	monograph	2022	2022						P	
+Longing and Other Stories		9780231554411							https://www.degruyter.com/openurl?genre=book&isbn=9780231554411	Tanizaki	9780231554411		fulltext		Columbia University Press	monograph	2022	2022						P	
+Made in Censorship		9780231555326							https://www.degruyter.com/openurl?genre=book&isbn=9780231555326	Chen	9780231555326		fulltext		Columbia University Press	monograph	2022	2022						P	
+Making War on the World		9780231554305							https://www.degruyter.com/openurl?genre=book&isbn=9780231554305	Shirk	9780231554305		fulltext		Columbia University Press	monograph	2022	2022						P	
+Managing Environmental Conflict		9780231551861							https://www.degruyter.com/openurl?genre=book&isbn=9780231551861	Fisher	9780231551861		fulltext		Columbia University Press	monograph	2022	2022						P	
+Many Urbanisms		9780231555357							https://www.degruyter.com/openurl?genre=book&isbn=9780231555357	Murray	9780231555357		fulltext		Columbia University Press	monograph	2022	2022						P	
+Not Exactly Lying		9780231546591							https://www.degruyter.com/openurl?genre=book&isbn=9780231546591	Tucher	9780231546591		fulltext		Columbia University Press	monograph	2022	2022						P	
+Oil Leaders		9780231548496							https://www.degruyter.com/openurl?genre=book&isbn=9780231548496		9780231548496		fulltext		Columbia University Press	monograph	2022	2022						P	
+Partial Truths		9780231554077							https://www.degruyter.com/openurl?genre=book&isbn=9780231554077	Zimring	9780231554077		fulltext		Columbia University Press	monograph	2022	2022						P	
+Political Exercise		9780231553445							https://www.degruyter.com/openurl?genre=book&isbn=9780231553445	Brown	9780231553445		fulltext		Columbia University Press	monograph	2022	2022						P	
+Profitably Healthy Companies		9780231546881							https://www.degruyter.com/openurl?genre=book&isbn=9780231546881	O'Malley	9780231546881		fulltext		Columbia University Press	monograph	2022	2022						P	
+Sacred Kingship in World History		9780231555401							https://www.degruyter.com/openurl?genre=book&isbn=9780231555401		9780231555401		fulltext		Columbia University Press	monograph	2022	2022			Moin			P	
+Salo Baron		9780231555708							https://www.degruyter.com/openurl?genre=book&isbn=9780231555708		9780231555708		fulltext		Columbia University Press	monograph	2022	2022			Kobrin			P	
+Selected Writings on Media, Propaganda, and Political Communication		9780231555661							https://www.degruyter.com/openurl?genre=book&isbn=9780231555661		9780231555661		fulltext		Columbia University Press	monograph	2022	2022			Kang			P	
+Sex in City Plants, Animals, Fungi, and More		9780231556309							https://www.degruyter.com/openurl?genre=book&isbn=9780231556309	Frank	9780231556309		fulltext		Columbia University Press	monograph	2022	2022						P	
+Teaching in Social Work		9780231550147							https://www.degruyter.com/openurl?genre=book&isbn=9780231550147	Anastas	9780231550147		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Altruistic Urge		9780231555524							https://www.degruyter.com/openurl?genre=book&isbn=9780231555524	Preston	9780231555524		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Brain and Pain		9780231555715							https://www.degruyter.com/openurl?genre=book&isbn=9780231555715	Ambron	9780231555715		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Cage of Days		9780231555050							https://www.degruyter.com/openurl?genre=book&isbn=9780231555050	Flaherty	9780231555050		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Carriers		9780231552288							https://www.degruyter.com/openurl?genre=book&isbn=9780231552288	Skomorowsky	9780231552288		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Culture of Language in Ming China		9780231553766							https://www.degruyter.com/openurl?genre=book&isbn=9780231553766	Vedal	9780231553766		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Essential Writings of Vannevar Bush		9780231552479							https://www.degruyter.com/openurl?genre=book&isbn=9780231552479	Bush	9780231552479		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Immersive Enclosure		9780231555968							https://www.degruyter.com/openurl?genre=book&isbn=9780231555968	Roquet	9780231555968		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Insider		9780231555449							https://www.degruyter.com/openurl?genre=book&isbn=9780231555449	Woloch	9780231555449		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Italian Invert		9780231555739							https://www.degruyter.com/openurl?genre=book&isbn=9780231555739		9780231555739		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Musha Incident		9780231552189							https://www.degruyter.com/openurl?genre=book&isbn=9780231552189		9780231552189		fulltext		Columbia University Press	monograph	2022	2022			Berry			P	
+The Promise and Peril of Things		9780231553896							https://www.degruyter.com/openurl?genre=book&isbn=9780231553896	Li	9780231553896		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Savage Detectives Reread		9780231550659							https://www.degruyter.com/openurl?genre=book&isbn=9780231550659	Kurnick	9780231550659		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Sexual Politics of Black Churches		9780231547772							https://www.degruyter.com/openurl?genre=book&isbn=9780231547772		9780231547772		fulltext		Columbia University Press	monograph	2022	2022			Sorett			P	
+The Soft City		9780231555012							https://www.degruyter.com/openurl?genre=book&isbn=9780231555012	Williams	9780231555012		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Sound of Salvation		9780231552486							https://www.degruyter.com/openurl?genre=book&isbn=9780231552486	Ha	9780231552486		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Struggle to Stay		9780231551809							https://www.degruyter.com/openurl?genre=book&isbn=9780231551809	Gaddini	9780231551809		fulltext		Columbia University Press	monograph	2022	2022						P	
+The Wuhan Lockdown		9780231553636							https://www.degruyter.com/openurl?genre=book&isbn=9780231553636	Yang	9780231553636		fulltext		Columbia University Press	monograph	2022	2022						P	
+Travels with Trilobites		9780231553865							https://www.degruyter.com/openurl?genre=book&isbn=9780231553865	Secher	9780231553865		fulltext		Columbia University Press	monograph	2022	2022						P	
+Undoing the Liberal World Order		9780231554466							https://www.degruyter.com/openurl?genre=book&isbn=9780231554466	Fink	9780231554466		fulltext		Columbia University Press	monograph	2022	2022						P	
+Waves of Global Terrorism		9780231507844							https://www.degruyter.com/openurl?genre=book&isbn=9780231507844	Rapoport	9780231507844		fulltext		Columbia University Press	monograph	2022	2022						P	
+When Good Government Meant Big Government		9780231548489							https://www.degruyter.com/openurl?genre=book&isbn=9780231548489	Tarbert	9780231548489		fulltext		Columbia University Press	monograph	2022	2022						P	
+When the Garden Isn’t Eden		9780231555753							https://www.degruyter.com/openurl?genre=book&isbn=9780231555753	Malawista	9780231555753		fulltext		Columbia University Press	monograph	2022	2022						P	
+Win from Within		9780231554824							https://www.degruyter.com/openurl?genre=book&isbn=9780231554824	Heskett	9780231554824		fulltext		Columbia University Press	monograph	2022	2022						P	

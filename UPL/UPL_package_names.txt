@@ -147,6 +147,7 @@
 978-3-11-074529-0	University_of_Texas_Press_Complete_eBook-Package_2019
 978-3-11-074530-6	University_of_Texas_Press_Complete_eBook-Package_2018
 978-3-11-074531-3	University_of_Texas_Press_Complete_eBook-Package_2017
+978-3-11-074532-0	University_of_Texas_Press_Complete_eBook-Package_2016
 978-3-11-074533-7	University_of_Texas_Press_Complete_eBook-Package_2014-2015
 978-3-11-074534-4	University_of_Texas_Press_eBook-Package_Backlist_2000-2013
 978-3-11-074535-1	University_of_Texas_Press_Complete_eBook-Package_Pre-2000
@@ -174,6 +175,15 @@
 978-3-11-078045-1	Edinburgh_University_Press_Complete_eBook-Package_2014-2015
 978-3-11-078046-8	Edinburgh_University_Press_Backlist_eBook-Package_2013-2000
 978-3-11-078047-5	Edinburgh_University_Press_Archive_eBook-Package_Pre-2000
+978-3-11-078048-2	Central_European_University_Press_eBook-Package_2022
+978-3-11-078049-9	Central_European_University_Press_eBook-Package_2021
+978-3-11-078050-5	Central_European_University_Press_eBook-Package_2020
+978-3-11-078051-2	Central_European_University_Press_eBook-Package_2019
+978-3-11-078052-9	Central_European_University_Press_eBook-Package_2018
+978-3-11-078053-6	Central_European_University_Press_eBook-Package_2016
+978-3-11-078054-3	Central_European_University_Press_eBook-Package_2014-2015
+978-3-11-078055-0	Central_European_University_Press_eBook-Package_2013-1998
 978-3-11-078140-3	Edinburgh_University_Press_Complete_eBook-Package_2017
+978-3-11-078143-4	Central_European_University_Press_eBook-Package_2017
 978-3-11-078579-1	Harvard_University_Press_Complete_eBook-Package_2022
 978-3-11-078693-4	University_of_Hawaii_Press_Complete_eBook-Package_2022
